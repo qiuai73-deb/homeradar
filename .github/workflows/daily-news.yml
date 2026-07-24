@@ -114,16 +114,16 @@ jobs:
           PYEOF
           
       # 钉钉 Webhook
-          DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
-          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+      #   DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
+      #   DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
 
-      #- name: 部署到 GitHub Pages
-      #  uses: peaceiris/actions-gh-pages@v4
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    publish_dir: pages-dist
-      #    publish_branch: gh-pages
-      #    keep_files: false
-      #    user_name: 'github-actions[bot]'
-      #    user_email: 'github-actions[bot]@users.noreply.github.com'
-      #    commit_message: '🚀 Deploy news to GitHub Pages'
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: pages-dist
+          publish_branch: gh-pages
+          keep_files: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: '🚀 Deploy news to GitHub Pages'
