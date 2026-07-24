@@ -3,7 +3,7 @@ name: 每日新闻抓取
 on:
   schedule:
     # 每天 UTC 0:00 和 12:00 运行（北京时间 8:00 和 20:00）
-    - cron: '0 0,12 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
