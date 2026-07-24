@@ -1,5 +1,5 @@
 # 📰 每日财经新闻摘要
-**更新时间：2026-07-24 01:52 UTC**
+**更新时间：2026-07-24 01:53 UTC**
 
 > 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)
 
@@ -117,8 +117,8 @@
 
 1. [Trump rolls out a new wave of global tariffs. Here are the latest rates.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnBMbHJIUGUzRUxjdnVFT2wzVmxGSno5M1RTTVJld1gtWS1qaUxHRUJzQzZDVFRuTE5mcTllSk9DSWItS0lvTERtblNlOHVtSXFwbTFaRklxVXVrM1JhZllmel9McDVvMGJQWnUxRmJyZXVNTi00X1p3dmRJaU90eTdqRzVCaFdaamdyVE1lY3dERmNMdzl5SkNwbzN2N2RtWFlENGNBS3pLdw?oc=5)
 2. [The Treasury market is flashing a warning sign for home buyers. Are 7% mortgage rates next?](https://news.google.com/rss/articles/CBMiywFBVV95cUxORXdpM09maDZZVV93M2VmNm56MXNUcGI3ZzhPNW5fR1dzYWQ4QkU5UnFWbTBOREtZTVNXa09TUnlDbEFyY1JuUUkzanZSU0cxamE0cktUZ09mMElrN3R1aWJJbnN2TF9FUG1DQjAxaWtyX3N4enJhamJtWkxvd0JXd1V6T1ZCQy01YWZDa3ZHY1VMWGdacVQtSzBPYm93NVZFVWNjaG5NSllzdWdDc2VSRlNaWG11UWNHeFFmeXBoM0s2Vnc4Y3ZCbjRxOA?oc=5)
-3. [Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTEZrM2gycnZSQldDcVZ4bkh5M0tTRll2bDMtTjMwUV8zUnZnWWVXZGExQ3JVY3lINzI1V0xIY2tIM19OZXRZUWRhWHhWX3VyZzdoMF9rVjRzbjRkeUdod0F1d3NTWmE1SFVobTl1UWpYckxSREo0LTVzX1dXd0NaN2o3Z3poUHRhallRcXl2d0RPZlA0ckY4WFlpU3ZTV1hXbHBtc2Z1VjdyT2RyTEZTQmNpS2VwZThNQjZQM0xR?oc=5)
-4. [Opinion: The stock market’s calm is cracking. Here’s how to prepare for an August shock.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzZiNDVqd3QxbXFkMURCWmRuSzFCQTFGVHYxUGFhMFB1alJ6QmxxQXdMdnItem9kZFY3M1VqU3ZTaEVyWUl3MTVhdDQzaU9YVlhoNzg1YVhrWEUxdXB6eThxLTduS2xRMy1UV19jNG96V3N4ZjNXY3RxWjkxdzZOUlI0dGQzZzJYMWlmdTA2alduQjRsTDJPaGQ5ZThyd1MxSnplRE9uVmg1UlFsQThaNDgyVVYzV3F6UGVPMUpkLVB2N3ZW?oc=5)
+3. [Opinion: The stock market’s calm is cracking. Here’s how to prepare for an August shock.](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzZiNDVqd3QxbXFkMURCWmRuSzFCQTFGVHYxUGFhMFB1alJ6QmxxQXdMdnItem9kZFY3M1VqU3ZTaEVyWUl3MTVhdDQzaU9YVlhoNzg1YVhrWEUxdXB6eThxLTduS2xRMy1UV19jNG96V3N4ZjNXY3RxWjkxdzZOUlI0dGQzZzJYMWlmdTA2alduQjRsTDJPaGQ5ZThyd1MxSnplRE9uVmg1UlFsQThaNDgyVVYzV3F6UGVPMUpkLVB2N3ZW?oc=5)
+4. [Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTEZrM2gycnZSQldDcVZ4bkh5M0tTRll2bDMtTjMwUV8zUnZnWWVXZGExQ3JVY3lINzI1V0xIY2tIM19OZXRZUWRhWHhWX3VyZzdoMF9rVjRzbjRkeUdod0F1d3NTWmE1SFVobTl1UWpYckxSREo0LTVzX1dXd0NaN2o3Z3poUHRhallRcXl2d0RPZlA0ckY4WFlpU3ZTV1hXbHBtc2Z1VjdyT2RyTEZTQmNpS2VwZThNQjZQM0xR?oc=5)
 5. [Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’](https://news.google.com/rss/articles/CBMiygFBVV95cUxOLUhfQXBrdi1FNUVFU2JVd1d4cUVOY0xKaVlua2hmdmFUZ3FiNjBCMllGWFdVN3JrR0JaUE12bkNIemVxakpTQmhkRTR1VFBKYmllYXF2WTR5Tjdjd1V0aFpsc2IzQ0Q2dE4xT2JONHpLZ1JZZzdXWGEtMFVFbGFjN0ljb2ZkRGd5ckZuNGN5MmFxcmNmX3ZKVkhaaUthS05TWi1oaTMxMENtdlRKaXh1ZUJJSUlXNWFrcklnc21zUTJ0V0YxWW1PdUFB?oc=5)
 6. [Alphabet’s massive profit growth is ‘illusory,’ as SpaceX and Anthropic help mask a historic cash drain](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS1NQaUxIdFozVjlZVFBwV0V2Ml9PQjN0RE4tVHZIT29qeDllYWFzLTdlUFFPcXU4c3FZUktkNThzY09wX0ZhQ0NZeDBmTklKV0h6SGt1d2NJczJBRUtYdk9tQ0tqSkZtcWxLdWFRSGtyb3pHNXd5aWczejhSbUw0dWE5WV82R0RXTXVGUTJjVC13dVFySUIxdk5ka0o5LXJKNTlWbElnV0N1bHo0X2pBSnRLaG4zZWtLSV9QYkp5UXhPd2d3YjlabVY3a253UXRRWGM1MDZmc3hST3NxeEUyaE54dWE?oc=5)
 7. [AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.](https://news.google.com/rss/articles/CBMizAFBVV95cUxNb29LZURMQTUyd1R2dXZJTlJKb2RkNWkwa3FiNEprelVTQXR3eFIxWVV1VzdrQlY0XzlIa0QteXJvQmlWWFFERkFPbnI3MWNsWFpGTUh5Y3RRX21lNzJjcEkwMko0b1RNdnJ5OGcyMFNQQ1dyZ19yYjNuRFhwYlI3TGZDNzN6NUdVRGlwaXpjR243eWRXcGZDbEhrcTM3al9tNDdUZWk0Zkd2WGJsdTZVOEdfYUlDRlFMYjhQTW5zcmZyNHBFUy1jSVowWmg?oc=5)
@@ -150,4 +150,4 @@
 15. [IBM Is The World’s Worst Big Tech Company](https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHl0TWs1WkNVUzlEZjR5S3BhTDlBME81dXhKZzhld0hkS2Fid3JfRkVHOF9ndXFjU0oxeDhDRFM0YVlfVDFFa0E0MlNOQnpUSlhuODItQmJydVhTMGIwS3dOaHNRdGNHMGRQZGFLR2Q3S0twZzdfWEdDd1hhRDdITHFwVHU2VHIwbTBXVERn?oc=5)
 
 ---
-*自动生成于 2026-07-24 01:52 UTC*
+*自动生成于 2026-07-24 01:53 UTC*
