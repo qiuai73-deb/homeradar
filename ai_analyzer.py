@@ -21,12 +21,17 @@ def analyze_news(news_items):
     )
     
     simplified_news = [
-        {"id": idx, "title": item.get("title", ""), "summary": (item.get("summary") or item.get("description") or "")[:120]}
+        {
+            "id": idx, 
+            "title": item.get("title", ""), 
+            "summary": (item.get("summary") or item.get("description") or "")[:120],
+            "source": item.get("source") or item.get("source_name") or item.get("feed") or ""
+        }
         for idx, item in enumerate(news_items)
     ]
 
     prompt = f"""
-    你是一个专业的新闻总编辑兼高级同声传译。请分析以下新闻列表（包含 ID、标题、摘要）：
+    你是一个专业的新闻总编辑兼高级同声传译。请分析以下新闻列表（包含 ID、标题、摘要、来源）：
     {json.dumps(simplified_news, ensure_ascii=False)}
 
     任务 1：挑选出 10 条【对中国人最重要的新闻】。
@@ -80,11 +85,14 @@ def analyze_news(news_items):
                     # 优先拿中文翻译字段，拿不到再找通用字段，最后才保底用原文
                     zh_title = item.get("title_zh") or item.get("translated_title") or item.get("title") or raw.get("title", "无标题")
                     zh_summary = item.get("summary_zh") or item.get("translated_summary") or item.get("summary") or raw.get("summary") or "暂无摘要"
+                    # 提取新闻来源（兼容多种字段 key）
+                    source = raw.get("source") or raw.get("source_name") or raw.get("feed") or raw.get("feed_title") or ""
                     
                     news_obj = {
                         "title": zh_title,
                         "url": raw.get("url") or raw.get("link") or "#",
                         "summary": zh_summary,
+                        "source": source,  # 👈 新增保存新闻来源字段
                         "ai_reason": item.get("reason", "")
                     }
                     parsed_list.append(news_obj)
