@@ -54,19 +54,24 @@ def analyze_news(news_items):
         )
         result = json.loads(response.choices[0].message.content)
         
+        # 匹配提取重要新闻
         important_list = []
         for item in result.get("important_news", []):
             idx = item["id"]
             if idx < len(news_items):
                 news_obj = news_items[idx].copy()
+                # 兼容不同爬虫的摘要字段（summary / description / content）
+                news_obj["summary"] = news_obj.get("summary") or news_obj.get("description") or news_obj.get("content") or ""
                 news_obj["ai_reason"] = item.get("reason", "")
                 important_list.append(news_obj)
 
+        # 匹配提取兴趣新闻
         interest_list = []
         for item in result.get("interest_news", []):
             idx = item["id"]
             if idx < len(news_items):
                 news_obj = news_items[idx].copy()
+                news_obj["summary"] = news_obj.get("summary") or news_obj.get("description") or news_obj.get("content") or ""
                 news_obj["ai_reason"] = item.get("reason", "")
                 interest_list.append(news_obj)
 
