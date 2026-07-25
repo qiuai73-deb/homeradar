@@ -43,74 +43,84 @@ jobs:
       # ===========================================================
       # 📄 生成网页并部署到 GitHub Pages
       # ===========================================================
-      - name: 检查新闻文件
-        run: |
-          if [ ! -f news.md ]; then
-            echo "❌ 未找到 news.md，跳过部署"
-            exit 1
-          fi
-          echo "✅ news.md 已生成"
-
       - name: 生成网页
         run: |
           mkdir -p pages-dist
           python3 << 'PYEOF'
           import json
 
-          with open('news.md', 'r', encoding='utf-8') as f:
-              md = f.read()
+          # 读取 news.json 或 news.md（建议读取包含 AI 标注字段的 news.json）
+          try:
+              with open('news.json', 'r', encoding='utf-8') as f:
+                  news_data = json.load(f)
+          except Exception:
+              news_data = {"important": [], "interest": []}
 
-          html = """<!DOCTYPE html>
+          # 提取 AI 分析出的两组新闻
+          important_list = news_data.get("important", [])
+          interest_list = news_data.get("interest", [])
+
+          # 拼接 HTML
+          def render_cards(items):
+              html_cards = ""
+              for item in items:
+                  reason = item.get('ai_reason', '')
+                  badge = f'<div class="ai-badge">💡 AI 推荐理由：{reason}</div>' if reason else ''
+                  html_cards += f"""
+                  <div class="news-card">
+                      {badge}
+                      <div class="news-title"><a href="{item.get('url', '#')}" target="_blank">{item.get('title', '')}</a></div>
+                      <div class="news-summary">{item.get('summary', '')}</div>
+                  </div>
+                  """
+              return html_cards
+
+          important_html = render_cards(important_list)
+          interest_html = render_cards(interest_list)
+
+          html_content = f"""<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>每日财经新闻</title>
-          <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+          <title>每日精选新闻 (AI 驱动)</title>
           <style>
-          *{margin:0;padding:0;box-sizing:border-box}
-          body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:900px;margin:0 auto;padding:20px;line-height:1.7;color:#333;background:#fff}
-          h1{color:#1a1a2e;margin:20px 0 15px;border-bottom:2px solid #e0e0e0;padding-bottom:10px}
-          h2{color:#2c3e50;margin:18px 0 10px}
-          h3{color:#34495e;margin:14px 0 8px}
-          a{color:#0969da;text-decoration:none}
-          a:hover{text-decoration:underline}
-          table{border-collapse:collapse;width:100%;margin:12px 0;font-size:14px}
-          th,td{border:1px solid #ddd;padding:8px 12px;text-align:left}
-          th{background:#f6f8fa;font-weight:600}
-          tr:nth-child(even){background:#f9f9f9}
-          hr{border:none;border-top:1px solid #e0e0e0;margin:20px 0}
-          ul,ol{padding-left:25px;margin:8px 0}
-          li{margin:4px 0}
-          blockquote{border-left:4px solid #0969da;margin:10px 0;padding:5px 15px;color:#666;background:#f6f8fa}
-          code{background:#f6f8fa;padding:2px 6px;border-radius:4px;font-size:13px}
-          @media(prefers-color-scheme:dark){
-            body{background:#0d1117;color:#c9d1d9}
-            h1{color:#f0f6fc;border-color:#30363d}
-            h2{color:#f0f6fc}
-            h3{color:#c9d1d9}
-            a{color:#58a6ff}
-            th{background:#161b22}
-            td{border-color:#30363d}
-            tr:nth-child(even){background:#161b22}
-            hr{border-color:#30363d}
-            blockquote{background:#161b22;color:#8b949e;border-color:#58a6ff}
-            code{background:#161b22}
-          }
+          * {{ margin:0; padding:0; box-sizing:border-box; }}
+          body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background: #f8f9fa; }}
+          h1 {{ font-size: 24px; color: #1a1a2e; margin: 20px 0 15px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }}
+          h2.section-title {{ font-size: 18px; color: #0969da; margin: 25px 0 15px; padding-bottom: 5px; border-bottom: 1px solid #d0d7de; }}
+          .news-card {{ background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }}
+          .news-title {{ font-size: 16px; font-weight: 600; margin-bottom: 6px; }}
+          .news-title a {{ color: #0969da; text-decoration: none; }}
+          .news-title a:hover {{ text-decoration: underline; }}
+          .news-summary {{ font-size: 14px; color: #57606a; }}
+          .ai-badge {{ display: inline-block; background: #ddf4ff; color: #0969da; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 4px; margin-bottom: 8px; }}
+          
+          @media(prefers-color-scheme:dark){{
+            body {{ background: #0d1117; color: #c9d1d9; }}
+            h1 {{ color: #f0f6fc; border-color: #30363d; }}
+            h2.section-title {{ color: #58a6ff; border-color: #30363d; }}
+            .news-card {{ background: #161b22; border-color: #30363d; }}
+            .news-title a {{ color: #58a6ff; }}
+            .news-summary {{ color: #8b949e; }}
+            .ai-badge {{ background: #033a16; color: #7ee787; }}
+          }}
           </style>
           </head>
           <body>
-          <div id="content">加载中...</div>
-          <script>
-          const md = """ + json.dumps(md) + """;
-          document.getElementById('content').innerHTML = marked.parse(md);
-          </script>
+            <h1>📰 每日新闻深度精选</h1>
+            
+            <h2 class="section-title">🚨 国计民生：对中国人最重要的 10 条新闻</h2>
+            {important_html}
+
+            <h2 class="section-title">🎯 猜你喜欢：值得阅读的 10 条个性化新闻</h2>
+            {interest_html}
           </body>
           </html>"""
 
           with open('pages-dist/index.html', 'w', encoding='utf-8') as f:
-              f.write(html)
-          print('✅ index.html generated')
+              f.write(html_content)
+          print('✅ 带 AI 排版的 index.html 已生成')
           PYEOF
           
       # 钉钉 Webhook
