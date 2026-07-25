@@ -6,10 +6,7 @@ from ai_analyzer import analyze_news
 每日抓取路透社、彭博社、华尔街日报头条
 通过 Google News RSS 聚合（从 GitHub Actions 美国服务器运行）
 """
-import feedparser
-import json
 import hashlib
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -73,6 +70,7 @@ def fetch_source(key, config):
                 "url": entry.get("link", ""),
                 "published": entry.get("published", ""),
                 "summary": entry.get("summary", ""),
+                "source": config["name_cn"],  # 👈 【核心关键修改】将新闻来源中文名写入数据中！
             })
         print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章")
         return articles
@@ -127,7 +125,7 @@ def main():
         articles = fetch_source(key, config)
         all_data[key] = articles
 
-# 1. 收集所有抓取到的文章到一个总列表里面
+    # 1. 收集所有抓取到的文章到一个总列表里面
     all_articles = []
     for key in SOURCES:
         all_articles.extend(all_data[key])
@@ -141,9 +139,8 @@ def main():
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
-        "important": important_news,  # 👈 必须包含这个
-        "interest": interest_news,    # 👈 必须包含这个
-        # 保留原有的 sources 数据（如果你别的地方还需要用到的话）
+        "important": important_news,  # 包含 source 信息的重磅新闻列表
+        "interest": interest_news,    # 包含 source 信息的兴趣新闻列表
         "sources": {
             key: {
                 "name": SOURCES[key]["name"],
@@ -155,16 +152,13 @@ def main():
         }
     }
 
-    # 4. 保存文件
+    # 4. 保存 JSON 文件
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
-    print("✅ 带 AI 分析结果的 news.json 保存成功！")
-    
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(json_data, f, ensure_ascii=False, indent=2)
+    print("✅ 带 AI 分析结果及新闻来源的 news.json 保存成功！")
 
-    # 保存 Markdown
+    # 5. 保存 Markdown
     md_path = OUTPUT_DIR / "news.md"
     md_content = generate_markdown(all_data)
     with open(md_path, "w", encoding="utf-8") as f:
