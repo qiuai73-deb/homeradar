@@ -24,12 +24,13 @@ def analyze_news(news_items):
         base_url=os.getenv("OPENAI_BASE_URL", "https://api.deepseek.com")
     )
     
-    # 精简数据发给 AI
+    # 精简数据发给 AI，避免超过 Token 限制
     simplified_news = [
-        {"id": idx, "title": item.get("title", ""), "summary": item.get("summary", "")[:100]}
+        {"id": idx, "title": item.get("title", ""), "summary": (item.get("summary") or item.get("description") or "")[:100]}
         for idx, item in enumerate(news_items)
     ]
 
+    # 注意：在 f-string 内，所有 JSON 样例的花括号必须全面写成 {{ 和 }}
     prompt = f"""
     你是一个资深新闻总编辑。请分析以下新闻列表（包含 ID、标题、摘要）：
     {json.dumps(simplified_news, ensure_ascii=False)}
@@ -40,14 +41,14 @@ def analyze_news(news_items):
 
     必须严格返回 JSON 格式，结构如下：
     {{
-        "important_news": [{"id": 0, "reason": "15字以内理由"}],
-        "interest_news": [{"id": 1, "reason": "15字以内理由"}]
+        "important_news": [{{"id": 0, "reason": "15字以内理由"}}],
+        "interest_news": [{{"id": 1, "reason": "15字以内理由"}}]
     }}
     """
 
     try:
         response = client.chat.completions.create(
-            model="deepseek-chat", # 如果用 OpenAI 官方可以改为 gpt-4o-mini
+            model="deepseek-chat",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             response_format={"type": "json_object"}
@@ -57,22 +58,29 @@ def analyze_news(news_items):
         # 匹配提取重要新闻
         important_list = []
         for item in result.get("important_news", []):
-            idx = item["id"]
-            if idx < len(news_items):
-                news_obj = news_items[idx].copy()
-                # 兼容不同爬虫的摘要字段（summary / description / content）
-                news_obj["summary"] = news_obj.get("summary") or news_obj.get("description") or news_obj.get("content") or ""
-                news_obj["ai_reason"] = item.get("reason", "")
+            idx = item.get("id")
+            if idx is not None and isinstance(idx, int) and idx < len(news_items):
+                raw = news_items[idx]
+                news_obj = {
+                    "title": raw.get("title", "无标题"),
+                    "url": raw.get("url") or raw.get("link") or "#", # 👈 增加了 link 兼容
+                    "summary": raw.get("summary") or raw.get("description") or raw.get("content") or "暂无摘要",
+                    "ai_reason": item.get("reason", "")
+                }
                 important_list.append(news_obj)
 
         # 匹配提取兴趣新闻
         interest_list = []
         for item in result.get("interest_news", []):
-            idx = item["id"]
-            if idx < len(news_items):
-                news_obj = news_items[idx].copy()
-                news_obj["summary"] = news_obj.get("summary") or news_obj.get("description") or news_obj.get("content") or ""
-                news_obj["ai_reason"] = item.get("reason", "")
+            idx = item.get("id")
+            if idx is not None and isinstance(idx, int) and idx < len(news_items):
+                raw = news_items[idx]
+                news_obj = {
+                    "title": raw.get("title", "无标题"),
+                    "url": raw.get("url") or raw.get("link") or "#", # 👈 增加了 link 兼容
+                    "summary": raw.get("summary") or raw.get("description") or raw.get("content") or "暂无摘要",
+                    "ai_reason": item.get("reason", "")
+                }
                 interest_list.append(news_obj)
 
         return important_list, interest_list
