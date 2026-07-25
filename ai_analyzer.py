@@ -10,7 +10,6 @@ USER_INTERESTS = """
 """
 
 def analyze_news(news_items):
-    # 1. 获取 API Key
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         print("⚠️ 未检测到 OPENAI_API_KEY，跳过 AI 分析，默认截取前 10 条新闻")
@@ -21,30 +20,42 @@ def analyze_news(news_items):
         base_url=os.getenv("OPENAI_BASE_URL", "https://api.deepseek.com")
     )
     
-    # 精简数据发给 AI
+    # 传入原始数据
     simplified_news = [
         {"id": idx, "title": item.get("title", ""), "summary": (item.get("summary") or item.get("description") or "")[:120]}
         for idx, item in enumerate(news_items)
     ]
 
-    # 在 Prompt 中要求 AI 将标题、摘要和推荐理由全部翻译为简体中文
+    # 明确要求生成 translated_title 和 translated_summary 两个中文字段
     prompt = f"""
-    你是一个资深新闻总编辑兼同声传译专家。请分析以下新闻列表（包含 ID、标题、摘要）：
+    你是一个专业的新闻总编辑兼高级同声传译。请分析以下新闻列表（包含 ID、标题、摘要）：
     {json.dumps(simplified_news, ensure_ascii=False)}
 
-    任务 1：挑选出 10 条【对中国人最重要的新闻】。评估标准：国家政策、宏观经济、全民生活、重大社会事件。
+    任务 1：挑选出 10 条【对全世界最重要的新闻】。评估标准：国家政策、宏观经济、全民生活、重大社会事件。
     任务 2：挑选出 10 条【最符合用户个人兴趣的新闻】。用户兴趣偏好为：
     {USER_INTERESTS}
 
-    ⚠️ 核心要求：
-    1. 无论原始新闻是英文还是其他语言，请必须将提取出的【标题(title)】和【摘要(summary)】全部翻译为通顺流畅的【简体中文】！
-    2. 输出格式必须是严格的 JSON，结构如下：
+    🚨【非常重要 - 强制翻译指令】：
+    请必须将挑选出的新闻的标题和摘要【强制翻译为通顺流畅的简体中文】！
+    不要直接复制原始的英文标题和摘要！
+
+    必须严格返回 JSON 格式，结构如下：
     {{
         "important_news": [
-            {{"id": 0, "title": "翻译后的中文标题", "summary": "翻译后的中文摘要", "reason": "15字以内中文推荐理由"}}
+            {{
+                "id": 0, 
+                "translated_title": "必须是翻译后的中文标题", 
+                "translated_summary": "必须是翻译后的中文摘要（80字以内）", 
+                "reason": "15字以内推荐理由"
+            }}
         ],
         "interest_news": [
-            {{"id": 1, "title": "翻译后的中文标题", "summary": "翻译后的中文摘要", "reason": "15字以内中文推荐理由"}}
+            {{
+                "id": 1, 
+                "translated_title": "必须是翻译后的中文标题", 
+                "translated_summary": "必须是翻译后的中文摘要（80字以内）", 
+                "reason": "15字以内推荐理由"
+            }}
         ]
     }}
     """
@@ -58,30 +69,30 @@ def analyze_news(news_items):
         )
         result = json.loads(response.choices[0].message.content)
         
-        # 匹配提取重要新闻（优先使用 AI 翻译后的中文文本）
+        # 提取重要新闻（强制读取中文翻译字段）
         important_list = []
         for item in result.get("important_news", []):
             idx = item.get("id")
             if idx is not None and isinstance(idx, int) and idx < len(news_items):
                 raw = news_items[idx]
                 news_obj = {
-                    "title": item.get("title") or raw.get("title", "无标题"),  # 优先取 AI 翻译的中文标题
+                    "title": item.get("translated_title") or item.get("title") or raw.get("title", "无标题"),
                     "url": raw.get("url") or raw.get("link") or "#",
-                    "summary": item.get("summary") or raw.get("summary") or "暂无摘要",  # 优先取 AI 翻译的中文摘要
+                    "summary": item.get("translated_summary") or item.get("summary") or raw.get("summary") or "暂无摘要",
                     "ai_reason": item.get("reason", "")
                 }
                 important_list.append(news_obj)
 
-        # 匹配提取兴趣新闻（优先使用 AI 翻译后的中文文本）
+        # 提取兴趣新闻（强制读取中文翻译字段）
         interest_list = []
         for item in result.get("interest_news", []):
             idx = item.get("id")
             if idx is not None and isinstance(idx, int) and idx < len(news_items):
                 raw = news_items[idx]
                 news_obj = {
-                    "title": item.get("title") or raw.get("title", "无标题"),
+                    "title": item.get("translated_title") or item.get("title") or raw.get("title", "无标题"),
                     "url": raw.get("url") or raw.get("link") or "#",
-                    "summary": item.get("summary") or raw.get("summary") or "暂无摘要",
+                    "summary": item.get("translated_summary") or item.get("summary") or raw.get("summary") or "暂无摘要",
                     "ai_reason": item.get("reason", "")
                 }
                 interest_list.append(news_obj)
