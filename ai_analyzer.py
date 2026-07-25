@@ -31,7 +31,7 @@ def analyze_news(news_items):
     ]
 
     prompt = f"""
-    你是一个专业的新闻总编辑兼高级同声传译。请分析以下新闻列表（包含 ID、标题、摘要、来源）：
+    你是一个专业的新闻总编辑兼高级同声传译。请分析以下新闻列表（包含 ID、标题、摘要、来源），对不同来源的新闻要均衡挑选：
     {json.dumps(simplified_news, ensure_ascii=False)}
 
     任务 1：挑选出 10 条【对中国人最重要的新闻】。
