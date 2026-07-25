@@ -2,9 +2,9 @@ name: 每日新闻抓取
 
 on:
   schedule:
-    # 每天 UTC 0:00 和 12:00 运行（北京时间 8:00 和 20:00）
-    - cron: '0 */2 * * *'
-  workflow_dispatch:  # 允许手动触发
+    # 每 4 小时自动更新一次
+    - cron: '0 */4 * * *'
+  workflow_dispatch:  # 允许手动触发测试
 
 jobs:
   fetch-news:
@@ -22,16 +22,20 @@ jobs:
           python-version: '3.11'
 
       - name: 安装依赖
-        run: pip install feedparser
+        run: pip install feedparser openai
 
-      - name: 抓取新闻
+      - name: 抓取新闻并进行 AI 分析
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # 如果使用第三方模型（如 DeepSeek），取消下一行的注释并改成对应的 URL：
+          # OPENAI_BASE_URL: "https://api.deepseek.com"
         run: python fetch_news.py
 
       - name: 提交更新
         run: |
           git config --global user.name "News Bot"
           git config --global user.email "news-bot@github.com"
-          git add news.json news.md
+          git add news.json
           if git diff --staged --quiet; then
             echo "没有新内容，跳过提交"
           else
@@ -43,24 +47,30 @@ jobs:
       # ===========================================================
       # 📄 生成网页并部署到 GitHub Pages
       # ===========================================================
+      - name: 检查新闻文件
+        run: |
+          if [ ! -f news.json ]; then
+            echo "❌ 未找到 news.json，跳过部署"
+            exit 1
+          fi
+          echo "✅ news.json 已生成"
+
       - name: 生成网页
         run: |
           mkdir -p pages-dist
           python3 << 'PYEOF'
           import json
 
-          # 读取 news.json 或 news.md（建议读取包含 AI 标注字段的 news.json）
           try:
               with open('news.json', 'r', encoding='utf-8') as f:
                   news_data = json.load(f)
-          except Exception:
+          except Exception as e:
+              print(f"读取 news.json 失败: {e}")
               news_data = {"important": [], "interest": []}
 
-          # 提取 AI 分析出的两组新闻
           important_list = news_data.get("important", [])
           interest_list = news_data.get("interest", [])
 
-          # 拼接 HTML
           def render_cards(items):
               html_cards = ""
               for item in items:
@@ -122,10 +132,6 @@ jobs:
               f.write(html_content)
           print('✅ 带 AI 排版的 index.html 已生成')
           PYEOF
-          
-      # 钉钉 Webhook
-      #   DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
-      #   DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
 
       - name: 部署到 GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
