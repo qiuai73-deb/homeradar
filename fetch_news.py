@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+import os
+import json
+import feedparser
+from ai_analyzer import analyze_news
 """
 每日抓取路透社、彭博社、华尔街日报头条
 通过 Google News RSS 聚合（从 GitHub Actions 美国服务器运行）
