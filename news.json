@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T14:29:47.120048+00:00",
+  "updated": "2026-07-25T14:39:40.105502+00:00",
   "sources": {
     "reuters": {
       "name": "Reuters",
@@ -17,6 +17,12 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEFuZkktZHFHamtzb2V3b3RHUWlvTzFMVWpLY0djTEVhbjV5MS01SXE5Mk50amNpaU92VElZS0k0bnhVUFl0RDh5M1R1QnJ3LVQtaVRCaHlKZmtsaktkeVY0LUFPNWRxZzNSdEYzYm1FRm80WFItVGRGeFpicFBlMHV0Nl9aaUUtU0RpajV5Vy1iMWdnYVhHLXlJSjZ5am5QRDc2RENZVThIMlg2bnd2OTQ4Z1FOdU1RZmVR?oc=5",
           "published": "Sat, 25 Jul 2026 07:25:44 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEFuZkktZHFHamtzb2V3b3RHUWlvTzFMVWpLY0djTEVhbjV5MS01SXE5Mk50amNpaU92VElZS0k0bnhVUFl0RDh5M1R1QnJ3LVQtaVRCaHlKZmtsaktkeVY0LUFPNWRxZzNSdEYzYm1FRm80WFItVGRGeFpicFBlMHV0Nl9aaUUtU0RpajV5Vy1iMWdnYVhHLXlJSjZ5am5QRDc2RENZVThIMlg2bnd2OTQ4Z1FOdU1RZmVR?oc=5\" target=\"_blank\">Italy defence minister offers ousted Ukraine counterpart Fedorov adviser role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+        },
+        {
+          "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
+          "published": "Sat, 25 Jul 2026 09:59:32 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5\" target=\"_blank\">Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
           "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
@@ -49,12 +55,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTAyMXNxNGtaUXo0Z3pKNk0wdDJTSWxibmNsNi1TTlNLNDdEUnB4M1BfeXBHQWJTeXZmS3JTWVlTUURmZlFCWnNQeVRZY0dmaHprbnhXS21ZTXA2RFVqVFkwZDlWTnl1QmNGQUNNdlQyaTNsUWlibnlfcDVBaDdOY2dtYS1sX0ZCRHVDa2FlX2l1aXUwZ0tlbkR2dlg5bzdodG9NenpacW9mdmV6WVdnQ2d0S2dHbWdw?oc=5\" target=\"_blank\">Southern China braces for Typhoon Noul, suspends public transport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
-          "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
-          "published": "Sat, 25 Jul 2026 09:59:32 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5\" target=\"_blank\">Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-        },
-        {
           "title": "Thousands evacuated as wildfires approach the city of Bordeaux - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdktMME5KN1ExdnZKbndxQU94dENHWnFXQTgyaEczcHlfVFB3V1ZqUTNib1daZmFtdjNLS1owSU5pZExWOFc5azVBQ2x6MHE2Q1ozYmk4YkcwVmlnd2drS1NzdDBOeDk1TXlpQkJTd3ZybW9QS0ZFVDBjYnRRTlpoZG50VFNreVQtcmJURlE2T0R6MkxBZzlIQ3ZYOTlnM3NOaG1uR2tkdUc?oc=5",
           "published": "Sat, 25 Jul 2026 06:31:00 GMT",
@@ -67,10 +67,10 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONU1vVHRBV1VKcEZrUXlkS0M1Q05RbHhOeWNCUEJvczB1ZmJzRlJNbkZVRUxtb0FLWURneEV6bzhXQXNrMVBTQjU1c18yRVZhQWJ1YlQycmZLWnJPX1N3dm92TkdYcmFJaVJTbEhqSEx3ZHc3WTJiYklwNDNCUWZkc0xhT25odC0wbkRLS3JicURkMmdTdFRSNl9meXNDZ3FWYWFISElVbGV6VVVlaER6WmpHNnpZUWVlM3E1aUk1aE1ETU1KMXRhTWczc3BkZw?oc=5\" target=\"_blank\">Israeli troops round up Palestinians in West Bank village after shootout involving settlers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
-          "title": "Modi's education minister quits as jubilant Indian youth protesters claim victory - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
-          "published": "Sat, 25 Jul 2026 06:14:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5\" target=\"_blank\">Modi's education minister quits as jubilant Indian youth protesters claim victory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+          "title": "Attack on holiday camps kills eight, says governor of Russian-held territory in Ukraine - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktqZUdSTlpXWEtjQ0xIX1dITkxTWHBEaElnTUdWbHU2RDR4ZFppeERKT1NRRTZ2aFRIbTVqRG5pZ1F3LUdKUDZSTHhjN1RFVmlxSVI4YzZEaDhXOFUyRXhLOFJzZm5pcTF1TlhMSEVLMkR1UmJNN1BQd0dTTDg0RGJlN0kxc0g5eHZfUlVLVkQ0QUJLOGstNHM4YXdtdEJOUnNXRXc5Y183Q1NNLTBMbF93SFh1MlhMU3UxRFU2MURHQXc4?oc=5",
+          "published": "Sat, 25 Jul 2026 09:13:43 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktqZUdSTlpXWEtjQ0xIX1dITkxTWHBEaElnTUdWbHU2RDR4ZFppeERKT1NRRTZ2aFRIbTVqRG5pZ1F3LUdKUDZSTHhjN1RFVmlxSVI4YzZEaDhXOFUyRXhLOFJzZm5pcTF1TlhMSEVLMkR1UmJNN1BQd0dTTDg0RGJlN0kxc0g5eHZfUlVLVkQ0QUJLOGstNHM4YXdtdEJOUnNXRXc5Y183Q1NNLTBMbF93SFh1MlhMU3UxRFU2MURHQXc4?oc=5\" target=\"_blank\">Attack on holiday camps kills eight, says governor of Russian-held territory in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
           "title": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network - Reuters",
@@ -79,22 +79,22 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0JQQTg4MlNFY2RMbUw2Y1F6ZDdiLVBZNDUwbDBVYU0yZDVfVEVPSjM1NWVSdFM0SkRRdURmY2RvMXRJbXlJSDJwZXA3TGw1UllzRGFyU0lJLWZFOW9mbG5RcmdzNlAzeEJJT18xcUdRdWV3dUtzTi1Xc0sxX2ROZzhCcXpkdGxnek5QZXNzeVJ1azhQbFRVZloyQzFZZmVoQ2ZiRGdiRnJtaEZmZVVIaGhpZ283UXFnX3Y3MkpLOUx3RjFLSENSSXozUXE?oc=5\" target=\"_blank\">Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
+          "title": "Modi's education minister quits as jubilant Indian youth protesters claim victory - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
+          "published": "Sat, 25 Jul 2026 06:14:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5\" target=\"_blank\">Modi's education minister quits as jubilant Indian youth protesters claim victory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+        },
+        {
           "title": "Guterres meets Syria's Sharaa on first visit to Damascus by UN chief in 17 years - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnQ1ZzI5WjVHajNLZnJhZTRwYndTLUZVZHVldS13NF8xSDdQRzNDcFc2UWQ2TXhvUWtDMEdsUFVOSEZBcE1YX3hfZ1pJNG44UjdlNnNDTkwwM01MQy1qWkRkck1yVjU4Y2pRY3c5VC1hZVVudDZTbEhIOWlOS19SNk44WUNkQ0lTNGxtRWlTXzUtT0UwTmVOTzltUl80V3JsZTBjZHdwYjA3ejBpMnB1YnBKZ1p4WjZyLWc?oc=5",
           "published": "Sat, 25 Jul 2026 05:02:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnQ1ZzI5WjVHajNLZnJhZTRwYndTLUZVZHVldS13NF8xSDdQRzNDcFc2UWQ2TXhvUWtDMEdsUFVOSEZBcE1YX3hfZ1pJNG44UjdlNnNDTkwwM01MQy1qWkRkck1yVjU4Y2pRY3c5VC1hZVVudDZTbEhIOWlOS19SNk44WUNkQ0lTNGxtRWlTXzUtT0UwTmVOTzltUl80V3JsZTBjZHdwYjA3ejBpMnB1YnBKZ1p4WjZyLWc?oc=5\" target=\"_blank\">Guterres meets Syria's Sharaa on first visit to Damascus by UN chief in 17 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         },
         {
-          "title": "South Korea's SK Hynix, Samsung Elec sign $950 bln partnership with US big tech - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR0VVbG1peTVPeV9QUzRJSUw0X1RfRzBUUDVFREltWjF6NnlkMk9SOFdodGxZOTRkSVR4T092bUtKNWU5VXdqTHdnN1RRMDQtenVUWERuMHVuSV9VYlZMWERJZ3l5Y244MVFVcmpHbWprNVdBQ1llai0wRFJXdF9KVE5oWThNM2lQaEh5V1dEcVNJR1NwZXU3dXFqZkFfTk5hTWRDN0JWUlBCTkRRSzQ4dkxIZVlLUEFIYk1CeUZaTXdzYWd4Z3JaRktKWWlyeU9k?oc=5",
-          "published": "Sat, 25 Jul 2026 04:37:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR0VVbG1peTVPeV9QUzRJSUw0X1RfRzBUUDVFREltWjF6NnlkMk9SOFdodGxZOTRkSVR4T092bUtKNWU5VXdqTHdnN1RRMDQtenVUWERuMHVuSV9VYlZMWERJZ3l5Y244MVFVcmpHbWprNVdBQ1llai0wRFJXdF9KVE5oWThNM2lQaEh5V1dEcVNJR1NwZXU3dXFqZkFfTk5hTWRDN0JWUlBCTkRRSzQ4dkxIZVlLUEFIYk1CeUZaTXdzYWd4Z3JaRktKWWlyeU9k?oc=5\" target=\"_blank\">South Korea's SK Hynix, Samsung Elec sign $950 bln partnership with US big tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
-        },
-        {
-          "title": "Swiss cheesemakers try to fill hole in sales from US tariffs - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFVMzFFdTZYRmdtS2JSY0dzX1hGRzdZU08xeEVLeTdwbEp5eGZxemNXTjQ4U0MzaG1NX0JHNFV5ZnJiS243RWd2VFVvWldrS01nY0tEenpMYkZZX2dOX2VROXZzS1FxWHF2X0F1akR4SFJvX3Uzcl9NbHQwZ0FGVGdQbEpVLXRGODVtbmJicXd5cC0zenlSQzFB?oc=5",
-          "published": "Sat, 25 Jul 2026 10:10:37 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFVMzFFdTZYRmdtS2JSY0dzX1hGRzdZU08xeEVLeTdwbEp5eGZxemNXTjQ4U0MzaG1NX0JHNFV5ZnJiS243RWd2VFVvWldrS01nY0tEenpMYkZZX2dOX2VROXZzS1FxWHF2X0F1akR4SFJvX3Uzcl9NbHQwZ0FGVGdQbEpVLXRGODVtbmJicXd5cC0zenlSQzFB?oc=5\" target=\"_blank\">Swiss cheesemakers try to fill hole in sales from US tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+          "title": "Focus: Michigan battles massive outbreak as state reels from Trump cuts - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenZ4MWMyWVdMZkdGUlF2aGtIRnNYX1hvR280V2lfS2ZZYlpwRnhjSWpISVp5b2ZVTUwzM0djbDR3aEZEdTMxaTUzSW5LS0FqZ3pnTkVQcGU0THJWWGVTRGpsYVlnTnlleEtxcHA5X2NHcllMT2J6U08tZmtrTFVtVlZGcFlINWVVdlJNWHN6UUNWNUh3TmFBS05QN0s1TGZzUXN2RHlUSnN3Wkd4LUE?oc=5",
+          "published": "Sat, 25 Jul 2026 10:08:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNenZ4MWMyWVdMZkdGUlF2aGtIRnNYX1hvR280V2lfS2ZZYlpwRnhjSWpISVp5b2ZVTUwzM0djbDR3aEZEdTMxaTUzSW5LS0FqZ3pnTkVQcGU0THJWWGVTRGpsYVlnTnlleEtxcHA5X2NHcllMT2J6U08tZmtrTFVtVlZGcFlINWVVdlJNWHN6UUNWNUh3TmFBS05QN0s1TGZzUXN2RHlUSnN3Wkd4LUE?oc=5\" target=\"_blank\">Focus: Michigan battles massive outbreak as state reels from Trump cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
         }
       ]
     },
@@ -134,6 +134,12 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWpPU0c1czlfZjdzYlNYYndjVXF5QktWSzYtb1VHY0duOUdFQmd5c0tPeDNvUG1MdFpDZHlHS19qNTVJejlOaHg2VXdyWU9pS3lMQTlmLW5zXzlqSmhacnFoU2xZSG9nMjhaejJscGV0ZE14OEhJQ2xGaFVSazl1YWh6TE45c1E5aFdXSTdyaUdtQXJ2YURFaGUzVmU5aHlZekM2OFBXd3pVMHkzcHBXRTNnZVo?oc=5\" target=\"_blank\">India Education Minister Resigns in Bow to Youth Protest Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
         },
         {
+          "title": "Blackstone, Brookfield, KKR Ink $16 Billion Kuwait Oil Deal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJOckl1b25kS3l3MG9hQWpHQW1TVzExNG9IRnUtNkVYdFIyZ0NfbnJyeXFhVzl3aGZNX3dmYUZDNTRKWElYem5QRTJzSmlpV3dNT2ZXUmk0aXhmMzVwU0E1aFVyb19xdXFXQjhkdTI2WUhOcmpJeVRFV3R5OHhLaXZodm1PS0llS2FhQVpSZXM0VkVNd1Y2NWJYeXZmZmRGZTJiZ3U3T25jOGZ3dXBYeXdR?oc=5",
+          "published": "Sat, 25 Jul 2026 08:49:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORFJOckl1b25kS3l3MG9hQWpHQW1TVzExNG9IRnUtNkVYdFIyZ0NfbnJyeXFhVzl3aGZNX3dmYUZDNTRKWElYem5QRTJzSmlpV3dNT2ZXUmk0aXhmMzVwU0E1aFVyb19xdXFXQjhkdTI2WUhOcmpJeVRFV3R5OHhLaXZodm1PS0llS2FhQVpSZXM0VkVNd1Y2NWJYeXZmZmRGZTJiZ3U3T25jOGZ3dXBYeXdR?oc=5\" target=\"_blank\">Blackstone, Brookfield, KKR Ink $16 Billion Kuwait Oil Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
+        },
+        {
           "title": "Bordeaux Suburbs at Risk as 200,000 Flee Fires in France, Spain - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1Z3Q1N4WFByZ1ZJRlJjTHZSUnFRWl9KbEJ1LU9rbTdpcGQxcE1NcDNJMEIwa0JDMmtiT0dpRWxkZzg2VkpIUkpxZi1pdllVSTlRTWhnZ2hOT2lZamVWV2xzMV9aTms3WXBaNWxrY0QzTlF6UXEydDVINU5BaVVlZV9vRG9XSXpaS2dlWHhCVTRmbGI1SUg0bmg5Q2tVYVAyQ2d5T3A2UGdaeTB6amNCWURkdw?oc=5",
           "published": "Sat, 25 Jul 2026 08:49:50 GMT",
@@ -144,12 +150,6 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTljX0ZWV1h2dHlTdGxDangyaUxwOVRTdzYzRWN6MVhrM214T3pmaG9WbVF2REIwU3YycFNXekRlQTR1ZE9CQVhFTGd5SWpHeHphUm1VRzNpUHB4RGRiVHd1VTU0NVhPNFU3c043MzY2QWR1VzdwNnZ6bGFaYzZLQlB1OVBTNnlqNVdoLUxtc2Z5ZVN5d2E2SFFjQWdiZ3BuTGpn?oc=5",
           "published": "Sat, 25 Jul 2026 06:30:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTljX0ZWV1h2dHlTdGxDangyaUxwOVRTdzYzRWN6MVhrM214T3pmaG9WbVF2REIwU3YycFNXekRlQTR1ZE9CQVhFTGd5SWpHeHphUm1VRzNpUHB4RGRiVHd1VTU0NVhPNFU3c043MzY2QWR1VzdwNnZ6bGFaYzZLQlB1OVBTNnlqNVdoLUxtc2Z5ZVN5d2E2SFFjQWdiZ3BuTGpn?oc=5\" target=\"_blank\">Samsung Wins $200 Billion Order to Supply Chips to Broadcom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
-        },
-        {
-          "title": "Trump’s Crypto Bonanza Is Biggest Hurdle for Digital Asset Bill - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmxoTDR1dFlDNXhPUl9oVlg5ZkhiTlhSNTRCU3d0V252NTJtRHBubFo2dFZHTkZNdERsb0NOeGE4UUhUTmh0aWIySmhTYmpCNk00blJ4MTQ5YTBCUHUtMjRYV2hkYmpwNENPTGgxU0JzLWVIMF82TS1ZUE1nN2c2cVJ6eDlZYWpkYkFRV0pTNm1JUFlQTnNHM0F1MUg5Q0dWbDVkb3pmTkdWUVd6ZVFySlU4SlI?oc=5",
-          "published": "Sat, 25 Jul 2026 12:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmxoTDR1dFlDNXhPUl9oVlg5ZkhiTlhSNTRCU3d0V252NTJtRHBubFo2dFZHTkZNdERsb0NOeGE4UUhUTmh0aWIySmhTYmpCNk00blJ4MTQ5YTBCUHUtMjRYV2hkYmpwNENPTGgxU0JzLWVIMF82TS1ZUE1nN2c2cVJ6eDlZYWpkYkFRV0pTNm1JUFlQTnNHM0F1MUg5Q0dWbDVkb3pmTkdWUVd6ZVFySlU4SlI?oc=5\" target=\"_blank\">Trump’s Crypto Bonanza Is Biggest Hurdle for Digital Asset Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
         },
         {
           "title": "Charting the Global Economy: Growth Picks Up, AI Boom Continues - Bloomberg.com",
@@ -298,16 +298,16 @@
       "count": 15,
       "articles": [
         {
-          "title": "Trump attacks journalists at awkward White House press dinner - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5",
-          "published": "Sat, 25 Jul 2026 03:54:28 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5\" target=\"_blank\">Trump attacks journalists at awkward White House press dinner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
-        },
-        {
           "title": "India’s ‘Cockroach’ Gen Z has had enough - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5",
           "published": "Sat, 25 Jul 2026 04:00:37 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5\" target=\"_blank\">India’s ‘Cockroach’ Gen Z has had enough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+        },
+        {
+          "title": "Trump attacks journalists at awkward White House press dinner - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5",
+          "published": "Sat, 25 Jul 2026 03:54:28 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0tSR2NwNXdWRUt6ZDVxQWVCVl9qMlI3QmpZbFJCSW04dFJLTVVaU1hDZ3NORWg4dGpGdVhJRGZWWUl1eUFXSXFzOV96TDkyMDNsTlhaTmVkWWFLdlZTU0FZbEVNdmlFTDIycHhVSmU1Q1I1TnRadUU2aFAzTkxhcmp6RDM?oc=5\" target=\"_blank\">Trump attacks journalists at awkward White House press dinner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
         },
         {
           "title": "Waymo explores split with Uber as robotaxi tensions deepen - Financial Times",
@@ -346,12 +346,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORnZVdHJZS0ktS2lQckVaVkxZSE9LdG9uRDZ5aGQ2R1B0VzgzZUFJSW5jWjNNQXk5cm1QekkxbVFnZ0lsQTBHOExTSDlOMDRBcTZ1amg5Zzh5UXA2cmNISXJBM3dmd3pxRjdsTXZvNGxJMnJVNTB3QXB0NW5LMlZWNzNKcjk?oc=5\" target=\"_blank\">Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
         },
         {
-          "title": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0?oc=5",
-          "published": "Fri, 24 Jul 2026 15:20:23 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0?oc=5\" target=\"_blank\">Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
-        },
-        {
           "title": "Meta faces higher borrowing costs in latest $12bn data centre financing - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmZmMF9WOVhoeXZUSl9ZWHA5Mndld1hOOEFabUFhd1drY3dzYjl6a3NoSEVKVU8xS09DY2xXRTNJS2FhakZEN0pwQklUOE9menVBWWxvWFVVMkRTUU5Uc29QYUgwaHpXTENaQWxXMjRtWjJLWVZaUGU1N1daZHloSU9uTXI?oc=5",
           "published": "Fri, 24 Jul 2026 00:09:12 GMT",
@@ -386,6 +380,12 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWNmbDJNOWZrbG9kNGFlai16cHpQSjJ6RHhWSDdjWVdZNjFsb0hMVUxtNTZURUNqcGFQSVNkQWFxSzNPQ3VOZ09qYTdoUFdfRU1NQ0NYamtHaFdRRkVBM2RGUTZsUTBNNlRqVGZfSUhOQWlBSlZxYU9tRElNSkJzOGZGVG8?oc=5",
           "published": "Thu, 23 Jul 2026 21:01:41 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWNmbDJNOWZrbG9kNGFlai16cHpQSjJ6RHhWSDdjWVdZNjFsb0hMVUxtNTZURUNqcGFQSVNkQWFxSzNPQ3VOZ09qYTdoUFdfRU1NQ0NYamtHaFdRRkVBM2RGUTZsUTBNNlRqVGZfSUhOQWlBSlZxYU9tRElNSkJzOGZGVG8?oc=5\" target=\"_blank\">US hits 60 trading partners with new duties as Donald Trump rebuilds tariff wall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
+        },
+        {
+          "title": "South Korea’s cash-rich winners of AI boom go on US buying spree - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnNKVGl5V0JUVmZscjliblptel9RcEN5UVN4dXA0UDdpSTNBTm5qOWZfU2tNTk55ZXh6eDRHWGNmbXRTZnR3TVJrVmo0U3M4TVY1Rkl1UlFZQWhFYTZpbFpod0NnNHFQU2hhdTV2LTFkaWoyUk8zOWpwU1FncVU2Z1JNazA?oc=5",
+          "published": "Fri, 24 Jul 2026 10:36:57 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnNKVGl5V0JUVmZscjliblptel9RcEN5UVN4dXA0UDdpSTNBTm5qOWZfU2tNTk55ZXh6eDRHWGNmbXRTZnR3TVJrVmo0U3M4TVY1Rkl1UlFZQWhFYTZpbFpod0NnNHFQU2hhdTV2LTFkaWoyUk8zOWpwU1FncVU2Z1JNazA?oc=5\" target=\"_blank\">South Korea’s cash-rich winners of AI boom go on US buying spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>"
         }
       ]
     },
@@ -429,6 +429,12 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5",
           "published": "Sat, 25 Jul 2026 12:00:02 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5\" target=\"_blank\">From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+        },
+        {
+          "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sQTFJbFp1RlFtQXJ5QVBnb3V3dVo3Q3NTNVJZZ1hUM2FrTWNTbDFoTzdwMzU2d201Ny10a3BTUmVOa29qZmN0dkowdGc3MXVQOUViQzdEQ1JKS0xDZEdWX2pIem9BS2I1LTVkNzluVmIwX0RIMXdR0gF8QVVfeXFMTXVoTmFrVWtzWVQ5R1BWZHZBNWttLTdfOXQwUENDVmFzdlV5aG1Qak9NbXNMMTdzSXc0c2ZoRF9XNV9zX0hYUWpkZ1FHb0xtMWx1cC0yR01tTnpjT0xOaTBnZ3ZpVkJCb2dfd1BiMWhjSVVhaXE2b2NORkJHZA?oc=5",
+          "published": "Fri, 24 Jul 2026 21:46:15 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9sQTFJbFp1RlFtQXJ5QVBnb3V3dVo3Q3NTNVJZZ1hUM2FrTWNTbDFoTzdwMzU2d201Ny10a3BTUmVOa29qZmN0dkowdGc3MXVQOUViQzdEQ1JKS0xDZEdWX2pIem9BS2I1LTVkNzluVmIwX0RIMXdR0gF8QVVfeXFMTXVoTmFrVWtzWVQ5R1BWZHZBNWttLTdfOXQwUENDVmFzdlV5aG1Qak9NbXNMMTdzSXc0c2ZoRF9XNV9zX0hYUWpkZ1FHb0xtMWx1cC0yR01tTnpjT0xOaTBnZ3ZpVkJCb2dfd1BiMWhjSVVhaXE2b2NORkJHZA?oc=5\" target=\"_blank\">Trump sued hours after new tariffs take effect, as experts say they may not hold up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
         },
         {
           "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge - CNBC",
@@ -477,12 +483,6 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5",
           "published": "Fri, 24 Jul 2026 17:00:01 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5\" target=\"_blank\">Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
-        },
-        {
-          "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5",
-          "published": "Fri, 24 Jul 2026 14:15:47 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5\" target=\"_blank\">Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
         }
       ]
     },
