@@ -127,10 +127,23 @@ def main():
         articles = fetch_source(key, config)
         all_data[key] = articles
 
-    # 保存 JSON
+# 1. 收集所有抓取到的文章到一个总列表里面
+    all_articles = []
+    for key in SOURCES:
+        all_articles.extend(all_data[key])
+
+    print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析...")
+
+    # 2. 调用 AI 分析函数（进行挑选和排序）
+    important_news, interest_news = analyze_news(all_articles)
+
+    # 3. 构造符合前端渲染的 JSON 结构
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
+        "important": important_news,  # 👈 必须包含这个
+        "interest": interest_news,    # 👈 必须包含这个
+        # 保留原有的 sources 数据（如果你别的地方还需要用到的话）
         "sources": {
             key: {
                 "name": SOURCES[key]["name"],
@@ -139,8 +152,15 @@ def main():
                 "articles": all_data[key],
             }
             for key in SOURCES
-        },
+        }
     }
+
+    # 4. 保存文件
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+    print("✅ 带 AI 分析结果的 news.json 保存成功！")
+    
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
