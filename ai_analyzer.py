@@ -35,7 +35,7 @@ def analyze_news(news_items):
     {json.dumps(simplified_news, ensure_ascii=False)}
 
     任务 1：挑选出 10 条【对中国人最重要的新闻】。评估标准：国家政策、宏观经济、全民生活、重大社会事件。
-    任务 2：挑选出 10 条【符合用户个人兴趣的新闻】。用户兴趣偏好为：
+    任务 2：挑选出 10 条【最符合用户个人兴趣的新闻】。用户兴趣偏好为：
     {USER_INTERESTS}
 
     必须严格返回 JSON 格式，结构如下：
