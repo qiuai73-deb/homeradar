@@ -1,11 +1,11 @@
 import os
 import json
-from openai import OpenAI
+from openai import OpenAI  # 确保头部导入了 OpenAI
 
-# 推荐使用 OpenAI SDK 兼容接口，DeepSeek、智谱、Kimi 等均通用
-client = deepseek(
-    api_key=os.getenv("deepseek_API_KEY"),
-    base_url=os.getenv("deepseek_BASE_URL", "https://api.deepseek.com") # 如果用 DeepSeek 改为 https://api.deepseek.com
+# 初始化客户端（DeepSeek 完全兼容 OpenAI SDK 结构）
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url=os.getenv("OPENAI_BASE_URL", "https://api.deepseek.com") # 👈 指向 DeepSeek 的 API 地址
 )
 
 USER_INTERESTS = """
@@ -54,7 +54,7 @@ def analyze_news_with_ai(news_items):
     """
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini", # 或 deepseek-chat
+        model="deepseek-v4-flash",  
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
         response_format={"type": "json_object"}
