@@ -2,9 +2,8 @@ import os
 import json
 import re
 from openai import OpenAI
-from dotenv import load_dotenv
 
-load_dotenv()
+
 
 # ================= 配置区 =================
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
