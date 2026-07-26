@@ -1,8 +1,82 @@
 {
-  "updated": "2026-07-26T13:14:48.153099+00:00",
-  "summary_analysis": "⚠️ AI 分析过程异常: Expecting property name enclosed in double quotes: line 2 column 3 (char 4)",
-  "important": [],
-  "interest": [],
+  "updated": "2026-07-26T13:20:06.720973+00:00",
+  "summary_analysis": "【核心主线】当前全球地缘政治风险显著升温，中东局势因伊朗与以色列、沙特与胡塞武装的冲突而急剧恶化，红海航运安全受到威胁。同时，欧洲面临柏林恐袭与野火灾害，美国大选相关法律战加剧，市场避险情绪浓厚。\n\n【市场与政策信号】油价逼近100美元，美联储等央行面临利率决策压力。美国暂停对伊朗夜间打击，但红海紧张局势持续。特朗普邮寄投票计划被上诉法院驳回，大选不确定性增加。中国芯片企业CXMT即将历史性上市，显示科技自主化进程。\n\n【关键风险提示】中东冲突若进一步升级，可能导致能源供应中断和全球通胀压力。欧洲极端天气与恐袭事件可能影响经济复苏。美国大选法律纠纷可能引发市场波动。",
+  "important": [
+    {
+      "title": "美国暂停对伊朗夜间打击，红海紧张局势升级",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVRXNGx5LUVaamFUNzZveUUtd2RTUDVxcGtoNW5acjl1NzJNSlFjSlA0aFNJWkNvRnJNUUZWUVFCU3RuUERaRGVZSzBIOWNsU05XRVVfeERBRFU3T0JQQXA4UXE0SzZLRWRRTi1PRWhFWXE4Mm9FU3RJb0FlMHIxTmQwNXhDSnYxVDJTQVZWMzJQTFd2a1lXdEJGX3Ixclp4WUJHbG5yNDBITWFFaW50MmVTVDIzdw?oc=5",
+      "summary": "美国暂停对伊朗打击，但红海紧张局势持续。",
+      "source": "彭博社"
+    },
+    {
+      "title": "油价逼近100美元，美联储等央行面临利率压力",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
+      "summary": "油价逼近100美元，央行利率决策受关注。",
+      "source": "彭博社"
+    },
+    {
+      "title": "特朗普邮寄投票计划被上诉法院驳回",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk9uSnBOcXp1VzZkeVdHNjJrcElZMXVmUnZDdDZxNlBnYmNhVV9aV2FjSFFtYkRZSm80am9lamNmeGctRi00b3ZfSUpUYTZYMC1md0V5bS1wbVlvVWxMYk1xeXFCb3BsWGhQZWJISlAtWnZlVllHX1R4bGl5Nm4tSXJpZDlJazVsalJ3aVhxdHF3bVptdHNEcEw1TDVIVmgtZ2M1d1J4Sjc3QllsdmRLSTQ5SmE?oc=5",
+      "summary": "上诉法院驳回特朗普邮寄投票计划，支持各州。",
+      "source": "彭博社"
+    },
+    {
+      "title": "沙特阿拉伯打击胡塞武装，此前伊朗支持的叛军袭击能源设施",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjhKbWhlMkQxZHNGLXlhSXBSNDJ5Mnd4MFJiU1VpLXYxSGNycUNpWmxVTmFlVXRSVXVnNll5RVJTY3hqYy1YdTYyNWJsZ0RCbm00d1dyWEVpVEd4RmJ0UlNOQmpUWXY4NzRWeGdCUUYxYjE2eF9iZ1RHYWNIWlBSc3poWGQ?oc=5",
+      "summary": "沙特打击胡塞武装，回应能源设施遭袭。",
+      "source": "金融时报"
+    },
+    {
+      "title": "以色列在加沙打死一名哈马斯高级安全官员",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
+      "summary": "以色列空袭打死哈马斯高级安全官员。",
+      "source": "路透社"
+    },
+    {
+      "title": "印度Z世代抗议者迫使莫迪政府让步",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWxHSnltRkQ4SWh5bHIteGx3U3k1YWxLNFZkdEpvckFRYXMxaFV3QzNMYURETDE2Y2hWeV9IU2laYTBLM1JYMER5c2lZYmJuNThGVUM2WkNpMEFCYjRCZWlpQTJHM1dnbnJCMV9qOGxDdGJjaUtwTjNLVEdIZGFGVjY3M2JUSDl2Y09CTG1IQjNubUczWG1KeHVFWWF0VzlkMXo0?oc=5",
+      "summary": "印度Z世代抗议者成功迫使莫迪政府让步。",
+      "source": "华尔街日报"
+    }
+  ],
+  "interest": [
+    {
+      "title": "中国芯片企业CXMT即将历史性上市",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXVyVTFvNFZSX2RCU2NBa1FZaVF6S1dWdDJodkZFYWJNTzVwdmpQLVRnRFFDbzY2dmVFR3JwRHBpRFVuc2IzbTA5V05GV1FlMktBSE5TT3ppQm5rRVZ4UUZlQlhUR0U1X0w0VjdfaExtdGh1Y2tmZlJfTGw1bGg5X2ZaY2tmSkswTjZVWXAtT1Q3WDlzUUFCbEtJM0xONnFlX0pIZlc5OVpzTXpDQzJr?oc=5",
+      "summary": "中国芯片企业CXMT准备历史性上市。",
+      "source": "彭博社"
+    },
+    {
+      "title": "DeepSeek据悉在病毒式传播后告知投资者暂停融资",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmM5SHI4SGhzcko5THg1SGx5a1RiY2p0MExUU0R0NHM3T2pjN0NaR1piRGhGbTVDQll5aElhOHpOWnFUNC14S1dHNUtMaElCLTZFLTd5SW5OTmEyb2lUT1ZhVE5qQ2JvNzRiX3JrMWNIcDB5YWJYZ2luLXFfSk5hNXpLMndhdHpfWURFVl9OcmVpSGUzeDBTdEJlUFQ4cUZHQXZTMjdyM1NfQ3Z5N09zX0FPMEtvQQ?oc=5",
+      "summary": "DeepSeek在病毒式传播后暂停融资。",
+      "source": "彭博社"
+    },
+    {
+      "title": "Waymo探索与Uber分拆，自动驾驶出租车紧张局势加剧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5",
+      "summary": "Waymo考虑与Uber分拆，紧张关系升级。",
+      "source": "金融时报"
+    },
+    {
+      "title": "从硅谷到华盛顿，科技界突然痴迷于AI蒸馏概念",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTZqRWY5UHZ5TkhmQ0lySXFuQVpjalRWU01vR3hac3VZUXkwa0xSa0g2eEwzX1BPdkNqS1lieHR6S0VIeEFNVUNsajR1U29ZdGZOay0zT0x4em41N0xwZEE2RUlVdXYwMkxiSmVibmUzNjhZSnY0VFlJYlF5QXpVaXp3b2Z5cVl0Mm8wNlRnS1JPaHBGY2VUUkpWd0lKZnh4VFU2WlpuLUZJd9IBrwFBVV95cUxQNm9oSW1uVERRZUlmVUprQ1ZTNGJjTnVLTkw4ZGN3M3lNOU9PeklyMG5IVmQ1N2hSUThES3hwVTVRN0todkZDRk5hbWZ6THhiamdBWDZhSzNvdXlBTzZuTlJ0Z3J6cnQwQ0RrOThQTmVwYkVyb3VudzV1TGlsaDZsWi0xMUFpeXY3YklaQ3Njc3U3MTBwSTVCT0NwUkdfdnJDVWFUV19wZDBhNTBxdlBR?oc=5",
+      "summary": "科技界突然痴迷于AI蒸馏概念。",
+      "source": "CNBC"
+    },
+    {
+      "title": "物流巨头竞相跟上医疗保健热潮，GLP-1药物凸显冷链需求",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wNTloVzc2RGJybUVObmxEaWNTLTYxTDQ1blV0RS13X21tdmw4WkRMOUotaTJKYTVkeFZ5ZVRVNzBUcXVKaU1vQ1hMRy12RFlyd2V1NHg1XzYtWU1UZENNRzc3cWduQkV3b2NFQWFyOVl0VnFzdWZRVXNwUU91VnfSAYQBQVVfeXFMTmsxTmlrYzk5OVBNdVREOHV6eTI3Z1VYdUR1MWZELXhDM2VxUkRkLURvQmhpamxWTHJmTTRuY0ptVlpDUlowM0wzd0NfNlVVakR4em5NQTJ0b0dyX0hYTnZzUWJzWVgtVURWcTBzV2J2dy1BRkpmbTBMaEZLdmVjamxDUm1S?oc=5",
+      "summary": "物流巨头竞相满足医疗冷链需求。",
+      "source": "CNBC"
+    },
+    {
+      "title": "可可价格回落，但巧克力为何仍如此昂贵？",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTlGSENaYkRad1NndXRuX2Y3cWt6MWhGVkJXRDBtSVpxcjVYUElBZEs5b2lRajA5SUZCdWQwLUlXNWk3YndsMjc0bTU1cWVfNmh1RU1RTGhCclFUY1pCX0ZnTEFsNWtjNWV1MHl1WlNNNzU3MkxQSVIyMVItWm5tVUdZMWl3VUoyLUhNSDQxX0E1d9IBlwFBVV95cUxNRjRpdHBUMGhXby15NG5xRFlLTURIMUJfX1VrcEl0R0RyMVpQcmZCRW9QWmlJcm4tZ1V4VjY2M09sLU8yanlJdFo5b1EwRk5uY1VoSW4xTmxSa3o4YmpuQ19ZREgtMnlMNHc4TmxIQkZJMFpwLWV5TkdRTWt4UEltQXRrQ0FOd2Z6aHI0bmdMckFmRWRv?oc=5",
+      "summary": "可可价格回落，但巧克力价格仍高。",
+      "source": "CNBC"
+    }
+  ],
   "sources": {
     "reuters": {
       "name": "Reuters",
@@ -171,6 +245,13 @@
           "source": "华尔街日报"
         },
         {
+          "title": "Unreleased Documentary Offers a Look at Lindsey Graham’s Iran Campaign - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEU0UW5PZjlIUUFXT3Y1dEFubk9FYU51YUlzLTBXSGdfZy0wZlR1VlBUdUhMNGg4RndtVFJnMmphZXpPU01aZm1jVHRMUDBlWHBySHUtNVpCZWVtSWxPY3RIQXhlTk9XZTFHODBJdXdXMWNXZXZoNXJRYlZFRUp2S2FDV01FSUpNZFhxanpFRElYazR0RFlHQzhCOWpzZUJ5MDYxeGxMX0cyNE0?oc=5",
+          "published": "Sun, 26 Jul 2026 11:07:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEU0UW5PZjlIUUFXT3Y1dEFubk9FYU51YUlzLTBXSGdfZy0wZlR1VlBUdUhMNGg4RndtVFJnMmphZXpPU01aZm1jVHRMUDBlWHBySHUtNVpCZWVtSWxPY3RIQXhlTk9XZTFHODBJdXdXMWNXZXZoNXJRYlZFRUp2S2FDV01FSUpNZFhxanpFRElYazR0RFlHQzhCOWpzZUJ5MDYxeGxMX0cyNE0?oc=5\" target=\"_blank\">Unreleased Documentary Offers a Look at Lindsey Graham’s Iran Campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
           "title": "How Russia Uses Sexual Violence to Wage War - WSJ",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SRUlPV3pMN2E4eTJGSnFld2Y0UWZWLVlPaU5kYTUtTktRdWpiQ1BzRFJ4bEhpOWtRMFpiMzBRbUJrdEJjRnRSNTNIVVBlb0pfMnZJQWdORkl2S1ZoM0xtaVJ6MkZEdVA1emVOelFMRU14eGM?oc=5",
           "published": "Sun, 26 Jul 2026 03:00:00 GMT",
@@ -225,13 +306,6 @@
           "published": "Sat, 25 Jul 2026 14:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0wtSjFWS01MS29iTkJZUlJxbE52a0MwNzlVU0pSZFI0WFJ2WENBSUtYY3cxeE9WcC1WWE1jSUVhbXdyelctbFY2VHdGUElxRFdOX2huakJ0S0ptMkJMeHZwZ1pYQ0VaUG1paUFKaUg3SnJNaFp2X0ZjNW50ZWJZY2dOYWg0WEZUWkZ0b1ln?oc=5\" target=\"_blank\">How to Start ‘the Talk’ With Aging Parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
-        },
-        {
-          "title": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENfeUV4XzV6bW1UNHZmU2VmZnVPVkgyTW1kckF5RG1FMWg4VlJiaEpKSlZvVDNIdUdobGRPYk5EazNOdFhfMzlaeHdRTjQtOVNiakRTRjdxTVdfa1JERWpBeHJGZUxLMzBkZDhvSk1YMWtfR3hVMF92MUdQcWtMa2xsNUFqMEFfczVhQzVSNV81R1pJSThoVVFobHd1MUhqamZz?oc=5",
-          "published": "Sat, 25 Jul 2026 15:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENfeUV4XzV6bW1UNHZmU2VmZnVPVkgyTW1kckF5RG1FMWg4VlJiaEpKSlZvVDNIdUdobGRPYk5EazNOdFhfMzlaeHdRTjQtOVNiakRTRjdxTVdfa1JERWpBeHJGZUxLMzBkZDhvSk1YMWtfR3hVMF92MUdQcWtMa2xsNUFqMEFfczVhQzVSNV81R1pJSThoVVFobHd1MUhqamZz?oc=5\" target=\"_blank\">A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
         }
       ]
     },
@@ -245,13 +319,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakM5WENzTkVZUjdfbVh0d2xaT0tkRVF1YWh4OHVCdlpVR0dva20zLWVZVmpKX2prNF9hNGFZNmpzYXBlaEZHTFA1bHROWTAyckxHOHcwd0RLQ0tSQlBPVVdpak5nVmFha3F2S1FMcGFxSWxLUVNRTXRsV1d4c1VaZ0JMRXg?oc=5",
           "published": "Sat, 25 Jul 2026 18:20:49 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPakM5WENzTkVZUjdfbVh0d2xaT0tkRVF1YWh4OHVCdlpVR0dva20zLWVZVmpKX2prNF9hNGFZNmpzYXBlaEZHTFA1bHROWTAyckxHOHcwd0RLQ0tSQlBPVVdpak5nVmFha3F2S1FMcGFxSWxLUVNRTXRsV1d4c1VaZ0JMRXg?oc=5\" target=\"_blank\">Brazil denies visas to US officials over alleged election interference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkE0bE5KM25qVEhsbE92dG4wNTBaaU5HNm9aYWZfdld2cFo2ampsVVhfTWtJckhId212UkNSZHdTbUNyTGdVdDNyY0FCc0ZIdzdJVG5ib1pTc1BtZU5LRnE1LWFCRnFIN3Q3cFBpbjBlZHNmWjI3TDUxc3FmUjZEY01pNF8?oc=5",
-          "published": "Sat, 25 Jul 2026 17:58:13 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORkE0bE5KM25qVEhsbE92dG4wNTBaaU5HNm9aYWZfdld2cFo2ampsVVhfTWtJckhId212UkNSZHdTbUNyTGdVdDNyY0FCc0ZIdzdJVG5ib1pTc1BtZU5LRnE1LWFCRnFIN3Q3cFBpbjBlZHNmWjI3TDUxc3FmUjZEY01pNF8?oc=5\" target=\"_blank\">Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -304,10 +371,17 @@
           "source": "金融时报"
         },
         {
-          "title": "Chart of the Week: Who owns shares? - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklzSGtYV3N6VWw4c3JXMmxMYk5PbktqTVBtTjJ2NHBrQ3lZM2dMQmFlNXBINzhyZGZ2TllkSWt0YXp3Z2xmemE4a1hJMG53LXNib2xkZVE1eV82Y0dkay1KSk14OElERmt2UjZOYUgtMXZfOU1IdUJKeF9xZ2tnX29TOEc?oc=5",
-          "published": "Sat, 25 Jul 2026 09:30:09 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklzSGtYV3N6VWw4c3JXMmxMYk5PbktqTVBtTjJ2NHBrQ3lZM2dMQmFlNXBINzhyZGZ2TllkSWt0YXp3Z2xmemE4a1hJMG53LXNib2xkZVE1eV82Y0dkay1KSk14OElERmt2UjZOYUgtMXZfOU1IdUJKeF9xZ2tnX29TOEc?oc=5\" target=\"_blank\">Chart of the Week: Who owns shares?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Waymo explores split with Uber as robotaxi tensions deepen - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5",
+          "published": "Fri, 24 Jul 2026 19:15:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5\" target=\"_blank\">Waymo explores split with Uber as robotaxi tensions deepen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Banquet 88, London: the big light is on, and so is the cooking — restaurant review - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3VHUTlRb092ZE52RTZvSWpUN3l1UGFrOEhVN1F4R0Y3dzNoUnJkVzJ2b05zaGdoc0xwaXVsUHNnMk41c0FjdDl3WDhlNXJNY2FoU1ZGNWUyYzE1OFJMOHJxUmJ0LWF4dEpkajRpRXQweFF5U2dmbjRjQUM3cXI0UFJ2R18?oc=5",
+          "published": "Sat, 25 Jul 2026 04:05:07 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3VHUTlRb092ZE52RTZvSWpUN3l1UGFrOEhVN1F4R0Y3dzNoUnJkVzJ2b05zaGdoc0xwaXVsUHNnMk41c0FjdDl3WDhlNXJNY2FoU1ZGNWUyYzE1OFJMOHJxUmJ0LWF4dEpkajRpRXQweFF5U2dmbjRjQUM3cXI0UFJ2R18?oc=5\" target=\"_blank\">Banquet 88, London: the big light is on, and so is the cooking — restaurant review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -444,17 +518,17 @@
           "source": "南华早报"
         },
         {
-          "title": "After Apple leak, has India lost ground in its supply chain race with China? - South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5",
-          "published": "Sat, 25 Jul 2026 22:00:07 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5\" target=\"_blank\">After Apple leak, has India lost ground in its supply chain race with China?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-          "source": "南华早报"
-        },
-        {
           "title": "Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar - South China Morning Post",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGc0RWZfWjF3bm5kU0xkeTdlZ29RZ1hjZ2VWazZLYUtvRS1PUm8tU25za0hrUmFfOHAtODZ5aGhickRCQXBOZ0JGUTZRYXFmOVdEd0p3NmVBdE9hNnZFVFkxUk52dE9fZGppbTcwck9lMmYzZUdUVFVnRC1OTklvckJYZkFrbXI5Yy1BY2hGNVZjT2JuYjFBMTV5VnEyYmZ4UEdNVzBTZk9yUU9UN2NQeUhqZlJ4VEtPM1MtdmJnaXVySy1jamfSAcYBQVVfeXFMTUtONVBZUHFJNFN4ODQ4REw5cHg2U0I3Q0Y0R05mSHpnSHNraTJJTkRIUm4zc0UtN25heXp0d1doSnlYd2VlWFhrZFJCdndBdFJxdkZWMmg4d0puRlc1WE9qeTV2SWRZZjdNWVZqX3NvWkdicDY2OFdScmJMakpZUWVaX01hd19fd2ZSUEpjcW56NFhnMTltdUkzVWw5dk5VR01KSXJjdjNRbWFQZjJwaGs0QUhlakVjLVNwUVJZUmZVamQzYjhn?oc=5",
           "published": "Fri, 24 Jul 2026 11:18:31 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGc0RWZfWjF3bm5kU0xkeTdlZ29RZ1hjZ2VWazZLYUtvRS1PUm8tU25za0hrUmFfOHAtODZ5aGhickRCQXBOZ0JGUTZRYXFmOVdEd0p3NmVBdE9hNnZFVFkxUk52dE9fZGppbTcwck9lMmYzZUdUVFVnRC1OTklvckJYZkFrbXI5Yy1BY2hGNVZjT2JuYjFBMTV5VnEyYmZ4UEdNVzBTZk9yUU9UN2NQeUhqZlJ4VEtPM1MtdmJnaXVySy1jamfSAcYBQVVfeXFMTUtONVBZUHFJNFN4ODQ4REw5cHg2U0I3Q0Y0R05mSHpnSHNraTJJTkRIUm4zc0UtN25heXp0d1doSnlYd2VlWFhrZFJCdndBdFJxdkZWMmg4d0puRlc1WE9qeTV2SWRZZjdNWVZqX3NvWkdicDY2OFdScmJMakpZUWVaX01hd19fd2ZSUEpjcW56NFhnMTltdUkzVWw5dk5VR01KSXJjdjNRbWFQZjJwaGs0QUhlakVjLVNwUVJZUmZVamQzYjhn?oc=5\" target=\"_blank\">Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+          "source": "南华早报"
+        },
+        {
+          "title": "After Apple leak, has India lost ground in its supply chain race with China? - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5",
+          "published": "Sat, 25 Jul 2026 22:00:07 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5\" target=\"_blank\">After Apple leak, has India lost ground in its supply chain race with China?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
           "source": "南华早报"
         },
         {
@@ -493,13 +567,6 @@
           "source": "联合早报"
         },
         {
-          "title": "美日菲军演提升南中国海协同 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5",
-          "published": "Sun, 26 Jul 2026 10:07:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5\" target=\"_blank\">美日菲军演提升南中国海协同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
           "title": "张田勘：AI时代学术文章写作的两难悖论 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5",
           "published": "Sun, 26 Jul 2026 11:00:00 GMT",
@@ -511,6 +578,13 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5",
           "published": "Sun, 26 Jul 2026 11:57:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5\" target=\"_blank\">景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "高市早苗推动争议议程 民望持续下滑 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGc0FkeHZwOS1SVnpTcEZlbkhMN0pFWnpmWTBHUHdWZHhHeGpTSTRhN09nczVTT3Qzd2hlWkw1aWNOSjFkamJWTk1SUklQN04tNTFuREZFTG85OVZ2SDBTTU1LVERmQnMtUkE?oc=5",
+          "published": "Sun, 26 Jul 2026 10:49:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBGc0FkeHZwOS1SVnpTcEZlbkhMN0pFWnpmWTBHUHdWZHhHeGpTSTRhN09nczVTT3Qzd2hlWkw1aWNOSjFkamJWTk1SUklQN04tNTFuREZFTG85OVZ2SDBTTU1LVERmQnMtUkE?oc=5\" target=\"_blank\">高市早苗推动争议议程 民望持续下滑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -535,10 +609,10 @@
           "source": "联合早报"
         },
         {
-          "title": "陈庆文：中共能否引领中国成为推动历史前行的力量？ - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TnRvOTltT2dKeWk4dUpVTEZHS2Znc3FQUUJHMlFpc2VjejdiODBFaEFoWlItWmdKNy1DZnBKSEFqTVlPOVBpSzNKTmhwRmZyZ2l6eFc0NkYwMWl5SnU5dVk0eTl0QkhQYkp3?oc=5",
-          "published": "Sun, 26 Jul 2026 11:30:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE82TnRvOTltT2dKeWk4dUpVTEZHS2Znc3FQUUJHMlFpc2VjejdiODBFaEFoWlItWmdKNy1DZnBKSEFqTVlPOVBpSzNKTmhwRmZyZ2l6eFc0NkYwMWl5SnU5dVk0eTl0QkhQYkp3?oc=5\" target=\"_blank\">陈庆文：中共能否引领中国成为推动历史前行的力量？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "title": "美日菲军演提升南中国海协同 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5",
+          "published": "Sun, 26 Jul 2026 10:07:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5\" target=\"_blank\">美日菲军演提升南中国海协同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
