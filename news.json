@@ -1,89 +1,148 @@
 {
-  "updated": "2026-07-26T12:40:08.093136+00:00",
-  "summary_analysis": "【核心主线】\n当前全球市场与地缘政治呈现三大主线交织：一是中东冲突螺旋升级，红海、伊朗与也门胡塞武装的对抗加剧，油轮安全与能源供应面临严峻挑战（Bloomberg、WSJ、CNBC均有报道），油价逼近100美元对美联储政策构成压力；二是美国大选不确定性引发的政策摇摆，特朗普关税、邮件投票禁令等事件冲击市场情绪（Bloomberg、MarketWatch），科技股大幅回调，“特朗普交易”退潮；三是中美科技竞争白热化，AI芯片、无人机、人形机器人等领域制裁与反制频现（WSJ、SCMP），而中国半导体与AI公司仍获资本追捧（Bloomberg）。\n\n【市场与政策信号】\n市场信号：美股科技板块（Magnificent 7）单日市值蒸发近8000亿美元，特斯拉、Intel暴跌，AI股回调但机构仍看好其后市（Yahoo Finance）；债券市场波动率降至2007年低点，警示潜在风险（MarketWatch）；大宗商品方面，油价高企但需求端疲弱，逻辑存疑（Yahoo Finance）；欧洲航空因罢工和天气承压（BBC）。\n政策信号：美联储面临通胀与增长双重压力，降息预期趋弱（FT）；特朗普关税政策扩大至全球，贸易摩擦升温（MarketWatch）；欧盟软化对俄制裁以防中国接管LNG资产（SCMP）；印度青年抗议迫使政府让步（WSJ、FT）。\n\n【关键风险提示】\n1. 中东全面战争风险：伊朗、以色列、沙特与胡塞武装的多线冲突可能导致霍尔木兹海峡封锁，能源价格失控；2. 美国大选波动：特朗普政策反复与法律挑战加剧市场不确定性；3. 科技行业泡沫担忧：AI投资热潮与大规模裁员并行，估值回调风险累积；4. 大宗商品供需扭曲：油价上涨与需求疲软背离，可能引发滞胀。",
+  "updated": "2026-07-26T12:52:11.491325+00:00",
+  "summary_analysis": "❌ 分析生成失败",
   "important": [
     {
-      "title": "油价逼近100美元，美联储与同行面临利率焦点",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/oil-near-100-puts-fed-and-peers-in-interest-rate-spotlight",
-      "summary": "油价上涨加剧通胀压力，央行降息难度增加。",
-      "source": "彭博社"
+      "title": "Israeli strike kills a top Hamas security official in Gaza, medics and police say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
+      "published": "Sun, 26 Jul 2026 10:56:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5\" target=\"_blank\">Israeli strike kills a top Hamas security official in Gaza, medics and police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "美国暂停对伊朗夜间打击，红海紧张局势升级",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/us-pauses-iran-strikes-for-second-night-as-red-sea-tensions-rise",
-      "source": "彭博社"
+      "title": "Berlin Pride attack prompts grief and solidarity with LGBTQ community - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5",
+      "published": "Sun, 26 Jul 2026 10:14:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5\" target=\"_blank\">Berlin Pride attack prompts grief and solidarity with LGBTQ community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "'特朗普交易'在股市中转为输家",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "source": "彭博社"
+      "title": "Romania shoots down third Russian drone, as president calls breaches 'intolerable' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5",
+      "published": "Sun, 26 Jul 2026 09:45:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5\" target=\"_blank\">Romania shoots down third Russian drone, as president calls breaches 'intolerable'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "沙特石油仍可运出——但不再便宜或容易",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/saudi-oil-can-still-get-out-but-it-won-t-be-cheap-or-easy",
-      "source": "彭博社"
+      "title": "Germany pledges justice over Berlin Pride attack as police hunt suspect - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5",
+      "published": "Sun, 26 Jul 2026 10:24:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5\" target=\"_blank\">Germany pledges justice over Berlin Pride attack as police hunt suspect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "投资者押注美联储加息，油价飙升后概率上升",
-      "url": "https://www.ft.com/content/87654321-1234-5678-9abc-def012345678",
-      "source": "金融时报"
+      "title": "Israeli settlers set fire to West Bank mosques after deadly clash - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVBNcGd1UUxUT2Z6MUFrU1o4YW1XOVB5X2lXMVp4WFB5QjBlNkx2bnlocXdOVHFmMmozc1hXamVNQUdkZDl6SndsUmxrUWZXaDhadkMyZTdmektVVzQ0TkZVMWdleVRta01iUVhCWUplMnZGZVZpejc4SUNFYmlNTlBmWWVtdDczWWVYa2trT1BpRjZZaUQ5N1VWeVN2ajVOOVU1MTgyRVlhVTBFcFhpYUYtMnI1NjQ?oc=5",
+      "published": "Sun, 26 Jul 2026 10:43:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVBNcGd1UUxUT2Z6MUFrU1o4YW1XOVB5X2lXMVp4WFB5QjBlNkx2bnlocXdOVHFmMmozc1hXamVNQUdkZDl6SndsUmxrUWZXaDhadkMyZTdmektVVzQ0TkZVMWdleVRta01iUVhCWUplMnZGZVZpejc4SUNFYmlNTlBmWWVtdDczWWVYa2trT1BpRjZZaUQ5N1VWeVN2ajVOOVU1MTgyRVlhVTBFcFhpYUYtMnI1NjQ?oc=5\" target=\"_blank\">Israeli settlers set fire to West Bank mosques after deadly clash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "美国科技集团削减14万岗位，尽管AI支出激增",
-      "url": "https://www.ft.com/content/98765432-4321-8765-bcda-ef0123456789",
-      "source": "金融时报"
+      "title": "US, Japan join Philippines in South China Sea drills - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0VhbS0zQlBkMm9KY09jWXVlQ3h4eGdGekdhUzhDZW91ZjA4WHdiYVhGSXd3VDU4czY4U0x1TVltdDFONmJKdy15d0swNzhwTG9ZUjBvWHdkdjVrbFcxZkhMLUh2VFY3ZzlFck9NNDVfZmo4X084WGw2dFdfQkVheHBiQmg1aTh1SGlxQTNraVZOcGI4WmJZSEpqRHg?oc=5",
+      "published": "Sun, 26 Jul 2026 07:23:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0VhbS0zQlBkMm9KY09jWXVlQ3h4eGdGekdhUzhDZW91ZjA4WHdiYVhGSXd3VDU4czY4U0x1TVltdDFONmJKdy15d0swNzhwTG9ZUjBvWHdkdjVrbFcxZkhMLUh2VFY3ZzlFck9NNDVfZmo4X084WGw2dFdfQkVheHBiQmg1aTh1SGlxQTNraVZOcGI4WmJZSEpqRHg?oc=5\" target=\"_blank\">US, Japan join Philippines in South China Sea drills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "沙特阿拉伯对胡塞武装发动打击，回应伊朗袭击红海航运",
-      "url": "https://www.cnbc.com/2025/07/27/saudi-military-strikes-houthi-targets-in-yemen-after-iran-backed-militia-attacked-red-sea-shipping.html",
-      "source": "CNBC"
+      "title": "Main land crossing between Kuwait and Iraq reopens, Iraq's state news agency says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGRZN0lTUGJ5SmhKYWhGai1QM1RiZVM2X29OcFpJeHZrWk4wMlM1b1hXbUZhS29maFlydGZRc3lTUXNxRjJJcXRNUnN0Ri1RdEhxX01KMUhpdXlteFlpUVhMTjU0SlRSX2ZHVlZwUWphM08tTVgzZXFmdlZaNXVuRHA0dlY5c3AycngtM016WEFyRWtFbkR2eGEtNS0xY1p5Uzg2dnpyMjdLTVVGakpWOElldll1UExvSEVTQ0ltTFhtMnFGZFRlRw?oc=5",
+      "published": "Sun, 26 Jul 2026 07:37:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGRZN0lTUGJ5SmhKYWhGai1QM1RiZVM2X29OcFpJeHZrWk4wMlM1b1hXbUZhS29maFlydGZRc3lTUXNxRjJJcXRNUnN0Ri1RdEhxX01KMUhpdXlteFlpUVhMTjU0SlRSX2ZHVlZwUWphM08tTVgzZXFmdlZaNXVuRHA0dlY5c3AycngtM016WEFyRWtFbkR2eGEtNS0xY1p5Uzg2dnpyMjdLTVVGakpWOElldll1UExvSEVTQ0ltTFhtMnFGZFRlRw?oc=5\" target=\"_blank\">Main land crossing between Kuwait and Iraq reopens, Iraq's state news agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "五角大楼扩大黑名单，纳入中国顶尖公立大学",
-      "url": "https://www.scmp.com/news/china/military/article/3201234/pentagon-expands-blacklist-include-chinas-top-civilian-universities",
-      "source": "南华早报"
+      "title": "Rescuers scour South China Sea for 17 missing after Vietnamese vessel sinks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEVFTlpENmkxWUJOX1N4YTZ4Y0pKa0E3SUFiS2ktYV9ieWVRN1RmLUVpNDhPRk1ia0xtUXBLb2xNdW1wb0ltdjRNUGh2RnNPVDJQa0Q5bGFrMTZrOEt1bXQ4ek1rcW5jemlqMFZTM3FwQzIwQm5wak8wM3YxdXhGUzVNVUJFM3hvTFMtb1JzYWFlRVNjLUtKa24tSEdKa1dhUHdMMWFpNDdYd3NHS3RWSGhIR0ZkUEZOeUhN?oc=5",
+      "published": "Sun, 26 Jul 2026 03:48:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEVFTlpENmkxWUJOX1N4YTZ4Y0pKa0E3SUFiS2ktYV9ieWVRN1RmLUVpNDhPRk1ia0xtUXBLb2xNdW1wb0ltdjRNUGh2RnNPVDJQa0Q5bGFrMTZrOEt1bXQ4ek1rcW5jemlqMFZTM3FwQzIwQm5wak8wM3YxdXhGUzVNVUJFM3hvTFMtb1JzYWFlRVNjLUtKa24tSEdKa1dhUHdMMWFpNDdYd3NHS3RWSGhIR0ZkUEZOeUhN?oc=5\" target=\"_blank\">Rescuers scour South China Sea for 17 missing after Vietnamese vessel sinks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "Marvel unveils 'Ghost Rider,' 'Black Panther 3' at Comic-Con - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX05uWGZuRERrX3Nta2dzWXJhYldYQlhKRFhJSWc0TUdlQ3lFdlZwV1dMNmRtRF9BbV9xVW04d1NpM0NJVkNMWkxnTTh3eXZDd3UyTE0tdGZJSUtCbFdCWVhTZDZqb3QxNVU2cE54bFltSHVZc2hjd25BN2FzQ0laaFFJa3RSVFFuRWhUWC0ydkJfRFhSdkNTSXV6U0tLbnExSlBIYnBPQWU1eGxNcE52SA?oc=5",
+      "published": "Sun, 26 Jul 2026 02:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX05uWGZuRERrX3Nta2dzWXJhYldYQlhKRFhJSWc0TUdlQ3lFdlZwV1dMNmRtRF9BbV9xVW04d1NpM0NJVkNMWkxnTTh3eXZDd3UyTE0tdGZJSUtCbFdCWVhTZDZqb3QxNVU2cE54bFltSHVZc2hjd25BN2FzQ0laaFFJa3RSVFFuRWhUWC0ydkJfRFhSdkNTSXV6U0tLbnExSlBIYnBPQWU1eGxNcE52SA?oc=5\" target=\"_blank\">Marvel unveils 'Ghost Rider,' 'Black Panther 3' at Comic-Con</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "French firefighters battle to keep blazes from Bordeaux - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1FTUGloTndsT0I2Z1hqM1hrbjNsRXZEa05WUUZPbEo5NHNhQ0lWblNkaDN3RE5ZSjFQS0NXazRkR0ZDQUc3M3dCeERXcTM3V1hnX20zRE9SYXhQLUJWWFJCMGhaV2xKWVlYWkcxRWNoY09Xc0lTOVpvM3VuSFFQVGtOUFF0Vmo4eGh0Um5lMUo1ZjBnWjZ0YngxcjIyYkV6QllGTEV0Yw?oc=5",
+      "published": "Sun, 26 Jul 2026 11:11:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1FTUGloTndsT0I2Z1hqM1hrbjNsRXZEa05WUUZPbEo5NHNhQ0lWblNkaDN3RE5ZSjFQS0NXazRkR0ZDQUc3M3dCeERXcTM3V1hnX20zRE9SYXhQLUJWWFJCMGhaV2xKWVlYWkcxRWNoY09Xc0lTOVpvM3VuSFFQVGtOUFF0Vmo4eGh0Um5lMUo1ZjBnWjZ0YngxcjIyYkV6QllGTEV0Yw?oc=5\" target=\"_blank\">French firefighters battle to keep blazes from Bordeaux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     }
   ],
   "interest": [
     {
-      "title": "Nvidia从SK海力士锁定内存供应，作为5000亿美元AI交易的一部分",
-      "url": "https://www.cnbc.com/2025/07/27/nvidia-locks-down-memory-supply-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "source": "CNBC"
+      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
+      "published": "Sat, 25 Jul 2026 23:18:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5\" target=\"_blank\">Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
     },
     {
-      "title": "DeepSeek据报因病毒式传播暂停向投资者融资",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "title": "Major vehicle-ramming incidents in Germany since 2016 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5",
+      "published": "Sun, 26 Jul 2026 04:10:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUpYU2JTRzQyS1p4SjgxUVRBOWlhZFMtZy1aMXZTMktLVEJZaXJVbVc5UzVTY0ZWZDVJQWN2VHBEQ2JwQjV4bUxQM2xwZjZfSjJsWXB0TS1KMnJKeFFneUU5ZGJhalJSeVdWNzVtUTB0Y0d6dVVVa3BPSmw0cVl0RW9JV2YyNlRzM2FDMkdsQ001cE9RdHM0?oc=5\" target=\"_blank\">Major vehicle-ramming incidents in Germany since 2016</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "Southern China faces torrential rain, floods after Typhoon Noul makes landfall - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5",
+      "published": "Sun, 26 Jul 2026 00:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5\" target=\"_blank\">Southern China faces torrential rain, floods after Typhoon Noul makes landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "Vehicle mows down crowd at Berlin Pride festival, killing one - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5",
+      "published": "Sat, 25 Jul 2026 21:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5\" target=\"_blank\">Vehicle mows down crowd at Berlin Pride festival, killing one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "Joshua bounces back to secure knockout win over Prenga - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlBpRGpxa1hPbmxReHdmd2p6NldNU1l5Qi1pb2tYN0lncl9jV0RYQ2xjZ016YWdibWczNHJkV0o1dzA0bWx1cUpmdm1CX05PT2lBdXd0eEdIZWl1ampZVjJadFNaVVVCaHVYaVRQVmFEZjBWcllGM0h4ZWpfUEt5OFJ3aVJ6Smh5NE92NFFJMXNpTktHMnVVRE16T2FZV3dTSUlZ?oc=5",
+      "published": "Sat, 25 Jul 2026 23:14:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlBpRGpxa1hPbmxReHdmd2p6NldNU1l5Qi1pb2tYN0lncl9jV0RYQ2xjZ016YWdibWczNHJkV0o1dzA0bWx1cUpmdm1CX05PT2lBdXd0eEdIZWl1ampZVjJadFNaVVVCaHVYaVRQVmFEZjBWcllGM0h4ZWpfUEt5OFJ3aVJ6Smh5NE92NFFJMXNpTktHMnVVRE16T2FZV3dTSUlZ?oc=5\" target=\"_blank\">Joshua bounces back to secure knockout win over Prenga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "路透社"
+    },
+    {
+      "title": "US Pauses Iran Strikes for Second Night as Red Sea Tensions Rise - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVRXNGx5LUVaamFUNzZveUUtd2RTUDVxcGtoNW5acjl1NzJNSlFjSlA0aFNJWkNvRnJNUUZWUVFCU3RuUERaRGVZSzBIOWNsU05XRVVfeERBRFU3T0JQQXA4UXE0SzZLRWRRTi1PRWhFWXE4Mm9FU3RJb0FlMHIxTmQwNXhDSnYxVDJTQVZWMzJQTFd2a1lXdEJGX3Ixclp4WUJHbG5yNDBITWFFaW50MmVTVDIzdw?oc=5",
+      "published": "Sun, 26 Jul 2026 07:02:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVRXNGx5LUVaamFUNzZveUUtd2RTUDVxcGtoNW5acjl1NzJNSlFjSlA0aFNJWkNvRnJNUUZWUVFCU3RuUERaRGVZSzBIOWNsU05XRVVfeERBRFU3T0JQQXA4UXE0SzZLRWRRTi1PRWhFWXE4Mm9FU3RJb0FlMHIxTmQwNXhDSnYxVDJTQVZWMzJQTFd2a1lXdEJGX3Ixclp4WUJHbG5yNDBITWFFaW50MmVTVDIzdw?oc=5\" target=\"_blank\">US Pauses Iran Strikes for Second Night as Red Sea Tensions Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "source": "彭博社"
     },
     {
-      "title": "芬兰的激进答案：世界上最大的沙电池解决可再生能源头痛问题",
-      "url": "https://www.cnbc.com/2025/07/27/finlands-radical-answer-to-renewable-energys-biggest-headache-the-worlds-largest-sand-battery.html",
-      "source": "CNBC"
+      "title": "Memory Frenzy Primes China Champion CXMT for Historic Debut - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXVyVTFvNFZSX2RCU2NBa1FZaVF6S1dWdDJodkZFYWJNTzVwdmpQLVRnRFFDbzY2dmVFR3JwRHBpRFVuc2IzbTA5V05GV1FlMktBSE5TT3ppQm5rRVZ4UUZlQlhUR0U1X0w0VjdfaExtdGh1Y2tmZlJfTGw1bGg5X2ZaY2tmSkswTjZVWXAtT1Q3WDlzUUFCbEtJM0xONnFlX0pIZlc5OVpzTXpDQzJr?oc=5",
+      "published": "Sun, 26 Jul 2026 00:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXVyVTFvNFZSX2RCU2NBa1FZaVF6S1dWdDJodkZFYWJNTzVwdmpQLVRnRFFDbzY2dmVFR3JwRHBpRFVuc2IzbTA5V05GV1FlMktBSE5TT3ppQm5rRVZ4UUZlQlhUR0U1X0w0VjdfaExtdGh1Y2tmZlJfTGw1bGg5X2ZaY2tmSkswTjZVWXAtT1Q3WDlzUUFCbEtJM0xONnFlX0pIZlc5OVpzTXpDQzJr?oc=5\" target=\"_blank\">Memory Frenzy Primes China Champion CXMT for Historic Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "source": "彭博社"
     },
     {
-      "title": "美国考虑禁止中国类人机器人，中美技术竞争加剧",
-      "url": "https://www.scmp.com/news/china/military/article/3202234/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies",
-      "source": "南华早报"
+      "title": "Trump’s Mail Voting Plan Blocked as Appeals Court Favors States - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk9uSnBOcXp1VzZkeVdHNjJrcElZMXVmUnZDdDZxNlBnYmNhVV9aV2FjSFFtYkRZSm80am9lamNmeGctRi00b3ZfSUpUYTZYMC1md0V5bS1wbVlvVWxMYk1xeXFCb3BsWGhQZWJISlAtWnZlVllHX1R4bGl5Nm4tSXJpZDlJazVsalJ3aVhxdHF3bVptdHNEcEw1TDVIVmgtZ2M1d1J4Sjc3QllsdmRLSTQ5SmE?oc=5",
+      "published": "Sat, 25 Jul 2026 19:21:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk9uSnBOcXp1VzZkeVdHNjJrcElZMXVmUnZDdDZxNlBnYmNhVV9aV2FjSFFtYkRZSm80am9lamNmeGctRi00b3ZfSUpUYTZYMC1md0V5bS1wbVlvVWxMYk1xeXFCb3BsWGhQZWJISlAtWnZlVllHX1R4bGl5Nm4tSXJpZDlJazVsalJ3aVhxdHF3bVptdHNEcEw1TDVIVmgtZ2M1d1J4Sjc3QllsdmRLSTQ5SmE?oc=5\" target=\"_blank\">Trump’s Mail Voting Plan Blocked as Appeals Court Favors States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "source": "彭博社"
     },
     {
-      "title": "美国与中国在珠穆朗玛峰上争夺无人机霸权",
-      "url": "https://www.wsj.com/articles/u-s-and-china-are-jockeying-for-drone-supremacy-on-mount-everest-0123456789",
-      "source": "华尔街日报"
+      "title": "US Pauses Nightly Strikes on Iran as Houthis, Saudis Clash - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXhGaVlOdlhXNi1aZkxSUUxyeENlTmxCSzJpZlAzaV94UUUzaVV3YTJ2aXUtc01EUlVhdGdtSldTaGw1c2dIZHE2dEZ5LXJvOWZINW41bVpfdGJSVTAxc29zMU1nT0JlSEVjUXM2d0diclRvWmdESUk5OTY4Sks5cExObVUtZ0NtcXpWbHVQR3NpSDNfUnFMd3UwQTcycVFob1U3b09aZ01mT3d3c2lka0NZTQ?oc=5",
+      "published": "Sun, 26 Jul 2026 01:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXhGaVlOdlhXNi1aZkxSUUxyeENlTmxCSzJpZlAzaV94UUUzaVV3YTJ2aXUtc01EUlVhdGdtSldTaGw1c2dIZHE2dEZ5LXJvOWZINW41bVpfdGJSVTAxc29zMU1nT0JlSEVjUXM2d0diclRvWmdESUk5OTY4Sks5cExObVUtZ0NtcXpWbHVQR3NpSDNfUnFMd3UwQTcycVFob1U3b09aZ01mT3d3c2lka0NZTQ?oc=5\" target=\"_blank\">US Pauses Nightly Strikes on Iran as Houthis, Saudis Clash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "source": "彭博社"
     },
     {
-      "title": "Waymo探索与Uber分拆，机器人出租车紧张加剧",
-      "url": "https://www.ft.com/content/12345678-9abc-def0-1234-56789abcdef0",
-      "source": "金融时报"
-    },
-    {
-      "title": "韩国AI赢家的现金充裕，大举在美国收购",
-      "url": "https://www.ft.com/content/abcdef01-2345-6789-abcd-ef0123456789",
-      "source": "金融时报"
-    },
-    {
-      "title": "从硅谷到华盛顿，科技界突然痴迷于AI蒸馏概念",
-      "url": "https://www.cnbc.com/2025/07/27/from-silicon-valley-to-dc-the-tech-world-is-suddenly-obsessed-with-one-concept-in-ai-distillation.html",
-      "source": "CNBC"
+      "title": "Over 300,000 People Flee Homes as France, Spain Battle Wildfires - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5",
+      "published": "Sun, 26 Jul 2026 07:57:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5\" target=\"_blank\">Over 300,000 People Flee Homes as France, Spain Battle Wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "source": "彭博社"
     }
   ],
   "sources": {
@@ -92,6 +151,13 @@
       "name_cn": "路透社",
       "count": 15,
       "articles": [
+        {
+          "title": "Israeli strike kills a top Hamas security official in Gaza, medics and police say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
+          "published": "Sun, 26 Jul 2026 10:56:32 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5\" target=\"_blank\">Israeli strike kills a top Hamas security official in Gaza, medics and police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
         {
           "title": "Berlin Pride attack prompts grief and solidarity with LGBTQ community - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5",
@@ -104,13 +170,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5",
           "published": "Sun, 26 Jul 2026 09:45:10 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ2FyQWFjNUx3VkRnVmh1S0pMM1BYaFdDRDNzQklwZ3BaLXpGc0pfTEJ0RVhOeFFCU0ZLbkpCSVExSHlIUUY0a0tiX0YwSXZoSDdkZ2VvT3lFVE9kZ2U5a1VvZkVKSksyMzR1d05KMkhxQlYzRnhGRzdnUHdoZndobkFobnA5M0JxM0M0LWxZOHhid1NMMDdHLVc4M0xnTDdJZ1VGVU5CV0pJYmgtUldkV0dwaEJ3UTNaOHc3Uk80X1lZRFNTSWFPNnhFNExFOG9yX1JXZlh3?oc=5\" target=\"_blank\">Romania shoots down third Russian drone, as president calls breaches 'intolerable'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Israeli strike kills a top Hamas security official in Gaza, medics and police say - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
-          "published": "Sun, 26 Jul 2026 10:56:32 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5\" target=\"_blank\">Israeli strike kills a top Hamas security official in Gaza, medics and police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
@@ -177,17 +236,17 @@
           "source": "路透社"
         },
         {
+          "title": "Southern China faces torrential rain, floods after Typhoon Noul makes landfall - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5",
+          "published": "Sun, 26 Jul 2026 00:15:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5\" target=\"_blank\">Southern China faces torrential rain, floods after Typhoon Noul makes landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "source": "路透社"
+        },
+        {
           "title": "Vehicle mows down crowd at Berlin Pride festival, killing one - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5",
           "published": "Sat, 25 Jul 2026 21:05:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnQ4WGk3NlZjNmNGamVJNW95bk1mNHhmSmlYeTF1aVhRbkhtaUQ0VnZrZk1EUV9XdkhLVERhYmY0SzdINGNLaUotLTA1NG9zOEZSYmR1WWsydFlDVHdzdUp0bFNIVjFLWDI5LTJYbVVtWFZ3SzcydzRFLUZJb2pvMGpMQXBsRHlTLV9rbWRhTDBOWTJFaGgxOE1Kak5LNXFmMFRXdFFhdXU?oc=5\" target=\"_blank\">Vehicle mows down crowd at Berlin Pride festival, killing one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "source": "路透社"
-        },
-        {
-          "title": "Southern China faces torrential rain, flood risk after Typhoon Noul hits land - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5",
-          "published": "Sun, 26 Jul 2026 00:15:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPei03bzZKTWJfYWxESGxYN0t1OURsLWNyZUllSlFDVFZiWkFJekRUMTM1WnpLU1lmSDB4RlhTOEZrRFZFYnd5Zm0wc29uVXYtRURSdmJRc19fRVM0OW1VLU5YcHdBY3lVR1AxUFdqbF81aXl4NkJQUkhHZGhhVHZ0UVM5ZEZFOEVqYWlvNFBJVThBYnBOdWV2TG84SjRCMUFrSjBNZ01jRi0yUGgx?oc=5\" target=\"_blank\">Southern China faces torrential rain, flood risk after Typhoon Noul hits land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
@@ -233,9 +292,16 @@
           "source": "彭博社"
         },
         {
+          "title": "Over 300,000 People Flee Homes as France, Spain Battle Wildfires - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5",
+          "published": "Sun, 26 Jul 2026 07:57:02 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5\" target=\"_blank\">Over 300,000 People Flee Homes as France, Spain Battle Wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
           "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
-          "published": "Sat, 25 Jul 2026 20:00:00 GMT",
+          "published": "Sun, 26 Jul 2026 08:55:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5\" target=\"_blank\">Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
@@ -268,13 +334,6 @@
           "source": "彭博社"
         },
         {
-          "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5",
-          "published": "Sat, 25 Jul 2026 13:00:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5\" target=\"_blank\">The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
           "title": "Katy Perry Decries White House Using ‘Firework’ in Iran War Post - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTU5czUxUGtLTEZCSnhZZjFfRk9EZDRidWw0TXZVajhZUUxmOERBYnlJYlZLUVZndEsxTWhySHdZUUdNRU1qUl9wbXcyVnRtVHRxVjdJdVRRRENlXzRFU0kxSlUwc3hPaGhFMHdmb0ZpQlhiZl9tQWxEU0NTcVhNdDZKSUpjTmRnRDhRM0VEYm9UNmdLTHJobDR6di1RVWh1a21LZDBPd1lzZGNNclZjWTg0aw?oc=5",
           "published": "Sat, 25 Jul 2026 17:02:38 GMT",
@@ -282,10 +341,10 @@
           "source": "彭博社"
         },
         {
-          "title": "Over 300,000 People Flee Homes as France, Spain Battle Wildfires - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5",
-          "published": "Sun, 26 Jul 2026 07:57:02 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5\" target=\"_blank\">Over 300,000 People Flee Homes as France, Spain Battle Wildfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5",
+          "published": "Sat, 25 Jul 2026 13:00:01 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5\" target=\"_blank\">The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
@@ -359,17 +418,17 @@
           "source": "华尔街日报"
         },
         {
-          "title": "Suspect in Deadly Berlin Pride Attack Had Been Investigated for Terrorism Plans - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWFDLXAteFJRT1pSdWlmdXdsa3lTSElDR3czZFhENUJHNkVIWWRxQ2xFVzFDUS1FamNpTnlhdl9RWS1aQzZJbHAwcC1EUGkwQk9DSHFvaTdjVy14MkR0N1FLVkljcVRTaXdjczBrNnhnTlhISmVYM3lGa2Jvb1hNV1ZJc2EzR01Od1RTQU1PUUtuQmxmQ2NnUHZ6YWE?oc=5",
-          "published": "Sun, 26 Jul 2026 11:01:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWFDLXAteFJRT1pSdWlmdXdsa3lTSElDR3czZFhENUJHNkVIWWRxQ2xFVzFDUS1FamNpTnlhdl9RWS1aQzZJbHAwcC1EUGkwQk9DSHFvaTdjVy14MkR0N1FLVkljcVRTaXdjczBrNnhnTlhISmVYM3lGa2Jvb1hNV1ZJc2EzR01Od1RTQU1PUUtuQmxmQ2NnUHZ6YWE?oc=5\" target=\"_blank\">Suspect in Deadly Berlin Pride Attack Had Been Investigated for Terrorism Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-          "source": "华尔街日报"
-        },
-        {
           "title": "How to Start ‘the Talk’ With Aging Parents - WSJ",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0wtSjFWS01MS29iTkJZUlJxbE52a0MwNzlVU0pSZFI0WFJ2WENBSUtYY3cxeE9WcC1WWE1jSUVhbXdyelctbFY2VHdGUElxRFdOX2huakJ0S0ptMkJMeHZwZ1pYQ0VaUG1paUFKaUg3SnJNaFp2X0ZjNW50ZWJZY2dOYWg0WEZUWkZ0b1ln?oc=5",
           "published": "Sat, 25 Jul 2026 14:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0wtSjFWS01MS29iTkJZUlJxbE52a0MwNzlVU0pSZFI0WFJ2WENBSUtYY3cxeE9WcC1WWE1jSUVhbXdyelctbFY2VHdGUElxRFdOX2huakJ0S0ptMkJMeHZwZ1pYQ0VaUG1paUFKaUg3SnJNaFp2X0ZjNW50ZWJZY2dOYWg0WEZUWkZ0b1ln?oc=5\" target=\"_blank\">How to Start ‘the Talk’ With Aging Parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+          "source": "华尔街日报"
+        },
+        {
+          "title": "Suspect in Deadly Berlin Pride Attack Had Been Investigated for Terrorism Plans - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWFDLXAteFJRT1pSdWlmdXdsa3lTSElDR3czZFhENUJHNkVIWWRxQ2xFVzFDUS1FamNpTnlhdl9RWS1aQzZJbHAwcC1EUGkwQk9DSHFvaTdjVy14MkR0N1FLVkljcVRTaXdjczBrNnhnTlhISmVYM3lGa2Jvb1hNV1ZJc2EzR01Od1RTQU1PUUtuQmxmQ2NnUHZ6YWE?oc=5",
+          "published": "Sun, 26 Jul 2026 11:01:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWFDLXAteFJRT1pSdWlmdXdsa3lTSElDR3czZFhENUJHNkVIWWRxQ2xFVzFDUS1FamNpTnlhdl9RWS1aQzZJbHAwcC1EUGkwQk9DSHFvaTdjVy14MkR0N1FLVkljcVRTaXdjczBrNnhnTlhISmVYM3lGa2Jvb1hNV1ZJc2EzR01Od1RTQU1PUUtuQmxmQ2NnUHZ6YWE?oc=5\" target=\"_blank\">Suspect in Deadly Berlin Pride Attack Had Been Investigated for Terrorism Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
         {
@@ -382,7 +441,7 @@
         {
           "title": "Is Cutting Off Mom and Dad Bad Advice? - WSJ",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmJDYl9ucGxYR1Q1cWhmeXdtM1prNmQzalVUNDB0X1U5WERhdUtaWm82ZGstR01aall6ZEt4bGdkRDZPME44MldpSlBmMG5OZkJHRERMNkFiaWpnbDhMZ2dxNnoyenJsZVZMYURWY3l0Z3V0S2ZyNmh4U2VxUkJSc0ZhY0pNNjM2Y01n?oc=5",
-          "published": "Sat, 25 Jul 2026 11:50:00 GMT",
+          "published": "Sat, 25 Jul 2026 11:52:10 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmJDYl9ucGxYR1Q1cWhmeXdtM1prNmQzalVUNDB0X1U5WERhdUtaWm82ZGstR01aall6ZEt4bGdkRDZPME44MldpSlBmMG5OZkJHRERMNkFiaWpnbDhMZ2dxNnoyenJsZVZMYURWY3l0Z3V0S2ZyNmh4U2VxUkJSc0ZhY0pNNjM2Y01n?oc=5\" target=\"_blank\">Is Cutting Off Mom and Dad Bad Advice?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
           "source": "华尔街日报"
         },
@@ -464,13 +523,6 @@
           "source": "金融时报"
         },
         {
-          "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5",
-          "published": "Sat, 25 Jul 2026 08:44:03 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5\" target=\"_blank\">Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
           "title": "India’s ‘Cockroach’ Gen Z has had enough - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYW5UQ3ljR1U5NVlmcS11SnBPekt4MnlpdVRCOU9rRUlCdmt0Ynk1eENBVnRUTFIxclV0Qi0xbnpBbFg5ajJSb0xxb3pmVjVvcGRLZ1pMTkVRZzBDenJTNUJpN2ZpTUozNFZoS2ZKWHg?oc=5",
           "published": "Sat, 25 Jul 2026 04:05:07 GMT",
@@ -478,10 +530,10 @@
           "source": "金融时报"
         },
         {
-          "title": "Waymo explores split with Uber as robotaxi tensions deepen - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5",
-          "published": "Fri, 24 Jul 2026 19:15:14 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5\" target=\"_blank\">Waymo explores split with Uber as robotaxi tensions deepen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5",
+          "published": "Sat, 25 Jul 2026 08:44:03 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWhXMjE4TldfMlFHN1dja0hMZ0RmcVR2WElFRWVWQnQxNG1ha1R2YjBSU3RLRm1OQXRUTW5NbXMwa1BjQzNPXzR5ZGpWMVRHd0ZrV0Jkd2xqOURLN21yT1h6V3o0SkF4TW8ycWZoLTZfN2VSeE5yOEo3cXMzMFluMm9zaUE?oc=5\" target=\"_blank\">Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -496,6 +548,13 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklzSGtYV3N6VWw4c3JXMmxMYk5PbktqTVBtTjJ2NHBrQ3lZM2dMQmFlNXBINzhyZGZ2TllkSWt0YXp3Z2xmemE4a1hJMG53LXNib2xkZVE1eV82Y0dkay1KSk14OElERmt2UjZOYUgtMXZfOU1IdUJKeF9xZ2tnX29TOEc?oc=5",
           "published": "Sat, 25 Jul 2026 09:30:09 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMklzSGtYV3N6VWw4c3JXMmxMYk5PbktqTVBtTjJ2NHBrQ3lZM2dMQmFlNXBINzhyZGZ2TllkSWt0YXp3Z2xmemE4a1hJMG53LXNib2xkZVE1eV82Y0dkay1KSk14OElERmt2UjZOYUgtMXZfOU1IdUJKeF9xZ2tnX29TOEc?oc=5\" target=\"_blank\">Chart of the Week: Who owns shares?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Waymo explores split with Uber as robotaxi tensions deepen - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5",
+          "published": "Fri, 24 Jul 2026 19:15:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19hOTVtaDdGWE5tOERqa04tSHRuVG1nSHYyc3VGbXp1T2c5YWJHZlREcnQyeWZKWTc4UFZZQkJncXFsMFJud0ZvZExlbFFCaGNvVmplSTBfSFdnaGRIelUzVlNiV096cTBTd3lGc1hBTnp5NWJ3RkpCY2pGNlJHYldaUVY?oc=5\" target=\"_blank\">Waymo explores split with Uber as robotaxi tensions deepen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
         {
@@ -559,6 +618,13 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2k5eVJndXBqeDZGb0tjRlZkZlhyWlJNRHFZMHg5WWxENGdCUjlHTFZQQ05MalVfS1p3ZkNnS2xNWWVRQmhGamxoZ2ZWUEtDVUtadVJyZFEyVWVJT2ZJbW1HdnJBOHBQVjVobDZ4TG5QTEwtQkRDWjc5Uk9qcXFrNnlfZVU3T0FuRV9GOE0yeU9rWERjbHluSllNR1p2QjhFRjlQSlV30gGrAUFVX3lxTFA2ZE9DWUFleDBLdWNRck5ha0gzMjlpbzJ4RmJFTGQ1T0tXeXoxNlgwMkREZWgtZDhZN3JUM3Bfc2FaRWd2Nml5ZW1weXRwZDQwdy0xRHJTSzcyYUpCNnJ2ZUN0UHFrcnNjVThES1d3YXhFdlB0VVR2bDRQLWtTWUtRdU52MjlBVF9yQ1A5emJVNnB3TFdLTGNzYWdZX0gwaEkxY202TWFBa2hrcw?oc=5",
           "published": "Sat, 25 Jul 2026 20:12:54 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2k5eVJndXBqeDZGb0tjRlZkZlhyWlJNRHFZMHg5WWxENGdCUjlHTFZQQ05MalVfS1p3ZkNnS2xNWWVRQmhGamxoZ2ZWUEtDVUtadVJyZFEyVWVJT2ZJbW1HdnJBOHBQVjVobDZ4TG5QTEwtQkRDWjc5Uk9qcXFrNnlfZVU3T0FuRV9GOE0yeU9rWERjbHluSllNR1p2QjhFRjlQSlV30gGrAUFVX3lxTFA2ZE9DWUFleDBLdWNRck5ha0gzMjlpbzJ4RmJFTGQ1T0tXeXoxNlgwMkREZWgtZDhZN3JUM3Bfc2FaRWd2Nml5ZW1weXRwZDQwdy0xRHJTSzcyYUpCNnJ2ZUN0UHFrcnNjVThES1d3YXhFdlB0VVR2bDRQLWtTWUtRdU52MjlBVF9yQ1A5emJVNnB3TFdLTGNzYWdZX0gwaEkxY202TWFBa2hrcw?oc=5\" target=\"_blank\">U.S. appeals court rules Trump cannot implement mail-in voting order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act' - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5",
+          "published": "Sun, 26 Jul 2026 10:14:39 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5\" target=\"_blank\">Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
         },
         {
@@ -637,13 +703,6 @@
           "published": "Fri, 24 Jul 2026 23:57:33 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGdkTDRLMGdfY05vSGZrYzl4bXFNa0I1Z2RoUU1MMmoxbFNmd2NKV2tBcnNSRXpaMm0wUGJaZWZqZGk5RkI2dmh3VVlfMHd5dVQ1bWdFQ0ZkRmJMaTZPeEZ4WmVrQ3JFd2I2X2xWSVI2ZGVyLUhsWUpZZ0tCR3ZHOWFZSDBiQmF6aF9vbXVmeTNRTk9GRXpsU3NUZ0dIMjhkVmR6X1dnRk15TlnSAbABQVVfeXFMTUQzSm1BdGdMUGFjWlJCb3h4QkE0ZHZKUTdIMTMwQ1VUN0M5T2o4cXhVRktHMXdrS0llRTc0SUpkdGxtOHB2QzhTdnlwbUZTMHlqYk9QUDAzdl9vNGFkU2UybVk1NzU2X0J1eUU5Q2tVN3U1V3EtSmh3Ni1DZlZIVGpMQUFnWEZ0RjNxWWE3SU5aOU1YN2JkLVpyUm5YMmZBM0xYZHFRR2E0OG94QUVsRi0?oc=5\" target=\"_blank\">SpaceX launches massive Starship rocket in first test flight since IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
           "source": "CNBC"
-        },
-        {
-          "title": "Morgan Stanley says buy these stocks ahead of their earnings, before it's too late - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BWmNYMWYzZkJKX05uYUI0VGxiV0pfMDA4N3owcUZZd3JJUWlYNXhQZ3lHOXdDd3VzTjdIb1JORS1QbHZlNWpVa0F0cUY4VFhKU3hRWFNEYjhLYlZmU0dIV1hXMGdiNEhZU215VmcwTkdzWWRXNmlaSXFR?oc=5",
-          "published": "Sat, 25 Jul 2026 12:47:39 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9BWmNYMWYzZkJKX05uYUI0VGxiV0pfMDA4N3owcUZZd3JJUWlYNXhQZ3lHOXdDd3VzTjdIb1JORS1QbHZlNWpVa0F0cUY4VFhKU3hRWFNEYjhLYlZmU0dIV1hXMGdiNEhZU215VmcwTkdzWWRXNmlaSXFR?oc=5\" target=\"_blank\">Morgan Stanley says buy these stocks ahead of their earnings, before it's too late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-          "source": "CNBC"
         }
       ]
     },
@@ -668,9 +727,9 @@
         },
         {
           "title": "Typhoon Noul: 360 flights cancelled as Hong Kong lowers T3 signal to T1 - South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnd2Zl9zU2pWQ0xTZzg3NzhqWTJwM0d5LU83VmI1NThVdVpTSENQaG1mVG1RS2lQMzBWMk5ld2tieGRsUnZJQWRuQ3Etb3RFZlQ5LU1uTkVISlN6U3FaVzQzaFgybE5JR3JqRlVNVE8wZExONnJNNEx1cnphOGtPcTk3THQ0ek1fRWduMTZ2MHE5dk9mRmpnV3NrNmtTN1N1dVBrQ3BXX2pyUEpSbW9zemRR0gGyAUFVX3lxTE9jLVI4LUVWU0ZnazZSVksyRUdvOVNaaWdzOUNHaThrZk03UXZhZVN4a1hSc05Kd25PZldlSmtZMmxFaUtGS25zZ3FlWmhPNnQ4MnVjeEFKd0l5ckpPUWJtcHRYN1lDaFVnR1pFSVpDemszQ005bkdNaWtObDlmd1hLWENVS2NzX2VpN18wR0FvdEpSOHRMN3AxWWZSN3RtamRNNE9IN3VmMWs3R2pFaTBaUFE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnd2Zl9zU2pWQ0xTZzg3NzhqWTJwM0d5LU83VmI1NThVdVpTSENQaG1mVG1RS2lQMzBWMk5ld2tieGRsUnZJQWRuQ3Etb3RFZlQ5LU1uTkVISlN6U3FaVzQzaFgybE5JR3JqRlVNVE8wZExONnJNNEx1cnphOGtPcTk3THQ0ek1fRWduMTZ2MHE5dk9mRmpnV3NrNmtTN1N1dVBrQ3BXX2pyUEpSbW9zemRR?oc=5",
           "published": "Sat, 25 Jul 2026 23:48:26 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnd2Zl9zU2pWQ0xTZzg3NzhqWTJwM0d5LU83VmI1NThVdVpTSENQaG1mVG1RS2lQMzBWMk5ld2tieGRsUnZJQWRuQ3Etb3RFZlQ5LU1uTkVISlN6U3FaVzQzaFgybE5JR3JqRlVNVE8wZExONnJNNEx1cnphOGtPcTk3THQ0ek1fRWduMTZ2MHE5dk9mRmpnV3NrNmtTN1N1dVBrQ3BXX2pyUEpSbW9zemRR0gGyAUFVX3lxTE9jLVI4LUVWU0ZnazZSVksyRUdvOVNaaWdzOUNHaThrZk03UXZhZVN4a1hSc05Kd25PZldlSmtZMmxFaUtGS25zZ3FlWmhPNnQ4MnVjeEFKd0l5ckpPUWJtcHRYN1lDaFVnR1pFSVpDemszQ005bkdNaWtObDlmd1hLWENVS2NzX2VpN18wR0FvdEpSOHRMN3AxWWZSN3RtamRNNE9IN3VmMWs3R2pFaTBaUFE?oc=5\" target=\"_blank\">Typhoon Noul: 360 flights cancelled as Hong Kong lowers T3 signal to T1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnd2Zl9zU2pWQ0xTZzg3NzhqWTJwM0d5LU83VmI1NThVdVpTSENQaG1mVG1RS2lQMzBWMk5ld2tieGRsUnZJQWRuQ3Etb3RFZlQ5LU1uTkVISlN6U3FaVzQzaFgybE5JR3JqRlVNVE8wZExONnJNNEx1cnphOGtPcTk3THQ0ek1fRWduMTZ2MHE5dk9mRmpnV3NrNmtTN1N1dVBrQ3BXX2pyUEpSbW9zemRR?oc=5\" target=\"_blank\">Typhoon Noul: 360 flights cancelled as Hong Kong lowers T3 signal to T1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
           "source": "南华早报"
         },
         {
@@ -842,10 +901,10 @@
           "source": "MarketWatch"
         },
         {
-          "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend? - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5",
-          "published": "Sun, 26 Jul 2026 12:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5\" target=\"_blank\">‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "title": "The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening. - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm1QREptNGRadXROdnA3ajVJM3lPclVIaFdLXzdEWGFUZ3ROYndzQVJ5blJDVUprYUVaQXplVWZCaVhlZUE3NmFYczVRUkhsSVFfR3ZZLS1QTGlkaE8wQnRmT0ZhY0lYWTB2dExQbTgxVFVUVHI3SG5KMGMxckhzZk9pX2hqbDhVajFZZWFEX3VzVW00dy1TTDBFWGZtT3B2R1ZfTFV2UzBpbVVVMktSZDFYejMwalV0SGZPdC16WEQ3NE9SSVhac3BwUnBpMm1SMzZaUWpoRDBzMHlaTFNLLVFoZ3VzNnNHQlhNRTJFLTNaWDA?oc=5",
+          "published": "Sat, 25 Jul 2026 16:27:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm1QREptNGRadXROdnA3ajVJM3lPclVIaFdLXzdEWGFUZ3ROYndzQVJ5blJDVUprYUVaQXplVWZCaVhlZUE3NmFYczVRUkhsSVFfR3ZZLS1QTGlkaE8wQnRmT0ZhY0lYWTB2dExQbTgxVFVUVHI3SG5KMGMxckhzZk9pX2hqbDhVajFZZWFEX3VzVW00dy1TTDBFWGZtT3B2R1ZfTFV2UzBpbVVVMktSZDFYejMwalV0SGZPdC16WEQ3NE9SSVhac3BwUnBpMm1SMzZaUWpoRDBzMHlaTFNLLVFoZ3VzNnNHQlhNRTJFLTNaWDA?oc=5\" target=\"_blank\">The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
           "source": "MarketWatch"
         },
         {
@@ -856,17 +915,17 @@
           "source": "MarketWatch"
         },
         {
-          "title": "The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening. - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm1QREptNGRadXROdnA3ajVJM3lPclVIaFdLXzdEWGFUZ3ROYndzQVJ5blJDVUprYUVaQXplVWZCaVhlZUE3NmFYczVRUkhsSVFfR3ZZLS1QTGlkaE8wQnRmT0ZhY0lYWTB2dExQbTgxVFVUVHI3SG5KMGMxckhzZk9pX2hqbDhVajFZZWFEX3VzVW00dy1TTDBFWGZtT3B2R1ZfTFV2UzBpbVVVMktSZDFYejMwalV0SGZPdC16WEQ3NE9SSVhac3BwUnBpMm1SMzZaUWpoRDBzMHlaTFNLLVFoZ3VzNnNHQlhNRTJFLTNaWDA?oc=5",
-          "published": "Sat, 25 Jul 2026 16:27:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm1QREptNGRadXROdnA3ajVJM3lPclVIaFdLXzdEWGFUZ3ROYndzQVJ5blJDVUprYUVaQXplVWZCaVhlZUE3NmFYczVRUkhsSVFfR3ZZLS1QTGlkaE8wQnRmT0ZhY0lYWTB2dExQbTgxVFVUVHI3SG5KMGMxckhzZk9pX2hqbDhVajFZZWFEX3VzVW00dy1TTDBFWGZtT3B2R1ZfTFV2UzBpbVVVMktSZDFYejMwalV0SGZPdC16WEQ3NE9SSVhac3BwUnBpMm1SMzZaUWpoRDBzMHlaTFNLLVFoZ3VzNnNHQlhNRTJFLTNaWDA?oc=5\" target=\"_blank\">The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-          "source": "MarketWatch"
-        },
-        {
           "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0diRmdFUlZYZm94UGZwN3Z5NnloOTRNXzJ3UUhuYm9NaVRTNG9MXzUweXMxekJTSk1icnQxbGNNckhUUU9UMXZhbGd1V3RhUmU4YVRHbUN2VFpiY1Vkc3NpRmVxc09nUTc4WFFydzVaVm41bDhjWm1OX1A0VEo3bjhOdUItZ1p1VVM4SXpzZWdsM0htZEItR2FiWWdMN3NSODJxV2IyQnBmLXhjaXAzXw?oc=5",
           "published": "Sat, 25 Jul 2026 17:09:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0diRmdFUlZYZm94UGZwN3Z5NnloOTRNXzJ3UUhuYm9NaVRTNG9MXzUweXMxekJTSk1icnQxbGNNckhUUU9UMXZhbGd1V3RhUmU4YVRHbUN2VFpiY1Vkc3NpRmVxc09nUTc4WFFydzVaVm41bDhjWm1OX1A0VEo3bjhOdUItZ1p1VVM4SXpzZWdsM0htZEItR2FiWWdMN3NSODJxV2IyQnBmLXhjaXAzXw?oc=5\" target=\"_blank\">This is the ideal retirement strategy if you want to keep your healthcare costs down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Fed’s favorite inflation tracker is getting an overhaul — just as the central bank weighs interest-rate hikes. What’s going on? - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT2V5VWxWNGVTOWhwdTFEVTYtVzVCenNfY3pmM0VZbzl2d3BNbWc1TVl0QTNTck9FX2s2ck50MHZNcGN1V0dvZmlDSERQYVVway0xbXdLamFOYmFEbGc3WUVWMHBKVjM5VUNjQmlnM1h0RWd3bUVSWmtKTjRyUXZIV2FxYUJmZlVnclpBYm5yYWdDMzFTY1N5T2xtSlZ2dVM1RS1FcUFZUmluM0k5WGt1Ri1YalZJZ1FtTTVjQXhhRW9KSnhRbWZBR1FCems1Qkp5Y1NPaDAxVHgxbkJmQU9Uc2lGcHFwUE56TXRiTG9hTW4wcmVxQlJB?oc=5",
+          "published": "Wed, 22 Jul 2026 15:44:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT2V5VWxWNGVTOWhwdTFEVTYtVzVCenNfY3pmM0VZbzl2d3BNbWc1TVl0QTNTck9FX2s2ck50MHZNcGN1V0dvZmlDSERQYVVway0xbXdLamFOYmFEbGc3WUVWMHBKVjM5VUNjQmlnM1h0RWd3bUVSWmtKTjRyUXZIV2FxYUJmZlVnclpBYm5yYWdDMzFTY1N5T2xtSlZ2dVM1RS1FcUFZUmluM0k5WGt1Ri1YalZJZ1FtTTVjQXhhRW9KSnhRbWZBR1FCems1Qkp5Y1NPaDAxVHgxbkJmQU9Uc2lGcHFwUE56TXRiTG9hTW4wcmVxQlJB?oc=5\" target=\"_blank\">Fed’s favorite inflation tracker is getting an overhaul — just as the central bank weighs interest-rate hikes. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
           "source": "MarketWatch"
         }
       ]
@@ -954,13 +1013,6 @@
           "source": "雅虎财经"
         },
         {
-          "title": "Lockheed Martin Q2 2026 earnings beat, full-year outlook raised - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHAyNWF6anZ6TTNsQWJSLTRjZzg5RkJCTzdFOHYzX0RJUVBiRHhfUUNBck9EaW1ELUxqNlhLZ1paZjQzbVl1MVY1U2J6WUVYS1p4U2ZYQlNqUUFpdUNuQ1JfZ0RmSkc0TWVRS0M5dHFkQzk0WnlVRF8xWjFtUENDQVlBV19NcU5EcGNCYnYxWEdUMkgzUk42V1N3OTB3dw?oc=5",
-          "published": "Thu, 23 Jul 2026 12:24:55 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOHAyNWF6anZ6TTNsQWJSLTRjZzg5RkJCTzdFOHYzX0RJUVBiRHhfUUNBck9EaW1ELUxqNlhLZ1paZjQzbVl1MVY1U2J6WUVYS1p4U2ZYQlNqUUFpdUNuQ1JfZ0RmSkc0TWVRS0M5dHFkQzk0WnlVRF8xWjFtUENDQVlBV19NcU5EcGNCYnYxWEdUMkgzUk42V1N3OTB3dw?oc=5\" target=\"_blank\">Lockheed Martin Q2 2026 earnings beat, full-year outlook raised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-          "source": "雅虎财经"
-        },
-        {
           "title": "Where Is the Floor for SpaceX Stock Right Now? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEdSYUpsUjdYSnZIVGVSUjl5VU5sd21TVnlVa3FjSTFadVJFcHcwbGEwQnVZUUpPckpXbC10T2tDZl9ZMWtRYkNuM3FDZnRQd1N6d3lIaG11a29KaGJ2MEt4Q1NhZjlhR3lFWEpac2dSbjYxcVJ1ZmtmejZTdHhCYjBFRlpRM2UyNGMxZHBjWXppbEFuR1lISw?oc=5",
           "published": "Sat, 25 Jul 2026 16:50:00 GMT",
@@ -979,6 +1031,13 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl3eDIxRlZpZmFObmJMTUxiU2prTkVpMW5iWGg5bWhsVi1DV2pQTktHYnlNUVNNcTFEWmtxTWxqWVhDOWFxS1RtaldJemc1SlltRjQzWFg0SDlYa1ZXWURZQ2VXcTlmdnFGa3ZzVUszdWxHeWIzTlh0OHZEUV85bktyRy1kWjNQaURWQ3ZiU213b2FJQmJlZTJnT1ltNFpodkFrbndPZkdrUHVvTHA3ZF92UlJjWkZPZW1r?oc=5",
           "published": "Fri, 24 Jul 2026 21:08:45 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl3eDIxRlZpZmFObmJMTUxiU2prTkVpMW5iWGg5bWhsVi1DV2pQTktHYnlNUVNNcTFEWmtxTWxqWVhDOWFxS1RtaldJemc1SlltRjQzWFg0SDlYa1ZXWURZQ2VXcTlmdnFGa3ZzVUszdWxHeWIzTlh0OHZEUV85bktyRy1kWjNQaURWQ3ZiU213b2FJQmJlZTJnT1ltNFpodkFrbndPZkdrUHVvTHA3ZF92UlJjWkZPZW1r?oc=5\" target=\"_blank\">Intel stock falls nearly 8% despite big Q2 earnings beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "source": "雅虎财经"
+        },
+        {
+          "title": "Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkRQcUdhQVZMZm8wdUxJOWJUYW96bHZVQ2RRRVJUenJJXzR1TUxXSzhyaGgxSGtoUHJFa21KMjgtZWRyRUR2eHk5WW5UUl9CLWhnN2pDYXJfS2hTdWhQVU1wMEQ5UEo3bU04Ujg5QThnNGw1S2pyRHNfZ0h1SXJsTEpaN0Vta3d3alJKanNWb0VNMUs0QWhFeTVxellmV0xFNVR0Ml9vam0xTE9iQjZKbGJYVURjV2JIQmgxR2ptck1hNmc2TlA2R21uemhOd3N5T1Bvb0VGYXJBSkJXdGN6SE1KZXpSa2gwSnJocm54ZmhCX0w5ZkRaamFkdw?oc=5",
+          "published": "Fri, 24 Jul 2026 15:17:58 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkRQcUdhQVZMZm8wdUxJOWJUYW96bHZVQ2RRRVJUenJJXzR1TUxXSzhyaGgxSGtoUHJFa21KMjgtZWRyRUR2eHk5WW5UUl9CLWhnN2pDYXJfS2hTdWhQVU1wMEQ5UEo3bU04Ujg5QThnNGw1S2pyRHNfZ0h1SXJsTEpaN0Vta3d3alJKanNWb0VNMUs0QWhFeTVxellmV0xFNVR0Ml9vam0xTE9iQjZKbGJYVURjV2JIQmgxR2ptck1hNmc2TlA2R21uemhOd3N5T1Bvb0VGYXJBSkJXdGN6SE1KZXpSa2gwSnJocm54ZmhCX0w5ZkRaamFkdw?oc=5\" target=\"_blank\">Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
           "source": "雅虎财经"
         }
       ]
@@ -1066,6 +1125,20 @@
           "source": "联合早报"
         },
         {
+          "title": "“红霞”登陆广东 赣湘粤43县发山洪最高预警 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRTFEd3htbFFBOFYtQU0wd2wxSXgwdG13ZXk0TGowcFc4OXFSNlJOV3VYckVkYVNfcTNsQUdjblhKaHRXeFVqN3B2MHFmaXlzNDlzYkhGSTJ4Z0NOUUx4VldYRGtzYUZkUXc?oc=5",
+          "published": "Sun, 26 Jul 2026 02:31:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5TRTFEd3htbFFBOFYtQU0wd2wxSXgwdG13ZXk0TGowcFc4OXFSNlJOV3VYckVkYVNfcTNsQUdjblhKaHRXeFVqN3B2MHFmaXlzNDlzYkhGSTJ4Z0NOUUx4VldYRGtzYUZkUXc?oc=5\" target=\"_blank\">“红霞”登陆广东 赣湘粤43县发山洪最高预警</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "达恩豪庭开盘首周售出56% 分析：买家日渐挑盘 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5",
+          "published": "Sun, 26 Jul 2026 12:43:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5\" target=\"_blank\">达恩豪庭开盘首周售出56% 分析：买家日渐挑盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
           "title": "高市早苗推动争议议程 民望持续下滑 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLV9zZWtiUi15MG1vYVRReUd2OWJJVkhXWVZ3a3lMQlNMSnVDWDFReUxQenBzWUQ3STFsVXdTYTJOcTdJUEVGUkxyRGJ0QWpVczUxRGRPaW9lTFZzTkp2WkdwOS1QWDlpanNpcUhWZTI0SlpaVTREWmpCQk5PREZGLTZtQUhTYi10M1NjWk9ubm4zbFZkWHc?oc=5",
           "published": "Sun, 26 Jul 2026 10:49:00 GMT",
@@ -1073,24 +1146,10 @@
           "source": "联合早报"
         },
         {
-          "title": "中国车企奇瑞表态不再参加行业内卷 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDVTdzWEd6N1h0c0lodlpDdW9SUzZlNTlIOVdIV1RLbThnb094V01qUFJrc2NwWEpOYXI2emsyd24xeThJUWY3bkRlbk9xdmJYVTlJUnkxRWcyUXdiMVZuTlM4ajhjQkVvcGc?oc=5",
-          "published": "Sun, 26 Jul 2026 09:25:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBDVTdzWEd6N1h0c0lodlpDdW9SUzZlNTlIOVdIV1RLbThnb094V01qUFJrc2NwWEpOYXI2emsyd24xeThJUWY3bkRlbk9xdmJYVTlJUnkxRWcyUXdiMVZuTlM4ajhjQkVvcGc?oc=5\" target=\"_blank\">中国车企奇瑞表态不再参加行业内卷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
           "title": "交流站：校园事件投诉跟进机制应更清晰 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWw2Nm9iWFZYZmVYM2NWVEpfWGE1WEV4eHN5eHlwMEd4UUVZRFZIOVZjY1NydElrV2xmVktadEtTeEd3Slh1TkpGWnJjVXpXY2NpRTZQV1NjTlYyOXBLdkdfbGt3a29sY1E?oc=5",
           "published": "Sun, 26 Jul 2026 11:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWw2Nm9iWFZYZmVYM2NWVEpfWGE1WEV4eHN5eHlwMEd4UUVZRFZIOVZjY1NydElrV2xmVktadEtTeEd3Slh1TkpGWnJjVXpXY2NpRTZQV1NjTlYyOXBLdkdfbGt3a29sY1E?oc=5\" target=\"_blank\">交流站：校园事件投诉跟进机制应更清晰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
-          "title": "叶春龙：方言也是学术研究的钥匙 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZDBMMmh3dVhlV1RpLXc4LVY0ZlNaSTh0WVAxOUNTb2JlWVdhSkFxTGR5TjB4MTBUaGJRYm9uLXFleEdfbk9EMzhlWGctd0sySndpSEphZGlIWG1PQjM4N0VveEZOWXkzNTdV?oc=5",
-          "published": "Sun, 26 Jul 2026 11:30:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZDBMMmh3dVhlV1RpLXc4LVY0ZlNaSTh0WVAxOUNTb2JlWVdhSkFxTGR5TjB4MTBUaGJRYm9uLXFleEdfbk9EMzhlWGctd0sySndpSEphZGlIWG1PQjM4N0VveEZOWXkzNTdV?oc=5\" target=\"_blank\">叶春龙：方言也是学术研究的钥匙</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
