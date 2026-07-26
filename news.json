@@ -1,98 +1,128 @@
 {
-  "updated": "2026-07-26T14:03:47.975241+00:00",
-  "summary_analysis": "【核心主线】当前全球政治经济主线围绕地缘冲突（俄乌、中东、红海）与极端气候（欧洲野火）交织，叠加美国大选、贸易政策不确定性及大宗商品价格波动。市场关注美联储利率路径与油价逼近100美元对通胀的影响。\n\n【市场与政策信号】油价接近100美元引发央行利率预期调整；美国暂停对伊朗夜间打击但红海紧张持续；特朗普关税政策与邮寄投票禁令被法院驳回，显示政策博弈加剧。中国绿色能源投资加速，同时面临欧盟贸易分歧。\n\n【关键风险提示】地缘冲突升级（俄乌、伊朗、以色列-哈马斯）可能引发能源供应中断；欧洲野火与极端天气威胁经济；美国大选政策不确定性（关税、移民）影响全球贸易。",
+  "updated": "2026-07-26T14:10:12.685038+00:00",
+  "summary_analysis": "【核心主线】全球地缘政治紧张局势加剧，中东冲突持续升级，美国暂停对伊朗的夜间打击，但红海局势依然紧张。欧洲面临多重挑战：法国和西班牙的山火导致大规模疏散，柏林骄傲游行遭遇恐怖袭击，俄罗斯无人机侵犯罗马尼亚领空。经济方面，油价逼近100美元，给各国央行带来通胀压力。中国在绿色能源领域加大投资，同时面临光伏产业产能过剩和需求萎缩的困境。\n\n【市场与政策信号】美国暂停对伊朗打击，但中东局势仍不稳定，油价高企可能迫使美联储维持紧缩政策。中国光伏三巨头预计亏损超百亿人民币，显示行业供需严重失衡。美国上诉法院阻止特朗普的邮寄投票计划，可能影响中期选举。印度学生抗议迫使莫迪政府让步，显示年轻一代政治觉醒。\n\n【关键风险提示】中东冲突扩大化风险：伊朗与乌克兰在里海的冲突、胡塞武装与沙特交火，可能引发更广泛的地区战争。欧洲安全风险：柏林恐袭和俄罗斯无人机入侵表明恐怖主义和边境安全威胁上升。中国经济风险：光伏产业亏损和AI领域政策摇摆可能拖累经济增长。",
   "important": [
     {
-      "title": "油价逼近100美元，美联储及同行利率政策受关注",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
-      "summary": "油价逼近100美元，市场关注央行利率决策。",
+      "title": "美国暂停对伊朗夜间打击，红海紧张局势升级",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVRXNGx5LUVaamFUNzZveUUtd2RTUDVxcGtoNW5acjl1NzJNSlFjSlA0aFNJWkNvRnJNUUZWUVFCU3RuUERaRGVZSzBIOWNsU05XRVVfeERBRFU3T0JQQXA4UXE0SzZLRWRRTi1PRWhFWXE4Mm9FU3RJb0FlMHIxTmQwNXhDSnYxVDJTQVZWMzJQTFd2a1lXdEJGX3Ixclp4WUJHbG5yNDBITWFFaW50MmVTVDIzdw?oc=5",
+      "summary": "美国暂停对伊朗打击，红海局势仍紧张。",
       "source": "彭博社"
     },
     {
-      "title": "美国暂停对伊朗夜间打击，红海紧张局势持续",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXhGaVlOdlhXNi1aZkxSUUxyeENlTmxCSzJpZlAzaV94UUUzaVV3YTJ2aXUtc01EUlVhdGdtSldTaGw1c2dIZHE2dEZ5LXJvOWZINW41bVpfdGJSVTAxc29zMU1nT0JlSEVjUXM2d0diclRvWmdESUk5OTY4Sks5cExObVUtZ0NtcXpWbHVQR3NpSDNfUnFMd3UwQTcycVFob1U3b09aZ01mT3d3c2lka0NZTQ?oc=5",
-      "summary": "美国暂停对伊朗夜间打击，但红海紧张持续。",
-      "source": "彭博社"
-    },
-    {
-      "title": "以色列空袭加沙打死哈马斯高级安全官员",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
-      "summary": "以色列空袭加沙打死哈马斯高级安全官员。",
-      "source": "路透社"
-    },
-    {
-      "title": "以色列定居者纵火焚烧约旦河西岸清真寺",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVBNcGd1UUxUT2Z6MUFrU1o4YW1XOVB5X2lXMVp4WFB5QjBlNkx2bnlocXdOVHFmMmozc1hXamVNQUdkZDl6SndsUmxrUWZXaDhadkMyZTdmektVVzQ0TkZVMWdleVRta01iUVhCWUplMnZGZVZpejc4SUNFYmlNTlBmWWVtdDczWWVYa2trT1BpRjZZaUQ5N1VWeVN2ajVOOVU1MTgyRVlhVTBFcFhpYUYtMnI1NjQ?oc=5",
-      "summary": "以色列定居者纵火焚烧约旦河西岸清真寺。",
-      "source": "路透社"
-    },
-    {
-      "title": "法国和西班牙野火肆虐，超30万人撤离家园",
+      "title": "法国和西班牙山火肆虐，超30万人撤离家园",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkJJZGJJakgzd1V4cXQ2cER2LXJJaTVPYmg5eWoyVGptVXdaZ1hNRXdGSW1PSVhoSnBkd3BWS0k4XzFqcGtFTlNjNlFPRU1KWWVSWS1tUFp0WUh3OGQ3djZfamhtRExlVF8xNDdLcVhqM0ZqMVVQVXhKZWdpX2hYcm5DV01JNXBIUTBaZXE1OEJCU1RiUUVOcnEyTlhDXzFuRkxZV0xaNFZKSjRVZUVlN211SFY?oc=5",
-      "summary": "法国和西班牙野火肆虐，超30万人撤离。",
+      "summary": "欧洲山火导致大规模疏散。",
       "source": "彭博社"
+    },
+    {
+      "title": "柏林骄傲游行遭车辆冲撞，致1死16伤",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzRjcktXbTdfOTFrSmtBT19XaGgzdlYwZ3ZqY2hBYWpxTl9DSHM4Rm0zV2l1Nm05d1d1Rm9CRXNGbGd0enJsN2tXUUNhMlZFbmc0amtadTVQNHV2S2N3WEg5WWwzU0ZTT2RYbnNjMTVNVVBRUDIzX1ZVc0RtWDc1TmZjUFA?oc=5",
+      "summary": "柏林恐袭致1死16伤，定性为恐怖袭击。",
+      "source": "金融时报"
+    },
+    {
+      "title": "油价逼近100美元，各国央行面临利率压力",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
+      "summary": "油价高企加剧通胀担忧。",
+      "source": "彭博社"
+    },
+    {
+      "title": "美国上诉法院阻止特朗普邮寄投票计划",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk9uSnBOcXp1VzZkeVdHNjJrcElZMXVmUnZDdDZxNlBnYmNhVV9aV2FjSFFtYkRZSm80am9lamNmeGctRi00b3ZfSUpUYTZYMC1md0V5bS1wbVlvVWxMYk1xeXFCb3BsWGhQZWJISlAtWnZlVllHX1R4bGl5Nm4tSXJpZDlJazVsalJ3aVhxdHF3bVptdHNEcEw1TDVIVmgtZ2M1d1J4Sjc3QllsdmRLSTQ5SmE?oc=5",
+      "summary": "法院裁决支持州权，特朗普受挫。",
+      "source": "彭博社"
+    },
+    {
+      "title": "乌克兰袭击里海伊朗船只，伊朗谴责",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5",
+      "summary": "乌克兰与伊朗在里海发生冲突。",
+      "source": "CNBC"
     },
     {
       "title": "哈萨克斯坦总统敦促普京“冻结”乌克兰战争",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkE0bE5KM25qVEhsbE92dG4wNTBaaU5HNm9aYWZfdld2cFo2ampsVVhfTWtJckhId212UkNSZHdTbUNyTGdVdDNyY0FCc0ZIdzdJVG5ib1pTc1BtZU5LRnE1LWFCRnFIN3Q3cFBpbjBlZHNmWjI3TDUxc3FmUjZEY01pNF8?oc=5",
-      "summary": "哈萨克斯坦总统敦促普京“冻结”乌克兰战争。",
+      "summary": "中亚盟友呼吁停火。",
       "source": "金融时报"
     },
     {
-      "title": "美国上诉法院裁定特朗普不能实施邮寄投票令",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk9uSnBOcXp1VzZkeVdHNjJrcElZMXVmUnZDdDZxNlBnYmNhVV9aV2FjSFFtYkRZSm80am9lamNmeGctRi00b3ZfSUpUYTZYMC1md0V5bS1wbVlvVWxMYk1xeXFCb3BsWGhQZWJISlAtWnZlVllHX1R4bGl5Nm4tSXJpZDlJazVsalJ3aVhxdHF3bVptdHNEcEw1TDVIVmgtZ2M1d1J4Sjc3QllsdmRLSTQ5SmE?oc=5",
-      "summary": "美国上诉法院裁定特朗普不能实施邮寄投票令。",
+      "title": "印度学生抗议迫使莫迪政府让步",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZXaktwZ0R0eVpoWTc5dGMxa3JCcEtQaXM2WmRtMDdZeDc3cmluMGdFSm1GdE5WZ0paMlVEcG1lSFB0aU95Q0xyU2Q5SlY3ZTJmWGpFNXF3bWZaaW5zaDdkYW5OR0lzRHlPZl9BVVVnOHI5RlcxRHI5Ri0yUXJyMXdQeThhSmsxQzB2blJYaFlMZkwtSGFMc3ZCUUprLU5PWno1aTB5Y0JJa1hJSkJJajFB?oc=5",
+      "summary": "年轻一代政治觉醒，政府被迫退让。",
       "source": "彭博社"
     },
     {
-      "title": "乌克兰袭击里海伊朗船只，德黑兰指责基辅",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhtOEFQVWpGXzFMN0xtQWxZeUpQWU1fTTlUWldRbXZWM01HRjE0ZmdNZkxrR1RMd09HVm5ZYVZSSjdfenFxZFZQMEhJUy1WcFQ4OTRPWlBqWC1RY0N3Zk9EeG9ySlJVVHlSOVkxRE0wS2gwRWxBOU1MajFwenVYUjR3bmJLY0psN05QeFdvOGdKdWdlUnBHRngzeWlEbEFuajZLWDFB0gGrAUFVX3lxTE03SVdWTHpmb3lzQmVadE9OS29QMjlOUXN6MXRZamZFdHd5MUFtYVB4WVBCa1Q5Wktfc0R0YTdBa3BiZm9VaWlMRlh4RXptbFEwVnR1LXd2MTlYUFpoRF83YUpOaXl4b3I1UGwtTm1aUVBYLVFpa2xaTjBOQzBwZ1puVm5MMm1HTUVpeXBJSElUQ1dEUGdNbW9TS3A1azQtd0wyNERlbUpyRVEtYw?oc=5",
-      "summary": "乌克兰袭击里海伊朗船只，德黑兰指责基辅。",
-      "source": "CNBC"
+      "title": "中国光伏三巨头预计亏损超百亿人民币",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dm9GYmt3MTZiS1VuNlRHSlpPakszSUR6aE54aEEwMmVXRGcxM2t5eHZEcW55T09BZE9oRE9xOGw1a1Fyd0FqWjdRc004Rll1c2pHMk5yZGJUR0V3ZkdZdFg5MWpTbXN4V3c?oc=5",
+      "summary": "供需失衡导致行业巨亏。",
+      "source": "联合早报"
     },
     {
-      "title": "美国、日本与菲律宾在南海举行联合军演",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0VhbS0zQlBkMm9KY09jWXVlQ3h4eGdGekdhUzhDZW91ZjA4WHdiYVhGSXd3VDU4czY4U0x1TVltdDFONmJKdy15d0swNzhwTG9ZUjBvWHdkdjVrbFcxZkhMLUh2VFY3ZzlFck9NNDVfZmo4X084WGw2dFdfQkVheHBiQmg1aTh1SGlxQTNraVZOcGI4WmJZSEpqRHg?oc=5",
-      "summary": "美国、日本与菲律宾在南海举行联合军演。",
-      "source": "路透社"
-    },
-    {
-      "title": "巴西拒绝向美国官员发放签证，因选举干预担忧",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDdEVW9TMTZWeHRVY3FQZmlDeWFCQ3FmWmxEMWFSNXpldmhaM2VEcUV1c181blZhODFiOTdLZ0NPMjBlQnUxeFNKdlBrcTZreHZudUEzZlpHUUo4UmFmYnRoQnN6Y0N6aFFnN2ZseWl1bHZWQWVCQ3BvTnVRSmd5ODB6b0U0bmR3RmtDQTRhQ2wtY0tsX0MzdDNZbktOOC1HNEM5Nk9SdW4yaVRiYmxBb3AtZw?oc=5",
-      "summary": "巴西拒绝向美国官员发放签证，因选举干预担忧。",
-      "source": "华尔街日报"
+      "title": "DeepSeek据称在病毒式传播后告知投资者暂停融资",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmM5SHI4SGhzcko5THg1SGx5a1RiY2p0MExUU0R0NHM3T2pjN0NaR1piRGhGbTVDQll5aElhOHpOWnFUNC14S1dHNUtMaElCLTZFLTd5SW5OTmEyb2lUT1ZhVE5qQ2JvNzRiX3JrMWNIcDB5YWJYZ2luLXFfSk5hNXpLMndhdHpfWURFVl9OcmVpSGUzeDBTdEJlUFQ4cUZHQXZTMjdyM1NfQ3Z5N09zX0FPMEtvQQ?oc=5",
+      "summary": "AI初创公司融资动向引关注。",
+      "source": "彭博社"
     }
   ],
   "interest": [
     {
-      "title": "中国芯片公司长鑫存储（CXMT）历史性上市在即",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXVyVTFvNFZSX2RCU2NBa1FZaVF6S1dWdDJodkZFYWJNTzVwdmpQLVRnRFFDbzY2dmVFR3JwRHBpRFVuc2IzbTA5V05GV1FlMktBSE5TT3ppQm5rRVZ4UUZlQlhUR0U1X0w0VjdfaExtdGh1Y2tmZlJfTGw1bGg5X2ZaY2tmSkswTjZVWXAtT1Q3WDlzUUFCbEtJM0xONnFlX0pIZlc5OVpzTXpDQzJr?oc=5",
-      "summary": "中国芯片公司长鑫存储历史性上市在即。",
-      "source": "彭博社"
+      "title": "美国、日本与菲律宾在南海举行联合演习",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0VhbS0zQlBkMm9KY09jWXVlQ3h4eGdGekdhUzhDZW91ZjA4WHdiYVhGSXd3VDU4czY4U0x1TVltdDFONmJKdy15d0swNzhwTG9ZUjBvWHdkdjVrbFcxZkhMLUh2VFY3ZzlFck9NNDVfZmo4X084WGw2dFdfQkVheHBiQmg1aTh1SGlxQTNraVZOcGI4WmJZSEpqRHg?oc=5",
+      "summary": "美日菲联合军演，南海局势升温。",
+      "source": "路透社"
     },
     {
       "title": "中国如何利用欧盟内部贸易分歧",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDA5bU1zNl95Y0ZwLUpSRGVKYjk2VGVsakhUaGJmR2lQeFRnU0xzQkRxUmJ0Vjk3ekttSGFqWFQ3UmtBTUdjWmFVUWFRWWlWX1JwTHU5bEcwMC1IWW9VcHNJdFhOaGZjdGx6QVpsWkpsRHVjNVBVdXRMZnQ4eUdUMDdJZC0?oc=5",
-      "summary": "中国如何利用欧盟内部贸易分歧。",
+      "summary": "中国利用欧盟内部分歧推进贸易。",
       "source": "金融时报"
     },
     {
-      "title": "中国加大绿色能源投资，伊朗战争冲击石油需求",
+      "title": "中国加大绿色能源投资，伊朗战争影响石油需求",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVFmb2dkc0NKcWVuQ05QSFdBWXlWRFdzVmlzQTBOVzF5c2lXNlQ3eE5yTFBqaUR6cEluWGFjblIyenpiY2pPRjZRZmUtQkdGalBjSEtYOE44ekpvRU9Vanc1WFVuZlFSZ2FjU1lBOGpGSENUVDlFVmgzdzI4MG43TmJCT2M?oc=5",
-      "summary": "中国加大绿色能源投资，伊朗战争冲击石油需求。",
+      "summary": "中国转向绿色能源，应对石油风险。",
       "source": "金融时报"
     },
     {
-      "title": "美国和中国在珠穆朗玛峰争夺无人机霸权",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2tTYkZZZTBuekxFR2xDbXg3SDk2NFpkTjNYUmJncnVLUGNxck5oa3R3VUJqZXZ6clRzNjFKZXpBNDRmbU1wam9JSGJ4eS1nbDd0QmJtT3hxN3NJNTloZXNHdTdQVnhxUnJwZDQwODZydm5ZdGUyNENYdDRETVJKeU5TM01NOHAzZ0Z4VTR6eWZab05UNjlQVW1XOGpUWE9j?oc=5",
-      "summary": "美国和中国在珠穆朗玛峰争夺无人机霸权。",
-      "source": "华尔街日报"
+      "title": "苹果泄密后，印度在供应链竞赛中是否输给中国？",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5",
+      "summary": "苹果泄密事件影响印度供应链地位。",
+      "source": "南华早报"
     },
     {
-      "title": "DeepSeek据悉在病毒式传播后告知投资者暂停融资",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmM5SHI4SGhzcko5THg1SGx5a1RiY2p0MExUU0R0NHM3T2pjN0NaR1piRGhGbTVDQll5aElhOHpOWnFUNC14S1dHNUtMaElCLTZFLTd5SW5OTmEyb2lUT1ZhVE5qQ2JvNzRiX3JrMWNIcDB5YWJYZ2luLXFfSk5hNXpLMndhdHpfWURFVl9OcmVpSGUzeDBTdEJlUFQ4cUZHQXZTMjdyM1NfQ3Z5N09zX0FPMEtvQQ?oc=5",
-      "summary": "DeepSeek在病毒式传播后告知投资者暂停融资。",
-      "source": "彭博社"
+      "title": "美国250年的中国梦想如何成为最大战略挑战",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGhUMmdLU1U4SVktelR4Z0E1UWlSX2FELTNuSjhpcDkzTHUycjZ5Qkl3RFRFRnhFMXpmTHgwS2pjcmJ4Vlk2TXA3WWN4UnpSSVN5OEVFOWpDdE5YaXdzbnZRN3RsRlVqNE40SlEyWGJmNUZUenBldkIxLTNMMV9aUUtBc3I1WUxlaEdURDEyMjNRR2Y3LVRlR0FZUzM2bHc5OWJOU1NKMEdHYXNuNFBIUVE0ME1JYzRJcDRwNkNR0gG-AUFVX3lxTE4zcTB3dXNCaVQ4aEkzV1lyOHNqenpibFI4UXpaN29NeFhUeE9Ha2tHZUJnNHhFamFGZkc5Z0hzdEIweWRJSG9CemJoLTVYb3N3aUNmeFdaWGNkOWo1WjZEOFUtaWZ4T29HbkVFOGZJcko4T29oYzBwWFJCSmI2aU5MX0hCRmh6VjBhV1gyQ2w5RWJRUVFzYk1XR2pIakgtSFQxZWExWV85TFE4Zm9wT1RjRlZGYzNUVlY4Z3QtS0E?oc=5",
+      "summary": "中美战略竞争历史与现状分析。",
+      "source": "南华早报"
+    },
+    {
+      "title": "西方讨论AI未来，但一半世界缺席",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEt5Z1FPaC1PVDRPcHQ2Y3ZxMExGSzBVNndPSVRiLXN1ZlZNQ0VUOUl1dHVJMmdBTXAwTzZ1OWNhbU9sSEd3ZFNRU2ppT3N0TjRTbWN0ZmNTRk81MWZKSWp1WlotbjhQVzJydVhYaGRWQ3pwSnZDZjNxcDZzVjJuMVRSZG12TUlrVzcyZ0Q4aFVfeVM2OWlaUG04eTUzWV9qdklj0gGjAUFVX3lxTE14MV9DNmQzMEwyMlhCeE03NGpTYnoyOGVpQnY1X1pFZW9rejVTVDJNdC1FZlc3Qno4UVRnNTBmUWhzZUpLUE01dUdlQXQzZmdaXzF5bXhGemhBTTVFWmtaVlVXUTVNNXgzdjZOZnNDUlZHR1l1cXJDUHZwaVE5QVBFNUhod21KbS1paWw3ZGVxdGRwc0k4ZmVFNWtJdXpIRGlETm8?oc=5",
+      "summary": "AI治理缺乏全球代表性。",
+      "source": "南华早报"
+    },
+    {
+      "title": "印度计划建立200艘军舰的海军以对抗中国和巴基斯坦",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXRiRWFyQTUyVHRCUU9UdXFzNERjS3NmX0ZMZXRKWHJVWkZfaUFOUXhXUllCd2owT2JEekJ4U3V3Rzk0TGF2U0kzeTh1WXFETHNOTUVNMllGSzliaXk2OHJFRE50NVVMQWloaXlhSjZVN3A3bUNqbEpjT3hwTDUtUm9QNmNSeDd1MTY4TFhLOUs2ZUQyVG5XcllneEt5TnJnb2NpbnY3cm5VV2PSAasBQVVfeXFMTTl6aWF4N1U4czduNGRjcHlMdHdvOG5KUFlhSzB6dTRiRjNaQ0JkU2dNZ3NhWnBvdnlPaHBEdVV5MmtnODR2cGh0cV9vQWRES3pmTzZRQ1NEclFYT2RQR1RZdE85azAzYVl4NWRnZEl1b0VzRk13a21jSW16STdoVFktVUxiN0ZLRzZ0bWhiS2ZmeXA0dFRYeGswc2ZZU1k5dHhOTjlOWHkxejJV?oc=5",
+      "summary": "印度扩军应对中国和巴基斯坦。",
+      "source": "南华早报"
+    },
+    {
+      "title": "中国大学AI攻防战：从严防死守到探索边界",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WlMwNGZxZUpGblNLUFdVUS16cDlhNzV1N0phRzRKM2IzcHNWOHo4dENQZ2xZN0RmMWhJdVpIdEFuRnA5a2Rmejl0WXFadzlTQXF2Zllqd2h4aEZZSy1DMDlNYlpNSk9hOWc?oc=5",
+      "summary": "中国大学AI政策转向探索。",
+      "source": "联合早报"
+    },
+    {
+      "title": "中国红树林面积较世纪初增加44%",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqNWFiTHdFbUxxaDZJUkh0Y2dsUGZjUUVUalhsam51bFBQWjQ4U3R5bms0LWhQU3gwaV8tUm4zMWczLU5HclVJMWlqVmJLemdQZVp5V1JnWlFLNkIwMmhSMGNibDh5RmI0X1E?oc=5",
+      "summary": "中国生态保护取得进展。",
+      "source": "联合早报"
+    },
+    {
+      "title": "高市早苗推动争议议程，民望持续下滑",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGc0FkeHZwOS1SVnpTcEZlbkhMN0pFWnpmWTBHUHdWZHhHeGpTSTRhN09nczVTT3Qzd2hlWkw1aWNOSjFkamJWTk1SUklQN04tNTFuREZFTG85OVZ2SDBTTU1LVERmQnMtUkE?oc=5",
+      "summary": "日本政治人物支持率下降。",
+      "source": "联合早报"
     }
   ],
   "sources": {
@@ -130,10 +160,10 @@
           "source": "路透社"
         },
         {
-          "title": "Germany pledges justice over Berlin Pride attack as police hunt suspect - Reuters",
+          "title": "Germany says Berlin Pride ramming was terrorist attack and hunts Islamist suspect - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5",
-          "published": "Sun, 26 Jul 2026 10:24:51 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5\" target=\"_blank\">Germany pledges justice over Berlin Pride attack as police hunt suspect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "published": "Sun, 26 Jul 2026 13:27:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5\" target=\"_blank\">Germany says Berlin Pride ramming was terrorist attack and hunts Islamist suspect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "source": "路透社"
         },
         {
@@ -571,10 +601,17 @@
           "source": "联合早报"
         },
         {
-          "title": "景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5",
-          "published": "Sun, 26 Jul 2026 11:57:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5\" target=\"_blank\">景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "title": "达恩豪庭开盘首周售出56% 分析：买家日渐挑盘 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5",
+          "published": "Sun, 26 Jul 2026 12:43:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5\" target=\"_blank\">达恩豪庭开盘首周售出56% 分析：买家日渐挑盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "供需错配需求萎缩 中国光伏三巨头合计预计亏逾百亿人民币 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96dm9GYmt3MTZiS1VuNlRHSlpPakszSUR6aE54aEEwMmVXRGcxM2t5eHZEcW55T09BZE9oRE9xOGw1a1Fyd0FqWjdRc004Rll1c2pHMk5yZGJUR0V3ZkdZdFg5MWpTbXN4V3c?oc=5",
+          "published": "Sun, 26 Jul 2026 13:42:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96dm9GYmt3MTZiS1VuNlRHSlpPakszSUR6aE54aEEwMmVXRGcxM2t5eHZEcW55T09BZE9oRE9xOGw1a1Fyd0FqWjdRc004Rll1c2pHMk5yZGJUR0V3ZkdZdFg5MWpTbXN4V3c?oc=5\" target=\"_blank\">供需错配需求萎缩 中国光伏三巨头合计预计亏逾百亿人民币</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -582,6 +619,13 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5",
           "published": "Sun, 26 Jul 2026 11:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5\" target=\"_blank\">张田勘：AI时代学术文章写作的两难悖论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5",
+          "published": "Sun, 26 Jul 2026 11:57:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9RX3BaVHVfRHd2TUQwbkYtSUI2anExTHhoemZWMDgtNzJUUWJpYkVpM2RjLVc5NFlCd014TUFWTkZiM3lSbjFMeUFKUG5kZ2FpSW5XZk9XWjZGNllDN1B5eFpxXzJRaFlJeHc?oc=5\" target=\"_blank\">景德镇手工瓷业遗存日本飞鸟藤原遗址 列入联合国世界遗产名录</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -613,24 +657,10 @@
           "source": "联合早报"
         },
         {
-          "title": "达恩豪庭开盘首周售出56% 分析：买家日渐挑盘 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5",
-          "published": "Sun, 26 Jul 2026 12:43:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lSURodXRzZFk1VTZaZTFwSnNqMjdzLTVUMkVXUFBYU3g3U2dLU1U0ZEVVeWEtcldXcEpEMTBoRTd1T1RzLTItYkJiMDJVQTJnOThrVjZoMDl1UjBOUW9naDFIYzl4SGNtdVhNdm1oSHFKeGc?oc=5\" target=\"_blank\">达恩豪庭开盘首周售出56% 分析：买家日渐挑盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
           "title": "陈庆文：中共能否引领中国成为推动历史前行的力量？ - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TnRvOTltT2dKeWk4dUpVTEZHS2Znc3FQUUJHMlFpc2VjejdiODBFaEFoWlItWmdKNy1DZnBKSEFqTVlPOVBpSzNKTmhwRmZyZ2l6eFc0NkYwMWl5SnU5dVk0eTl0QkhQYkp3?oc=5",
           "published": "Sun, 26 Jul 2026 11:30:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE82TnRvOTltT2dKeWk4dUpVTEZHS2Znc3FQUUJHMlFpc2VjejdiODBFaEFoWlItWmdKNy1DZnBKSEFqTVlPOVBpSzNKTmhwRmZyZ2l6eFc0NkYwMWl5SnU5dVk0eTl0QkhQYkp3?oc=5\" target=\"_blank\">陈庆文：中共能否引领中国成为推动历史前行的力量？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
-          "title": "美日菲军演提升南中国海协同 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5",
-          "published": "Sun, 26 Jul 2026 10:07:01 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5\" target=\"_blank\">美日菲军演提升南中国海协同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
@@ -664,7 +694,7 @@
         {
           "title": "Gatwick Airport left without running water after major outage",
           "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 13:44:01 GMT",
+          "published": "Sun, 26 Jul 2026 14:08:31 GMT",
           "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
           "source": "BBC"
         },
