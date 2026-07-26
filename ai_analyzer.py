@@ -67,7 +67,7 @@ def analyze_news(articles, prompt_text=""):
             model=MODEL,
             messages=[
                 {"role": "system", "content": system_content},
-                {"role": "user", "content": f"请分析以下新闻并返回 JSON（严禁超长，important 最多6条，interest 最多6条）：\n{text_to_analyze}"}
+                {"role": "user", "content": f"请分析以下新闻并返回 JSON（严禁超长，important 最多10条，interest 最多10条）：\n{text_to_analyze}"}
             ],
             response_format={"type": "json_object"},
             temperature=0.3,
