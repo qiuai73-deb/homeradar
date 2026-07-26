@@ -42,16 +42,6 @@ SOURCES = {
         "name_cn": "南华早报",
         "rss": "https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en",
     },
-    "marketwatch": {
-        "name": "MarketWatch",
-        "name_cn": "MarketWatch",
-        "rss": "https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en",
-    },
-    "yahoofinance": {
-        "name": "Yahoo Finance",
-        "name_cn": "雅虎财经",
-        "rss": "https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en",
-    },
     "Zaobao": {
         "name": "Zaobao",
         "name_cn": "联合早报",
@@ -65,7 +55,7 @@ SOURCES = {
 }
 
 OUTPUT_DIR = Path(__file__).parent
-MAX_ARTICLES = 15  # 每个源最多取多少条
+MAX_ARTICLES = 10  # 每个源最多取多少条
 
 
 def fetch_source(key, config):
