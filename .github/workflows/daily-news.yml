@@ -58,19 +58,47 @@ jobs:
       - name: 生成网页
         run: |
           mkdir -p pages-dist
-          python3 << 'PYEOF'
+                    python3 << 'PYEOF'
           import json
+          import re
 
           try:
               with open('news.json', 'r', encoding='utf-8') as f:
                   news_data = json.load(f)
           except Exception as e:
               print(f"❌ 读取 news.json 失败: {e}")
-              news_data = {"important": [], "interest": []}
+              news_data = {"important": [], "interest": [], "summary_analysis": ""}
 
           important_list = news_data.get("important", [])
           interest_list = news_data.get("interest", [])
+          summary_analysis = news_data.get("summary_analysis", "")
 
+          # ========== 处理 AI 全局研判摘要 ==========
+          summary_html = ""
+          if summary_analysis and summary_analysis.strip():
+              text = summary_analysis.strip()
+              # 处理 Markdown 加粗 ** **
+              text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+              # 处理段落和换行
+              paragraphs = text.split('\n\n')
+              formatted_paragraphs = []
+              for p in paragraphs:
+                  p = p.replace('\n', '<br>')
+                  formatted_paragraphs.append(p)
+              formatted_text = '</p><p>'.join(formatted_paragraphs)
+              
+              summary_html = f'''
+          <div class="ai-card" style="background:#eef2ff; border-left:4px solid #4f46e5; padding:16px 20px; border-radius:8px; margin-bottom:24px;">
+              <h2 style="font-size:18px; color:#3730a3; margin:0 0 8px 0;">🤖 AI 财经情报深度研判</h2>
+              <div style="line-height:1.8; color:#1e1b4b; font-size:15px;">
+                  <p>{formatted_text}</p>
+              </div>
+          </div>
+          '''
+          else:
+              summary_html = ""
+
+          # ========== 渲染新闻卡片 ==========
           def render_cards(items):
               if not items:
                   return '<p style="color:#888;">暂无推荐新闻</p>'
@@ -79,14 +107,11 @@ jobs:
               for item in items:
                   title = item.get('title', '无标题')
                   url = item.get('url') or item.get('link') or '#'
-                  # 兼容多种新闻来源字段
-                  source = item.get('source') or item.get('source_name') or item.get('feed') or ''
-                  # 兼容多种摘要字段
-                  summary = item.get('summary') or item.get('description') or '暂无详细摘要内容'
+                  source = item.get('source') or item.get('source_name') or ''
+                  summary = item.get('summary') or '暂无详细摘要内容'
                   reason = item.get('ai_reason', '')
                   
                   badge = f'<div class="ai-badge">💡 AI 推荐理由：{reason}</div>' if reason else ''
-                  # 如果有新闻来源，显示在标题右侧
                   source_html = f'<span class="news-source">[{source}]</span>' if source else ''
                   
                   html_cards += f"""
@@ -103,6 +128,7 @@ jobs:
           important_html = render_cards(important_list)
           interest_html = render_cards(interest_list)
 
+          # ========== 组装完整 HTML ==========
           html_content = f"""<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
@@ -131,12 +157,17 @@ jobs:
             .news-source {{ color: #8b949e; }}
             .news-summary {{ color: #8b949e; }}
             .ai-badge {{ background: #033a16; color: #7ee787; }}
+            .ai-card {{ background: #1c2333 !important; border-left-color: #818cf8 !important; }}
+            .ai-card h2 {{ color: #a5b4fc !important; }}
+            .ai-card div {{ color: #c7d2fe !important; }}
           }}
           </style>
           </head>
           <body>
             <h1>📰 每日新闻深度精选</h1>
             
+            {summary_html}
+
             <h2 class="section-title">🚨 国计民生：对世界最重要的 10 条新闻</h2>
             {important_html}
 
@@ -147,7 +178,7 @@ jobs:
 
           with open('pages-dist/index.html', 'w', encoding='utf-8') as f:
               f.write(html_content)
-          print('✅ 带 AI 排版的 index.html 已生成')
+          print('✅ 包含 AI 全局研判的 index.html 已生成')
           PYEOF
 
       - name: 部署到 GitHub Pages
