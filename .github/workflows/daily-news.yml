@@ -137,7 +137,7 @@ jobs:
           <body>
             <h1>📰 每日新闻深度精选</h1>
             
-            <h2 class="section-title">🚨 国计民生：对中国人最重要的 10 条新闻</h2>
+            <h2 class="section-title">🚨 国计民生：对世界最重要的 10 条新闻</h2>
             {important_html}
 
             <h2 class="section-title">🎯 猜你喜欢：值得阅读的 10 条个性化新闻</h2>
