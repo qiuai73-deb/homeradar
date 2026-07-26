@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日 AI 财经新闻研判</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: #f8f9fa; color: #333; }
+        .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+        .ai-summary { background: #eef2ff; border-left: 4px solid #4f46e5; }
+        .ai-summary h2 { margin-top: 0; color: #3730a3; }
+        .analysis-text { line-height: 1.6; white-space: pre-wrap; font-size: 15px; }
+        .news-item { border-bottom: 1px solid #eee; padding: 12px 0; }
+        .news-item:last-child { border-bottom: none; }
+        .news-title { text-decoration: none; color: #1e293b; font-weight: bold; font-size: 16px; }
+        .news-title:hover { color: #4f46e5; }
+        .source-tag { background: #e2e8f0; font-size: 12px; padding: 2px 6px; border-radius: 4px; margin-right: 8px; color: #475569; }
+        .news-summary { font-size: 14px; color: #64748b; margin: 6px 0 0 0; }
+    </style>
+</head>
+<body>
+
+    <h1>📰 每日财经新闻 AI 研判</h1>
+    <div id="update-time" style="color: #666; font-size: 14px; margin-bottom: 20px;">更新中...</div>
+
+    <!-- 1. AI 研判总览区域 -->
+    <div class="card ai-summary" id="ai-card" style="display: none;">
+        <h2>🤖 AI 财经情报深度研判</h2>
+        <div class="analysis-text" id="ai-analysis"></div>
+    </div>
+
+    <!-- 2. 重磅新闻 -->
+    <div class="card">
+        <h2>🔥 核心重磅新闻</h2>
+        <div id="important-news">读取中...</div>
+    </div>
+
+    <!-- 3. 兴趣/产业新闻 -->
+    <div class="card">
+        <h2>💡 产业与市场关注</h2>
+        <div id="interest-news">读取中...</div>
+    </div>
+
+    <script>
+        async function loadNews() {
+            try {
+                // 读取同目录下的 news.json
+                const res = await fetch('./news.json');
+                const data = await res.json();
+
+                // 更新时间
+                document.getElementById('update-time').innerText = `更新时间：${new Date(data.updated).toLocaleString()}`;
+
+                // 渲染 AI 全局研判
+                if (data.summary_analysis) {
+                    document.getElementById('ai-card').style.display = 'block';
+                    document.getElementById('ai-analysis').innerText = data.summary_analysis;
+                }
+
+                // 渲染重磅新闻
+                renderList(data.important, 'important-news');
+
+                // 渲染兴趣新闻
+                renderList(data.interest, 'interest-news');
+
+            } catch (err) {
+                console.error("加载 news.json 失败:", err);
+            }
+        }
+
+        function renderList(items, containerId) {
+            const container = document.getElementById(containerId);
+            if (!items || items.length === 0) {
+                container.innerHTML = '<p style="color:#999;">暂无数据</p>';
+                return;
+            }
+
+            container.innerHTML = items.map(item => `
+                <div class="news-item">
+                    <div>
+                        <span class="source-tag">${item.source || '新闻'}</span>
+                        <a class="news-title" href="${item.url}" target="_blank">${item.title}</a>
+                    </div>
+                    ${item.summary ? `<p class="news-summary">${item.summary}</p>` : ''}
+                </div>
+            `).join('');
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>
