@@ -140,7 +140,17 @@ def main():
     all_articles = []
     for key in SOURCES:
         all_articles.extend(all_data[key])
-
+   # ------------------ 🔹 新增：读取同目录下的 Prompt 文件 ------------------
+    prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
+    prompt_text = ""
+    if prompt_path.exists():
+        with open(prompt_path, "r", encoding="utf-8") as f:
+            prompt_text = f.read().strip()
+        print(f"📄 成功读取分析 Prompt（共 {len(prompt_text)} 字）")
+    else:
+        print("⚠️ 未找到 ai_analysis_prompt.txt，将使用默认 Prompt进行分析")
+    # ------------------------------------------------------------------------
+    
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析...")
 
     # 2. 调用 AI 分析函数（进行挑选和排序）
