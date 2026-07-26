@@ -55,7 +55,7 @@ SOURCES = {
     "Zaobao": {
         "name": "Zaobao",
         "name_cn": "联合早报",
-        "rss": "https://news.google.com/search?q=%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+        "rss": "https://news.google.com/rss/search?q=联合早报&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
     },
     "BBC": {
         "name": "BBC",
