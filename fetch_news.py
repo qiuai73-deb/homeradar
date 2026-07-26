@@ -20,32 +20,32 @@ SOURCES = {
     "bloomberg": {
         "name": "Bloomberg",
         "name_cn": "彭博社",
-        "rss": "https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
     "wsj": {
         "name": "Wall Street Journal",
         "name_cn": "华尔街日报",
-        "rss": "https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=site:wsj.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
     "ft": {
         "name": "Financial Times",
         "name_cn": "金融时报",
-        "rss": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=site:ft.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
     "cnbc": {
         "name": "CNBC",
         "name_cn": "CNBC",
-        "rss": "https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=site:cnbc.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
     "scmp": {
         "name": "South China Morning Post",
         "name_cn": "南华早报",
-        "rss": "https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     },
     "Zaobao": {
         "name": "Zaobao",
         "name_cn": "联合早报",
-        "rss": "https://news.google.com/rss/search?q=联合早报&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+        "rss": "https://news.google.com/rss/search?q=联合早报+when:1d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
     },
     "BBC": {
         "name": "BBC",
