@@ -62,7 +62,6 @@ SOURCES = {
         "name_cn": "BBC",
         "rss": "http://feeds.bbci.co.uk/news/rss.xml",
     },
-
 }
 
 OUTPUT_DIR = Path(__file__).parent
@@ -81,7 +80,7 @@ def fetch_source(key, config):
                 "url": entry.get("link", ""),
                 "published": entry.get("published", ""),
                 "summary": entry.get("summary", ""),
-                "source": config["name_cn"],  # 👈 【核心关键修改】将新闻来源中文名写入数据中！
+                "source": config["name_cn"],  # 👈 将新闻来源中文名写入数据中！
             })
         print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章")
         return articles
@@ -140,7 +139,8 @@ def main():
     all_articles = []
     for key in SOURCES:
         all_articles.extend(all_data[key])
-   # ------------------ 🔹 新增：读取同目录下的 Prompt 文件 ------------------
+
+    # ------------------ 🔹 读取同目录下的 Prompt 文件 ------------------
     prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
     prompt_text = ""
     if prompt_path.exists():
@@ -150,17 +150,18 @@ def main():
     else:
         print("⚠️ 未找到 ai_analysis_prompt.txt，将使用默认 Prompt进行分析")
         
-    print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析...")
+    print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
-    # 2. 调用 AI 分析函数（进行挑选和排序）
-    important_news, interest_news = analyze_news(all_articles, prompt_text)
+    # 2. 调用 AI 分析函数（解包接收 3 个返回值：全局总结段落、重磅新闻列表、感兴趣新闻列表）
+    summary_analysis, important_news, interest_news = analyze_news(all_articles, prompt_text)
 
-    # 3. 构造符合前端渲染的 JSON 结构
+    # 3. 构造符合前端渲染的 JSON 结构（添加 summary_analysis 字段）
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
-        "important": important_news,  # 包含 source 信息的重磅新闻列表
-        "interest": interest_news,    # 包含 source 信息的兴趣新闻列表
+        "summary_analysis": summary_analysis,  # 👈 【核心新增】全局 AI 宏观分析与研判总结段落
+        "important": important_news,             # 包含 source 信息的重磅新闻列表
+        "interest": interest_news,               # 包含 source 信息的兴趣新闻列表
         "sources": {
             key: {
                 "name": SOURCES[key]["name"],
@@ -176,7 +177,7 @@ def main():
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
-    print("✅ 带 AI 分析结果及新闻来源的 news.json 保存成功！")
+    print("✅ 带 AI 全局总结及新闻列表的 news.json 保存成功！")
 
     # 5. 保存 Markdown
     md_path = OUTPUT_DIR / "news.md"
