@@ -15,8 +15,12 @@ def analyze_news(news_items, custom_prompt=""):
 
     system_prompt = custom_prompt if custom_prompt else "你是一个新闻分析助手。"
 
-    # 将新闻列表转为字符串传给 AI
-    news_text = json.dumps(news_items, ensure_ascii=False)
+    # 1. 限制发送给 AI 的数据量（避免输入过大，比如只挑选关键字段传给 AI）
+    simplified_news = [
+        {"title": item.get("title"), "source": item.get("source"), "url": item.get("url")}
+        for item in news_items
+    ]
+    news_text = json.dumps(simplified_news, ensure_ascii=False)
 
     try:
         response = client.chat.completions.create(
@@ -25,23 +29,23 @@ def analyze_news(news_items, custom_prompt=""):
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": f"请分析以下新闻：\n{news_text}"}
             ],
-            response_format={"type": "json_object"}  # 强制 DeepSeek 返回 JSON 格式
+            max_tokens=4000, # 👈 显式设置较高的 max_tokens，防止 AI 回复被切断
+            response_format={"type": "json_object"}
         )
         
-        # 获取 AI 返回的文本内容
         result_content = response.choices[0].message.content
-        print("🤖 AI 原始返回内容：", result_content[:200]) # 打印前200字方便排查
 
-        # 解析 JSON 字符串
+        # 2. 解析 JSON
         result_data = json.loads(result_content)
-
-        # 注意：这里假设你的 txt 提示词让 AI 返回了 {"important": [...], "interest": [...]} 结构
         important = result_data.get("important", [])
         interest = result_data.get("interest", [])
 
         return important, interest
 
+    except json.JSONDecodeError as e:
+        print(f"❌ AI 返回的 JSON 被截断或不完整: {e}")
+        print("💡 建议：在 Prompt 中让 AI 控制输出数量（如重磅新闻不超过10条）。")
+        return news_items[:10], news_items[10:20]
     except Exception as e:
         print(f"❌ AI 分析过程报错: {e}")
-        # 报错时降级处理
         return news_items[:10], news_items[10:20]
