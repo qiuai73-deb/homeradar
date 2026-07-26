@@ -1,22 +1,16 @@
 import os
-import requests
 import json
-from datetime import datetime, timedelta
-import glob
-import re
+import feedparser
+from ai_analyzer import analyze_news
+"""
+每日抓取路透社、彭博社、华尔街日报头条
+通过 Google News RSS 聚合（从 GitHub Actions 美国服务器运行）
+"""
+import hashlib
+from datetime import datetime, timezone
+from pathlib import Path
 
-# ========== 可配置参数 ==========
-RETENTION_DAYS = 7            # 保留最近几天的缓存
-CACHE_ROOT = "cached_news"    # 缓存根目录
-# =================================
-
-API_KEY = os.environ.get("DEEPSEEK_API_KEY")
-if not API_KEY:
-    print("错误: 未找到 DEEPSEEK_API_KEY")
-    exit(1)
-
-# ---------- 新闻源（完全不动，照抄你原来的） ----------
-# 这里保留你原有的新闻获取逻辑，我只给示例，你实际替换成自己的
+# ========== 新闻源配置 ==========
 SOURCES = {
     "reuters": {
         "name": "Reuters",
@@ -59,119 +53,134 @@ SOURCES = {
         "rss": "http://feeds.bbci.co.uk/news/rss.xml",
     },
 }
+
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
-# 如果你原来有 requests.get 抓 RSS 等，放在这里，不要改。
-# ---------------------------------------------------
 
-def extract_content(title, url):
-    """调用DeepSeek提取正文（不变）"""
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json"
-    }
-    payload = {
-        "model": "deepseek-v4-flash",
-        "messages": [
-            {"role": "system", "content": "请提取这段新闻的详细正文内容，返回纯文本。"},
-            {"role": "user", "content": f"标题：{title}\n来源：{url}"}
-        ]
-    }
+
+def fetch_source(key, config):
+    """抓取单个新闻源"""
+    print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
     try:
-        resp = requests.post("https://api.deepseek.com/v1/chat/completions",
-                             headers=headers, json=payload, timeout=30)
-        if resp.status_code == 200:
-            return resp.json()["choices"][0]["message"]["content"]
-        else:
-            return f"【正文提取失败】HTTP {resp.status_code}"
+        feed = feedparser.parse(config["rss"])
+        articles = []
+        for entry in feed.entries[:MAX_ARTICLES]:
+            articles.append({
+                "title": entry.get("title", ""),
+                "url": entry.get("link", ""),
+                "published": entry.get("published", ""),
+                "summary": entry.get("summary", ""),
+                "source": config["name_cn"],  # 👈 将新闻来源中文名写入数据中！
+            })
+        print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章")
+        return articles
     except Exception as e:
-        return f"【正文提取异常】{str(e)}"
+        print(f"  ❌ {config['name_cn']}: 抓取失败 - {e}")
+        return []
 
-def save_news_item(item):
-    """保存单条新闻，按日期分目录，并返回文件路径"""
-    title = item["title"]
-    url = item["url"]
-    today = datetime.now().strftime("%Y-%m-%d")
-    day_dir = os.path.join(CACHE_ROOT, today)
-    os.makedirs(day_dir, exist_ok=True)
 
-    # 文件名：清理非法字符，取前30个字符
-    safe_title = re.sub(r'[\\/*?:"<>|]', "", title)[:30]
-    if not safe_title:
-        safe_title = "无标题"
-    filename = os.path.join(day_dir, f"{safe_title}.md")
+def generate_markdown(all_data):
+    """生成可读的 Markdown 摘要"""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        f"# 📰 每日财经新闻摘要",
+        f"**更新时间：{now}**",
+        "",
+        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)",
+        "",
+        "---",
+        "",
+    ]
 
-    # 如果今天已经缓存过同名，跳过
-    if os.path.exists(filename):
-        print(f"跳过已存在: {filename}")
-        return None
+    emoji_map = {"reuters": "🔴", "bloomberg": "🟢", "wsj": "🔵", "ft": "🟡", "cnbc": "🟠", "scmp": "🟣", "marketwatch": "🟤", "yahoofinance": "⚪"}
 
-    print(f"正在处理: {title}")
-    body = extract_content(title, url)
+    for key, articles in all_data.items():
+        cfg = SOURCES[key]
+        emoji = emoji_map.get(key, "📌")
+        lines.append(f"## {emoji} {cfg['name_cn']} ({cfg['name']})")
+        lines.append("")
+        if not articles:
+            lines.append("> ⚠️ 本次未获取到文章")
+            lines.append("")
+            continue
+        for i, a in enumerate(articles, 1):
+            title = a["title"].strip()
+            # 去掉 Google News 加的后缀
+            title = title.split(" - ")[0].strip()
+            url = a["url"]
+            lines.append(f"{i}. [{title}]({url})")
+        lines.append("")
 
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(f"# {title}\n\n")
-        f.write(f"**原文链接**: [{url}]({url})\n\n")
-        f.write(f"**缓存时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n---\n\n")
-        f.write(body)
+    lines.append("---")
+    lines.append(f"*自动生成于 {now}*")
+    return "\n".join(lines)
 
-    print(f"已缓存: {filename}")
-    return filename
-
-def generate_index():
-    """生成索引页，列出所有缓存文件"""
-    index_path = os.path.join(CACHE_ROOT, "index.md")
-    with open(index_path, "w", encoding="utf-8") as f:
-        f.write("# 📰 缓存新闻索引\n\n")
-        f.write(f"最后更新：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n---\n\n")
-
-        # 按日期倒序排列
-        day_dirs = sorted(glob.glob(os.path.join(CACHE_ROOT, "????-??-??")), reverse=True)
-        for day_dir in day_dirs:
-            day_name = os.path.basename(day_dir)
-            f.write(f"## {day_name}\n\n")
-            md_files = sorted(glob.glob(os.path.join(day_dir, "*.md")))
-            for md_file in md_files:
-                # 读取标题（第一行 # 标题）
-                with open(md_file, "r", encoding="utf-8") as mf:
-                    first_line = mf.readline().strip()
-                    if first_line.startswith("# "):
-                        title = first_line[2:]
-                    else:
-                        title = os.path.basename(md_file).replace(".md", "")
-                # 相对路径
-                rel_path = os.path.relpath(md_file, start=CACHE_ROOT)
-                f.write(f"- [{title}]({rel_path})\n")
-            f.write("\n")
-        f.write("---\n\n")
-        f.write(f"*缓存保留最近 {RETENTION_DAYS} 天，超出自动清理。*\n")
-
-def clean_old_caches():
-    """删除超过 RETENTION_DAYS 天的缓存目录"""
-    cutoff = datetime.now() - timedelta(days=RETENTION_DAYS)
-    for day_dir in glob.glob(os.path.join(CACHE_ROOT, "????-??-??")):
-        try:
-            dir_date = datetime.strptime(os.path.basename(day_dir), "%Y-%m-%d")
-            if dir_date < cutoff:
-                import shutil
-                shutil.rmtree(day_dir)
-                print(f"已删除过期目录: {day_dir}")
-        except ValueError:
-            continue  # 非日期目录跳过
 
 def main():
-    # 1. 抓取并缓存新内容
-    for item in news_items:
-        save_news_item(item)
+    print(f"🚀 开始抓取新闻... ({datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')})")
+    print()
 
-    # 2. 重新生成索引页
-    generate_index()
+    all_data = {}
+    for key, config in SOURCES.items():
+        articles = fetch_source(key, config)
+        all_data[key] = articles
 
-    # 3. 清理过期缓存
-    clean_old_caches()
+    # 1. 收集所有抓取到的文章到一个总列表里面
+    all_articles = []
+    for key in SOURCES:
+        all_articles.extend(all_data[key])
 
-    # 4. 把索引也加入 Git（工作流会提交所有变更）
-    print("缓存更新完成。")
+    # ------------------ 🔹 读取同目录下的 Prompt 文件 ------------------
+    prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
+    prompt_text = ""
+    if prompt_path.exists():
+        with open(prompt_path, "r", encoding="utf-8") as f:
+            prompt_text = f.read().strip()
+        print(f"📄 成功读取分析 Prompt（共 {len(prompt_text)} 字）")
+    else:
+        print("⚠️ 未找到 ai_analysis_prompt.txt，将使用默认 Prompt进行分析")
+        
+    print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
+
+    # 2. 调用 AI 分析函数（解包接收 3 个返回值：全局总结段落、重磅新闻列表、感兴趣新闻列表）
+    summary_analysis, important_news, interest_news = analyze_news(all_articles, prompt_text)
+
+    # 3. 构造符合前端渲染的 JSON 结构（添加 summary_analysis 字段）
+    json_path = OUTPUT_DIR / "news.json"
+    json_data = {
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "summary_analysis": summary_analysis,  # 👈 【核心新增】全局 AI 宏观分析与研判总结段落
+        "important": important_news,             # 包含 source 信息的重磅新闻列表
+        "interest": interest_news,               # 包含 source 信息的兴趣新闻列表
+        "sources": {
+            key: {
+                "name": SOURCES[key]["name"],
+                "name_cn": SOURCES[key]["name_cn"],
+                "count": len(all_data[key]),
+                "articles": all_data[key],
+            }
+            for key in SOURCES
+        }
+    }
+
+    # 4. 保存 JSON 文件
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+    print("✅ 带 AI 全局总结及新闻列表的 news.json 保存成功！")
+
+    # 5. 保存 Markdown
+    md_path = OUTPUT_DIR / "news.md"
+    md_content = generate_markdown(all_data)
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(md_content)
+
+    # 统计
+    total = sum(len(v) for v in all_data.values())
+    print(f"\n✅ 完成！共获取 {total} 篇文章")
+    print(f"   JSON: {json_path}")
+    print(f"   Markdown: {md_path}")
+
 
 if __name__ == "__main__":
     main()
