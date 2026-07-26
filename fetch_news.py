@@ -149,12 +149,11 @@ def main():
         print(f"📄 成功读取分析 Prompt（共 {len(prompt_text)} 字）")
     else:
         print("⚠️ 未找到 ai_analysis_prompt.txt，将使用默认 Prompt进行分析")
-    # ------------------------------------------------------------------------
-    
+        
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析...")
 
     # 2. 调用 AI 分析函数（进行挑选和排序）
-    important_news, interest_news = analyze_news(all_articles)
+    important_news, interest_news = analyze_news(all_articles, prompt_text)
 
     # 3. 构造符合前端渲染的 JSON 结构
     json_path = OUTPUT_DIR / "news.json"
