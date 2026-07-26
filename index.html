@@ -9,19 +9,20 @@
         .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
         .ai-summary { background: #eef2ff; border-left: 4px solid #4f46e5; }
         .ai-summary h2 { margin-top: 0; color: #3730a3; }
-        .analysis-text { line-height: 1.6; white-space: pre-wrap; font-size: 15px; }
+        .analysis-text { line-height: 1.7; font-size: 15px; color: #1e1b4b; }
+        .analysis-text p { margin-bottom: 12px; }
         .news-item { border-bottom: 1px solid #eee; padding: 12px 0; }
         .news-item:last-child { border-bottom: none; }
         .news-title { text-decoration: none; color: #1e293b; font-weight: bold; font-size: 16px; }
         .news-title:hover { color: #4f46e5; }
         .source-tag { background: #e2e8f0; font-size: 12px; padding: 2px 6px; border-radius: 4px; margin-right: 8px; color: #475569; }
-        .news-summary { font-size: 14px; color: #64748b; margin: 6px 0 0 0; }
+        .news-summary { font-size: 14px; color: #64748b; margin: 6px 0 0 0; line-height: 1.5; }
     </style>
 </head>
 <body>
 
     <h1>📰 每日财经新闻 AI 研判</h1>
-    <div id="update-time" style="color: #666; font-size: 14px; margin-bottom: 20px;">更新中...</div>
+    <div id="update-time" style="color: #666; font-size: 14px; margin-bottom: 20px;">加载中...</div>
 
     <!-- 1. AI 研判总览区域 -->
     <div class="card ai-summary" id="ai-card" style="display: none;">
@@ -44,17 +45,28 @@
     <script>
         async function loadNews() {
             try {
-                // 读取同目录下的 news.json
-                const res = await fetch('./news.json');
+                // 🔹 优化点 1：加时间戳 ?t=... 破坏浏览器静态缓存，保证每次拿到最新生成的 JSON
+                const res = await fetch(`./news.json?t=${Date.now()}`);
+                if (!res.ok) throw new Error("无法获取 news.json");
+                
                 const data = await res.json();
 
-                // 更新时间
-                document.getElementById('update-time').innerText = `更新时间：${new Date(data.updated).toLocaleString()}`;
+                // 更新时间格式化
+                if (data.updated) {
+                    const updateDate = new Date(data.updated);
+                    document.getElementById('update-time').innerText = `更新时间：${updateDate.toLocaleString('zh-CN')}`;
+                }
 
-                // 渲染 AI 全局研判
+                // 🔹 优化点 2：渲染 AI 全局研判（简单清洗加粗语法与换行，排版更好看）[cite: 5]
                 if (data.summary_analysis) {
                     document.getElementById('ai-card').style.display = 'block';
-                    document.getElementById('ai-analysis').innerText = data.summary_analysis;
+                    
+                    let formattedText = data.summary_analysis
+                        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // 解析 **加粗**
+                        .replace(/\n\n/g, '</p><p>')                     // 解析双换行分段
+                        .replace(/\n/g, '<br>');                        // 解析单换行
+
+                    document.getElementById('ai-analysis').innerHTML = `<p>${formattedText}</p>`;
                 }
 
                 // 渲染重磅新闻
@@ -65,6 +77,9 @@
 
             } catch (err) {
                 console.error("加载 news.json 失败:", err);
+                document.getElementById('update-time').innerText = '❌ 数据加载失败，请刷新或稍后再试';
+                document.getElementById('important-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据</p>';
+                document.getElementById('interest-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据</p>';
             }
         }
 
@@ -79,7 +94,7 @@
                 <div class="news-item">
                     <div>
                         <span class="source-tag">${item.source || '新闻'}</span>
-                        <a class="news-title" href="${item.url}" target="_blank">${item.title}</a>
+                        <a class="news-title" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
                     </div>
                     ${item.summary ? `<p class="news-summary">${item.summary}</p>` : ''}
                 </div>
