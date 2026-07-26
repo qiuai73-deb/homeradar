@@ -36,8 +36,8 @@ def analyze_news(articles, prompt_text=""):
     if not articles:
         return ("暂无新闻数据", [], [])
 
-    # 🔹 1. 严格限制输入数量：只取前 35 条，防止 AI 输出过长导致 Token 溢出截断！
-    selected_articles = articles[:50]
+    # 🔹 1. 严格限制输入数量：只取前 35 条，防止 AI 输出过长导致  溢出截断！
+    selected_articles = articles[:80]
     simplified_articles = [
         {"title": a.get("title", ""), "source": a.get("source", ""), "url": a.get("url", "")}
         for a in selected_articles
@@ -71,7 +71,7 @@ def analyze_news(articles, prompt_text=""):
             ],
             response_format={"type": "json_object"},
             temperature=0.3,
-            max_tokens=4000
+            max_tokens=8000
         )
         
         raw_output = response.choices[0].message.content.strip()
