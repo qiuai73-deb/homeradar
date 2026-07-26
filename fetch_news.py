@@ -17,9 +17,50 @@ if not API_KEY:
 
 # ---------- 新闻源（完全不动，照抄你原来的） ----------
 # 这里保留你原有的新闻获取逻辑，我只给示例，你实际替换成自己的
-news_items = [
-    {"title": "OpenAI发布新模型", "url": "https://example.com/news/1", "summary": "这是通过DeepSeek提取的国外新闻正文内容..."}
-]
+SOURCES = {
+    "reuters": {
+        "name": "Reuters",
+        "name_cn": "路透社",
+        "rss": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+    },
+    "bloomberg": {
+        "name": "Bloomberg",
+        "name_cn": "彭博社",
+        "rss": "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    },
+    "wsj": {
+        "name": "Wall Street Journal",
+        "name_cn": "华尔街日报",
+        "rss": "https://news.google.com/rss/search?q=site:wsj.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    },
+    "ft": {
+        "name": "Financial Times",
+        "name_cn": "金融时报",
+        "rss": "https://news.google.com/rss/search?q=site:ft.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    },
+    "cnbc": {
+        "name": "CNBC",
+        "name_cn": "CNBC",
+        "rss": "https://news.google.com/rss/search?q=site:cnbc.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    },
+    "scmp": {
+        "name": "South China Morning Post",
+        "name_cn": "南华早报",
+        "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    },
+    "Zaobao": {
+        "name": "Zaobao",
+        "name_cn": "联合早报",
+        "rss": "https://news.google.com/rss/search?q=联合早报+when:1d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+    },
+    "BBC": {
+        "name": "BBC",
+        "name_cn": "BBC",
+        "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+    },
+}
+OUTPUT_DIR = Path(__file__).parent
+MAX_ARTICLES = 10  # 每个源最多取多少条
 # 如果你原来有 requests.get 抓 RSS 等，放在这里，不要改。
 # ---------------------------------------------------
 
