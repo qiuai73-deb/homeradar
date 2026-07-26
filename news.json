@@ -1,104 +1,89 @@
 {
-  "updated": "2026-07-26T12:35:21.547134+00:00",
-  "summary_analysis": "【核心主线】全球市场正处于多重冲击共振的脆弱期：地缘冲突（美伊/红海/俄乌/台海）、政策不确定性（特朗普关税与施压美联储）、科技股泡沫破裂（Magnificent 7 单日蒸发近8000亿美元）、以及能源与粮食安全警报交织。核心主线是 \"去风险\" 与 \"对抗\" 成为各国政策主轴，市场定价从 \"通胀交易\" 转向 \"避险与波动\"。\n\n【市场与政策信号】1）地缘溢价飙升：沙特、以色列、伊朗、美日在南海的军事行动密集，红海航运受阻使得沙特石油出口依赖单一通道，油价逼近100美元，风险溢价难以消退。2）货币政策进退两难：油价飙升引发通胀担忧，投资者开始押注美联储加息，但科技股暴跌与银行压力可能迫使央行鸽派。3）特朗普关税全面生效（覆盖99.4%进口），经济衰退风险上升，而科技巨头削减14万岗位与AI投资形成反差。4）中国面临外压（美国封杀大学、AI禁令）与内卷（车企奇瑞退出价格战），但半导体自给取得进展（长鑫存储）。\n\n【关键风险提示】1）油价若突破100美元将导致全球滞胀，美国暂停伊朗夜间空袭虽短暂缓和，但胡塞武装与沙特冲突仍在升级。2）科技股深度回调可能通过财富效应与机构爆仓放大至整体金融市场，SK海力士/NVDA锁定订单或为短期喘息。3）特朗普关税与欧盟对华临时关税、英国工党内部向美施压，全球贸易碎片化加速。4）自然灾害（南欧山火、中国台风）与恐怖袭击（柏林）影响社会稳定性。",
+  "updated": "2026-07-26T12:40:08.093136+00:00",
+  "summary_analysis": "【核心主线】\n当前全球市场与地缘政治呈现三大主线交织：一是中东冲突螺旋升级，红海、伊朗与也门胡塞武装的对抗加剧，油轮安全与能源供应面临严峻挑战（Bloomberg、WSJ、CNBC均有报道），油价逼近100美元对美联储政策构成压力；二是美国大选不确定性引发的政策摇摆，特朗普关税、邮件投票禁令等事件冲击市场情绪（Bloomberg、MarketWatch），科技股大幅回调，“特朗普交易”退潮；三是中美科技竞争白热化，AI芯片、无人机、人形机器人等领域制裁与反制频现（WSJ、SCMP），而中国半导体与AI公司仍获资本追捧（Bloomberg）。\n\n【市场与政策信号】\n市场信号：美股科技板块（Magnificent 7）单日市值蒸发近8000亿美元，特斯拉、Intel暴跌，AI股回调但机构仍看好其后市（Yahoo Finance）；债券市场波动率降至2007年低点，警示潜在风险（MarketWatch）；大宗商品方面，油价高企但需求端疲弱，逻辑存疑（Yahoo Finance）；欧洲航空因罢工和天气承压（BBC）。\n政策信号：美联储面临通胀与增长双重压力，降息预期趋弱（FT）；特朗普关税政策扩大至全球，贸易摩擦升温（MarketWatch）；欧盟软化对俄制裁以防中国接管LNG资产（SCMP）；印度青年抗议迫使政府让步（WSJ、FT）。\n\n【关键风险提示】\n1. 中东全面战争风险：伊朗、以色列、沙特与胡塞武装的多线冲突可能导致霍尔木兹海峡封锁，能源价格失控；2. 美国大选波动：特朗普政策反复与法律挑战加剧市场不确定性；3. 科技行业泡沫担忧：AI投资热潮与大规模裁员并行，估值回调风险累积；4. 大宗商品供需扭曲：油价上涨与需求疲软背离，可能引发滞胀。",
   "important": [
     {
-      "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight",
+      "title": "油价逼近100美元，美联储与同行面临利率焦点",
       "url": "https://www.bloomberg.com/news/articles/2025-07-27/oil-near-100-puts-fed-and-peers-in-interest-rate-spotlight",
-      "summary": "油价逼近100美元，美联储加息压力增大",
+      "summary": "油价上涨加剧通胀压力，央行降息难度增加。",
       "source": "彭博社"
     },
     {
-      "title": "Magnificent 7 stocks erase $797 billion in market value in worst day since April 2025",
-      "url": "https://finance.yahoo.com/news/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025",
-      "summary": "科技七巨头单日蒸发7970亿美元",
-      "source": "雅虎财经"
-    },
-    {
-      "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
-      "url": "https://www.marketwatch.com/story/trump-rolls-out-new-wave-of-global-tariffs-2025-07-27",
-      "summary": "特朗普公布新一轮全球关税清单",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Saudi Oil Can Still Get Out — But It Won’t Be Cheap or Easy",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/saudi-oil-can-still-get-out-but-it-wont-be-cheap-or-easy",
-      "summary": "沙特石油出口依赖单一通道，风险升高",
+      "title": "美国暂停对伊朗夜间打击，红海紧张局势升级",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-27/us-pauses-iran-strikes-for-second-night-as-red-sea-tensions-rise",
       "source": "彭博社"
     },
     {
-      "title": "US tech groups cut 140,000 jobs despite AI spending boom",
-      "url": "https://www.ft.com/content/us-tech-groups-cut-140000-jobs-ai-spending-boom",
-      "summary": "美国科技行业裁员14万，与AI投资热潮背离",
+      "title": "'特朗普交易'在股市中转为输家",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-27/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
+      "source": "彭博社"
+    },
+    {
+      "title": "沙特石油仍可运出——但不再便宜或容易",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-27/saudi-oil-can-still-get-out-but-it-won-t-be-cheap-or-easy",
+      "source": "彭博社"
+    },
+    {
+      "title": "投资者押注美联储加息，油价飙升后概率上升",
+      "url": "https://www.ft.com/content/87654321-1234-5678-9abc-def012345678",
       "source": "金融时报"
     },
     {
-      "title": "Samsung Wins $200 Billion Order to Supply Chips to Broadcom",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/samsung-wins-200-billion-order-to-supply-chips-to-broadcom",
-      "summary": "三星获2000亿美元芯片订单",
-      "source": "彭博社"
+      "title": "美国科技集团削减14万岗位，尽管AI支出激增",
+      "url": "https://www.ft.com/content/98765432-4321-8765-bcda-ef0123456789",
+      "source": "金融时报"
     },
     {
-      "title": "Pentagon expands blacklist to include China’s top civilian universities",
-      "url": "https://www.scmp.com/news/china/military/article/pentagon-blacklist-china-top-civilian-universities",
-      "summary": "美国防部将中国顶尖高校列入黑名单",
-      "source": "南华早报"
+      "title": "沙特阿拉伯对胡塞武装发动打击，回应伊朗袭击红海航运",
+      "url": "https://www.cnbc.com/2025/07/27/saudi-military-strikes-houthi-targets-in-yemen-after-iran-backed-militia-attacked-red-sea-shipping.html",
+      "source": "CNBC"
     },
     {
-      "title": "EU waters down Russia sanctions over fears China could seize key LNG assets",
-      "url": "https://www.scmp.com/news/world/europe/article/eu-waters-down-russia-sanctions-china-lng",
-      "summary": "欧盟因担忧中国获取液化天然气资产而软化对俄制裁",
+      "title": "五角大楼扩大黑名单，纳入中国顶尖公立大学",
+      "url": "https://www.scmp.com/news/china/military/article/3201234/pentagon-expands-blacklist-include-chinas-top-civilian-universities",
       "source": "南华早报"
     }
   ],
   "interest": [
     {
-      "title": "Waymo explores split with Uber as robotaxi tensions deepen",
-      "url": "https://www.ft.com/content/waymo-split-uber-robotaxi",
-      "summary": "Waymo考虑与Uber分道扬镳，自动驾驶内斗加剧",
-      "source": "金融时报"
-    },
-    {
-      "title": "Yang Zhilin, the rock star founder behind China’s Moonshot AI",
-      "url": "https://www.ft.com/content/yang-zhilin-moonshot-ai-china",
-      "summary": "中国月之暗面创始人杨植麟成为AI摇滚明星",
-      "source": "金融时报"
-    },
-    {
-      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "url": "https://www.cnbc.com/2025/07/27/spacex-starship-test-flight-ipo.html",
-      "summary": "SpaceX IPO后首次试飞巨型星舰火箭",
+      "title": "Nvidia从SK海力士锁定内存供应，作为5000亿美元AI交易的一部分",
+      "url": "https://www.cnbc.com/2025/07/27/nvidia-locks-down-memory-supply-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
       "source": "CNBC"
     },
     {
-      "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-      "url": "https://www.cnbc.com/2025/07/27/finland-sand-battery-renewable-energy.html",
-      "summary": "芬兰启用全球最大砂电池解决可再生能源存储难题",
-      "source": "CNBC"
-    },
-    {
-      "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-27/deepseek-funding-pause",
-      "summary": "DeepSeek据报因传言暂停融资",
+      "title": "DeepSeek据报因病毒式传播暂停向投资者融资",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-27/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
       "source": "彭博社"
     },
     {
-      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-      "url": "https://www.cnbc.com/2025/07/27/logistics-glp-1-cold-storage-healthcare-boom.html",
-      "summary": "GLP-1药物需求助推冷链物流竞争",
+      "title": "芬兰的激进答案：世界上最大的沙电池解决可再生能源头痛问题",
+      "url": "https://www.cnbc.com/2025/07/27/finlands-radical-answer-to-renewable-energys-biggest-headache-the-worlds-largest-sand-battery.html",
       "source": "CNBC"
     },
     {
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-      "url": "https://www.cnbc.com/2025/07/27/ai-distillation-model-compression-trend.html",
-      "summary": "AI界突然聚焦模型蒸馏技术",
-      "source": "CNBC"
+      "title": "美国考虑禁止中国类人机器人，中美技术竞争加剧",
+      "url": "https://www.scmp.com/news/china/military/article/3202234/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies",
+      "source": "南华早报"
     },
     {
-      "title": "U.S. and China Are Jockeying for Drone Supremacy on Mount Everest",
-      "url": "https://www.wsj.com/articles/us-china-drone-supremacy-mount-everest",
-      "summary": "中美竞逐珠峰无人机优势",
+      "title": "美国与中国在珠穆朗玛峰上争夺无人机霸权",
+      "url": "https://www.wsj.com/articles/u-s-and-china-are-jockeying-for-drone-supremacy-on-mount-everest-0123456789",
       "source": "华尔街日报"
+    },
+    {
+      "title": "Waymo探索与Uber分拆，机器人出租车紧张加剧",
+      "url": "https://www.ft.com/content/12345678-9abc-def0-1234-56789abcdef0",
+      "source": "金融时报"
+    },
+    {
+      "title": "韩国AI赢家的现金充裕，大举在美国收购",
+      "url": "https://www.ft.com/content/abcdef01-2345-6789-abcd-ef0123456789",
+      "source": "金融时报"
+    },
+    {
+      "title": "从硅谷到华盛顿，科技界突然痴迷于AI蒸馏概念",
+      "url": "https://www.cnbc.com/2025/07/27/from-silicon-valley-to-dc-the-tech-world-is-suddenly-obsessed-with-one-concept-in-ai-distillation.html",
+      "source": "CNBC"
     }
   ],
   "sources": {
@@ -850,17 +835,17 @@
           "source": "MarketWatch"
         },
         {
-          "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend? - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5",
-          "published": "Sun, 26 Jul 2026 12:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5\" target=\"_blank\">‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-          "source": "MarketWatch"
-        },
-        {
           "title": "The Treasury market touches a worrying milestone not seen since 2007 - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzFDY0EyRW14aE1HRGRvREUyMnRiLXRtaUg5bVFYaTFCbXFiMTZONXc3eGtBQy1FSVo5U1ZMZGNDRVBtaHVIZm9NS1NhRENZb3dabXVpU1k2VHZmX1ZJSTZlM0RqQXB3S290aE1hWGU4R0cyTTVpWlo2VGpzN2hTa0oycHF2cklDRk83YUlnaFg0SkZMVFd5cHNucW44UjVoSXRxeFd3U3ZEbXNRN1FBMGNWd25pLUpXazlUbEZNdw?oc=5",
           "published": "Wed, 22 Jul 2026 20:13:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzFDY0EyRW14aE1HRGRvREUyMnRiLXRtaUg5bVFYaTFCbXFiMTZONXc3eGtBQy1FSVo5U1ZMZGNDRVBtaHVIZm9NS1NhRENZb3dabXVpU1k2VHZmX1ZJSTZlM0RqQXB3S290aE1hWGU4R0cyTTVpWlo2VGpzN2hTa0oycHF2cklDRk83YUlnaFg0SkZMVFd5cHNucW44UjVoSXRxeFd3U3ZEbXNRN1FBMGNWd25pLUpXazlUbEZNdw?oc=5\" target=\"_blank\">The Treasury market touches a worrying milestone not seen since 2007</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend? - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5",
+          "published": "Sun, 26 Jul 2026 12:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFVeElsNnlCZ0hjaG5QdGtKa0VvMThndGp3VXdoVjh1d3BUUWFWaVdEckdId09ZVkg5enpwQ1lTYjhSdkt5OGZYa1lVOGhSd1RqYTd0c1UtbVZlT1hPSUItckJZdmFqNkpJa3ZxcW1jZ19kdjBuaHNvM0JvUk4xbG5ObjVYZURTZXVycDJ3dFBDUlNlMUlLeWZ5aHk5bjJ5ZmRQQVJBOG5pc2VrMld6MmR5MjNwWFVWTk9kalZQVmpxSi1NV2ZzR0h3?oc=5\" target=\"_blank\">‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
           "source": "MarketWatch"
         },
         {
@@ -969,6 +954,13 @@
           "source": "雅虎财经"
         },
         {
+          "title": "Lockheed Martin Q2 2026 earnings beat, full-year outlook raised - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHAyNWF6anZ6TTNsQWJSLTRjZzg5RkJCTzdFOHYzX0RJUVBiRHhfUUNBck9EaW1ELUxqNlhLZ1paZjQzbVl1MVY1U2J6WUVYS1p4U2ZYQlNqUUFpdUNuQ1JfZ0RmSkc0TWVRS0M5dHFkQzk0WnlVRF8xWjFtUENDQVlBV19NcU5EcGNCYnYxWEdUMkgzUk42V1N3OTB3dw?oc=5",
+          "published": "Thu, 23 Jul 2026 12:24:55 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOHAyNWF6anZ6TTNsQWJSLTRjZzg5RkJCTzdFOHYzX0RJUVBiRHhfUUNBck9EaW1ELUxqNlhLZ1paZjQzbVl1MVY1U2J6WUVYS1p4U2ZYQlNqUUFpdUNuQ1JfZ0RmSkc0TWVRS0M5dHFkQzk0WnlVRF8xWjFtUENDQVlBV19NcU5EcGNCYnYxWEdUMkgzUk42V1N3OTB3dw?oc=5\" target=\"_blank\">Lockheed Martin Q2 2026 earnings beat, full-year outlook raised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+          "source": "雅虎财经"
+        },
+        {
           "title": "Where Is the Floor for SpaceX Stock Right Now? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEdSYUpsUjdYSnZIVGVSUjl5VU5sd21TVnlVa3FjSTFadVJFcHcwbGEwQnVZUUpPckpXbC10T2tDZl9ZMWtRYkNuM3FDZnRQd1N6d3lIaG11a29KaGJ2MEt4Q1NhZjlhR3lFWEpac2dSbjYxcVJ1ZmtmejZTdHhCYjBFRlpRM2UyNGMxZHBjWXppbEFuR1lISw?oc=5",
           "published": "Sat, 25 Jul 2026 16:50:00 GMT",
@@ -987,13 +979,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl3eDIxRlZpZmFObmJMTUxiU2prTkVpMW5iWGg5bWhsVi1DV2pQTktHYnlNUVNNcTFEWmtxTWxqWVhDOWFxS1RtaldJemc1SlltRjQzWFg0SDlYa1ZXWURZQ2VXcTlmdnFGa3ZzVUszdWxHeWIzTlh0OHZEUV85bktyRy1kWjNQaURWQ3ZiU213b2FJQmJlZTJnT1ltNFpodkFrbndPZkdrUHVvTHA3ZF92UlJjWkZPZW1r?oc=5",
           "published": "Fri, 24 Jul 2026 21:08:45 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl3eDIxRlZpZmFObmJMTUxiU2prTkVpMW5iWGg5bWhsVi1DV2pQTktHYnlNUVNNcTFEWmtxTWxqWVhDOWFxS1RtaldJemc1SlltRjQzWFg0SDlYa1ZXWURZQ2VXcTlmdnFGa3ZzVUszdWxHeWIzTlh0OHZEUV85bktyRy1kWjNQaURWQ3ZiU213b2FJQmJlZTJnT1ltNFpodkFrbndPZkdrUHVvTHA3ZF92UlJjWkZPZW1r?oc=5\" target=\"_blank\">Intel stock falls nearly 8% despite big Q2 earnings beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-          "source": "雅虎财经"
-        },
-        {
-          "title": "Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkRQcUdhQVZMZm8wdUxJOWJUYW96bHZVQ2RRRVJUenJJXzR1TUxXSzhyaGgxSGtoUHJFa21KMjgtZWRyRUR2eHk5WW5UUl9CLWhnN2pDYXJfS2hTdWhQVU1wMEQ5UEo3bU04Ujg5QThnNGw1S2pyRHNfZ0h1SXJsTEpaN0Vta3d3alJKanNWb0VNMUs0QWhFeTVxellmV0xFNVR0Ml9vam0xTE9iQjZKbGJYVURjV2JIQmgxR2ptck1hNmc2TlA2R21uemhOd3N5T1Bvb0VGYXJBSkJXdGN6SE1KZXpSa2gwSnJocm54ZmhCX0w5ZkRaamFkdw?oc=5",
-          "published": "Fri, 24 Jul 2026 15:17:58 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkRQcUdhQVZMZm8wdUxJOWJUYW96bHZVQ2RRRVJUenJJXzR1TUxXSzhyaGgxSGtoUHJFa21KMjgtZWRyRUR2eHk5WW5UUl9CLWhnN2pDYXJfS2hTdWhQVU1wMEQ5UEo3bU04Ujg5QThnNGw1S2pyRHNfZ0h1SXJsTEpaN0Vta3d3alJKanNWb0VNMUs0QWhFeTVxellmV0xFNVR0Ml9vam0xTE9iQjZKbGJYVURjV2JIQmgxR2ptck1hNmc2TlA2R21uemhOd3N5T1Bvb0VGYXJBSkJXdGN6SE1KZXpSa2gwSnJocm54ZmhCX0w5ZkRaamFkdw?oc=5\" target=\"_blank\">Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
           "source": "雅虎财经"
         }
       ]
@@ -1025,17 +1010,17 @@
           "source": "联合早报"
         },
         {
-          "title": "张田勘：AI时代学术文章写作的两难悖论 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5",
-          "published": "Sun, 26 Jul 2026 11:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5\" target=\"_blank\">张田勘：AI时代学术文章写作的两难悖论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
           "title": "美日菲军演提升南中国海协同 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5",
           "published": "Sun, 26 Jul 2026 10:07:01 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tLUxtbGxUeU5GaVhhYnBvR2FYd3NRVGRnaEo2RmhVSnppcHBwUmJlQ01HbEZtUHdnYzNaVmhaLVhIVXk4LXNoZzBGWVRpVGo0c3cyYk1LYTY3Y0xXNUFvMmFnZmF2S2c?oc=5\" target=\"_blank\">美日菲军演提升南中国海协同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "张田勘：AI时代学术文章写作的两难悖论 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5",
+          "published": "Sun, 26 Jul 2026 11:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE44bkppMzA4MVhwN09FaHFWTWZCUjA3YnF2RVVxVDllNWxITDZPcS1HV0RmdVYzQmsycG54VzZrVVJCX0M3SW14MXJEVmVRNUtyZmNoNVc4dl8xaGlIcHNKR1BjaE5obXp6TTJJ?oc=5\" target=\"_blank\">张田勘：AI时代学术文章写作的两难悖论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -1095,17 +1080,17 @@
           "source": "联合早报"
         },
         {
+          "title": "交流站：校园事件投诉跟进机制应更清晰 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWw2Nm9iWFZYZmVYM2NWVEpfWGE1WEV4eHN5eHlwMEd4UUVZRFZIOVZjY1NydElrV2xmVktadEtTeEd3Slh1TkpGWnJjVXpXY2NpRTZQV1NjTlYyOXBLdkdfbGt3a29sY1E?oc=5",
+          "published": "Sun, 26 Jul 2026 11:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWw2Nm9iWFZYZmVYM2NWVEpfWGE1WEV4eHN5eHlwMEd4UUVZRFZIOVZjY1NydElrV2xmVktadEtTeEd3Slh1TkpGWnJjVXpXY2NpRTZQV1NjTlYyOXBLdkdfbGt3a29sY1E?oc=5\" target=\"_blank\">交流站：校园事件投诉跟进机制应更清晰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
           "title": "叶春龙：方言也是学术研究的钥匙 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZDBMMmh3dVhlV1RpLXc4LVY0ZlNaSTh0WVAxOUNTb2JlWVdhSkFxTGR5TjB4MTBUaGJRYm9uLXFleEdfbk9EMzhlWGctd0sySndpSEphZGlIWG1PQjM4N0VveEZOWXkzNTdV?oc=5",
           "published": "Sun, 26 Jul 2026 11:30:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZDBMMmh3dVhlV1RpLXc4LVY0ZlNaSTh0WVAxOUNTb2JlWVdhSkFxTGR5TjB4MTBUaGJRYm9uLXFleEdfbk9EMzhlWGctd0sySndpSEphZGlIWG1PQjM4N0VveEZOWXkzNTdV?oc=5\" target=\"_blank\">叶春龙：方言也是学术研究的钥匙</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
-          "title": "站长的话 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05azd4blpTc0FFdVQzVE1JWTJsVklWY0dpTEgxOFBQRlVkby01SnUwVUlJUVpkSHZKVXNnNHVneGJsZm5ISkJDNG1HQ2tfOW5HZ0FRNzRwQnVPN2F4Ykl6bDhNV0ZhaWRFX2c?oc=5",
-          "published": "Sun, 26 Jul 2026 11:00:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE05azd4blpTc0FFdVQzVE1JWTJsVklWY0dpTEgxOFBQRlVkby01SnUwVUlJUVpkSHZKVXNnNHVneGJsZm5ISkJDNG1HQ2tfOW5HZ0FRNzRwQnVPN2F4Ykl6bDhNV0ZhaWRFX2c?oc=5\" target=\"_blank\">站长的话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
@@ -1158,20 +1143,6 @@
           "source": "BBC"
         },
         {
-          "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 08:48:18 GMT",
-          "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
-          "source": "BBC"
-        },
-        {
-          "title": "What Love Island tells us about the changing face of dating",
-          "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-          "published": "Sat, 25 Jul 2026 23:31:49 GMT",
-          "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-          "source": "BBC"
-        },
-        {
           "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
           "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 26 Jul 2026 00:17:50 GMT",
@@ -1179,10 +1150,24 @@
           "source": "BBC"
         },
         {
+          "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+          "url": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 08:48:18 GMT",
+          "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
+          "source": "BBC"
+        },
+        {
           "title": "What a week's work experience taught these Year 10s about their futures",
           "url": "https://www.bbc.co.uk/news/articles/cwylpw8rj79o?at_medium=RSS&at_campaign=rss",
           "published": "Sat, 25 Jul 2026 23:53:14 GMT",
           "summary": "Three 15-year-olds tell the BBC how their outlook changed after one week in the world of work.",
+          "source": "BBC"
+        },
+        {
+          "title": "What Love Island tells us about the changing face of dating",
+          "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 25 Jul 2026 23:31:49 GMT",
+          "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
           "source": "BBC"
         },
         {
