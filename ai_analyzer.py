@@ -9,11 +9,22 @@ USER_INTERESTS = """
 3. 全球AI、高科技公司
 """
 
-def analyze_news(news_items):
+def analyze_news(news_items, custom_prompt=""):
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         print("⚠️ 未检测到 OPENAI_API_KEY，跳过 AI 分析")
         return news_items[:10], news_items[10:20]
+
+    client = OpenAI(
+        api_key=api_key,
+        base_url=os.getenv("OPENAI_BASE_URL", "https://api.deepseek.com")
+    )
+
+    # 1. 设置默认 Prompt（防空备用）
+    system_prompt = custom_prompt if custom_prompt else "你是一个专业的新闻分析助手，请帮我筛选并整理重磅新闻与感兴趣的新闻。"
+
+    # 2. 构造发送给 AI 的新闻文本数据
+    news_text = json.dumps(news_items, ensure_ascii=False, indent=2)
 
     client = OpenAI(
         api_key=api_key,
