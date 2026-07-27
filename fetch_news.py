@@ -150,6 +150,7 @@ def main():
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
+        "updated_beijing": datetime.now().strftime("%Y-%m-%d %H:%M 北京时间"),  # 新增这一行
         "summary_analysis": summary_analysis,  # 👈 【核心新增】全局 AI 宏观分析与研判总结段落
         "important": important_news,             # 包含 source 信息的重磅新闻列表
         "interest": interest_news,               # 包含 source 信息的兴趣新闻列表
