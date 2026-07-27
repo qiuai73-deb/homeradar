@@ -52,6 +52,11 @@ SOURCES = {
         "name_cn": "BBC",
         "rss": "http://feeds.bbci.co.uk/news/rss.xml",
     },
+    "NYT": {
+        "name": "NYT",
+        "name_cn": "纽约时报",
+        "rss": "https://plink.anyfeeder.com/nytimes/cn",
+    },
 }
 
 OUTPUT_DIR = Path(__file__).parent
