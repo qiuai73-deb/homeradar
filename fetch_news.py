@@ -81,7 +81,8 @@ def fetch_source(key, config):
 
 def generate_markdown(all_data):
     """生成可读的 Markdown 摘要"""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now().strftime("%Y-%m-%d %H:%M 北京时间")
+    print(f"生成的更新时间: {now}")  # 调试输出
     lines = [
         f"# 📰 每日财经新闻摘要",
         f"**更新时间：{now}**",
