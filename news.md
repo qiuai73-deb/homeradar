@@ -1,5 +1,5 @@
 # 📰 每日财经新闻摘要
-**更新时间：2026-07-27 06:45 北京时间**
+**更新时间：2026-07-27 06:50 北京时间**
 
 > 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)
 
@@ -24,8 +24,8 @@
 2. [North Korea Rejects Denuclearization as Ukraine Warns of Troops](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjFETDN6RkpiTjFvdDl2TnN1VHdFMklILWVIRnhPTkcwUVJSSmdXOXlPZW5YS0todDF4UThONFVqb3Q0V1FqTnVBMFJnTksxU3dhLURSTFdySkFzdUZrYzV4N3lkMzRfSk9wYnltaFU2M1lkeVV3TEhDelZpaW9ScGhiZU5OcWFKU3I4a2poQURFeXB2S0d1R0NVek1xR0Z4RzdXOFRFSW5nZUFUcmttSjVTUEo?oc=5)
 3. [China State Media Says Support for Open AI Models Has Limits](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjc2TV82aHUxcDQ0UEI3VVlpWXRzTjAzVG5LSEJGSXZkbkhZOHdFcWR2d2JqV1V0RzQxYXBHTzRsUGZNWlBKYUxpNFBUTWdQOGtEMElGUEU5UGNUY2ZyeEwyR05uYkNwd1k0bi1sVEJWSHJUMHdfWVd4VFlhcFBKUmJWcEFvSVBKWFlBelR6VC1SaFZRMEVmTHVXdmVIRjAtUnJNVlFIR0Rfb3BiYTNxQg?oc=5)
 4. [Indonesia Central Bank Chief Warjiyo Unexpectedly Resigns](https://news.google.com/rss/articles/CBMiswFBVV95cUxPem5JdGQ5RTN5U3BEOHNlZWxqNW1wREVUUXQ4aGVlYWRVbUpFTmdCSGV3Z0ZWZEs2dWZ6STVpWXZtakQ5WUxqWThpX3V2WHNlN3JlSnJRZGEtSDdob05RXzZfaDFqdnB6NlpmVjJ5Zl9MejR0bDdwc2VtQmVZOC1qRnVQWnVjcHRqQzRRWGlpbkZzYmFsYmFMV19OZXlTQjNpNnlCNnNRQkZWbW1PTE81U1Raaw?oc=5)
-5. [Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5)
-6. [China Memory Champion CXMT Set to Debut After $9.8 Billion IPO](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdE1EcEVOSUpGYVEtc1VsaWkwZGFFZmNJQ3VSZUZwdmdyWUxFTHRJRFRvbDNxc19uekhBXy1JOW9rR2lpalBZa1hDdzRtUzNDTHVwZ2lEZkN2WGRHWlZYQXl0aFZrb2pFb2hYbmtmbFp3cXlZREx2c2ptakNPOGFMaTdYVDh1NzZDT19SbllmZThzcVJHSk9wRThnbGVPNmdDZHVRalRmX3YyT2dqWVM5LXdR?oc=5)
+5. [China Memory Champion CXMT Set to Debut After $9.8 Billion IPO](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdE1EcEVOSUpGYVEtc1VsaWkwZGFFZmNJQ3VSZUZwdmdyWUxFTHRJRFRvbDNxc19uekhBXy1JOW9rR2lpalBZa1hDdzRtUzNDTHVwZ2lEZkN2WGRHWlZYQXl0aFZrb2pFb2hYbmtmbFp3cXlZREx2c2ptakNPOGFMaTdYVDh1NzZDT19SbllmZThzcVJHSk9wRThnbGVPNmdDZHVRalRmX3YyT2dqWVM5LXdR?oc=5)
+6. [Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5)
 7. [Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVF0LWRBNFBGZVpiemlIWTh5NHJOS1VVMjA0NklIc3B0NzEzT2RCQV84a1dJdzJMWEs2LTFmd1EzNjJKcWdleVdaWmZmV1BTa29pdTNXd2xUcGhuMk4xbXNGSmtwMHlmaUpwSkZ1MUxIM2FCTFdBUjZqY1Y5WTNOc1g2V3UtTlluMXNVZUNDc1J0dTZDUjdncGNfblJCOW5MX25IbjJFNTlKZzFhUEhaS1IwVms?oc=5)
 8. [China’s Building Crash Helps Ease the Hormuz Pain](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJvMC1KdGxYLThSaUM3YkZuTVFWZGxnNHM3Y2s2MnpjRkdXM2wxcXhjbFdZZjI1Qmt5dnhfLVp1dEVrMXJkYWRsUk0tMHI2dWVHUDExRy0wOFRWYVVMbUJldVZmUlR2WkZ2Q3E2Vk1jNjdudXJOeFltVWp5aW1NU3d0QzRVR3hJUWl4Z0wyd09WbTlfNWxFckJNYjE2MHdBbmxCOHpn?oc=5)
 9. [China’s Moonshot to Release Breakthrough AI Model for Download](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5)
@@ -52,10 +52,10 @@
 4. [Oil falls more than 4% as Iran and US pause strikes over Strait of Hormuz](https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2VGeTlMSlMzSzVSVHh1VWF4R084c3Nid196WXNjcXNGVktlWVdIN1JPVEItcTdJMDRqc1NZZjhQaFFzQXIyQlNfUFhCYWZUMUgzM2p1U0pEZmp6ZHBNNFo3aGZKVzFzcHpQcEpTblQtbVktUDN5MG5JZ3VWLUxITlBoUHU?oc=5)
 5. [India’s Gen Z protesters puncture Narendra Modi’s aura of invincibility](https://news.google.com/rss/articles/CBMihAFBVV95cUxORFRKSWh5ZGRQdm9wV0U4U3hhc21lT19IQTV3Z0ZHXzZUY3ljQ1RLaWFGektFRWl2aWs5Z0VsYXJueWZuWFFGOG1IVDg3dnZ0V0xYMl9kOS1lckpnNUJuaGd1TEg3Z0xJbWM0eTBDNURjMVNxb3c2NDgzSEZCSlRqcXlVbHI?oc=5)
 6. [US pauses Iran strikes as Oman pursues Hormuz transit deal](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMi1ucVNUazNJel9scXVLV3dtZk1LYzZEYXNxWURJa2Jhd2VGRy1TOGRRMVJiMTE4R2hsaEZGUlRLM29MRGZqWjRMUXBRb3NyZlpKSEVwSGpfdWpiTWxya2ZtemFrdzdFb2xyM0RJM0hjeDRtYUVWYzVvb2t4aFJRSWJiQWU?oc=5)
-7. [The new premium product: books written by people](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFNxMmVCcEdDeWFMUkkzQTVlNVBFNEYyY0JOcG9JNzh1anZxU2lQVXBhdjJMV1ZhX3lXeVJXOEc1UnN0clJkUkEyOEM1SnpfZ0Fwb1ZKOHdEXzFoQXJBM1p2dHdPRXl6RXg4ZUEzT0tjSmRHMlRsMUQtdzFDQUFvbnBQVDk?oc=5)
-8. [Prosecutors call for Barclays protesters to be sentenced under UK terror laws](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpRLU5QZkN4bE8zSlhDSlAybm83c0lncG96VTJSZVphSWdMcnVZc0dhNHJhZzlTV1ZMSWJtLXMwUmxDSmY0ZTNjUUlHWEREaUZGb3phYzNzRi0tblR0cFFaOF9JcUJiaEFKOTB4N1ZES2pfbnZwX0NIR2h6ZjdOMzlzVy0?oc=5)
-9. [‘Violent’ wildfires rage close to French and Spanish cities](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHBsQmQyanR2RVRkUUJIbmtUN1NTQ3NCR3NCUUw2WW5HSWF2OUtRV3hySUsyQ2lXM2J2SWdMeWVIRWJaeG51QmNBdXJJanhVU0k4RERSZFl5S3lqa2t3N2RtcjB4RGVTLWpFZW0wX2t2NHNmMVNEMk91emN5NUE5bUMzd1o?oc=5)
-10. [Gibraltar should show Burnham a softer Brexit is the only option](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG1nTDkta1ZobDRkZFpyLU96UGl5ZlZwZm9FbEtrYmZXUXZ5Z1hUSE5nN1JJYjBQakFzY0Rub0h4dV9LVGpraWhPYnd0WGVuaGFsN09jeVF4YUlldDVFSlFwcndXQU4ybFpUUDZheWpvcTB6VEdfWjJKTzhWTUJSdnp4N0E?oc=5)
+7. [AI companies spend record sums on Washington lobbying](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlgyaF9mZU5LRkVuNnJab1VqdnpLYkdWRDUtQXhfTEhpYmwwUU9tWFo3bUpFTXlJSTFRVEI0SkQ0Z01TempDNFdWR2E3N2JvUEliY1h4Qi1iN3pxUTRhdWRpSlpfVWZlR1BubHlKYlBYcEhhUFg5QmRUM3c1Z213S2ZQVEo?oc=5)
+8. [Rival Koreas race to build nuclear-powered submarines](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHFDaERULWtDOEZ5ZndvZ2JTT1VJYURSeEx0dFQ2LUNYYzlSVllTdGNlbHM3SGxoV21nWkdhOHlFOGFOcXNNa2ZKSnlKTXg1cTQzZzQzUENTbHpKVmJBS0pqZ2tETDdMcmlCSjlsbEhxWUFNdzg1TUtDaWxvSjN2ZmVQdEM?oc=5)
+9. [The new premium product: books written by people](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFNxMmVCcEdDeWFMUkkzQTVlNVBFNEYyY0JOcG9JNzh1anZxU2lQVXBhdjJMV1ZhX3lXeVJXOEc1UnN0clJkUkEyOEM1SnpfZ0Fwb1ZKOHdEXzFoQXJBM1p2dHdPRXl6RXg4ZUEzT0tjSmRHMlRsMUQtdzFDQUFvbnBQVDk?oc=5)
+10. [Prosecutors call for Barclays protesters to be sentenced under UK terror laws](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpRLU5QZkN4bE8zSlhDSlAybm83c0lncG96VTJSZVphSWdMcnVZc0dhNHJhZzlTV1ZMSWJtLXMwUmxDSmY0ZTNjUUlHWEREaUZGb3phYzNzRi0tblR0cFFaOF9JcUJiaEFKOTB4N1ZES2pfbnZwX0NIR2h6ZjdOMzlzVy0?oc=5)
 
 ## 🟠 CNBC (CNBC)
 
@@ -85,16 +85,16 @@
 
 ## 📌 联合早报 (Zaobao)
 
-1. [唐山大地震50周年 官方宣布无人机等禁飞三天](https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDJvQ1A4bTZ4dTdqdXRSNjRUVTRIdTQ0MndWTTBaRG1zbTBQNjlpMW5paHNlbktXREJNZXVIUEo0OUt4RVQ5dWJHRVpvd3pVNGU2bHA3QWxJVVNVa2VxY2ZmZFo1dnRGQ3c?oc=5)
+1. [唐山大地震50周年 无人机全市禁飞三天](https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDJvQ1A4bTZ4dTdqdXRSNjRUVTRIdTQ0MndWTTBaRG1zbTBQNjlpMW5paHNlbktXREJNZXVIUEo0OUt4RVQ5dWJHRVpvd3pVNGU2bHA3QWxJVVNVa2VxY2ZmZFo1dnRGQ3c?oc=5)
 2. [受不均衡复苏影响 中国工业利润连续两月放缓](https://news.google.com/rss/articles/CBMiakFVX3lxTFBjeEVzcDVPYmczMWJ1QXFHVVBDSXE1RnFjbWFmbzk4OUl4MmJYWFc0VE9UQWtLb09kdzQ1SzgtbEpMZTUzRkxZMl9TaVNpYkJIeGtYcXQ4aDFpb1dubGtaU3NKT2c2LTlkU3c?oc=5)
 3. [中国媒体：太子集团创始人陈志被批捕](https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUGplWnFNZXhkbTMwcDVDSlhTRXhDWjh3eGxnVFhId2lCR19SYWJCc3k2azNUV2QySmlZT3YyVlJhbkd5RktkWjk3NXVxRnBWeW5Rd3ZpMlo5ZnBUdm43c2tiM2hwSzE5ckE?oc=5)
-4. [一家三代投入会馆服务 青年接棒传承文化](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGZJc0JiR2REZjVqemtWUUs5UGswLXgxZkw2RXdEcnVHYUVLN3ZpbjJlakZOTFZpMWR0S0dsMU5vM3Z1YmRpQmUyUk5iNG1FaTJMWmlfb2FKcXh4NWhxZGNzS1U4TFV6MV9lRkJxYlFMcFVHbUY4S3pnRVpWWnFkVGl0bnF6QVdvTmRz?oc=5)
-5. [郑丽文盼蓝营团结拼年底胜选 迈向2028年重返执政](https://news.google.com/rss/articles/CBMiakFVX3lxTE1feWRwQ0xsXzdKbG90VWs0YkFtQzYwakZfY2ZpTTdNUURPOURyVVVLeDJISjVyZGNUckxUNmc0M3FyemJQMjAwczV1eDR2QUk2b2JzOEVjOFdsQlZqay15WkVjU09KRFl6Vmc?oc=5)
-6. [甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作](https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5)
+4. [中国生物科技股取代AI 成新兴市场增长交易焦点](https://news.google.com/rss/articles/CBMiakFVX3lxTE1NM1NzWXVOWGNtZHc0S1RLUVFsZFF0S1JwMmpuYy1uOFZGWnI0NEh3YzVzdHlqbFQ5dXFJejJ3X2NBOU42c2hYSUI3RXA1WU4zY0pFeDZrRzhHQjYtNndxQVpxaUVwYjZvaFE?oc=5)
+5. [一家三代投入会馆服务 青年接棒传承文化](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGZJc0JiR2REZjVqemtWUUs5UGswLXgxZkw2RXdEcnVHYUVLN3ZpbjJlakZOTFZpMWR0S0dsMU5vM3Z1YmRpQmUyUk5iNG1FaTJMWmlfb2FKcXh4NWhxZGNzS1U4TFV6MV9lRkJxYlFMcFVHbUY4S3pnRVpWWnFkVGl0bnF6QVdvTmRz?oc=5)
+6. [郑丽文盼蓝营团结拼年底胜选 迈向2028年重返执政](https://news.google.com/rss/articles/CBMiakFVX3lxTE1feWRwQ0xsXzdKbG90VWs0YkFtQzYwakZfY2ZpTTdNUURPOURyVVVLeDJISjVyZGNUckxUNmc0M3FyemJQMjAwczV1eDR2QUk2b2JzOEVjOFdsQlZqay15WkVjU09KRFl6Vmc?oc=5)
 7. [CTE汽车罗厘相撞 汽车驾驶员身亡三人受伤](https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOWx4R1NEem1Sd3BJR0VFSGxDQW9zamxyOVl4cE94NjdFNHhMS1JNS0dkSkxfelVjdUxBYUQ3YzV4Z01odkxKblZFbTdGeXBuNUtOcDMyTmZGZ2psQ0twd1lnWE5LQjBLQl9mRGdjdw?oc=5)
-8. [长鑫科技上市首日暴涨 带动中国股市上涨](https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5)
+8. [甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作](https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5)
 9. [日本将于7月31日正式成立国家情报局](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSlhDczVMMVBJaDZOZGgzclBRWGJOT1JhM0FJOEhTc3RkUjd4LXE1cXhBYXdBSjJfaURaSlZjcVV0a1lyTjNMZFk2UWJ3TVJvTjlzYW9jaGViQ3lRWGdSd0c2aW9Jb0VjX0E?oc=5)
-10. [台致癌油风暴延烧 蒋万安：蓝白若有共识促推动倒阁](https://news.google.com/rss/articles/CBMiakFVX3lxTE94TG10bHExTmNGbUZxRzF3NnpfUmUxbXNFSmlsZk1qTEJVQ2RmTE95MUdlZG92QVlWcDJxbFltcmxPdGIzX1lRZDhFZU1famF1RDhzLWVxZmZINUxqRXFMQ04tX2V2NlB2S3c?oc=5)
+10. [长鑫科技上市首日暴涨 带动中国股市上涨](https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5)
 
 ## 📌 BBC (BBC)
 
@@ -110,4 +110,4 @@
 10. [Littler wins Matchplay and smashes records](https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss)
 
 ---
-*自动生成于 2026-07-27 06:45 北京时间*
+*自动生成于 2026-07-27 06:50 北京时间*

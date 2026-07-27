@@ -1,129 +1,129 @@
 {
-  "updated": "2026-07-27T06:45:26.177087+00:00",
-  "updated_beijing": "2026-07-27 06:45 北京时间",
-  "summary_analysis": "【核心主线】全球市场焦点从地缘冲突转向货币政策与科技投资。美伊在霍尔木兹海峡的冲突暂时停火，油价大幅回落，缓解了短期通胀压力，但中东局势仍存变数。与此同时，美联储议息会议在即，市场关注降息信号；新加坡央行意外收紧政策，凸显新兴市场对通胀的警惕。科技领域，英伟达与OpenAI洽谈巨额数据中心融资，并计划投资韩国Naver的AI项目，显示AI军备竞赛持续升级。中国方面，长鑫存储IPO暴涨，但工业利润增速放缓，经济复苏不均衡。\n\n【市场与政策信号】1. 地缘风险溢价消退：美伊暂停攻击，油价单日跌超4%，美元回落，黄金承压，市场风险偏好回升。2. 央行政策分化：新加坡意外收紧，印尼央行行长辞职，美联储按兵不动但市场预期年内降息。3. AI投资热潮：英伟达主导数据中心融资，中国AI模型开放引发安全讨论，韩国Naver获投资大涨。4. 中国科技突围：长鑫存储上市首日飙升500%，但官方对开源AI模型态度谨慎。\n\n【关键风险提示】1. 中东局势反复：若美伊谈判破裂，霍尔木兹海峡航运中断风险将再度推升油价。2. 全球贸易摩擦：特朗普重启关税战，但策略与以往不同，需关注对供应链的冲击。3. 中国通缩压力：工业利润连续放缓，猪肉需求疲软，内需不足可能拖累经济复苏。4. 科技监管风险：中国对开源AI模型的限制可能影响创新，而美国对华技术封锁持续。",
+  "updated": "2026-07-27T06:50:34.574048+00:00",
+  "updated_beijing": "2026-07-27 06:50 北京时间",
+  "summary_analysis": "【核心主线】全球市场在美伊冲突暂缓与AI投资热潮中震荡。美国暂停对伊朗打击，油价暴跌超4%，避险情绪降温，美元回落。与此同时，英伟达与OpenAI洽谈2500亿美元数据中心融资，并计划向韩国Naver投资10亿美元，凸显AI军备竞赛白热化。中国方面，存储芯片龙头长鑫科技上市首日暴涨超500%，但工业利润增速放缓，经济复苏不均衡。新加坡与印尼央行意外收紧货币政策，显示新兴市场通胀压力犹存。\n\n【市场与政策信号】1. 地缘风险缓和：美伊暂停攻击，霍尔木兹海峡航运恢复，油价短期承压。2. AI资本开支狂潮：英伟达主导的巨额融资计划预示算力需求爆发，但可能加剧科技股估值泡沫。3. 中国芯片自主化突破：长鑫科技IPO成功，但需警惕产能过剩风险。4. 亚太央行意外紧缩：新加坡、印尼收紧政策，反映对输入性通胀的担忧。\n\n【关键风险提示】1. 美伊谈判若破裂，油价可能报复性反弹。2. 英伟达与OpenAI的巨额交易若失败，将冲击AI板块信心。3. 中国工业利润持续放缓，可能拖累经济复苏。4. 缅甸军政府暴力升级、朝鲜拒绝弃核，地缘政治风险分散。",
   "important": [
     {
-      "title": "美伊暂停攻击后金价上涨，美联储议息在即",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
-      "summary": "美伊冲突暂缓，金价反弹，市场聚焦美联储利率决议。",
+      "title": "西雅图枪击案嫌疑人被拘留，当地媒体报道2死5伤",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHdnckxsV0hjY2pWQzhxUGpSMk1ldm8wcmJia1B3MDJ2b3p5R09abkFVTERYZ3JTdWFEQktGVzRvNHlKZHR2dGdlNWt0ZkRBQ1hHeUFid3ZZSzRIaW40VExRaXJaYVVnS25qSWRkU0dvS3F0b2o2bEk0Q1pRUmZVaC1LYjhFSXI3bjNONzJOdmlNTFdQUEM1NXVSUHBrRmJyS2o3d013?oc=5",
+      "summary": "西雅图枪击致2死5伤，嫌疑人被捕。",
       "source": "路透社"
     },
     {
-      "title": "印尼央行行长佩里·瓦尔吉约意外辞职",
+      "title": "缅甸军政府升级平民杀戮，监督机构警告",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaThsSkwwSnVzdzd2NmNsUU90OFBlbjFYTkpqdmxzbVF6R1lBMkhDRnItZkZXemRhc0h4WVJWU043Z1hmb0RDV1NhcUN0UDRGYlVYN2VxU1JBdUQ0OEpmUEItclJjbGs2c1pPMk0zbmJ3R1pHbFdwbE9jNE96NGRiUE43QlF1WlQtWmNUbFFJbUliWS1ELUxpeFhOMTBLQ1VISUNvYVFtYnY5b1BWbGxXelppTE5MaEQ1aVRKRE9SVlRfbWdfWndNbEJoRmR4RjA?oc=5",
+      "summary": "缅甸军政府暴力升级，外交努力难阻。",
+      "source": "路透社"
+    },
+    {
+      "title": "美伊冲突暂停，黄金上涨；美联储决议临近",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
+      "summary": "地缘缓和推升黄金，市场聚焦美联储。",
+      "source": "路透社"
+    },
+    {
+      "title": "印尼央行行长佩里·瓦吉约意外辞职",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
-      "summary": "印尼央行行长意外辞职，引发市场对政策连续性的担忧。",
+      "summary": "印尼央行行长意外辞职，引发市场猜测。",
       "source": "路透社"
     },
     {
       "title": "红海航运因胡塞武装袭击沙特后放缓",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHhzZkNic1hQdTdxMXZEaEM5MDhQZA?oc=5",
-      "summary": "胡塞武装袭击沙特，红海航运受阻，全球贸易受威胁。",
+      "summary": "胡塞武装袭击致红海航运减速。",
       "source": "路透社"
     },
     {
       "title": "英伟达与OpenAI洽谈担保2500亿美元数据中心融资",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "summary": "英伟达与OpenAI洽谈巨额数据中心融资，AI投资热潮持续。",
+      "summary": "英伟达或为OpenAI数据中心提供巨额融资。",
       "source": "路透社"
     },
     {
-      "title": "韩国Naver因英伟达10亿美元投资计划大涨10%",
+      "title": "韩国Naver因英伟达10亿美元投资计划暴涨10%",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhjUXN3Z1VSTkZyVjdBMURwLXRFYm1TMkpmZEZGS1FyRFhsRjNkSWpTZ2g1cW1UNVpXUnc4dWNSWkJIVlVkY18wOENjMWsxQm0tWWN6Y3M3RW9lNkxRUXY5Rzc5M3cxMHI2Ry1DbldOOG0xQU5obklobjlXdFNWU2tVcXc2dkM1bzYwNXlUZHowQ1l4OGhWTjN4Y1hybVQwcGoyZnphTXkyVVRYa3lmNW9URQ?oc=5",
-      "summary": "英伟达投资Naver AI项目，韩国科技股受提振。",
+      "summary": "英伟达投资Naver AI项目，股价飙升。",
       "source": "路透社"
     },
     {
-      "title": "美元回落，油价下跌，因美伊攻击暂停",
+      "title": "美元回落，美伊攻击暂停，油价下跌",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWQ5R1NLZkN4LVQtZkhaQVlCVE9jV0pFNE5JamoxMFdleEdnS0I5YjhzVWtOVW5RVHk0d1BhSVRSc2I0THJIbzlrWXVhX00wemJRX2c2eTRKQ1BOb3FIZnBONjhvUktZVzlWRFl2RG1EYUQ1NTctRWFGa0htZzNBQ2dQdTVZSnBHZ2FXYkpNUVJJVVZQVGkzZ0IzbEZPQUF0dkVMOTBhMA?oc=5",
-      "summary": "美伊冲突缓和，美元走弱，油价下跌，市场风险偏好回升。",
+      "summary": "地缘缓和致美元走弱，油价承压。",
+      "source": "路透社"
+    },
+    {
+      "title": "油价暴跌4%，美伊周末暂停冲突",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
+      "summary": "美伊暂停攻击，油价大幅回落。",
       "source": "路透社"
     },
     {
       "title": "Instagram和Facebook被曝投放来自中国的AI‘脱衣’广告",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjhWelNNWW5NT1RHamkzcEFram9FOTh3TXJtNENfTzRRZ0NnY0d5TmlPa3Bhbk9xUG5LUWo2eW00YmZFYnJYOTBlaGdzWUZMN2lvR2U0LWpuZzZKQUZ6bXdPZzN3SFFkNW1LWlNVaUdPMDNzemRIODFsSmxiMnQxbFBFV1V0ZTB2MVN3YkV4d0VkVHR5Y2ZxTGNDcVp4d2hoXzUtYXdRTlVFOWV3b1Zz?oc=5",
-      "summary": "Meta平台现中国AI广告，引发数据安全担忧。",
+      "summary": "Meta平台现中国AI‘脱衣’广告引争议。",
       "source": "彭博社"
-    },
-    {
-      "title": "朝鲜拒绝弃核，乌克兰警告朝鲜派兵",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjFETDN6RkpiTjFvdDl2TnN1VHdFMklILWVIRnhPTkcwUVJSSmdXOXlPZW5YS0todDF4UThONFVqb3Q0V1FqTnVBMFJnTksxU3dhLURSTFdySkFzdUZrYzV4N3lkMzRfSk9wYnltaFU2M1lkeVV3TEhDelZpaW9ScGhiZU5OcWFKU3I4a2poQURFeXB2S0d1R0NVek1xR0Z4RzdXOFRFSW5nZUFUcmttSjVTUEo?oc=5",
-      "summary": "朝鲜强硬表态，乌克兰警告局势升级，地缘风险加剧。",
-      "source": "彭博社"
-    },
-    {
-      "title": "中国官方媒体称对开源AI模型的支持有限",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjc2TV82aHUxcDQ0UEI3VVlpWXRzTjAzVG5LSEJGSXZkbkhZOHdFcWR2d2JqV1V0RzQxYXBHTzRsUGZNWlBKYUxpNFBUTWdQOGtEMElGUEU5UGNUY2ZyeEwyR05uYkNwd1k0bi1sVEJWSHJUMHdfWVd4VFlhcFBKUmJWcEFvSVBKWFlBelR6VC1SaFZRMEVmTHVXdmVIRjAtUnJNVlFIR0Rfb3BiYTNxQg?oc=5",
-      "summary": "中国对开源AI模型态度谨慎，或影响技术发展。",
-      "source": "彭博社"
-    },
-    {
-      "title": "特朗普暂停对伊朗打击，官员评估防空武器库存",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUndVUTk2Y0dZSFZtT3ljNFF2cEJ4dUt6RHFUVHNyMEkwYnc0NlhZT0JUZTlGTE5lUmFzXzJwUGVwVXdMUlNrOFZBdm5QOXBnU0JjMExvU1R1dDZYZy1fMWh1WnZOYmVMc1IwY3ZlNzhGZkVYUXlCLXZUczVQMGFvOVJQem5zQzNSY1AtLXZCdFFGeEMxVjNuTWpvMmp3ZmxFQ1UzR1VILXEwXzN3NGM1V0I0V0ttdmU0c2pZWA?oc=5",
-      "summary": "特朗普暂停对伊打击，考虑防空武器库存，中东局势暂缓。",
-      "source": "华尔街日报"
     }
   ],
   "interest": [
     {
-      "title": "中国存储芯片巨头长鑫存储上市首日暴涨超500%",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnc2VGF5dERKYWpOSGVGTXNpU2t0WXN4bGdyX2VFOHdUXzlpVlNPT0lPNDA2SnVZVkYxRzdldkUta0pyZXk3ZUhGc3RIMHg3UzlSN2lZb2hwMWtrZ2tINm1PUk5vYXhBZUdQSUJZMDJ5SWxLSGJsMWw1bkRvbG1TbHl0X0w?oc=5",
-      "summary": "长鑫存储IPO首日暴涨，中国芯片产业受关注。",
-      "source": "金融时报"
-    },
-    {
-      "title": "中国工业利润增速连续两个月放缓",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblU2aHJvdmJTOWE2SEFMNEhmNEtPdXZqUkFfMENnZ2Z0Wl9QdEZXNWpQZFhrcGpuZFBHTWhfVkJQWGczeDVCbThISEhIS3hWbXd1Q2w1LV9CRzl1UlVDUEVlVzJHWFVfZFlyQWgtVndEZzRwUEoyZXc4ck54NDF0Vk83ZC1tMVBNYlhYUEV30gGTAUFVX3lxTE85ZlFvQ3Yxd1hlc21WSFpJWWNaYTBNVElQdDZaY0hUR3hseTQ3SFdZVFo2MVJEekh0Y3QxaklYUXBlWXd6b24tTkhtN0l4dC1fcFVHQVpMbWRnbjFKUTh1b2VENnV4X0I1MDNERFJrVi1nOERBMDlvS25XRWtYSjZrdHVDMk5WUWlNRUZHS2dYUmZVaw?oc=5",
-      "summary": "中国工业利润增速放缓，经济复苏不均衡。",
-      "source": "CNBC"
-    },
-    {
-      "title": "中国官方媒体称对开源AI模型的支持有限",
+      "title": "中国官媒称对开放AI模型的支持有限度",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjc2TV82aHUxcDQ0UEI3VVlpWXRzTjAzVG5LSEJGSXZkbkhZOHdFcWR2d2JqV1V0RzQxYXBHTzRsUGZNWlBKYUxpNFBUTWdQOGtEMElGUEU5UGNUY2ZyeEwyR05uYkNwd1k0bi1sVEJWSHJUMHdfWVd4VFlhcFBKUmJWcEFvSVBKWFlBelR6VC1SaFZRMEVmTHVXdmVIRjAtUnJNVlFIR0Rfb3BiYTNxQg?oc=5",
-      "summary": "中国对开源AI模型态度谨慎，或影响技术发展。",
+      "summary": "中国官媒对开放AI模型态度谨慎。",
       "source": "彭博社"
     },
     {
-      "title": "中国月之暗面发布突破性AI模型供下载",
+      "title": "中国存储芯片冠军长鑫科技IPO后暴涨超500%",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdE1EcEVOSUpGYVEtc1VsaWkwZGFFZmNJQ3VSZUZwdmdyWUxFTHRJRFRvbDNxc19uekhBXy1JOW9rR2lpalBZa1hDdzRtUzNDTHVwZ2lEZkN2WGRHWlZYQXl0aFZrb2pFb2hYbmtmbFp3cXlZREx2c2ptakNPOGFMaTdYVDh1NzZDT19SbllmZThzcVJHSk9wRThnbGVPNmdDZHVRalRmX3YyT2dqWVM5LXdR?oc=5",
+      "summary": "长鑫科技上市首日暴涨，市值飙升。",
+      "source": "彭博社"
+    },
+    {
+      "title": "英伟达洽谈支持OpenAI租赁5000亿美元数据中心",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5",
+      "summary": "英伟达或为OpenAI数据中心提供融资支持。",
+      "source": "彭博社"
+    },
+    {
+      "title": "中国建筑倒塌缓解霍尔木兹海峡之痛",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJvMC1KdGxYLThSaUM3YkZuTVFWZGxnNHM3Y2s2MnpjRkdXM2wxcXhjbFdZZjI1Qmt5dnhfLVp1dEVrMXJkYWRsUk0tMHI2dWVHUDExRy0wOFRWYVVMbUJldVZmUlR2WkZ2Q3E2Vk1jNjdudXJOeFltVWp5aW1NU3d0QzRVR3hJUWl4Z0wyd09WbTlfNWxFckJNYjE2MHdBbmxCOHpn?oc=5",
+      "summary": "中国建筑倒塌事故影响能源市场情绪。",
+      "source": "彭博社"
+    },
+    {
+      "title": "中国月之暗面将发布突破性AI模型供下载",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5",
-      "summary": "中国AI公司发布开源模型，但官方态度谨慎。",
+      "summary": "中国AI公司月之暗面将发布新模型。",
       "source": "彭博社"
     },
     {
       "title": "中国猪肉市场复苏艰难，需求疲软",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRllQbWtMU0d3RWhfdW4xZ0RfYWs0djBjNGdrLU11SVk3RkFDQnJ6b3lfLTFhTTg4MG5kOU10VFBzeTJoTEZ3cjBKYXN6clVOM3hvcjVqenEtN3lpRU9Ea19ReUFNR3FkV3dQbUFjMWNZNkl5eU1sc3dFSjNLeXhzX1VsY0t6ZTRBNkg1OXhBMnBSQUNrdV9tRjJqMVNZRWFiSlNKbDFDdGpoa2JtcGZTT2RqU2s?oc=5",
-      "summary": "中国猪肉需求疲软，市场复苏面临挑战。",
+      "summary": "中国猪肉市场复苏受需求疲软拖累。",
       "source": "彭博社"
     },
     {
-      "title": "中国建筑市场崩溃缓解霍尔木兹海峡压力",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJvMC1KdGxYLThSaUM3YkZuTVFWZGxnNHM3Y2s2MnpjRkdXM2wxcXhjbFdZZjI1Qmt5dnhfLVp1dEVrMXJkYWRsUk0tMHI2dWVHUDExRy0wOFRWYVVMbUJldVZmUlR2WkZ2Q3E2Vk1jNjdudXJOeFltVWp5aW1NU3d0QzRVR3hJUWl4Z0wyd09WbTlfNWxFckJNYjE2MHdBbmxCOHpn?oc=5",
-      "summary": "中国建筑市场下滑减少大宗商品需求，间接影响全球供应链。",
-      "source": "彭博社"
+      "title": "希音（Shein）在计划香港上市前陷入亏损",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTZVM3dNRWpvb3RlOV9GdzIyYkdXeVBLaVJaSjZYR0ZQa2xvMmVOemFES2IzZjItbWtSUF9Uc1ROVkJLd1NzbjVrLXVlWVFpdkZRb3Ywa2JQQXVTb1pjWVN2Y1l6bkRVanp1YzVzYklkMklkamUwRjFCM0QwTzZ6c1VhNkM?oc=5",
+      "summary": "希音上市前亏损，香港IPO前景蒙阴。",
+      "source": "金融时报"
     },
     {
-      "title": "中国科学家因实验性基因疗法致女童死亡被调查",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlRsNGl4aGZJRFVzdXI1MWJEVVVMRXdvUEpwUWVzcUc5ZjBhclJyNTRQM0RRalpvZm1TWURlQ1dNU3Q0ajhnWXloblEzcm9zTFVwUVB4b3l4SnR2Wk9zMjZRUHNNay13V1UyWVlTRGJLM19kdmE1b1YxcmF6dEhpZ0hDb2ZvYk41QXRxMW9nc2xmNndOb3BYZXN5VVIta3NFZHFYcFpTRXZPZko4V3RqeXJmSXJFNk1UUmgtdU0xNF9VbkRCZVgtNzQ0YmdEZFRLY1llbkl30gHWAUFVX3lxTE9sR09MVjZDcnRNT2hIQ2llbW8zYzFROTJyNGc3VVRNNnJweU43S2pROUhoMUdqMEFTQkQyMzNIQmwySTRodC0wT211N0lqWlBMTlVlXzZfV1ROMl8xYjVqVElNUGdHZTNudklCam5nMjN0My1IRzVYQW96eFFGTHZ0bnhVcXVtM2RIN0xLOU1QWDJvbDlzX0dPTEZjd2Z0MFR4bUQxWTdLcEx5VjBVenlmOUhDcE84ck16UEFLUTloRHlJdjFPSE5BZGVnY3ROdXlCZXVrZWc?oc=5",
-      "summary": "中国基因治疗实验致人死亡，引发伦理争议。",
-      "source": "南华早报"
+      "title": "中国芯片冠军长鑫科技上市首日暴涨超500%",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnc2VGF5dERKYWpOSGVGTXNpU2t0WXN4bGdyX2VFOHdUXzlpVlNPT0lPNDA2SnVZVkYxRzdldkUta0pyZXk3ZUhGc3RIMHg3UzlSN2lZb2hwMWtrZ2tINm1PUk5vYXhBZUdQSUJZMDJ5SWxLSGJsMWw1bkRvbG1TbHl0X0w?oc=5",
+      "summary": "长鑫科技上市首日暴涨，市值超千亿。",
+      "source": "金融时报"
     },
     {
-      "title": "中国针对离岸信托（包括香港）进行税务改革",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEJXVzNibkg2LXJBdnMyQlhxcDF2YUx2emtjblJnQS01ZzFuQnZ5Nk5UM1BFVldyc3pNRklPRTFFcGVtNWJZWDRaWjZOZGROSG9Uel9STVo3RU9qOVRuQ1BNdTdVQm90VUNtM2paWkl5d1NseVdJZ2VDd3ZFeVQzTFZWYmhEc3lxc0tYaFh2UndzRU1tVXpGZVg2MXcxcTZaT19RMWJrbHdKdk5wWUtOb3daeXowZEnSAbcBQVVfeXFMTXZFcnRmUnMzaVVZVHExY3p0RzZYNjhIeHl6aGpQNDVsWFJrLWx2dE5LNFNzMHFDYUE0VG5zZ0o0dTBQc1ZocWw3U2FBZGFFSUo5Ykh4WEdBd0dTVkxDUFVhMENRWklmdno0M2VEdUU5a0x4anRYSm12NDNRYXBuR1IxOUR2SGtobGl1dGs2cjBFenJuU29xSTc4MkFBQWpDM2NCRllsbW5BQmhJeHZsMXFJS0FPZ2tN?oc=5",
-      "summary": "中国加强离岸信托税务监管，香港受影响。",
-      "source": "南华早报"
+      "title": "使用中国开放AI模型（如Kimi K3）有何风险？",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZ0VIRjNVbXhaWDhDMm5STUprMWp6UnR4Q05CQnl3cXNhNFZBaFZVa0FLSjN1SUlUZXUwcG1iRnItV3d5dWVnOU93TF93U2NjTnNnRnZtUjlOUWMxa0kySXM3VzFyUGJHUzNkaWVJazQ?oc=5",
+      "summary": "中国开放AI模型引发安全担忧。",
+      "source": "金融时报"
     },
     {
-      "title": "中国科技公司‘冷落’美国国会顾问，凸显AI谨慎态度",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdRWjRIbFJlaTJPUW45SlUtTkttSGFaSlZOVVZ6R0lXTjBvbzJuMGI3Nmx6TVh3N09ITEl4Q1UtejRwZVZLeFBVNWNNYlpTWnBmU1hmYXlDc1VNcDUycjdDV28xY0FmYXYzVTZGc0FYejdjeGhvQWVVeEsyYVN3aHUwcXhjOUwxR0RkUzdlZWtPbDB5X1dJS29QZWNkUGV5bUFLSF96U0F4RUxVOHl5R1JaMDRvWUVzZWxONlF2UG9nMncxYjY3cjBfM0VDT3hhY2FxWmFBbFTSAdgBQVVfeXFMUGxKLXRVU0x5VVd0TGd3SU84ZHZaQXNvbDJPMS1jUWwxTUxaUTcxSGZDLXU5c01DaHFZT1J0ZUNvVWF0RThlWmQ1OUYyS0hIVnczbG1BZVBJalo4ekdzYmE4VmxCNGR1OFpnbGVoVXQ1ZzJUU0lWZFNKdk9Bck82WnBhTTI0alhlMFRRYmVwQVhONzVOZnNfb2ZNTmpVQnMwNDNqWS1kX1lFNXNDRUR5b2xXWE0xVzI2NWkxWVdNSEwzazZVRUItOU5na2hpekhlakRRSTkybVk5?oc=5",
-      "summary": "中国科技公司回避美国国会，AI合作存疑。",
-      "source": "南华早报"
-    },
-    {
-      "title": "中国长鑫存储上市首日暴涨，带动股市上涨",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5",
-      "summary": "长鑫存储IPO暴涨，提振中国股市情绪。",
-      "source": "联合早报"
+      "title": "中国工业利润增速再度放缓，6月油价下跌削弱收益",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblU2aHJvdmJTOWE2SEFMNEhmNEtPdXZqUkFfMENnZ2Z0Wl9QdEZXNWpQZFhrcGpuZFBHTWhfVkJQWGczeDVCbThISEhIS3hWbXd1Q2w1LV9CRzl1UlVDUEVlVzJHWFVfZFlyQWgtVndEZzRwUEoyZXc4ck54NDF0Vk83ZC1tMVBNYlhYUEV30gGTAUFVX3lxTE85ZlFvQ3Yxd1hlc21WSFpJWWNaYTBNVElQdDZaY0hUR3hseTQ3SFdZVFo2MVJEekh0Y3QxaklYUXBlWXd6b24tTkhtN0l4dC1fcFVHQVpMbWRnbjFKUTh1b2VENnV4X0I1MDNERFJrVi1nOERBMDlvS25XRWtYSjZrdHVDMk5WUWlNRUZHS2dYUmZVaw?oc=5",
+      "summary": "中国工业利润增速放缓，经济复苏不均。",
+      "source": "CNBC"
     }
   ],
   "sources": {
@@ -238,17 +238,17 @@
           "source": "彭博社"
         },
         {
-          "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5",
-          "published": "Mon, 27 Jul 2026 03:46:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5\" target=\"_blank\">Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-          "source": "彭博社"
-        },
-        {
           "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdE1EcEVOSUpGYVEtc1VsaWkwZGFFZmNJQ3VSZUZwdmdyWUxFTHRJRFRvbDNxc19uekhBXy1JOW9rR2lpalBZa1hDdzRtUzNDTHVwZ2lEZkN2WGRHWlZYQXl0aFZrb2pFb2hYbmtmbFp3cXlZREx2c2ptakNPOGFMaTdYVDh1NzZDT19SbllmZThzcVJHSk9wRThnbGVPNmdDZHVRalRmX3YyT2dqWVM5LXdR?oc=5",
           "published": "Sun, 26 Jul 2026 23:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdE1EcEVOSUpGYVEtc1VsaWkwZGFFZmNJQ3VSZUZwdmdyWUxFTHRJRFRvbDNxc19uekhBXy1JOW9rR2lpalBZa1hDdzRtUzNDTHVwZ2lEZkN2WGRHWlZYQXl0aFZrb2pFb2hYbmtmbFp3cXlZREx2c2ptakNPOGFMaTdYVDh1NzZDT19SbllmZThzcVJHSk9wRThnbGVPNmdDZHVRalRmX3YyT2dqWVM5LXdR?oc=5\" target=\"_blank\">China Memory Champion CXMT Set to Debut After $9.8 Billion IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+          "source": "彭博社"
+        },
+        {
+          "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5",
+          "published": "Mon, 27 Jul 2026 03:46:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGlBdDFNZHpnOUd3X0VqYUczNWxLelViWkM1U0xYX0ptTG5KUEx2bHdDeUkzZFZJY0Nvc0t5dm1jU2x4ejlJU29jNUFla2NlYi1mejhnSGNEenhEckxIUTZaLW91QnhhLV9qTmo5M212b3NXNzd2a3YtX0Q4WFRIeXdyREdUMFlZZkFzZjc4cU5mbjlrc2JfUlpTQVY1Y0MzTEZZYUd3LUFNb0ltaVBxUENzQQ?oc=5\" target=\"_blank\">Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
           "source": "彭博社"
         },
         {
@@ -373,7 +373,7 @@
         {
           "title": "Chinese chip champion CXMT soars more than 500% in market debut - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnc2VGF5dERKYWpOSGVGTXNpU2t0WXN4bGdyX2VFOHdUXzlpVlNPT0lPNDA2SnVZVkYxRzdldkUta0pyZXk3ZUhGc3RIMHg3UzlSN2lZb2hwMWtrZ2tINm1PUk5vYXhBZUdQSUJZMDJ5SWxLSGJsMWw1bkRvbG1TbHl0X0w?oc=5",
-          "published": "Mon, 27 Jul 2026 01:54:34 GMT",
+          "published": "Mon, 27 Jul 2026 05:31:08 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnc2VGF5dERKYWpOSGVGTXNpU2t0WXN4bGdyX2VFOHdUXzlpVlNPT0lPNDA2SnVZVkYxRzdldkUta0pyZXk3ZUhGc3RIMHg3UzlSN2lZb2hwMWtrZ2tINm1PUk5vYXhBZUdQSUJZMDJ5SWxLSGJsMWw1bkRvbG1TbHl0X0w?oc=5\" target=\"_blank\">Chinese chip champion CXMT soars more than 500% in market debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         },
@@ -406,6 +406,20 @@
           "source": "金融时报"
         },
         {
+          "title": "AI companies spend record sums on Washington lobbying - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlgyaF9mZU5LRkVuNnJab1VqdnpLYkdWRDUtQXhfTEhpYmwwUU9tWFo3bUpFTXlJSTFRVEI0SkQ0Z01TempDNFdWR2E3N2JvUEliY1h4Qi1iN3pxUTRhdWRpSlpfVWZlR1BubHlKYlBYcEhhUFg5QmRUM3c1Z213S2ZQVEo?oc=5",
+          "published": "Mon, 27 Jul 2026 04:01:48 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlgyaF9mZU5LRkVuNnJab1VqdnpLYkdWRDUtQXhfTEhpYmwwUU9tWFo3bUpFTXlJSTFRVEI0SkQ0Z01TempDNFdWR2E3N2JvUEliY1h4Qi1iN3pxUTRhdWRpSlpfVWZlR1BubHlKYlBYcEhhUFg5QmRUM3c1Z213S2ZQVEo?oc=5\" target=\"_blank\">AI companies spend record sums on Washington lobbying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
+          "title": "Rival Koreas race to build nuclear-powered submarines - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHFDaERULWtDOEZ5ZndvZ2JTT1VJYURSeEx0dFQ2LUNYYzlSVllTdGNlbHM3SGxoV21nWkdhOHlFOGFOcXNNa2ZKSnlKTXg1cTQzZzQzUENTbHpKVmJBS0pqZ2tETDdMcmlCSjlsbEhxWUFNdzg1TUtDaWxvSjN2ZmVQdEM?oc=5",
+          "published": "Mon, 27 Jul 2026 01:51:51 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHFDaERULWtDOEZ5ZndvZ2JTT1VJYURSeEx0dFQ2LUNYYzlSVllTdGNlbHM3SGxoV21nWkdhOHlFOGFOcXNNa2ZKSnlKTXg1cTQzZzQzUENTbHpKVmJBS0pqZ2tETDdMcmlCSjlsbEhxWUFNdzg1TUtDaWxvSjN2ZmVQdEM?oc=5\" target=\"_blank\">Rival Koreas race to build nuclear-powered submarines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+          "source": "金融时报"
+        },
+        {
           "title": "The new premium product: books written by people - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFNxMmVCcEdDeWFMUkkzQTVlNVBFNEYyY0JOcG9JNzh1anZxU2lQVXBhdjJMV1ZhX3lXeVJXOEc1UnN0clJkUkEyOEM1SnpfZ0Fwb1ZKOHdEXzFoQXJBM1p2dHdPRXl6RXg4ZUEzT0tjSmRHMlRsMUQtdzFDQUFvbnBQVDk?oc=5",
           "published": "Mon, 27 Jul 2026 04:01:48 GMT",
@@ -417,20 +431,6 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpRLU5QZkN4bE8zSlhDSlAybm83c0lncG96VTJSZVphSWdMcnVZc0dhNHJhZzlTV1ZMSWJtLXMwUmxDSmY0ZTNjUUlHWEREaUZGb3phYzNzRi0tblR0cFFaOF9JcUJiaEFKOTB4N1ZES2pfbnZwX0NIR2h6ZjdOMzlzVy0?oc=5",
           "published": "Sun, 26 Jul 2026 23:01:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFpRLU5QZkN4bE8zSlhDSlAybm83c0lncG96VTJSZVphSWdMcnVZc0dhNHJhZzlTV1ZMSWJtLXMwUmxDSmY0ZTNjUUlHWEREaUZGb3phYzNzRi0tblR0cFFaOF9JcUJiaEFKOTB4N1ZES2pfbnZwX0NIR2h6ZjdOMzlzVy0?oc=5\" target=\"_blank\">Prosecutors call for Barclays protesters to be sentenced under UK terror laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "‘Violent’ wildfires rage close to French and Spanish cities - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHBsQmQyanR2RVRkUUJIbmtUN1NTQ3NCR3NCUUw2WW5HSWF2OUtRV3hySUsyQ2lXM2J2SWdMeWVIRWJaeG51QmNBdXJJanhVU0k4RERSZFl5S3lqa2t3N2RtcjB4RGVTLWpFZW0wX2t2NHNmMVNEMk91emN5NUE5bUMzd1o?oc=5",
-          "published": "Sun, 26 Jul 2026 11:41:31 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHBsQmQyanR2RVRkUUJIbmtUN1NTQ3NCR3NCUUw2WW5HSWF2OUtRV3hySUsyQ2lXM2J2SWdMeWVIRWJaeG51QmNBdXJJanhVU0k4RERSZFl5S3lqa2t3N2RtcjB4RGVTLWpFZW0wX2t2NHNmMVNEMk91emN5NUE5bUMzd1o?oc=5\" target=\"_blank\">‘Violent’ wildfires rage close to French and Spanish cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-          "source": "金融时报"
-        },
-        {
-          "title": "Gibraltar should show Burnham a softer Brexit is the only option - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG1nTDkta1ZobDRkZFpyLU96UGl5ZlZwZm9FbEtrYmZXUXZ5Z1hUSE5nN1JJYjBQakFzY0Rub0h4dV9LVGpraWhPYnd0WGVuaGFsN09jeVF4YUlldDVFSlFwcndXQU4ybFpUUDZheWpvcTB6VEdfWjJKTzhWTUJSdnp4N0E?oc=5",
-          "published": "Sun, 26 Jul 2026 12:00:07 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG1nTDkta1ZobDRkZFpyLU96UGl5ZlZwZm9FbEtrYmZXUXZ5Z1hUSE5nN1JJYjBQakFzY0Rub0h4dV9LVGpraWhPYnd0WGVuaGFsN09jeVF4YUlldDVFSlFwcndXQU4ybFpUUDZheWpvcTB6VEdfWjJKTzhWTUJSdnp4N0E?oc=5\" target=\"_blank\">Gibraltar should show Burnham a softer Brexit is the only option</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
           "source": "金融时报"
         }
       ]
@@ -595,10 +595,10 @@
       "count": 10,
       "articles": [
         {
-          "title": "唐山大地震50周年 官方宣布无人机等禁飞三天 - 联合早报",
+          "title": "唐山大地震50周年 无人机全市禁飞三天 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDJvQ1A4bTZ4dTdqdXRSNjRUVTRIdTQ0MndWTTBaRG1zbTBQNjlpMW5paHNlbktXREJNZXVIUEo0OUt4RVQ5dWJHRVpvd3pVNGU2bHA3QWxJVVNVa2VxY2ZmZFo1dnRGQ3c?oc=5",
           "published": "Mon, 27 Jul 2026 05:12:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDJvQ1A4bTZ4dTdqdXRSNjRUVTRIdTQ0MndWTTBaRG1zbTBQNjlpMW5paHNlbktXREJNZXVIUEo0OUt4RVQ5dWJHRVpvd3pVNGU2bHA3QWxJVVNVa2VxY2ZmZFo1dnRGQ3c?oc=5\" target=\"_blank\">唐山大地震50周年 官方宣布无人机等禁飞三天</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDJvQ1A4bTZ4dTdqdXRSNjRUVTRIdTQ0MndWTTBaRG1zbTBQNjlpMW5paHNlbktXREJNZXVIUEo0OUt4RVQ5dWJHRVpvd3pVNGU2bHA3QWxJVVNVa2VxY2ZmZFo1dnRGQ3c?oc=5\" target=\"_blank\">唐山大地震50周年 无人机全市禁飞三天</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -616,6 +616,13 @@
           "source": "联合早报"
         },
         {
+          "title": "中国生物科技股取代AI 成新兴市场增长交易焦点 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NM1NzWXVOWGNtZHc0S1RLUVFsZFF0S1JwMmpuYy1uOFZGWnI0NEh3YzVzdHlqbFQ5dXFJejJ3X2NBOU42c2hYSUI3RXA1WU4zY0pFeDZrRzhHQjYtNndxQVpxaUVwYjZvaFE?oc=5",
+          "published": "Mon, 27 Jul 2026 06:45:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1NM1NzWXVOWGNtZHc0S1RLUVFsZFF0S1JwMmpuYy1uOFZGWnI0NEh3YzVzdHlqbFQ5dXFJejJ3X2NBOU42c2hYSUI3RXA1WU4zY0pFeDZrRzhHQjYtNndxQVpxaUVwYjZvaFE?oc=5\" target=\"_blank\">中国生物科技股取代AI 成新兴市场增长交易焦点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
           "title": "一家三代投入会馆服务 青年接棒传承文化 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGZJc0JiR2REZjVqemtWUUs5UGswLXgxZkw2RXdEcnVHYUVLN3ZpbjJlakZOTFZpMWR0S0dsMU5vM3Z1YmRpQmUyUk5iNG1FaTJMWmlfb2FKcXh4NWhxZGNzS1U4TFV6MV9lRkJxYlFMcFVHbUY4S3pnRVpWWnFkVGl0bnF6QVdvTmRz?oc=5",
           "published": "Mon, 27 Jul 2026 01:10:00 GMT",
@@ -630,13 +637,6 @@
           "source": "联合早报"
         },
         {
-          "title": "甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5",
-          "published": "Sun, 26 Jul 2026 23:49:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5\" target=\"_blank\">甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
           "title": "CTE汽车罗厘相撞 汽车驾驶员身亡三人受伤 - 联合早报",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOWx4R1NEem1Sd3BJR0VFSGxDQW9zamxyOVl4cE94NjdFNHhMS1JNS0dkSkxfelVjdUxBYUQ3YzV4Z01odkxKblZFbTdGeXBuNUtOcDMyTmZGZ2psQ0twd1lnWE5LQjBLQl9mRGdjdw?oc=5",
           "published": "Mon, 27 Jul 2026 05:56:00 GMT",
@@ -644,10 +644,10 @@
           "source": "联合早报"
         },
         {
-          "title": "长鑫科技上市首日暴涨 带动中国股市上涨 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5",
-          "published": "Mon, 27 Jul 2026 04:06:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5\" target=\"_blank\">长鑫科技上市首日暴涨 带动中国股市上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "title": "甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5",
+          "published": "Sun, 26 Jul 2026 23:49:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y1otb1czNy1KbmZhT2lMOEdYeWRXeTlTWk5XS05HTGY0V2k1OE0yQ04zdmdTOWNMcV9wX3VIUE44VTE1dDFRZk9ydV9XQ25NdEl4SEZYUGZPZ3FHcE8tYjNWOWdWOEFiT2c?oc=5\" target=\"_blank\">甘肃省委书记：落实对房车露营等隐患排查 做好游客疏散工作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -658,10 +658,10 @@
           "source": "联合早报"
         },
         {
-          "title": "台致癌油风暴延烧 蒋万安：蓝白若有共识促推动倒阁 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TG10bHExTmNGbUZxRzF3NnpfUmUxbXNFSmlsZk1qTEJVQ2RmTE95MUdlZG92QVlWcDJxbFltcmxPdGIzX1lRZDhFZU1famF1RDhzLWVxZmZINUxqRXFMQ04tX2V2NlB2S3c?oc=5",
-          "published": "Mon, 27 Jul 2026 04:23:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE94TG10bHExTmNGbUZxRzF3NnpfUmUxbXNFSmlsZk1qTEJVQ2RmTE95MUdlZG92QVlWcDJxbFltcmxPdGIzX1lRZDhFZU1famF1RDhzLWVxZmZINUxqRXFMQ04tX2V2NlB2S3c?oc=5\" target=\"_blank\">台致癌油风暴延烧 蒋万安：蓝白若有共识促推动倒阁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "title": "长鑫科技上市首日暴涨 带动中国股市上涨 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5",
+          "published": "Mon, 27 Jul 2026 04:06:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZVhFSmdmbjJFanUzTXRDWjJwUjF6SXREeWpiZGpnekxyR0ktSVFGWVJDeTE3eWhsYjQwdUFtR3p1eEpzZ29tc3hZR3p1WWh1VXJGcTRlY1RFQVRkN21fWVNTeWpMTUEySWc?oc=5\" target=\"_blank\">长鑫科技上市首日暴涨 带动中国股市上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
@@ -688,7 +688,7 @@
         {
           "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
           "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 21:30:20 GMT",
+          "published": "Mon, 27 Jul 2026 06:48:02 GMT",
           "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
           "source": "BBC"
         },
