@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-27T03:51:08.244451+00:00",
-  "updated_beijing": "2026-07-27 03:51 北京时间",
-  "summary_analysis": "【核心主线】全球市场情绪因美伊军事冲突暂停而短暂回暖，油价暴跌5%，股市与债券温和上涨。地缘政治风险仍是主导变量，但科技领域（AI、半导体）的巨额投资与IPO热潮持续吸引资本，中国CXMT上市首日暴涨470%成为焦点。\n\n【市场与政策信号】1. 美伊暂停互攻，但中东航运（红海）仍受胡塞武装威胁，油价波动风险未消。2. 英伟达与OpenAI洽谈250亿美元数据中心融资，SK海力士与英伟达达成存储大单，AI基建投资加速。3. 中国AI模型Kimi K3开源引发安全担忧，欧盟对中国技术警惕上升。4. 新加坡收紧货币政策应对油价通胀，中国工业利润放缓。\n\n【关键风险提示】1. 美伊谈判若破裂，油价可能飙升，冲击全球通胀与央行政策。2. 中国AI模型出口管制争议可能加剧中美科技脱钩。3. 印尼央行行长意外辞职，新兴市场政策不确定性增加。4. 台风、山火等极端天气威胁供应链（智利铜矿、法国城市）。",
+  "updated": "2026-07-27T03:55:26.386697+00:00",
+  "updated_beijing": "2026-07-27 03:55 北京时间",
+  "summary_analysis": "【核心主线】当前全球市场主线围绕地缘政治风险缓和与科技巨头扩张展开。美伊暂停军事冲突导致油价暴跌5%，避险情绪降温，股市与债券市场温和上涨。同时，英伟达与OpenAI洽谈250亿美元数据中心融资，SK海力士与英伟达达成巨额存储交易，凸显AI基础设施投资热潮。中国方面，存储芯片厂商长鑫存储（CXMT）上市首日暴涨470%，成为估值最高的中国芯片公司，但工业利润连续两月放缓显示经济复苏不均衡。\n\n【市场与政策信号】油价大跌缓解通胀压力，新加坡央行因此收紧货币政策。黄金因避险需求减弱而上涨，但美联储决策临近。中国通过绿色能源交易对冲伊朗战争对石油需求的影响，同时利用欧盟内部分歧推进贸易。美国关税政策波动性通过“锡罐”案例暴露，特朗普暂停对伊朗打击为谈判留空间。\n\n【关键风险提示】美伊停火脆弱性：若谈判破裂，油价可能反弹。中国AI模型开源风险：如Kimi K3被指存在安全漏洞。印尼央行行长意外辞职引发政策不确定性。红海航运因胡塞武装袭击放缓，全球供应链再受威胁。",
   "important": [
     {
       "title": "印尼央行行长佩里·瓦尔吉约意外辞职",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
-      "summary": "印尼央行行长意外辞职，市场震惊。",
+      "summary": "印尼央行行长突然辞职，引发政策不确定性。",
       "source": "路透社"
     },
     {
       "title": "英伟达与OpenAI洽谈250亿美元数据中心融资",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "summary": "英伟达拟为OpenAI数据中心提供巨额融资。",
+      "summary": "英伟达拟为OpenAI数据中心提供巨额融资担保。",
       "source": "路透社"
     },
     {
-      "title": "美伊暂停互攻后油价暴跌5%",
+      "title": "美伊暂停冲突后油价暴跌5%",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
-      "summary": "美伊冲突暂停，油价大幅下跌。",
+      "summary": "美伊周末停火，国际油价大幅回落。",
       "source": "路透社"
     },
     {
-      "title": "中国存储芯片厂商CXMT上海上市首日暴涨470%",
+      "title": "中国存储芯片厂商长鑫存储上市首日暴涨470%",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm1IR1F2YXpDSDNtXzYzeTN5dWQ3ZnlwZ2hGRTQtV3plXzhYWEZYdzRXZE13dEEzSnNoMVlLajJJT0RGd05ZTzJEVE8wbVdsR056dXlFZm1OUDFnOERvUTlva21VaW1HeS1aQnl2U2tKZzhTRzEwV2EwV215MzJzd3lmbWZIMUdSMFFpdHBJbWF4bm1LcTNrR01ub29KRWlRd2xmRDJNNmt1UHVncGZzalVzbl9kTHFfaHZHQk5YR1c2a0E?oc=5",
-      "summary": "CXMT上市首日暴涨，估值登顶中国芯片。",
+      "summary": "CXMT创中国芯片公司估值新高，首日飙升。",
       "source": "路透社"
     },
     {
-      "title": "金价因美伊停火而上涨，美联储决策在即",
+      "title": "黄金因美伊停火上涨，美联储决策临近",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
-      "summary": "地缘缓和与美联储会议推升金价。",
+      "summary": "避险需求减弱，金价仍受美联储政策预期支撑。",
       "source": "路透社"
     },
     {
@@ -40,89 +40,89 @@
       "source": "路透社"
     },
     {
-      "title": "英国伯纳姆将接待泽连斯基作为首位外国访客",
+      "title": "英国伯纳姆将接待泽连斯基作为首位外宾",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFJjejR1Tk1zRFVBVWN6Wk9jSmdHX2todU8tRm9qNk9YRWhjUmdOVDRMV3owS0RSbXoySFd6U0NocmppV2VPR0VrQi1lNjJBYXhOMnVxVnM5UDNNTGlORndGU25SamxzN0hPZ3RtYl9HWEJPQktnQjhBek9UNnAtcFhyckMwUmxfNXNDWTlOUE5TNlNVaEtCWUtmZks?oc=5",
-      "summary": "英国地方领导人将接待乌克兰总统。",
+      "summary": "英国地方领导人会见乌克兰总统，凸显外交支持。",
       "source": "路透社"
     },
     {
       "title": "红海航运因胡塞武装袭击沙特后放缓",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHhzZkNic1hQdTdxMXZEaEM5MDhQZA?oc=5",
-      "summary": "红海航运受胡塞武装袭击影响放缓。",
+      "summary": "胡塞武装袭击导致红海航运速度下降。",
       "source": "路透社"
     },
     {
       "title": "叙利亚总统称寻求与以色列达成安全协议",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1A3b1lTT0YwV0NnX3pCcDEyc3ZUdkF4bl9Jb21yUHRsMndUbVlSNXY4RWxQWnBieTFSdUNENXdOVlE4TUM5MkNUZlJaaHk4NmUyWk9oZmtBVk1UbnZHTTZ6MU9EOXlJcVhCeFdaWXhTX3gxNGlGcFg3dF9hUF9SYkQ1RmlVLWpHRUtiQUdfbFl1S2Q0Q214ZEFDbmg5OENUTVdoVVZ0MnJSY2FwSmQ5T3ZxZzdyUW42MWRIMTFDS0dOTm5kaWk5UUZyUTU?oc=5",
-      "summary": "叙利亚寻求与以色列达成安全协议。",
+      "summary": "叙利亚总统表态寻求与以色列关系正常化。",
       "source": "路透社"
     },
     {
       "title": "朝鲜拒绝弃核，乌克兰警告朝鲜派兵",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjFETDN6RkpiTjFvdDl2TnN1VHdFMklILWVIRnhPTkcwUVJSSmdXOXlPZW5YS0todDF4UThONFVqb3Q0V1FqTnVBMFJnTksxU3dhLURSTFdySkFzdUZrYzV4N3lkMzRfSk9wYnltaFU2M1lkeVV3TEhDelZpaW9ScGhiZU5OcWFKU3I4a2poQURFeXB2S0d1R0NVek1xR0Z4RzdXOFRFSW5nZUFUcmttSjVTUEo?oc=5",
-      "summary": "朝鲜拒绝弃核，乌克兰发出警告。",
+      "summary": "朝鲜坚持核立场，乌克兰称朝鲜可能派兵。",
       "source": "彭博社"
     }
   ],
   "interest": [
     {
-      "title": "中国存储芯片厂商CXMT上海上市首日暴涨470%",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm1IR1F2YXpDSDNtXzYzeTN5dWQ3ZnlwZ2hGRTQtV3plXzhYWEZYdzRXZE13dEEzSnNoMVlLajJJT0RGd05ZTzJEVE8wbVdsR056dXlFZm1OUDFnOERvUTlva21VaW1HeS1aQnl2U2tKZzhTRzEwV2EwV215MzJzd3lmbWZIMUdSMFFpdHBJbWF4bm1LcTNrR01ub29KRWlRd2xmRDJNNmt1UHVncGZzalVzbl9kTHFfaHZHQk5YR1c2a0E?oc=5",
-      "summary": "CXMT上市首日暴涨，估值登顶中国芯片。",
-      "source": "路透社"
+      "title": "中国AI公司月之暗面将发布突破性AI模型供下载",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5",
+      "summary": "月之暗面开源AI模型，引发安全担忧。",
+      "source": "彭博社"
     },
     {
-      "title": "中国AI模型Kimi K3开源引发安全担忧",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZ0VIRjNVbXhaWDhDMm5STUprMWp6UnR4Q05CQnl3cXNhNFZBaFZVa0FLSjN1SUlUZXUwcG1iRnItV3d5dWVnOU93TF93U2NjTnNnRnZtUjlOUWMxa0kySXM3VzFyUGJHUzNkaWVJazQ?oc=5",
-      "summary": "中国开源AI模型引发安全风险讨论。",
-      "source": "金融时报"
+      "title": "中国生物科技超越AI成为新兴市场增长交易",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXZ2Z1ZNXzU2cVFMU2JTV1lveGpaZGh5SUF3NGZraG4ycTRiUFJ6QXJ0Nnd5RnpFN0UyNTVrNEdxV2k5ZGZXSDZpRExNUFBLSmtrYU5pT0d3bTJPdVMwd2dtSnZMdGlQcHlkV3pyb3BCdm9wQzdCVGNvdzByTDA3cTVZaFNqNlk1V3F1Sm5VS3NHNE1lcV9vd1E3MDAxNmd3VXJGNHJZb3FYVHppbnNYZg?oc=5",
+      "summary": "中国生物科技板块受追捧，取代AI成热门。",
+      "source": "彭博社"
     },
     {
-      "title": "投资者利用加密货币交易所规避中国对AI股票的控制",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUxNdElTclhJazl5S2ZRekIya1ZvT0sxSDV5R1BLbld1TDRnd2tITHQ4OF9sTlZXVkZOc0hGemZLVmM2UU1hX095MFJsM1NQYXpIUHZxbHJXV0lJZkwtYmZIVUtKbEVzQzFEWVdJM184blloQTIwb2p3VUVEbWltVTBIOUg?oc=5",
-      "summary": "投资者借加密货币规避中国AI股限制。",
-      "source": "金融时报"
+      "title": "美国锡罐揭示特朗普关税政策波动性",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkRCYjNWSXNwRzFDWElGRkFBUFRhNWduNThRYjladk56NERIRUlJeVRVRHEyRl9SRzJ4QzhPR3pISkR2ZmFVbDBmd2ZnWENjb1hZSDBGbi1uamdVZGNsRzlNS0FXNDE2b01zaXVueXA1b1p3bTRIWDZsVVpqbDV1UjFlMTVUVWhhbmNEeno4V0Z6M25HUlJmZk8xc0gwbGVRS1N6SmRBLUl2ZGhmNnVz?oc=5",
+      "summary": "锡罐案例显示特朗普关税政策反复无常。",
+      "source": "彭博社"
     },
     {
-      "title": "中国加大绿色能源投资，伊朗战争影响石油需求",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVFmb2dkc0NKcWVuQ05QSFdBWXlWRFdzVmlzQTBOVzF5c2lXNlQ3eE5yTFBqaUR6cEluWGFjblIyenpiY2pPRjZRZmUtQkdGalBjSEtYOE44ekpvRU9Vanc1WFVuZlFSZ2FjU1lBOGpGSENUVDlFVmgzdzI4MG43TmJCT2M?oc=5",
-      "summary": "中国增加绿色能源投资，应对石油需求变化。",
-      "source": "金融时报"
-    },
-    {
-      "title": "中国如何利用欧盟贸易分歧",
+      "title": "中国利用欧盟内部分歧推动贸易",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDA5bU1zNl95Y0ZwLUpSRGVKYjk2VGVsakhUaGJmR2lQeFRnU0xzQkRxUmJ0Vjk3ekttSGFqWFQ3UmtBTUdjWmFVUWFRWWlWX1JwTHU5bEcwMC1IWW9VcHNJdFhOaGZjdGx6QVpsWkpsRHVjNVBVdXRMZnQ4eUdUMDdJZC0?oc=5",
-      "summary": "中国利用欧盟内部分歧推动贸易利益。",
+      "summary": "中国利用欧盟分歧在贸易谈判中获利。",
       "source": "金融时报"
     },
     {
-      "title": "Shein在香港IPO前公布季度亏损，警告关税影响",
+      "title": "投资者利用加密货币交易所规避中国对AI股票管制",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUxNdElTclhJazl5S2ZRekIya1ZvT0sxSDV5R1BLbld1TDRnd2tITHQ4OF9sTlZXVkZOc0hGemZLVmM2UU1hX095MFJsM1NQYXpIUHZxbHJXV0lJZkwtYmZIVUtKbEVzQzFEWVdJM184blloQTIwb2p3VUVEbWltVTBIOUg?oc=5",
+      "summary": "投资者通过加密交易所绕过中国AI股限制。",
+      "source": "金融时报"
+    },
+    {
+      "title": "中国绿色能源交易激增，因伊朗战争影响石油需求",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVFmb2dkc0NKcWVuQ05QSFdBWXlWRFdzVmlzQTBOVzF5c2lXNlQ3eE5yTFBqaUR6cEluWGFjblIyenpiY2pPRjZRZmUtQkdGalBjSEtYOE44ekpvRU9Vanc1WFVuZlFSZ2FjU1lBOGpGSENUVDlFVmgzdzI4MG43TmJCT2M?oc=5",
+      "summary": "中国加大绿色能源投资，应对石油需求变化。",
+      "source": "金融时报"
+    },
+    {
+      "title": "Shein在香港IPO前公布季度亏损，警示关税影响",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0JpbTJOLVVENGZhYy14WGt1dHNNeFhDMS1ZZ1lpWm01YUxDZFExWVVMZ0hSMUR5V3B2VlQxUFdQdURrWHBudk4wWk53YU43UVRONF9EamZsRzNwXzdyV2ljV3hMZnNmWXhFMDNUekJSXzJWVDJBeF82VG14VzZCNFM2YjFRRXVhak04ZUxNMENWZ9IBlwFBVV95cUxQVHZnRWhLYmI1V0NweTR1bmloWkxwekg2NHhNTlhCTG5rZ2tCM0taeUtRTXFHM2hGNWFxNnNqOGd2QVpXRDRqV1FDWnNoaVdSQnA5TVJTVVdLRV83UktrMVZzU05fNzI1bmdLbFNlekhhQlZYM0hqNTUtRVpUd1VfazFSVFc3QXpnUXdtbjNkR2lsYVZfZ3Fv?oc=5",
-      "summary": "Shein香港IPO前亏损，关税风险凸显。",
+      "summary": "Shein亏损凸显关税对跨境电商冲击。",
       "source": "CNBC"
     },
     {
-      "title": "中国科技公司冷落美国国会顾问，AI谨慎情绪升温",
+      "title": "中国科技公司冷落美国国会顾问，凸显AI谨慎态度",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdRWjRIbFJlaTJPUW45SlUtTkttSGFaSlZOVVZ6R0lXTjBvbzJuMGI3Nmx6TVh3N09ITEl4Q1UtejRwZVZLeFBVNWNNYlpTWnBmU1hmYXlDc1VNcDUycjdDV28xY0FmYXYzVTZGc0FYejdjeGhvQWVVeEsyYVN3aHUwcXhjOUwxR0RkUzdlZWtPbDB5X1dJS29QZWNkUGV5bUFLSF96U0F4RUxVOHl5R1JaMDRvWUVzZWxONlF2UG9nMncxYjY3cjBfM0VDT3hhY2FxWmFBbFTSAdgBQVVfeXFMUGxKLXRVU0x5VVd0TGd3SU84ZHZaQXNvbDJPMS1jUWwxTUxaUTcxSGZDLXU5c01DaHFZT1J0ZUNvVWF0RThlWmQ1OUYyS0hIVnczbG1BZVBJalo4ekdzYmE4VmxCNGR1OFpnbGVoVXQ1ZzJUU0lWZFNKdk9Bck82WnBhTTI0alhlMFRRYmVwQVhONzVOZnNfb2ZNTmpVQnMwNDNqWS1kX1lFNXNDRUR5b2xXWE0xVzI2NWkxWVdNSEwzazZVRUItOU5na2hpekhlakRRSTkybVk5?oc=5",
-      "summary": "中国科技公司对AI合作持谨慎态度。",
+      "summary": "中国科技公司拒绝与美国国会顾问合作。",
       "source": "南华早报"
     },
     {
-      "title": "中国科学家因基因治疗实验致女童死亡被调查",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlRsNGl4aGZJRFVzdXI1MWJEVVVMRXdvUEpwUWVzcUc5ZjBhclJyNTRQM0RRalpvZm1TWURlQ1dNU3Q0ajhnWXloblEzcm9zTFVwUVB4b3l4SnR2Wk9zMjZRUHNNay13V1UyWVlTRGJLM19kdmE1b1YxcmF6dEhpZ0hDb2ZvYk41QXRxMW9nc2xmNndOb3BYZXN5VVIta3NFZHFYcFpTRXZPZko4V3RqeXJmSXJFNk1UUmgtdU0xNF9VbkRCZVgtNzQ0YmdEZFRLY1llbkl30gHWAUFVX3lxTE9sR09MVjZDcnRNT2hIQ2llbW8zYzFROTJyNGc3VVRNNnJweU43S2pROUhoMUdqMEFTQkQyMzNIQmwySTRodC0wT211N0lqWlBMTlVlXzZfV1ROMl8xYjVqVElNUGdHZTNudklCam5nMjN0My1IRzVYQW96eFFGTHZ0bnhVcXVtM2RIN0xLOU1QWDJvbDlzX0dPTEZjd2Z0MFR4bUQxWTdLcEx5VjBVenlmOUhDcE84ck16UEFLUTloRHlJdjFPSE5BZGVnY3ROdXlCZXVrZWc?oc=5",
-      "summary": "中国科学家因基因治疗实验致死被调查。",
+      "title": "台风诺尔导致中国南方1800架次航班取消",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVIyV1J1UlZQejZsT190V2NpeWJFQ195MG5oY2RQV2pBbkU4SkZLQ0NvazRSOS15cVZMcmJxMEloNUFRaUFyazdwZkVpTVoxMFNzX3puUVk5V2tzd0R6bTl1SkpHRzBlVlRRbllTSjhRZU94bnJiWkFXbXpVR0R4cEJNdkpfMURtcW1jeGxHVTRVVkdvRDh3LWo0c1FqSVJzRV9mZFQ3eFlCRElESW0xcUo2SG42MDBKSEotN3lERXRua0dueF9PT3Z30gHKAUFVX3lxTE83NVplemJlVkZLVkVMeDNGT25sc003Ul83YTkyeVlEV1QtN3dRMUk0OEtrUV9HcXB5RWV5alpGckg1a25wQVNEcF84V09NR0ZmWlZlbFBNcUxha3RmZkNsTFl0UjlVLXRiUXJ2djh5bXhNclo1VTNiSEVrLXNGbzBfakZZY1dqNUFsdWxKUi02OE9hYlE3dFBKaE5yU29QbUpSelU4SUN0cDJBeERlYzRjZkQ0M1hWNDd0VWR4TVVGUVB2ZmdLOUI3YlE?oc=5",
+      "summary": "台风导致中国南部大规模航班中断。",
       "source": "南华早报"
     },
     {
-      "title": "印度计划建立200艘军舰的海军以对抗中国和巴基斯坦",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXRiRWFyQTUyVHRCUU9UdXFzNERjS3NmX0ZMZXRKWHJVWkZfaUFOUXhXUllCd2owT2JEekJ4U3V3Rzk0TGF2U0kzeTh1WXFETHNOTUVNMllGSzliaXk2OHJFRE50NVVMQWloaXlhSjZVN3A3bUNqbEpjT3hwTDUtUm9QNmNSeDd1MTY4TFhLOUs2ZUQyVG5XcllneEt5TnJnb2NpbnY3cm5VV2PSAasBQVVfeXFMTTl6aWF4N1U4czduNGRjcHlMdHdvOG5KUFlhSzB6dTRiRjNaQ0JkU2dNZ3NhWnBvdnlPaHBEdVV5MmtnODR2cGh0cV9vQWRES3pmTzZRQ1NEclFYT2RQR1RZdE85azAzYVl4NWRnZEl1b0VzRk13a21jSW16STdoVFktVUxiN0ZLRzJ0bWhiS2ZmeXA0dFRYeGswc2ZZU1k5dHhOTjlOWHkxejJV?oc=5",
-      "summary": "印度计划扩大海军以应对中巴威胁。",
-      "source": "南华早报"
-    },
-    {
-      "title": "金正恩参谒中国志愿军烈士陵园",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYUtkZzhLN1JramRwZ0xXVWJjVTlzdVFUb1VhZ3JNOWlRRXVvdWNxNnEzZnpPSml5d0V6Qy1fY0dqVnQ5UVVEUGNCam5tSEg1bmN4Z2NjZWFyUHhyQXlzZWFYYU1SX0JKOXc?oc=5",
-      "summary": "金正恩参谒中国志愿军烈士陵园。",
+      "title": "中国工业利润连续两月放缓，受不均衡复苏影响",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjeEVzcDVPYmczMWJ1QXFHVVBDSXE1RnFjbWFmbzk4OUl4MmJYWFc0VE9UQWtLb09kdzQ1SzgtbEpMZTUzRkxZMl9TaVNpYkJIeGtYcXQ4aDFpb1dubGtaU3NKT2c2LTlkU3c?oc=5",
+      "summary": "中国工业利润增速放缓，经济复苏不均。",
       "source": "联合早报"
     }
   ],
@@ -532,6 +532,13 @@
           "source": "南华早报"
         },
         {
+          "title": "Journal to review university paper citing Hong Kong map without Victoria Harbour - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3ZITTZlRGtXdVMxOHg0dDMtcFpqTTlobFFlMHRGeGFwcG5XZ1BjLS1idk1SYXJUR3hCU0JrYW9lR2lJSDNwYnliaGxocjJKY0RUa2tNZkFkV1RRV1dUeWNQaDNfeE0ta1hCRndleUFzOER1U2JxN3VSQ1djOGczU3ZpeXpReGphU3lVbThaX1lpQ1EzeUd0SWpqYjlIWnZTTXJDSWRIOW91cTRqaWxwZ0lNa1JBN1ROQURudHZuU21VaXRyRE54Q1F0U1ZHbFE2bFlveGcxejhSbjTSAdsBQVVfeXFMT2NfNXRmQnp0YXJCT2ZIUGhmWmo1QzhKV0dpOG1mYnFPeG9qWm9mUzlOeGg0bHN4UU1kaGNVRFZpZ3hIWHBLVnRKY0ExblZGdEp5TW5DanRtcTN2T2VOT1BzdDQxS29DVG5jX2hGcGh0VVdmeU1YYmVnWWEyS1g3alhleGV2M2EtSzV5Y1dOU3BkNWV6VmpOZW5HbWptT1ZIYWYxVWhTVFRUMlZkeVdsUkJVUFp0TWEyV3BRN0RLT3kxT2ozSThlNDBjWXFKLTNrVDdoTU5iRi1VdlFJ?oc=5",
+          "published": "Sun, 26 Jul 2026 08:00:17 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3ZITTZlRGtXdVMxOHg0dDMtcFpqTTlobFFlMHRGeGFwcG5XZ1BjLS1idk1SYXJUR3hCU0JrYW9lR2lJSDNwYnliaGxocjJKY0RUa2tNZkFkV1RRV1dUeWNQaDNfeE0ta1hCRndleUFzOER1U2JxN3VSQ1djOGczU3ZpeXpReGphU3lVbThaX1lpQ1EzeUd0SWpqYjlIWnZTTXJDSWRIOW91cTRqaWxwZ0lNa1JBN1ROQURudHZuU21VaXRyRE54Q1F0U1ZHbFE2bFlveGcxejhSbjTSAdsBQVVfeXFMT2NfNXRmQnp0YXJCT2ZIUGhmWmo1QzhKV0dpOG1mYnFPeG9qWm9mUzlOeGg0bHN4UU1kaGNVRFZpZ3hIWHBLVnRKY0ExblZGdEp5TW5DanRtcTN2T2VOT1BzdDQxS29DVG5jX2hGcGh0VVdmeU1YYmVnWWEyS1g3alhleGV2M2EtSzV5Y1dOU3BkNWV6VmpOZW5HbWptT1ZIYWYxVWhTVFRUMlZkeVdsUkJVUFp0TWEyV3BRN0RLT3kxT2ozSThlNDBjWXFKLTNrVDdoTU5iRi1VdlFJ?oc=5\" target=\"_blank\">Journal to review university paper citing Hong Kong map without Victoria Harbour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+          "source": "南华早报"
+        },
+        {
           "title": "Chinese tech firms’ ‘snub’ to US Congress advisers highlights growing AI caution - South China Morning Post",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdRWjRIbFJlaTJPUW45SlUtTkttSGFaSlZOVVZ6R0lXTjBvbzJuMGI3Nmx6TVh3N09ITEl4Q1UtejRwZVZLeFBVNWNNYlpTWnBmU1hmYXlDc1VNcDUycjdDV28xY0FmYXYzVTZGc0FYejdjeGhvQWVVeEsyYVN3aHUwcXhjOUwxR0RkUzdlZWtPbDB5X1dJS29QZWNkUGV5bUFLSF96U0F4RUxVOHl5R1JaMDRvWUVzZWxONlF2UG9nMncxYjY3cjBfM0VDT3hhY2FxWmFBbFTSAdgBQVVfeXFMUGxKLXRVU0x5VVd0TGd3SU84ZHZaQXNvbDJPMS1jUWwxTUxaUTcxSGZDLXU5c01DaHFZT1J0ZUNvVWF0RThlWmQ1OUYyS0hIVnczbG1BZVBJalo4ekdzYmE4VmxCNGR1OFpnbGVoVXQ1ZzJUU0lWZFNKdk9Bck82WnBhTTI0alhlMFRRYmVwQVhONzVOZnNfb2ZNTmpVQnMwNDNqWS1kX1lFNXNDRUR5b2xXWE0xVzI2NWkxWVdNSEwzazZVRUItOU5na2hpekhlakRRSTkybVk5?oc=5",
           "published": "Sun, 26 Jul 2026 11:00:13 GMT",
@@ -550,13 +557,6 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlRsNGl4aGZJRFVzdXI1MWJEVVVMRXdvUEpwUWVzcUc5ZjBhclJyNTRQM0RRalpvZm1TWURlQ1dNU3Q0ajhnWXloblEzcm9zTFVwUVB4b3l4SnR2Wk9zMjZRUHNNay13V1UyWVlTRGJLM19kdmE1b1YxcmF6dEhpZ0hDb2ZvYk41QXRxMW9nc2xmNndOb3BYZXN5VVIta3NFZHFYcFpTRXZPZko4V3RqeXJmSXJFNk1UUmgtdU0xNF9VbkRCZVgtNzQ0YmdEZFRLY1llbkl30gHWAUFVX3lxTE9sR09MVjZDcnRNT2hIQ2llbW8zYzFROTJyNGc3VVRNNnJweU43S2pROUhoMUdqMEFTQkQyMzNIQmwySTRodC0wT211N0lqWlBMTlVlXzZfV1ROMl8xYjVqVElNUGdHZTNudklCam5nMjN0My1IRzVYQW96eFFGTHZ0bnhVcXVtM2RIN0xLOU1QWDJvbDlzX0dPTEZjd2Z0MFR4bUQxWTdLcEx5VjBVenlmOUhDcE84ck16UEFLUTloRHlJdjFPSE5BZGVnY3ROdXlCZXVrZWc?oc=5",
           "published": "Sun, 26 Jul 2026 13:30:13 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlRsNGl4aGZJRFVzdXI1MWJEVVVMRXdvUEpwUWVzcUc5ZjBhclJyNTRQM0RRalpvZm1TWURlQ1dNU3Q0ajhnWXloblEzcm9zTFVwUVB4b3l4SnR2Wk9zMjZRUHNNay13V1UyWVlTRGJLM19kdmE1b1YxcmF6dEhpZ0hDb2ZvYk41QXRxMW9nc2xmNndOb3BYZXN5VVIta3NFZHFYcFpTRXZPZko4V3RqeXJmSXJFNk1UUmgtdU0xNF9VbkRCZVgtNzQ0YmdEZFRLY1llbkl30gHWAUFVX3lxTE9sR09MVjZDcnRNT2hIQ2llbW8zYzFROTJyNGc3VVRNNnJweU43S2pROUhoMUdqMEFTQkQyMzNIQmwySTRodC0wT211N0lqWlBMTlVlXzZfV1ROMl8xYjVqVElNUGdHZTNudklCam5nMjN0My1IRzVYQW96eFFGTHZ0bnhVcXVtM2RIN0xLOU1QWDJvbDlzX0dPTEZjd2Z0MFR4bUQxWTdLcEx5VjBVenlmOUhDcE84ck16UEFLUTloRHlJdjFPSE5BZGVnY3ROdXlCZXVrZWc?oc=5\" target=\"_blank\">Chinese scientist faces probe after girl dies ‘after experimental gene therapy’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-          "source": "南华早报"
-        },
-        {
-          "title": "Journal to review university paper citing Hong Kong map without Victoria Harbour - South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3ZITTZlRGtXdVMxOHg0dDMtcFpqTTlobFFlMHRGeGFwcG5XZ1BjLS1idk1SYXJUR3hCU0JrYW9lR2lJSDNwYnliaGxocjJKY0RUa2tNZkFkV1RRV1dUeWNQaDNfeE0ta1hCRndleUFzOER1U2JxN3VSQ1djOGczU3ZpeXpReGphU3lVbThaX1lpQ1EzeUd0SWpqYjlIWnZTTXJDSWRIOW91cTRqaWxwZ0lNa1JBN1ROQURudHZuU21VaXRyRE54Q1F0U1ZHbFE2bFlveGcxejhSbjTSAdsBQVVfeXFMT2NfNXRmQnp0YXJCT2ZIUGhmWmo1QzhKV0dpOG1mYnFPeG9qWm9mUzlOeGg0bHN4UU1kaGNVRFZpZ3hIWHBLVnRKY0ExblZGdEp5TW5DanRtcTN2T2VOT1BzdDQxS29DVG5jX2hGcGh0VVdmeU1YYmVnWWEyS1g3alhleGV2M2EtSzV5Y1dOU3BkNWV6VmpOZW5HbWptT1ZIYWYxVWhTVFRUMlZkeVdsUkJVUFp0TWEyV3BRN0RLT3kxT2ozSThlNDBjWXFKLTNrVDdoTU5iRi1VdlFJ?oc=5",
-          "published": "Sun, 26 Jul 2026 08:00:17 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3ZITTZlRGtXdVMxOHg0dDMtcFpqTTlobFFlMHRGeGFwcG5XZ1BjLS1idk1SYXJUR3hCU0JrYW9lR2lJSDNwYnliaGxocjJKY0RUa2tNZkFkV1RRV1dUeWNQaDNfeE0ta1hCRndleUFzOER1U2JxN3VSQ1djOGczU3ZpeXpReGphU3lVbThaX1lpQ1EzeUd0SWpqYjlIWnZTTXJDSWRIOW91cTRqaWxwZ0lNa1JBN1ROQURudHZuU21VaXRyRE54Q1F0U1ZHbFE2bFlveGcxejhSbjTSAdsBQVVfeXFMT2NfNXRmQnp0YXJCT2ZIUGhmWmo1QzhKV0dpOG1mYnFPeG9qWm9mUzlOeGg0bHN4UU1kaGNVRFZpZ3hIWHBLVnRKY0ExblZGdEp5TW5DanRtcTN2T2VOT1BzdDQxS29DVG5jX2hGcGh0VVdmeU1YYmVnWWEyS1g3alhleGV2M2EtSzV5Y1dOU3BkNWV6VmpOZW5HbWptT1ZIYWYxVWhTVFRUMlZkeVdsUkJVUFp0TWEyV3BRN0RLT3kxT2ozSThlNDBjWXFKLTNrVDdoTU5iRi1VdlFJ?oc=5\" target=\"_blank\">Journal to review university paper citing Hong Kong map without Victoria Harbour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
           "source": "南华早报"
         },
         {
@@ -603,9 +603,9 @@
         },
         {
           "title": "一家三代投入会馆服务 青年接棒传承文化 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dnlwZnA5MWNHZ3BjMzF3empKXzBoQ3Z2SlItaFVrck91ckhPeUU0MTJIUTdxcmtMNnZQQ2tRcFFoWWt4WXE4dHlJVEQ1M2xTMlJMSEcyaGZBUVozdlhRSWJmWTYxcENXeG1TaXdSYw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGZJc0JiR2REZjVqemtWUUs5UGswLXgxZkw2RXdEcnVHYUVLN3ZpbjJlakZOTFZpMWR0S0dsMU5vM3Z1YmRpQmUyUk5iNG1FaTJMWmlfb2FKcXh4NWhxZGNzS1U4TFV6MV9lRkJxYlFMcFVHbUY4S3pnRVpWWnFkVGl0bnF6QVdvTmRz?oc=5",
           "published": "Mon, 27 Jul 2026 01:10:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90dnlwZnA5MWNHZ3BjMzF3empKXzBoQ3Z2SlItaFVrck91ckhPeUU0MTJIUTdxcmtMNnZQQ2tRcFFoWWt4WXE4dHlJVEQ1M2xTMlJMSEcyaGZBUVozdlhRSWJmWTYxcENXeG1TaXdSYw?oc=5\" target=\"_blank\">一家三代投入会馆服务 青年接棒传承文化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGZJc0JiR2REZjVqemtWUUs5UGswLXgxZkw2RXdEcnVHYUVLN3ZpbjJlakZOTFZpMWR0S0dsMU5vM3Z1YmRpQmUyUk5iNG1FaTJMWmlfb2FKcXh4NWhxZGNzS1U4TFV6MV9lRkJxYlFMcFVHbUY4S3pnRVpWWnFkVGl0bnF6QVdvTmRz?oc=5\" target=\"_blank\">一家三代投入会馆服务 青年接棒传承文化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -627,6 +627,13 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10bmJXM0xtOUJ6MVEwWmlaQjN2THFHTzRTd2tRU00ydzBrbkNIeXN4dVBMVUEtWWRMSGVtZG1HMG5xMC1yTTBXVlRzendlU1dSTHlWYVBaVVU3dXNNTWtkb2NEMU1hZ3VHX3c?oc=5",
           "published": "Sun, 26 Jul 2026 21:00:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE10bmJXM0xtOUJ6MVEwWmlaQjN2THFHTzRTd2tRU00ydzBrbkNIeXN4dVBMVUEtWWRMSGVtZG1HMG5xMC1yTTBXVlRzendlU1dSTHlWYVBaVVU3dXNNTWtkb2NEMU1hZ3VHX3c?oc=5\" target=\"_blank\">戴庆成：特朗普11月会访问香港么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+          "source": "联合早报"
+        },
+        {
+          "title": "郑丽文盼蓝营团结拼年底胜选 迈向2028年重返执政 - 联合早报",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1feWRwQ0xsXzdKbG90VWs0YkFtQzYwakZfY2ZpTTdNUURPOURyVVVLeDJISjVyZGNUckxUNmc0M3FyemJQMjAwczV1eDR2QUk2b2JzOEVjOFdsQlZqay15WkVjU09KRFl6Vmc?oc=5",
+          "published": "Mon, 27 Jul 2026 03:46:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1feWRwQ0xsXzdKbG90VWs0YkFtQzYwakZfY2ZpTTdNUURPOURyVVVLeDJISjVyZGNUckxUNmc0M3FyemJQMjAwczV1eDR2QUk2b2JzOEVjOFdsQlZqay15WkVjU09KRFl6Vmc?oc=5\" target=\"_blank\">郑丽文盼蓝营团结拼年底胜选 迈向2028年重返执政</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         },
         {
@@ -655,13 +662,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYUtkZzhLN1JramRwZ0xXVWJjVTlzdVFUb1VhZ3JNOWlRRXVvdWNxNnEzZnpPSml5d0V6Qy1fY0dqVnQ5UVVEUGNCam5tSEg1bmN4Z2NjZWFyUHhyQXlzZWFYYU1SX0JKOXc?oc=5",
           "published": "Mon, 27 Jul 2026 01:46:00 GMT",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYUtkZzhLN1JramRwZ0xXVWJjVTlzdVFUb1VhZ3JNOWlRRXVvdWNxNnEzZnpPSml5d0V6Qy1fY0dqVnQ5UVVEUGNCam5tSEg1bmN4Z2NjZWFyUHhyQXlzZWFYYU1SX0JKOXc?oc=5\" target=\"_blank\">金正恩参谒中国志愿军烈士陵园</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
-          "source": "联合早报"
-        },
-        {
-          "title": "李在明誓言推动韩国成为不可替代的AI领跑者 - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdUdHMGwwZVlCdW9ha1FzUDBwRHVqTFBHSWdfOU5mME1SWV8tS243dVlVYkJGbmg2OC14Wl9HVWFncXdJLXlVZU1MS3A2LUZIWXliTC1SU0FLSkxSSjl4WVVKNm9zekdRVkE?oc=5",
-          "published": "Mon, 27 Jul 2026 03:24:00 GMT",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdUdHMGwwZVlCdW9ha1FzUDBwRHVqTFBHSWdfOU5mME1SWV8tS243dVlVYkJGbmg2OC14Wl9HVWFncXdJLXlVZU1MS3A2LUZIWXliTC1SU0FLSkxSSjl4WVVKNm9zekdRVkE?oc=5\" target=\"_blank\">李在明誓言推动韩国成为不可替代的AI领跑者</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
           "source": "联合早报"
         }
       ]
@@ -700,17 +700,17 @@
           "source": "BBC"
         },
         {
+          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+          "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 26 Jul 2026 21:10:58 GMT",
+          "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+          "source": "BBC"
+        },
+        {
           "title": "Girlguiding unveils first major uniform redesign since 1990",
           "url": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
           "published": "Sun, 26 Jul 2026 23:06:21 GMT",
           "summary": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
-          "source": "BBC"
-        },
-        {
-          "title": "Littler wins Matchplay and smashes Taylor record",
-          "url": "https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 21:03:39 GMT",
-          "summary": "Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.",
           "source": "BBC"
         },
         {
@@ -728,10 +728,10 @@
           "source": "BBC"
         },
         {
-          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-          "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-          "published": "Sun, 26 Jul 2026 21:10:58 GMT",
-          "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 00:27:58 GMT",
+          "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
           "source": "BBC"
         },
         {
