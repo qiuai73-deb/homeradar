@@ -18,12 +18,23 @@
         .news-title:hover { color: #4f46e5; }
         .source-tag { background: #e2e8f0; font-size: 12px; padding: 2px 6px; border-radius: 4px; margin-right: 8px; color: #475569; }
         .news-summary { font-size: 14px; color: #64748b; margin: 6px 0 0 0; line-height: 1.5; }
+        #update-time { 
+            color: #475569; 
+            font-size: 14px; 
+            margin-bottom: 20px; 
+            background: #f1f5f9;
+            padding: 6px 14px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        #update-time .label { font-weight: normal; }
+        #update-time .time { font-weight: 600; color: #1e293b; }
     </style>
 </head>
 <body>
 
     <h1>📰 每日财经新闻 AI 研判</h1>
-    <div id="update-time" style="color: #666; font-size: 14px; margin-bottom: 20px;">加载中...</div>
+    <div id="update-time">⏱️ <span class="label">更新时间：</span><span class="time">加载中...</span></div>
 
     <!-- 1. AI 研判总览区域 -->
     <div class="card ai-summary" id="ai-card" style="display: none;">
@@ -45,20 +56,34 @@
 
     <script>
         async function loadNews() {
+            const updateTimeEl = document.getElementById('update-time');
+            const timeSpan = updateTimeEl.querySelector('.time');
+
             try {
                 // 1. 加时间戳防止浏览器静态缓存 news.json
                 const res = await fetch(`./news.json?t=${Date.now()}`);
                 if (!res.ok) throw new Error(`HTTP 错误! 状态码: ${res.status}`);
                 
                 const data = await res.json();
-                console.log("成功获取 JSON 数据:", data); // 控制台调试日志
+                console.log("成功获取 JSON 数据:", data);
 
-                // 2. 渲染更新时间
+                // 2. 渲染更新时间（强制显示北京时间 UTC+8）
                 if (data.updated) {
                     const updateDate = new Date(data.updated);
-                    document.getElementById('update-time').innerText = `更新时间：${updateDate.toLocaleString('zh-CN')}`;
+                    // 使用 toLocaleString 指定时区为 Asia/Shanghai（北京时间）
+                    const beijingTime = updateDate.toLocaleString('zh-CN', { 
+                        timeZone: 'Asia/Shanghai',
+                        year: 'numeric',
+                        month: '2-digit',
+                        day: '2-digit',
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        second: '2-digit',
+                        hour12: false
+                    });
+                    timeSpan.textContent = beijingTime;
                 } else {
-                    document.getElementById('update-time').innerText = '更新时间：未知';
+                    timeSpan.textContent = '未知';
                 }
 
                 // 3. 渲染 AI 全局研判（增强型清洗与渲染）
@@ -68,10 +93,8 @@
                 if (data.summary_analysis && typeof data.summary_analysis === 'string' && data.summary_analysis.trim() !== "") {
                     aiCard.style.display = 'block';
                     
-                    // 清洗文本中的 Markdown 符号并处理换行
                     let text = data.summary_analysis.trim();
-                    
-                    // 解析Markdown语法：**加粗** 替换为 <strong>，换行符转为 <p> 或 <br>
+                    // 解析 Markdown 加粗和换行
                     let formattedText = text
                         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                         .replace(/\n\n/g, '</p><p>')
@@ -79,7 +102,7 @@
 
                     aiAnalysis.innerHTML = `<p>${formattedText}</p>`;
                 } else {
-                    console.warn("未检测到有效 summary_analysis 字段，隐蔽研判卡片");
+                    console.warn("未检测到有效 summary_analysis 字段，隐藏研判卡片");
                     aiCard.style.display = 'none';
                 }
 
@@ -91,7 +114,7 @@
 
             } catch (err) {
                 console.error("加载 news.json 失败:", err);
-                document.getElementById('update-time').innerText = '❌ 数据加载失败，请刷新页面重试';
+                timeSpan.textContent = '❌ 加载失败';
                 document.getElementById('important-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据，请检查 news.json 文件路径</p>';
                 document.getElementById('interest-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据</p>';
             }
