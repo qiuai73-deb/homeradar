@@ -3,8 +3,8 @@ import json
 import feedparser
 from ai_analyzer import analyze_news
 """
-每日抓取路透社、彭博社、华尔街日报头条
-通过 Google News RSS 聚合（从 GitHub Actions 美国服务器运行）
+每日抓取国内新闻
+通过 RSS 聚合（从 GitHub Actions 美国服务器运行）
 """
 import hashlib
 from datetime import datetime, timezone
@@ -12,50 +12,35 @@ from pathlib import Path
 
 # ========== 新闻源配置 ==========
 SOURCES = {
-    "reuters": {
-        "name": "Reuters",
-        "name_cn": "路透社",
-        "rss": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+    "CCTV": {
+        "name": "CCTV",
+        "name_cn": "央视新闻",
+        "rss": "https://plink.anyfeeder.com/weixin/cctvnewscenter",
     },
-    "bloomberg": {
-        "name": "Bloomberg",
-        "name_cn": "彭博社",
-        "rss": "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "zaobao": {
+        "name": "zaobao",
+        "name_cn": "联合申报",
+        "rss": "https://plink.anyfeeder.com/zaobao/realtime/china",
     },
-    "wsj": {
-        "name": "Wall Street Journal",
-        "name_cn": "华尔街日报",
-        "rss": "https://news.google.com/rss/search?q=site:wsj.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "caixin": {
+        "name": "caixinl",
+        "name_cn": "财新",
+        "rss": "https://quanwenrss.com/caixin",
     },
-    "ft": {
-        "name": "Financial Times",
-        "name_cn": "金融时报",
-        "rss": "https://news.google.com/rss/search?q=site:ft.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "wallstreetcn": {
+        "name": "wallstreetcn-hot",
+        "name_cn": "华尔街见闻",
+        "url": "https://wallstreetcn.com/news/shares",
     },
-    "cnbc": {
-        "name": "CNBC",
-        "name_cn": "CNBC",
-        "rss": "https://news.google.com/rss/search?q=site:cnbc.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "cls": {
+        "name": "cls-hot",
+        "name_cn": "财联社热门",
+        "url": "https://www.cls.cn/depth?id=1003",
     },
-    "scmp": {
-        "name": "South China Morning Post",
-        "name_cn": "南华早报",
-        "rss": "https://news.google.com/rss/search?q=site:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en",
-    },
-    "Zaobao": {
-        "name": "Zaobao",
-        "name_cn": "联合早报",
-        "rss": "https://news.google.com/rss/search?q=联合早报+when:1d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
-    },
-    "BBC": {
-        "name": "BBC",
-        "name_cn": "BBC",
-        "rss": "http://feeds.bbci.co.uk/news/rss.xml",
-    },
-    "NYT": {
-        "name": "NYT",
-        "name_cn": "纽约时报",
-        "rss": "https://plink.anyfeeder.com/nytimes/cn",
+    "phoenix": {
+        "name": "phoenix",
+        "name_cn": "凤凰网",
+        "rss": "https://news.ifeng.com",
     },
 }
 
@@ -89,16 +74,16 @@ def generate_markdown(all_data):
     now = datetime.now().strftime("%Y-%m-%d %H:%M 北京时间")
     print(f"生成的更新时间: {now}")  # 调试输出
     lines = [
-        f"# 📰 每日财经新闻摘要",
+        f"# 📰 国内新闻摘要",
         f"**更新时间：{now}**",
         "",
-        "> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)",
+        "> 来源：国内媒体",
         "",
         "---",
         "",
     ]
 
-    emoji_map = {"reuters": "🔴", "bloomberg": "🟢", "wsj": "🔵", "ft": "🟡", "cnbc": "🟠", "scmp": "🟣", "marketwatch": "🟤", "yahoofinance": "⚪"}
+    emoji_map = {"CCTV": "🔴", "zaobao": "🟢", "caixin": "🔵", "wallstreetcn": "🟡", "phoenix": "🟠", "cls": "🟣"}
 
     for key, articles in all_data.items():
         cfg = SOURCES[key]
