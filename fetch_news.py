@@ -12,10 +12,6 @@ import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 
-# ===== 推送通知 =====
-notification:
-  enabled: true                      # 打开推送通知
-
 # ========== 新闻源统一配置 ==========
 # 将两者合并为一个大字典，但通过 type 字段来区分抓取逻辑，并统一使用 'url' 键
 SOURCES = {
