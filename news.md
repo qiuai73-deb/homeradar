@@ -1,126 +1,46 @@
-# 📰 每日财经新闻摘要
-**更新时间：2026-07-28 12:03 北京时间**
+# 📰 国内新闻摘要
+**更新时间：2026-07-28 13:27 北京时间**
 
-> 来源：路透社 (Reuters) · 彭博社 (Bloomberg) · 华尔街日报 (WSJ)
-
----
-
-## 🔴 路透社 (Reuters)
-
-1. [Gulf states back plan to let Iran collect voluntary fees to use Hormuz](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5)
-2. [EXCLUSIVE: China starts production of home-grown immersion DUV chipmaking tools](https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1Zubmoxd1FlV0N3dFpST2F0QUFhNS04Mlg5cmNUcndrWXlwYVFfSFZZODc5UzQxTWZiNzktWEZ6dlJfVm4xVXZWYUlSdndZUXFyNjNhLUZlWm9Zc3pSN001WmZFQWZRSjd3dFo0dmptM1VIbGg2aUhVYU9aNllfV3VkRFZGREJsczdOZThmQ2tidTJMc2dweFp3V1FWQ0hLOEIzaU9mMFRWWGhrUXoySUxST3VqekE4Rnp5Qg?oc=5)
-3. [Uganda declares end to latest Ebola outbreak](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXRUcFFGVXBPS1c1NDJyRUptZmR1UHdjeUg0WmpRY3pMaUdoOHNsSDlReVhzaGhmcDFKY1pTUU80SGxFNnkzRmNoelNYWFNZUFJEUURCcURUcW5jYVlCVEtSYUZwdHRucEVBZDBZa01Fal9wWWs1VDEzYUlqX3N5MUJ3M0djQm1QLUF4d3QyWHVJMzZPWGlLWE4ydXVoWklKTjNDamtpSkw4SHRpdzZJVXVMbWRVdld6M20yWUhLYVE?oc=5)
-4. [Japan quake injures at least 50, disrupts power and travel](https://news.google.com/rss/articles/CBMitgFBVV95cUxQREx4N194TTNIVm1ocmk3TEpxZ3hPSVpKQ2dwdEpuOTZNVXNsWVNjX1pjSGhkTHh6M01iWFZQeENTQ09KTHNQSzl0TzdwWGJqN2lrMmV2Vng4Z19ISUZWM1l3NXU1U2ptMENYZVRqSzd5Y0pLelAtOHJHZ19jbm5IdXhmYjhuekNDLW9aV1BvQUtUTTlLOWZhemRNSF81MS1LSXYybms2UGliMzhHaW14SW52V2ZOZw?oc=5)
-5. [Taiwan detains Nvidia employee in Super Micro probe, Taiwan media says](https://news.google.com/rss/articles/CBMivgFBVV95cUxONGVEdUMzN3M0bDF4c0UtSW42SlAzeWoydnpubGFaeDgtQnYzRmwyMjlyWU4yOFJqUU1Pd3R4Q1pwLWVPZkhCU3Z6QkZoMktUX1BIQm0wY0MteXpwSWFmWl9Xa2FBUmpJYl9SeUt3M1g4MlViU2xUMThtQ1paa3dLal9scVhKbnhMX0FnYnJUdURWUTVvQUIxcFNHRnRsdTFlNmRKVnVnWHV5SkdoeE1sZ1lLTUpvajNDNTVLOC13?oc=5)
-6. [Fitch warns AI market correction emerging as major global credit risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5)
-7. [Zidane lands dream job as France hand him reins through 2030 World Cup](https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUVOdFkyRmVpay1hUFJRYnBHQmZQaW96ZS1tNWlPM1k1MTdyUzlSdDZmNXItZnQ5UEVMb0phLVV2WHh1VGtCcUlZV3hWZDJUMkJ3ZGtaTjN5U1dqbk43cngyRmluMVVtVVZTd3RYU1gxemxkSHUxczN4ZkJ5VGJEb241M09IM2V4QmlMbTdpeWNNQ01zTERzdnZVaWV2dC1mbDlMVk0wTklKR1RnemZnVGUzaEhmYkR1MG9OSG1n?oc=5)
-8. [Oman presented regional mechanism for Hormuz to Iran, source says](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5)
-9. [France braces for fourth major heatwave as crews tackle Bordeaux blaze](https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1VLMWJINXpZb0N6cFdyQXdEelhlNE1Sd2tVbGJ4Y0lBd0dYa2ZRRmlneU9MSmNEaXFhd2lWazY3V05wU0hjTnh4M280VzNBblI0LUt4cUt2eElCQ1RzbjlXVE90ODFfX0ctdUIwWlZJdjhEV1pLejRfNlFGSTRKWnRBdlFmUEFseU82OVRtVlMydkNzb053aklaeE5aTVEzMGxsLVNWMUNTQnVXT0c2eEpmVDUzd3ZKbTFPVw?oc=5)
-10. [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEZqYTIyLTJKQm5vWDg1Wng1R194ajZTSWNVaUh0N19nMEdFbWtqbkQ1WlB3YlpPREN0U1lBSGFXNnVMRGpyV09sN0hnczMxZm84T1NvNFR2UktJV0F0UmdXbExaSWtFZDlwUG1yTmNUbXJOYXJzOEZITkhwMzVWTXE2clo3SWVmdTVMSkE3MGpHbFZvWGVILVdZdTBoOFVTdG0yOGQ2OTl2c2dEMDBkZFZ0cG01cmFZem00ckdmaG1xUW9ndTg4TVhlVQ?oc=5)
-
-## 🟢 彭博社 (Bloomberg)
-
-1. [AI Startup Dwelly Raises $170 Million for Real Estate Rollup Strategy](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3ZsZmdHQXVpcXk5LTNiOEplby1ucUtTaDJyWGF1Tk0zTm43M25uOUh2STMtQk5sUDJRejJTclBoWjFUSm0yYm93VUNxSXJSeTlSWEVfcklmMTRUaFBUVmt1cG1OVW5xMENPTDNMZGhsUTVLRWY2ZTlXLUx5SUwtV1FQSWRrRzVRSlVFd3BzN3ltRmFYZERDVGpaRFhJNVdUQmZWYTJpeURzNmNxT3Fr?oc=5)
-2. [Amazon Data Centers Hit in Iran Strikes, Satellite Images Show](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG0xZWZfWU5sS3JfU0JRTHFPUzNNQlRZSFdVS0h0bldzQjZyMWM2Z0tnYkY0TXBhdkNDUVhwS0FTZGx6cXJTUTRXejFVRnhKVVlxU0tHOFByY2VsdUVjdkxtbDdtRGx0TkpUN2VINVRTOEQxZ2xpQklRYXdqMjJoMUFKRXhkTU9sMU0zOXNVV0RHZnN3elhGejZFRjdrT1dzVHE3VnRkR3hraHhRVk96WGdR?oc=5)
-3. [Germany Maps China’s Weaknesses in Preparation for a Trade War](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWZpQUhndHF2UUNCUlZGLWx0TTJaZGIyTzk5N0lNS3BYMUR0OW43eS1Mai1RWHhxVkJvd0dHZk9Mc0lwQWlKUzdlbnYzMEdfLTBvc2JlUXpldDdTZTlMX0Q0UWhPY21UaVpOMElJa3dVNFdxd2h6T3ZSczBZaUlJelJZVXd2Q2hNTnRBOEg4T0ZTV0otNFluemF0VFlmUjR0d3A2SFdMYXh3SzZTTnExTTFpWQ?oc=5)
-4. [Meta, BlackRock Plan to Invest in $14 Billion Data Center](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3ZMd1k2ekw5RHM3RlBQamEtQW9PVUhFMDhsTVVvYjhwelg2blBMX01uRTFTNGhJd2hrNGNUejVKZVVCdVN1WV9Dd1Y3OEk1TUYxVVZvSnVNd3BtMTBtcmlrSk8wM1AyVk1zSWVZTkVXVUl2bE8tT2FZNVB6WGR2UHlOS0ZsMnBlWFRqdy03dnNJVVpVTW5KNDBlWXNNT0RmMThEZ2JUVGpOalk?oc=5)
-5. [Taiwan Detains Nvidia Employee in China Chip Smuggling Probe](https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtDQjNDTzYxbGFhVXNfOFVCcFFLZnZyc2hoUTdjdkpPVU1FeG9VVnNvVEhXTTVEV050OXprbnZoX3FMangzWFV3U1owR2QwT01LenFLNGZQRjB1MS1XM2NlTlpvd2lHZjU1aGIydmpiZ3BXQWJwd1NJVk9BcTdRVVZYcGtoNVA2RzlHU3VXLW93VVd5SF9tdWxxNm5jb05BSGZMT0lORTF5bnhab09URw?oc=5)
-6. [US Tech Stocks Poised to Slide as Global Chip Selloff Deepens](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcThkWWhwUklyYUNpSGg1MVpwc0RKRHZUeHU3YzZXSmlaWWMxOVJ6TDh3aWNjVFFDSnB4U0Jfb0syUHFVSW1yaDJGTWdtbGVOdTcyYi1uYkl1dGNTZzFnamdjOWIwZ0tDRHdiNTNMTEpaYWlTUFNCa1hGclF5SFcyOHlJQW83V1NGc01udVZ2V0twVDFPOEZXWTdROE1McFlmYk9KckZ1STVaRzZXaHg2Vjh3?oc=5)
-7. [Myanmar Passes Law Allowing the Death Penalty for Scam Operators](https://news.google.com/rss/articles/CBMitgFBVV95cUxNN216RnlLYWdMZ3VjREpOV1lSX3JvVVl2VTVyS2dENVliNmt1SnZJN1lUemlhQ1hkeG9sQm1vZk9kZnFTd2Z2R1M0bHVKT0RlUnJkdWtfZC1kRGNpYmZhbXRINUxGNTlNQTNHeVhHZjJQSFh3TTNvUUNHbjNWUU5mcUp2SkJQT0tnbndsVFhsOTJhRWpQTjJCUHYyS3BkQ19DZVVTMUJGN21OT25CTnprcjBzRExmZw?oc=5)
-8. [Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade](https://news.google.com/rss/articles/CBMisgFBVV95cUxORGZkcm10VDZWSVJtRzlCbV9PV01sY3ZXUDMwVVR2c3J0eW8yd1FjSGNycHRwenZFTkN1eWljMndHaTFEd1NSTmJjVkNYNkk2VHJhVGFZc1hkS1k1YmpzZjJUdXJ0eFN1enRsekQ0S2FsZTNwaW5NNHo3QThCV0k4M0xNeEF0OE8zQ0VYT3F4Q1dkeDdFWkRjbEpmS2V6RmhMU3h1WndlRGQtU3ZYM203THZ3?oc=5)
-9. [Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing](https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTVnc1A0RXVTS01BaHM2ajhVRFpCcWF2a1A0WC0yRWhFcWFwRno0T0NZNUEtM2doVHRmZ2NFM3RFZHk1VHFxQ3paT3NaeHhTd0JhbkZlTVlUX3V0NzJ5N21saFJUam5Tc3haUmYwVHlGZkU3UGpaMTBKUjNOMHVJeFMxanByWG1JV1ZlWDdiYUFpUnhXdWZpMlZPU1AtTXo0Y002NWRfNFBlV2UzWmpmVkpnNmo?oc=5)
-10. [US Probes Chinese Factories in Vietnam, Stoking New Tariff Fears](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDFydGJYRHFFdk1oeDFjZGdpVENTTl9aRk0wcnN1UmlXN2FSZGhjQzUyVkJXaUFHdUJGLUl6bEZNSEQwS2dWM3BQSlIwX2Rqcmx2R0xUalYyT2VzLVNtTUlKWVFGcHJ5UG5SOHJiRk5tVzJLcFFQUFJ0MmZyTzN3QmpHR1NCVHRpWUZJN0RSRGlhZDAwMGFGRnpvTTZOLXk5WURoQV8wNmM1cW1CWVVlOXZnSXQ?oc=5)
-
-## 🔵 华尔街日报 (Wall Street Journal)
-
-1. [Print Edition | Wall Street Journal](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVGpQTllGRHRIRlNfbVRSQkFLYjRraG1aSjRBMkNrUGY3VHJMMElFU2lwZ2hFd1FGYk4wVWNNSU5XRjZSU095UlJCTmlldm82UW1jWHp6aFZmQW1lN2dpam9B?oc=5)
-2. [Mercedes-Benz Cuts Sales Guidance Amid Worsening Chinese Market](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFhtcWpBSEttV2lpNVJ3X2ZhSkhtbUJ0eXUwd1VCSjAxQXpaQU92VHlMSXFseVYwOFE0blgyLWRWaUhPUzJmZ3drY08wb2JxajRJLVZINWFXWnN4ZWRWSWxEaW83LVhwbU5EdVZYVVp5b1R6cmstS1lFZnhXOGotMDhtODFKcHlzYjM3YmR2M291N0FxTWRJX3dpc1VtZEpSeEJhdElxUm03dlNVTjBJ?oc=5)
-3. [Impressed by Ukraine’s Battlefield Gains, Trump Warms to Zelensky](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUwyUTlkOGo3cldpLW5FS3dwdGlEd3d0U2dIMkFpSGRUTlU3YjctdHotbDlZUFVoTjNYdlFncFpLOE54RFppc0NwSTNNRkpQeHJZQ3d1Rzk4aFp5bHhTTThGWmtCRWtYUjhVRDN1c3pIX2tTWFZyN0xhZFc2QjFubDkwUm1WNHBZdFozLXI1WDdEVWdxZVRqbUY5NjQtYk0?oc=5)
-4. [Trump Turns Up the Heat on RFK Jr. to Cut Back Childhood Vaccines](https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxaZDRzX1ZjcHBCaWtUaHdtUXNvYkhlNHZCeFBrcGpLdXFkcVRLdWJwU2ZVMllocVB4aDVQVDZXNEZMV0VzY2dpSTJnd2o5bkNubzFXT0M1VWlBLWJoNjhtUEhrNFl2VWNsclFLRGpFWXlrWnBicGlCVDdCdUJocWRRSGg?oc=5)
-5. [Iran and Oman Seek Agreement on Hormuz in Bid to Jumpstart Peace Talks](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjR2SHlYQ3F0Y0FDcVczUVlhWTl4ZDhPOHBTLXFMeXlfSmdSeDlRSlJKNEZ2REpBQnlPdEE3MFdGQnRFaFN6bG1kWENOcmZUZ1hRTlFKTGRXX1Z5cU1UQkhJc0xjeGM0Y1Y3UDFXM0k0V1NjWjM2NXo4dHFnMkx0WnVpdkNQOW9JVURIMER0MGlVZzFFc0JEUnNKZUxwSmhtMzJmWUR5Y211VXE5c1A4Qy1JLTlsaHFZZGxlN0x3?oc=5)
-6. [Key Takeaways From Anthony Fauci’s Covid-Era Journals](https://news.google.com/rss/articles/CBMingFBVV95cUxPcW5uWUVxbWhZbHRuUXZIaEhROE5NbXlibUVWOEdrVG9RWjNiODhrS29RZTJaNFkzczMtdXFUdEhMNnBqNmVFLTRrSDJoWlBRdXo0VEhkTTJFVXJRTUwwaXJZX1NIajFvMTZaaWRPY0k1RGloVHhKcEhRaEVuRHUzdDFGZnpPdUZyajdla1I1aGhqY1NXSjhMSUhiS1hKdw?oc=5)
-7. [Nvidia Falls Behind Apple in Mixed Day for Stocks](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9BSDBZWF95N0lDdHVDYmtmWGZBYzE5XzBCb0ZjZWJOTkk2XzdaaDlBcUFRMWpUUHVoeVhZcWhuWklPRE9FSEJVTlpZbkFMSGxKVXJycTAtQ202enFQVE5WMEZqNXREOEY2Z21fQ3FuOWw1MmJQMkZ5a1NqOEJuYmZ4a1p4YXFRY1IwT213?oc=5)
-8. [FAA Says Airlines Should Check Seat Installation on Some Boeing Planes](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXVQQTVvc180VGpudXpNbUFvaTlWNWt1ODVZSHpCanpYbHVXLUpveFJvQ29mZHhuOEhtRlJSSk5MSXJOMjFDUzhENzN4WkxSc1VHX1FaZWFMVXhMTVA0YmhmMWx1OHlwQzBtcWhBb3daQko3RGFLMi1wckdSUHRHZFhvU09yekRLU0Z4SXBaNi0wSVNGSjhiTVhrTFZuRnhxOXR0UTJ3NG5PaEx6Sy1nTGRTdURya09fTlAwWHJXdXBuYjVEd2c?oc=5)
-9. [Philips Shares Fall After Orders Slip](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdYNnRGNGRpNloyVXBMSDY1cUNOTm5hMlUyd05ORG41Q21qYVpiN3RNdDBPZXBaYUFGVG1tUTFpQ1ZWX2JWdWtmZlZuV2NQY0pWTTBRaWVfcjRxYWNKeVNNUjUyVGpIVWpCY0VVWHVyODVtZG5kSVMzN3BmWUdZU25KOEREaHlGZW1QTQ?oc=5)
-10. [The Tiny Beach Borough With Some of the Jersey Shore’s Priciest Homes](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVQ0OGk2LWZZQUdYdDBPWGtrdnpIY3NJdHU0Qm8yTG96NzNJQ3ZhLXhDRUVWYVlkbkV3Qk05MTJRYUJ5RTJEdk0zR2pPWUFSNkRPMEk1S2NaTE9KRTZMdnRhNlg5dzB0emdyVmtLTUZ6T0xLN2VSUGduNkowdjNpeXBpanptU2NkLWh0OUdNSlFJcHV3Mmc?oc=5)
-
-## 🟡 金融时报 (Financial Times)
-
-1. [AI stock sell-off deepens as investors dump chipmakers](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOU5EQzYzM1h5cUFtRE1hbWhzLW5KMm9ZVjZ4SFY0SE5Xc3IweTFEbS1XRTBjbThoVUJodHphUUprdWlEV2dyZ0tsazM0S01adW5EM255NXNhdmV1Vi1fR0dkVXNaRjNvT08ydm1GRlE2TC1XMVBrR3MxRkVwSEVRTnR1Nkc?oc=5)
-2. [TotalEnergies benefits from EU sanctions reprieve on Russian gas](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTlHSTV6eWJTbDU4NTB5b2x1aHlVVDhFVXdaZklHWnhkSlFTRGdJUU5Fa1pQWkZ2Rmt6Y1hlZ0p0dGtWRG1uamcxX2lDTE1uSjc4RWxUT0NGc2haaVZWbzViRi04RzBLdFc4UU9yNGhwZmFMT19pUlBvLXNSd0l4S0t3ZkU?oc=5)
-3. [Nvidia behind $50bn lease on Texas data centre that will use its chips](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEhPT18tMlBPQkZndDgzcktHQzFwRWNpTUJoUnoybUxXa194aktnYUUtc2NFRW96Y1ZyWG5uTVVfMm5XSTZzRUxhUUJRMHlzX3NKNEJ1aFY2U3BEamgtbnVrS29PblBPR3AxUGlmNEZEbmpCb1Y3bzQtd0dyLTFUTS1fcHI?oc=5)
-4. [How Iran adapted its missile war with Trump](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjdxUjFLdm1kMjZXaHZkd1hwaGF1Y2JCS1NrTTlqSkFDMFF1dVFXM2s4czRNSUpTWXZRS2RyWTFSVDBQVGVjeVZBV1BSQ3JZUG9WVlZLd1gweVlVR2dERzVyX0tWTFFOMEN3bnByMlNqX0Z0T1p3QTlJWmF4UURvSktGcHc?oc=5)
-5. [Ares Management has held talks to buy Leonard Green & Partners](https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2RGaVB3N3dCM2dNam1Ka3Z0bllmckxTMUtLV19GSlUwUXpHTWE2SWVQajM3eGhpY2JrQUNBQnpUbmlma1I5TTJxYUJYUGYxWXFiTEJQcDJ2ejZkUzk3cWFlbHFyclhTX1l2Sy1uRXVEdEJFUl9yTElPR3JkUi1LaWRmYUg?oc=5)
-6. [The UAE’s bold gambit on Iran](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVE4yeGs4YmhvOW1uTklMLVVCd2ZRdlY5V0xtclpJQmtkd2hxaUNYWVdsRE5fTGd6YmNXQ1dmZUJKajU5YXIzcVNkX0c4cVhnRVc1c0hZR1ZDYmlEMTJyN1R0VVdMOVFDb1ZXNEhNVERWYmxLZlZvYUdYV3p6OUhpVWZRZEQ?oc=5)
-7. [Johnson & Johnson to pay $5.5bn to settle US talcum powder lawsuit](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTIxTVBpeS1td1kwalg1U1VMMFl1bXdYRXIyRm9hQk5xbGl2X1JwQ2hWc093Z0lZNEFRWnZyWmxkMmtqa3B4Q2E0dUJPZG5rcmJvTjlBeEk0TENEWERPX0V3MHFlalRGTERYSXVyRFBna0JYMTRWUjBJS2dGX3BvcndzU3A?oc=5)
-8. [CXMT’s blockbuster IPO delivers windfall for its home city](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFZfVTU5OHQxbjZWNzFjM1FrWWc5bnlORzFocHhPd0FtWmNkYUs0V0pDMjczM3YzUldwM1p6bXFpQktQTWVNSFJpZGZiZW5oWExLSVpmVVVzRXhoQ0JKZ1RIZUlXUlkzQzlWdnpURXdDaGtIcTEtRU8tbGhBV29PSWZVeWo?oc=5)
-9. [What doughnuts can tell us about the AI boom](https://news.google.com/rss/articles/CBMicEFVX3lxTFBmMlJMSExwMmlyQk1CNE5XaDhwTVM2NUhFaHBkWU9hNWFENTNoemp3RlJFOGZJV3NFeVB0M3JGaFVDeVpqTC1hNXdaTmxxV3pqWUY5VXNnTXNxVlVOWXFWSzFCNi1FSXhwamtRaC1sSHg?oc=5)
-10. [Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U?oc=5)
-
-## 🟠 CNBC (CNBC)
-
-1. [Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs](https://news.google.com/rss/articles/CBMidEFVX3lxTE44N0RXQ1dNenhKNVJoLXJSTmFBMll6WE1BQUg2RUFja2Rzby1oVTgwRHl3dEdMamRLSTFjeWtkajFibVdXREs0NlU5OU9yeWhkOFdVMUp6d0h3ZHJ4aHNKVXQ0bVlpNm8zNHhoNEdDUHRVSVFh0gF6QVVfeXFMTWMzRV9ybTg4cFVfOEVDSnhELVpua3k1SEphTHBkQkVrdWhFRC1neUFLOFBhekxicVpLVTE1ajZsTm5FTGFqbzZ0QmhHR2tGc0owWVVway1wRWdsaXhSQVRqQlpvYkdkRmxFbzJuQlY0OUtydkxCcE5vQWc?oc=5)
-2. [UPS beats earnings expectations, raises full-year guidance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBDX3g4bWFFaGZzUTFucjRtVk03TUNJaTROX3pBNktqOVYySGZENVBtTW5ndENHN1lWNnozcU1wdlZ4OVZ1X2NHZ3FEWUNMQlFFeFVLZnV2T3kzTU9qcXlpNHBOMjczSENrdXpWWHpR0gFzQVVfeXFMTkJ1WTcwLUI3Qm5QMEZxLXpJN1VkNVZCam8tSnl4bDlIdWVXVTFNYUQyTklTX1FXWHE4WU5KTllyUEZ1NmNhTWRGeXhFWFRiZXlsai04N2s0eEhJc1ZYLVIwLUZaWHVEQk5zQm8yUGZZWXNPYw?oc=5)
-3. [China’s reported chip breakthrough comes with some big caveats](https://news.google.com/rss/articles/CBMigwFBVV95cUxPd29CTXRwY0RhQVpUSkFudVNZTlk1UzFyZDlSYmNLcHBGNEV6TnowaWZDN1hPUUlmRU8tdGdPUWdfUTNlOTAtLV9LbjFQbjJ1dXIxYWxwTEpQQmQzVWd1SlRHOElFQWUzd0R6Sk9xRWpVVENYSzVJNWtUS3plNWcyUklxNNIBiAFBVV95cUxNLVU1ZjUyeW5VeWR0cGNocDd5aGVrVGZmNktzTDh3bWZOU1JRQUQtOVhPUm10ZEs2VzdFWmx2QkFEUW5fSUxGb1BDMndKQWF5NGJUdUJWYTZNS1hOdndvalJiblY4d1FfR2hJVDZsSk5paXY0cUhzRXd0a3NBWGtLRHdxNVBQX1Z0?oc=5)
-4. [Treasury yields edge lower ahead of Fed rates decision as oil prices tumble](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlBwZ19VMHoyUDY0M1V3b2g2elhYaUxtMlRfT0xhbWNuV2ZPbEg0QkVqQUxWb2lVQl9BUURLMDEwc19aRTZhLWxldmlQYWVMakpNWnJFdFF0UFZ1SGV4Z3ZYcnhac3FseDZJZV9EN2dncWd0QWg2VkRCelhFWHk4OUJlNjNZR3Q3SE1BVUNrdWxTTW0wT2UtdHRWZnd4U1NUSDJZN0xDQzh2NFd0UGE1bklB0gG3AUFVX3lxTE9md2htQnFwOUJERTRBNUJFalBVY3RPVGNWVnZsZzl5ZDZoSU01cFFVN0tsMmk5SjRiSDRLUVRlQkVLS2RMOEpWMk9TMFduTmxHdnVsU0lvbDZfLWhCb3hCTnplbHBLcmRKYWJtbDhvRDhrUWJoMXRKRlhfeVhUWjc2YkVvd0FfTDNEbTRfdHd3NkhoN1JRZlBXUGtNRXlnQjFaSTFmN2tpUFppOGdTUXo3ZFBFWnFpcw?oc=5)
-5. [Supreme Court approval hits record low as Republicans' support declines](https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1htd2k5SmxGcnVEQmFLTllXY3NHcjU2V3hVRUZBTzZ3NXl4Y056SDJVQ1l6NFNEbmxSRk41dEJjNGMyT0NUX2lUdkVkZ1Bzb3BVSXVnMERMR0RwNGhhcmhsNGt2RllNdFUyLUExbVFnVnlGNllyUEZ1c3Z6SW5DWlhEREtvSVVUOURwWThuWDZic0XSAZgBQVVfeXFMTktTdzN6QXBaMzFOdDhQVi00WXFFanM4MTAxM2NtanpPNFA2VUFteHBrUlR3ZUhHdmZSX2R4NFYyOUZZWVo0VVYxOG14dk92NFBLSlpyX05jbUEtdkVyZmNXaHBuMEYxSG9KZEN4RXh4NTA4cFNJVUp4R2J5SHhOdnZZbEkyalhWYWpvV1BIU0xfVlJqZUxaZHo?oc=5)
-6. [Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’](https://news.google.com/rss/articles/CBMibkFVX3lxTFBEN2Z3NkdhZ0daQnl5TlVhVUxMTHB6ZWZxX2IxdTNrSEhGSWFFTlZEV0JRSzRtWmRLQXhaTmk2RXVUTm4wVjRDcGFMYVpPV1NTSmJjM3JvTkFpdTFXaVlnOEVha05QR1gzNHczMmJn0gFzQVVfeXFMTktyRG5zU29RU0h3VTM2YnNhN1k1Snh3aGpZUVNtN1FES3pEa1ExOXdTYzRjcUo1ampwdk40SzZVMXd5anMzVUV0aHg3bFpobFVUaE9QdERDeS1wS25JaUtJQWstaDFMd0M2NjJuTHdJVlpRMA?oc=5)
-7. [CNBC Daily Open: Chipping away at the AI boom](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGVidTE3ZVl1RFd5c0t3TnZzVHQzaXlCaHFIU0ZpNkFqR0RacURpanFJUm5iay1XOVdoNHJZdDlYX3VvMzZ3WGswM0ZWc09rY0FRVncxZERMWHB3WkdKMGxDN1RJOG1ETmwtaWxiUVlkU3ZpVWxwenNoaWhFR04zLWNzRdIBiAFBVV95cUxNWTMtU3U4YWFJRC1FWW9QWlRrdDVfdFMxZDVic0JIZUI0ejhOdnlrR0J0c3dHNW9EUlRDX3pVUF9QYnU2QmlBSURyVURWcXVyLVNkRHFYdkpsMUlLX0doSXVOSkhYUl9XWEpFZW55NFFqUFNUUEVOd0RBNW15N1BCekxLX2YyNC0t?oc=5)
-8. [Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM3FtMFdJd0VGNko4bVI4cGlYMkNobjdaMFRjSzdSOTZxdExfXy00Q3JKMmhaNU9qNjFXV3pGMS02RDRlMVlxSUlpMUh3dWpvYzRWVWpKaGpqem1veXEwRjNxSGFQSmtUbUJ3SU0xUkdZX2lwTEtJZ2ZQM0JyWE5HNUx2TdIBiAFBVV95cUxPVWRiMFRyTHNqMlMzUGduazg0M2JJRXJPN0Rtd0o2Zl94TFVVeTlxOGZnZXExX2NvVlJBYV9CVExlTmhvcVVaTUhzb0F6SmlxT3FrdUpuRjBqdUhBQzhFeTQ1UWpGQzRYalMyTzEtWG5TWDluRlJPVElPaVFXV2Q5c3NrMXI2UFlz?oc=5)
-9. [Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTE5ReURiN3E4azk1Q0xhR1FzQmZpV3JCNmw4NnVvV21fUEw3b3lNRTV3XzlxUXNBRW9rMzluQU5DTFlYMm9QX3QxNjkyWHZuWDl5MGVrTVkwbFpVRVg3a3Y3YW1iSzByU29jYmRFMFhoY1hDRGVjdmV5NEM0dGVGSEZuVDFGWDM0VFozUmxpcnZ3Rm5zcW9nZHRLUmpZYk5IdlHSAacBQVVfeXFMTmk4b0Nkd25faFlwV3U3OVJheGxMSzdWNHFLSHQ3SktjRV9BamdvUTJSU3QtdFM0UUpUYWVDVUdfOW0xWVlwMEMtTmgzek9LTUdwNWFlOHlLQjdFN0VZVjZlbVZOQ0ZEbVViNFVLWVlSb01RbUxPeHVKeURPTHQ2QTY1TXdXSHdHWFA0d2ZRSDVRejhDQzNFenBaQ0E1ckIwNHRGdXpfRlk?oc=5)
-10. [CNBC Daily Open: Apple reclaims its crown, SpaceX returns to Earth](https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWZlZ2Zub2RIX0dPZ1pyY1ZRRmxvZTZkVW1EMm1hRkZxM2lIV2hKYThsTUZVV0R0bl9YM2FXSmkyQUZiM3RvQ3BQc011YWZwTTdBa2thcUpMYnJoUEMybl9GR1VpSEY4eW15TGY4MnM3V25KdFdTdWZ4bE0zZjhheNIBhgFBVV95cUxPRFVsTXBjSHJBMlFEa3Z3S2FobVhISEhaSHREXzRoWU16MHBKOGdsT3p1V2pzaFFoSWV4NGdvdlc2WWxJT0J3SHZ1aENsUi1lanpjUjJGR0g1UVJ3a1dOeTRIbTNHZUJpclhFRWNXTU1Sa0ZRMm9MWkpxUnRMQTNCRTBwOC10UQ?oc=5)
-
-## 🟣 南华早报 (South China Morning Post)
-
-1. [China team unearths world’s oldest amber, hidden in ancient Xinjiang coal seam](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU01UN0JBWnpZZ0tZTzgwQ1piWU1CcUNSUVdzLXprc3lnM0RkZ1h1cHkzUE9jLUFSNmFydEFYbldEZ3pqSjIzQzNzalFaQzJUVDlWN3VfbkxyR29odUFjbi1mVkhYMEpldjhsekg1c2VfdnotNThaZHVIRlVqR0tydnpfajBjTzVLMjBCZVE4WUpuZ2VzcDBRWTBZMWw4Xzl6VDdGYWJBSlBEQVduN2hfUDh6UDNCblNDaU5reVgybDJEVFpFS2h6ctIByAFBVV95cUxNVjJrMWl1TmYwU29lR1lwUlR2ZFZTUGU5VURXV3FwNXZPYVZlZlY2VlpvTldJQUJBd0cwWU84OGNPLUpta1dSQzE2ODk1dWs2UlN6dUdoT2JrVC1ZLTRRcm84SkRscWRRNjhhS3F5NUlNSnlPYk43SUE4LTZQV0hFZ2QxclVuX1MyMlp0aG1Tel8zM2dwOG9ubXdaWDlSdHVHd2Z5TlNXTW5vM1dCcmJmdVdSbFNVX3Z6SFVBZnpVRHNvVUN3RWlVMg?oc=5)
-2. [Brazil turns to China trade deal after Trump tariffs, as years of resistance end](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTThUOWFwMlY5WnFXTWVERnc5SDdxdDNMbnhBYW5rclUwMjBDTlloV0had2tyVFdQWUwxMzVPcndXTW13MVkxbTdZVE1qYmFuUG5kX18xeFFjeWFrWXJ5UFlHYjBlYkUyTGpfVVVMVVcwczZUbTZPT1AzREF1NlJ1alliNTA3SUpYV1FsRzdBcnNQLU9xLXpEOXFZcnlSTGQ4V1Z1MlRybGxOMFlBQmlDaHZLOGVWdkNCSF9Eb2swaXhxeFEtamxvadIByAFBVV95cUxObE5RQlMtTVdRX0tmQ3VhVWR5R0FTRFkzRnZycVQtbjZ4eW1zZjZSNENsV2RsbG5Qbi1jY1pVUGlMWk9YajNFNmlFS3k5YjNSN19tRGdYZlJQMWZpekJtM0pkUTVCR0hsTzZvdzRHak1MaUN3UnczRU96SFloQmI5dHkxTlhMbGQxTjlsR0RzaG9VVy14N1NGckNwYUhtRTgwUzlDMjRmTkJDaGlocXMxNWlYT2M2VXZubjgtLUI4VHlKcTVqUWN2Qw?oc=5)
-3. [US congressional group plans annual visits to China after trade trip](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjZ4MlMwUDVNNFNZcFk1dmhEdkZrdkZmR0ZROE5DdFNIblFFUG14dXVENVk3VWdUeWhUTmpmaGc3Y2xvN0kzNF9sSFFlLTZrVDFrWEFTejF1eU1QVXFHckpLWm1wM2xYblFHS0VVRzJITVZ5LTRLY25SQnBlRVRtNUdfUzgxNVk3MHVuMmNfY0hhRkRFQkhNemtaanIyM2k1cy1jXy1hazl2Mzhza0k4WWpySkw4cDBHZktsU3JtMWkyLTBPR2RrbjBvWdIBywFBVV95cUxPQUpmdkdmeE9FeWdLWDVxUEh4b2U1MVpORHJzRXJEMzdhR3FidEJobTlaS2RRb1FxTGlTTnlnRTUwRjdDWDV1dEJtdTlnX19sZUZHZTBJQW0tQmdmaU1jVEhaVVFFTmRkdjYxc0U0RGZfRnU0eC04ZTgyclVXYmVLYkgwRkZoQjVOSUlaQ2lhR3Q3WFM0eVdHYW0yYVp6Rkx3VTFCNFNfNjQ3S3k5Z0ZCcGZBaGtRekNEOWFNLUpTUlNrNkhzRWdPZThSMA?oc=5)
-4. [Trump, tariffs and ties with China at stake in Brazilian presidential race](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdG9HWHNTQl81YzZrMnc4WlZUUnk1em9tcEljVlowNGpEeXkxVktyWFBGUjgtYlcwNDUwbUNDNk1vSE4xdjlFTExvNU52UVJ0dFlTNHozaUR3NmtuWG4zR3VZRHRRbzZZUWllMFRiSWtESlBhNHBVVzRVXzJKRFpvbksxYndJR2ZXOWRXeTdqOGhEZmh1dWhob3BzUC1mNGJucHdKTFdaclJweW8wOGdWaGtVVUVZVzZrU0xMT9IBvAFBVV95cUxPeDQ5RTRncjJKRmoxNUw3ZDkwRGtpQUhzcW5oVlByNXRUVG05amQyb2xUX1pSWEhRZEszSzMydXMyMDUwTFo1aUZ2TXVqWVhPUVNETTNnRUVLMkI4MXRZb3NSUC1qVzFBUDlqUF9wUF9pQkU5dlpnd050c1A4My1hRFBwS3d4NnZaTHk4NUZZVDljQjYtQU5teldZc2RRVm5jeFg4dlA4bWMyeHc3TnVKSlV6ZzYwZVBxVzMzRQ?oc=5)
-5. [Injuries, collapsed buildings in major quake, Japan PM says](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXhTUHl0d3ViTk11VEg3c3dVNE9vVkVsQTBiMndGR3VDQWM3ZE5nWUxPSHFVa05Wb0luejdMSmNQV3JsZFBwc2w5RkR0dkNRZFd1Wk5pTXF3NEFfOGM4VDlQZmtGRFF3c1dibUw4QXNIX3NqWVJPdXJ2Zm5NdktCZEFOWmx6cFdHOXRNbHhrbFpVT3VNdkR4d2RfQ2wzQVFGZW9MNHVzR29ZMzhQNVZF0gGvAUFVX3lxTE9SUGhfT1ZXNVVhVGVfUEFyc3I1RzNzUWtnUUFKeDIyeDhpenVhdFExU29XZmNjRGw4QWJ6cTBpeUNuUF81SmEzSUlrUjRBZVlrMWpaczg2WnpDNGhiV3FZeklPNVBENUVobVRSSXo0Y2Nicld1T1FTaEhQdFQyQ0hhNGFSYWkwazFvdWl0ek1PZkhOSXkwdFlYTFB3clpMTWZkZ0lybVh4dGFvOXNPdU0?oc=5)
-6. [CXMT projected to further soar as it narrows gap with Samsung, Micron, SK Hynix](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0dIQlhpbGQ1bEtlSlRJQTM1NXRxS3dkSHZTODgwUUZVeWxUSHRCdTRUandCWWw0b1RIT25qR0R2aHNTNXA4NFJrdjUzanZ0WWY4UU5QcFk1UHlpZlZOVDhOempPVmFNcTJvcGRzM3FYaDNGbXpDQ2djc0lHYi00dk5rYndxazZpN2N6SkE2cVd1RHJ4YkdCdi1sLTVxU0xIOHllUVhGN0Uxc2x4VlpUcVhNNHNwREpmd2dVajFjTFJTOXVpbU9PdtIByAFBVV95cUxOeWd0aWl2eHo5LWZvNzk3NWhNbFZURmZHci1aeTlKeE94QzhwNC1idU9PV0JsMDFNbGxDUGc1bDlNb09Na19nTW1wRUw0WHVWUEtnUUNXQmdFdUJYX25rZGVLdkFFcWx6N2J0WjFkd2RlWkk3M2lOMlVqa3RtNXFjc0VidkhqSmFBVDlLNkhEVG1MdWdPY0lUS0RETHNTbWtwUnFGM3VJOEFhbndnLW8wNzIwUTBVZlhxRnBoNlgwSGtFTTZPSXkySA?oc=5)
-7. [How a displaced F1 race could be Malaysia’s ‘blessing in disguise’](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjdCWHBVcF9kNktuVEhMcG9HWnpaZWlaNzVqSnh3Q3JvSGJMM3ZOUmJnWnlRVENVQ0M2aktRV0plRlkwZzFoNHNzZlVhNzRVdTJNRjhyOFNGVGZ6TU9laGVvUldVMW9PSlNRUzA1UzE0Z09WR2dOZy1QUGRCdG1QOUxjcWZrMzdhRkFSV1lrWkhNSWNSdEswMlM3MEYzY09ELUF5eDkySFR1UWRMaGdYMzZmdEh1Z9IBtgFBVV95cUxPMU16NWxUajNYUDRnUGRrTzhmRVh4aHU0elFncnZVQlZmQXhJNkFYcmZSY1ktSXgwSjJVMklJaDRBN3prSW5MUXRUMklqTDJfUklHYUVfdWxvYW5mT0RJMDhsZGY0ZEFMYmIwVmFhYlZiYlNGTlBJRkxlV3FPR1Q4YjFSSUNMN05OUjJfbm1pd09FZEFuRXFtanRmZWRpYU0wYUpta0pjM0hFcTJIU20wQ0s2cUhHQQ?oc=5)
-8. [China tests first civilian drone that can fly 24 hours non-stop, fully loaded](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjlFSE5CUVdlTS1qX1hrS0Z6MnNLeHpSa0phMFhlalpibUdCcDl2UDNSLXBnbVpPUnNtT1o2bVA4cjZyZFEzam5NTjhRNi1TdHZBTGhWMVhRM3cyMEZXeXZVLWhOSDEtNDJESk1COTJ0cUNHWFRxLTRkX2pqY1MwbzVPUC02c212bkdSX3JUbjMzMy02M1J0NFQzcWpiLU1TOTVkUGFPd2ZKVjczZG9lVHZySUVpYVF3WUc4TzR0STZWSmxGWFHSAcYBQVVfeXFMTkpZXzUxMEJPZkJJZG9acXFHTVdBWFk1RFZWV1N1bDh6endLX3ZLb0RhRDh6RG11QzBKVHBmVldIVENCd0k0cVNvNGV4Z19NQnR0T0lQVlQtR1JIcFByd3A3YjZCdm5UQWw0UUFVME1xbnAtQW0zWFlNaVpPV2FKeUdsS1V5a2VxSnlyWHRRclRLZWtTU29OSXhlU1lTUnNkQ3RPYXJJeVBnQTJzSm5CUVFxTTMtZld0QXhlVWFtTWh0QmxxbnN3?oc=5)
-9. [As Musk loses US$130b, Chinese chip and AI founders’ fortunes rise](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2oyaXd1Rm9tVHNNQWRDbFNUVGFVZTZhTy14TVdOUkZtUHpLZ1diVmNTR1QwMXl6cnRXQjRoRjJpT3BmNUtCbzJBMVBBLXFqdjRISFAwMmE5SEZKRG15UnFibXhsUzJXYjBfVV92d3VPNW1zSjhPRVBISnNlTURkYzdPOWc4bXBvYnJ4aENrYW5qNWpjYTBTcnBHMnZqbUZJYncyQ3lxYm5TemZmRDdrVXhWMXkyUlZSaTZBQlJ2UlZCZUhuV1pPSS1fa19tbVJla04yTU9TVm_SAdgBQVVfeXFMT2JuQjRqVWprazJZaG9pN2d1MWtiWVlnbnZ0b2hWcnAtblU3UmFLcjl5OTJCWE5TUjFSRVVsSjRLa2JYOTctSXVWcHhuUmxxTkVyWGp4eUhMaEZxdURrR0p4TzdfbjFnUFlua3A4cUFqV1lOX1IzVTFZZFhRaDM5WXBLbHRZa1NGNUsyaktQTlQyLUUySlJHNDFlSjZyYzFwaHhCbDZYZk9KMEEtM1UtclFENGsxVDZ2SWlfUllpbDZDZVlmb2hqT0JmVFFzNUQ2SkFWTmNmdGdQ?oc=5)
-10. [Moonshot, DeepSeek and chips: a guide to Tencent’s growing AI empire](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2N4YUl1Zl9acjRvaV92bUtWMW1sVXl6OVZDNHRZSXBFZExPbEJNTjJ6by1HWTdTdWVCa2NFdm1wSHZQMU5tMFl0UWxqQndLM0dYUkMtYWp6SmZ5ZXZqb3lEbF9UeXk3MjAxcWtSMjZSX3JQRnBRRlFxcmZ5eGRMRTdqUW81M1ZxLXFxMGttUWhCSE9XbmM3alhvMG8xd2RRUTlkZm9xV1RCUmpia2w2d9IBsAFBVV95cUxNQ050aHBXMkJYVkdvcnhINmZYSS1vY2lJdnZVOEhLc2ZwUVItRzJuaEpGcy1tVEhxa0JNa0JOS1FDaThhdjZUSzYtX1FhUXplSERPTmVucXpnRFB3TlI4MDcyUmxNcWh0cDdQQW10NHlCSnJRZDg2RVItdDAxNThNSGlmelVpbFJlT0c5Tk42MDUzLUhuQ2cwTnhzaW95YU10bkU3NDNwekZpQkxkX3Vvaw?oc=5)
-
-## 📌 联合早报 (Zaobao)
-
-1. [江莉莉：AI时代，大学不能只服务人生第一阶段](https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZTVNYWU5TDFZTWJwMEtiSE5aVXpUQXQwS2FMS0NwVy15dzBwcGJaSjBuSS1iYlpzdU54WFRrVWhzVEwweG1JMkdaamNBUkozQ3h5UllIMnB2Zkxjckl3WmxMVE9SRTd5cVE4?oc=5)
-2. [王庆民：香港查封书店 国安与包容非单选题](https://news.google.com/rss/articles/CBMia0FVX3lxTE40N2pweFBsbmpNeFAzdmNMbnhDQWItTF9GUEJUVkpJaGRPSGZ5amNDaUFjLVVuSzRaTUE3Rl9DU2x2R2t3UjBhcUtoeFROZzltWEttbGk5eWFLMmZGbEZBZzMzM2s0bGdDRzJr?oc=5)
-3. [吉宝资金管理规模达1000亿元 今年新增135亿元](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnp0ZnZFemhKVE15ZEVQamhxcDB6YU1neXlqcFhZT2tJTE5zcUJLbFhsN2d3RllrZjFqTnZzb0NqSTVEVHpIZG1GdVU2djdVNmhMLXRIWVlvZmZvS3JCaHV1LUhydEdNbmxGZVdJUzA4amFFSkVQQlREYkFoLTlCNW56YjRKaGtCYm5QY0Y5OA?oc=5)
-4. [格里尔：新关税不会对经济造成新冲击](https://news.google.com/rss/articles/CBMiakFVX3lxTE9HajZjWV9DOUpTU2cwTzJhUk5LSC0zb3RfVi1TMGllaHpCazR3QURReDE1Umo1aHNnOHRKQk91aGRtNmR2WXFXRTM1dkZ5UkJ3WXBBT2lyZG5CdlpNbi1hbTJZMkxwY3NuOFE?oc=5)
-5. [图管局9月启动五年全国阅读运动 “每天打卡阅读15分钟”可获奖励](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vS21wR3NfSUhfMEJ3bVVHUWFKeWoxd0VxRFhKS2kwRHJncmVlcWpXRUszSlV5YlZIejRaV0RPMktqWWZlN2hlZW1YVDR3VFdzWUViYzRkSDRXMWtJQVdrMmc5czBwNFBQTUNURVYxUQ?oc=5)
-6. [不受在华销量欠佳影响 奔驰二季度营业利润上涨22%](https://news.google.com/rss/articles/CBMiakFVX3lxTFBudFY2U0EtZURQc3ZnUnVSeGNkdTNZQ1pVc1BkQUU5QnlUblFBLWlwbDYyOWdWdjY4d0tnRU1jYWR4WGFQNUdIemlqNVYyLVJ4OHRwckZHUUd2cTkxbS0tTXhqWGlOaXk0cXc?oc=5)
-7. [美国对产能问题发起301调查 中国商务部促回到协商解决问题](https://news.google.com/rss/articles/CBMiakFVX3lxTFBYYVJFSGk2SExxenpvb3JVRkR1WHM1amZnRDRaT0YwVUh3V2VFOTdVVk9IZmpMOVdRNWFYY2NUcXNkbHNENXdVMGtmMF94bHdXVlJCX2hHRWxCVTV2ZEh6UUxZRG5TZWM2cUE?oc=5)
-8. [河北衡水市调查公职人员被举报侵吞学校资产](https://news.google.com/rss/articles/CBMiakFVX3lxTFB5WHdsU0RZSFNHQk9PeWlManBKbGhDM2JuVWpYaTdWOGxyMnZoTUlNbW1xbVd1cW9keEJfcE5sU0ZQMjBYS0xkY3luUkdweXRHbDlrTm1OMHRVRHF4TEF6cEpYNnFRdkNiUFE?oc=5)
-9. [美国在台协会罕见发布台美海巡同框照片](https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeUd2N0pRU2pvY3RpTHJLek0xZG1vaUZuak9jSHV3U3JTbEJ6b2JBUS1rMnQ2UkJaRWhfZHRfYVFkUzNkcGNUUFFUaUwxWkFRV25jNmh0X09MakpfaFp1LWQycXVQeG9Kd1E?oc=5)
-10. [爱之病规划署：资金削减可能导致爱之病卷土重来](https://news.google.com/rss/articles/CBMiakFVX3lxTE9vdERrMTVlQlFEckw2SDZSYTJadXZUSy1aRDBOODFBdWNCYnhMRmh4QVBaM2xWNkhjcHU1NzhaWUZqbmN4MGlIQW9mZkFGVHBZYmwtRXJLbXMybTJTNmcwMzVhaVlHVVdNcVE?oc=5)
-
-## 📌 BBC (BBC)
-
-1. [French patrol boat appears to fire gunshots in the Channel during BBC interview](https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss)
-2. [Schools to offer technical subjects from age 14 in England, Burnham says](https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss)
-3. [Naga Munchetty to leave BBC Breakfast after 17 years](https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss)
-4. [Odyssey translator writes scathing review of Nolan film adaptation](https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss)
-5. [US walks out of UN Security Council meeting during France's remarks](https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss)
-6. [Fourth heatwave grips parts of UK with 35C forecast](https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss)
-7. [Zelensky to press Trump on air defences while in Washington](https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss)
-8. [The cocaine superhighway from Ecuador to Europe](https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss)
-9. [Badenoch calls for emergency legislation to stop early release scheme](https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&at_campaign=rss)
-10. [Is it safe to travel to France and Spain right now?](https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss)
-
-## 📌 纽约时报 (NYT)
-
-1. [参与镇压维吾尔人的前新疆警察：我也是受害者](https://cn.nytimes.com/china/20260728/china-uyghurs/)
-2. [Kimi K3技术细节公开，用户需获商业授权](https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/)
-3. [中国人工智能模型快速崛起，但企业如何赚钱？](https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/)
-4. [越南货船在南海争议海域沉没，中国参与救援](https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/)
-5. [长鑫存储上市首日股价飙升470%](https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/)
-6. [亚洲安全局势正经历一场历史性的转变](https://cn.nytimes.com/opinion/20260728/asia-military-security-china-allies/)
-7. [特朗普的伊朗困境：拥有压倒性的武力却进退维谷](https://cn.nytimes.com/world/20260727/trump-trapped-in-iran-war/)
-8. [你的聊天机器人有多了解你？试试这些提示词](https://cn.nytimes.com/technology/20260727/chatgpt-gemini-prompts-privacy/)
-9. [中国开源人工智能模型快速进步加剧硅谷分歧](https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/)
-10. [台湾测试如何应对中国海上围攻](https://cn.nytimes.com/asia-pacific/20260727/taiwan-china-ships-blockade/)
+> 来源：国内媒体
 
 ---
-*自动生成于 2026-07-28 12:03 北京时间*
+
+## 🔴 央视新闻 (CCTV)
+
+1. [日本熊本县附近发生7.1级地震 气象厅发布海啸预警](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%20%E6%B0%94%E8%B1%A1%E5%8E%85%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6)
+2. [景区突发山洪，如何避险？野外露营要注意→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%99%AF%E5%8C%BA%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%EF%BC%8C%E5%A6%82%E4%BD%95%E9%81%BF%E9%99%A9%EF%BC%9F%E9%87%8E%E5%A4%96%E9%9C%B2%E8%90%A5%E8%A6%81%E6%B3%A8%E6%84%8F%E2%86%92)
+3. [关于所谓“产能过剩”问题，中方阐明立场！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%85%B3%E4%BA%8E%E6%89%80%E8%B0%93%E2%80%9C%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E2%80%9D%E9%97%AE%E9%A2%98%EF%BC%8C%E4%B8%AD%E6%96%B9%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA%EF%BC%81)
+4. [习近平同斯洛伐克总统佩列格里尼会谈](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E4%BD%A9%E5%88%97%E6%A0%BC%E9%87%8C%E5%B0%BC%E4%BC%9A%E8%B0%88)
+5. [习近平对侨务工作作出重要指示](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E4%BE%A8%E5%8A%A1%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA)
+
+## 🟢 联合申报 (zaobao)
+
+1. [中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序](https://www.zaobao.com/news/china/story20260728-9433127)
+2. [下午察：量化砸盘成A股最大隐忧？](https://www.zaobao.com/news/china/story20260728-9434120)
+3. [中国公布查办“最忙五人组”相关违法案件罚款17万人民币](https://www.zaobao.com/news/china/story20260728-9434339)
+4. [中国外交部：同有关国家合作并非要拉拢对抗谁](https://www.zaobao.com/news/china/story20260728-9433133)
+5. [日本7.1级地震 赖清德：台湾已准备好提供协助](https://www.zaobao.com/news/china/story20260728-9433509)
+6. [李家超：与立法会首次对谈交流 强化行政与立法共识](https://www.zaobao.com/news/china/story20260728-9433064)
+7. [收贿1.44亿人民币 重庆政协原副主席段成刚一审判无期](https://www.zaobao.com/news/china/story20260728-9432952)
+8. [不受在华销量欠佳影响 奔驰二季度营业利润上涨22%](https://www.zaobao.com/news/china/story20260728-9432792)
+9. [日本熊本县7.1级地震 台积电疏散员工](https://www.zaobao.com/news/china/story20260728-9432590)
+10. [德国据报正评估中国经济弱点 应对潜在贸易争端](https://www.zaobao.com/news/china/story20260728-9432524)
+
+## 🔵 财新 (caixinl)
+
+> ⚠️ 本次未获取到文章
+
+## 🟡 华尔街见闻 (wallstreetcn-hot)
+
+> ⚠️ 本次未获取到文章
+
+## 🟣 财联社热门 (cls-hot)
+
+> ⚠️ 本次未获取到文章
+
+## 🟠 凤凰网 (phoenix)
+
+> ⚠️ 本次未获取到文章
+
+---
+*自动生成于 2026-07-28 13:27 北京时间*
