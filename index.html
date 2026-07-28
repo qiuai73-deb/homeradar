@@ -1,366 +1,173 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>国内新闻</title>
-    <style>
-        /* ========== CSS 变量（主题核心） ========== */
-        :root {
-            --bg-body: #f8f9fa;
-            --bg-card: #ffffff;
-            --bg-card-ai: #eef2ff;
-            --bg-time: #f1f5f9;
-            --bg-source: #e2e8f0;
-            --text-primary: #333333;
-            --text-title: #1e293b;
-            --text-secondary: #64748b;
-            --text-muted: #475569;
-            --text-light: #999999;
-            --text-ai: #1e1b4b;
-            --border-ai: #4f46e5;
-            --border-item: #eeeeee;
-            --link-color: #1e293b;
-            --link-hover: #4f46e5;
-            --shadow: 0 2px 8px rgba(0,0,0,0.05);
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日精选新闻 (AI 驱动)</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background: #f8f9fa; }
+h1 { font-size: 24px; color: #1a1a2e; margin: 20px 0 15px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }
+h2.section-title { font-size: 18px; color: #0969da; margin: 25px 0 15px; padding-bottom: 5px; border-bottom: 1px solid #d0d7de; }
+.news-card { background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+.news-title { font-size: 16px; font-weight: 600; margin-bottom: 6px; }
+.news-title a { color: #0969da; text-decoration: none; }
+.news-title a:hover { text-decoration: underline; }
+.news-source { font-size: 13px; color: #6e7781; font-weight: normal; margin-left: 6px; }
+.news-summary { font-size: 14px; color: #57606a; margin-top: 6px; word-break: break-word; }
+.ai-badge { display: inline-block; background: #ddf4ff; color: #0969da; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 4px; margin-bottom: 8px; }
 
-        /* ========== 暗色主题 ========== */
-        [data-theme="dark"] {
-            --bg-body: #0d1117;
-            --bg-card: #161b22;
-            --bg-card-ai: #1c2333;
-            --bg-time: #21262d;
-            --bg-source: #21262d;
-            --text-primary: #e6edf3;
-            --text-title: #f0f6fc;
-            --text-secondary: #8b949e;
-            --text-muted: #8b949e;
-            --text-light: #8b949e;
-            --text-ai: #c9d1d9;
-            --border-ai: #58a6ff;
-            --border-item: #30363d;
-            --link-color: #f0f6fc;
-            --link-hover: #58a6ff;
-            --shadow: 0 2px 8px rgba(0,0,0,0.5);
-        }
-
-        /* ========== 全局样式 ========== */
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            background: var(--bg-body);
-            color: var(--text-primary);
-            transition: background 0.3s, color 0.3s;
-        }
-
-        /* ========== 顶部栏（标题 + 切换开关） ========== */
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 12px;
-            margin-bottom: 8px;
-        }
-
-        .header h1 {
-            color: var(--text-title);
-            margin: 0;
-            font-size: 24px;
-        }
-
-        /* ========== 切换开关 ========== */
-        .theme-toggle {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 14px;
-            color: var(--text-secondary);
-            cursor: pointer;
-            user-select: none;
-        }
-
-        .theme-toggle input {
-            display: none;
-        }
-
-        .toggle-slider {
-            position: relative;
-            width: 48px;
-            height: 26px;
-            background: var(--bg-source);
-            border-radius: 13px;
-            transition: background 0.3s;
-            flex-shrink: 0;
-            border: 1px solid var(--border-item);
-        }
-
-        .toggle-slider::after {
-            content: "☀️";
-            position: absolute;
-            top: 2px;
-            left: 2px;
-            width: 20px;
-            height: 20px;
-            background: var(--bg-card);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 12px;
-            transition: transform 0.3s, background 0.3s;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.2);
-        }
-
-        [data-theme="dark"] .toggle-slider {
-            background: #3d3d5c;
-        }
-
-        [data-theme="dark"] .toggle-slider::after {
-            content: "🌙";
-            transform: translateX(22px);
-        }
-
-        /* ========== 卡片 ========== */
-        .card {
-            background: var(--bg-card);
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: var(--shadow);
-            transition: background 0.3s, box-shadow 0.3s;
-        }
-
-        .card h2 {
-            color: var(--text-title);
-            margin-top: 0;
-        }
-
-        .ai-summary {
-            background: var(--bg-card-ai);
-            border-left: 4px solid var(--border-ai);
-            transition: background 0.3s, border-color 0.3s;
-        }
-
-        .ai-summary h2 {
-            color: var(--border-ai);
-        }
-
-        .analysis-text {
-            line-height: 1.7;
-            font-size: 15px;
-            color: var(--text-ai);
-        }
-
-        .analysis-text p {
-            margin-bottom: 12px;
-        }
-        .analysis-text p:last-child {
-            margin-bottom: 0;
-        }
-
-        .news-item {
-            border-bottom: 1px solid var(--border-item);
-            padding: 12px 0;
-            transition: border-color 0.3s;
-        }
-        .news-item:last-child {
-            border-bottom: none;
-        }
-
-        .news-title {
-            text-decoration: none;
-            color: var(--link-color);
-            font-weight: bold;
-            font-size: 16px;
-            transition: color 0.3s;
-        }
-        .news-title:hover {
-            color: var(--link-hover);
-        }
-
-        .source-tag {
-            background: var(--bg-source);
-            font-size: 12px;
-            padding: 2px 6px;
-            border-radius: 4px;
-            margin-right: 8px;
-            color: var(--text-secondary);
-            transition: background 0.3s, color 0.3s;
-        }
-
-        .news-summary {
-            font-size: 14px;
-            color: var(--text-secondary);
-            margin: 6px 0 0 0;
-            line-height: 1.5;
-        }
-
-        #update-time {
-            color: var(--text-secondary);
-            font-size: 14px;
-            margin-bottom: 20px;
-            background: var(--bg-time);
-            padding: 6px 14px;
-            border-radius: 20px;
-            display: inline-block;
-            transition: background 0.3s, color 0.3s;
-        }
-
-        #update-time .label {
-            font-weight: normal;
-        }
-        #update-time .time {
-            font-weight: 600;
-            color: var(--text-title);
-        }
-
-        /* ========== 响应式 ========== */
-        @media (max-width: 600px) {
-            .header {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-            .header h1 {
-                font-size: 20px;
-            }
-        }
-    </style>
+@media(prefers-color-scheme:dark){
+  body { background: #0d1117; color: #c9d1d9; }
+  h1 { color: #f0f6fc; border-color: #30363d; }
+  h2.section-title { color: #58a6ff; border-color: #30363d; }
+  .news-card { background: #161b22; border-color: #30363d; }
+  .news-title a { color: #58a6ff; }
+  .news-source { color: #8b949e; }
+  .news-summary { color: #8b949e; }
+  .ai-badge { background: #033a16; color: #7ee787; }
+  .ai-card { background: #1c2333 !important; border-left-color: #818cf8 !important; }
+  .ai-card h2 { color: #a5b4fc !important; }
+  .ai-card div { color: #c7d2fe !important; }
+}
+</style>
 </head>
 <body>
-
-    <!-- ====== 顶部栏 ====== -->
-    <div class="header">
-        <h1>📰 国内新闻</h1>
-        <label class="theme-toggle">
-            <span id="theme-label">🌙 暗色</span>
-            <input type="checkbox" id="theme-checkbox">
-            <span class="toggle-slider"></span>
-        </label>
+  <h1>📰 每日新闻深度精选</h1>
+  
+  
+<div class="ai-card" style="background:#eef2ff; border-left:4px solid #4f46e5; padding:16px 20px; border-radius:8px; margin-bottom:24px;">
+    <h2 style="font-size:18px; color:#3730a3; margin:0 0 8px 0;">🤖 AI 财经情报深度研判</h2>
+    <div style="line-height:1.8; color:#1e1b4b; font-size:15px;">
+        <p>【核心主线】当前新闻聚焦于中国国内社会事件、自然灾害、反腐与人事变动，以及国际关系。国内方面，重庆山体崩塌、日本地震引发海啸预警等灾害事件受到关注；反腐领域，段成刚被判无期徒刑显示持续高压态势；国际层面，中国反驳产能过剩论、外交部强调合作非对抗，反映中美经贸摩擦背景下的立场。</p><p>【市场与政策信号】暑期档电影票房破60亿显示消费复苏；量化交易被指为A股隐忧，需关注监管动向；奔驰财报显示在华销量不佳但利润增长，反映全球市场分化。政策上，民政部前部长当选总工会副主席，体现人事调整；香港行政立法互动强化治理。</p><p>【关键风险提示】日本地震可能影响区域供应链；重庆山体崩塌警示地质灾害风险；量化交易监管不确定性或扰动A股。</p>
     </div>
+</div>
 
-    <div id="update-time">⏱️ <span class="label">更新时间：</span><span class="time">加载中...</span></div>
 
-    <!-- 1. AI 研判总览区域 -->
-    <div class="card ai-summary" id="ai-card" style="display: none;">
-        <h2>🤖 国内新闻</h2>
-        <div class="analysis-text" id="ai-analysis"></div>
-    </div>
+  <h2 class="section-title">🚨 国计民生：对世界最重要的 10 条新闻</h2>
+  
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%20%E6%B0%94%E8%B1%A1%E5%8E%85%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6" target="_blank">日本熊本县附近发生7.1级地震 气象厅发布海啸预警</a> <span class="news-source">[央视新闻]</span>
+            </div>
+            <div class="news-summary">日本熊本县7.1级地震，海啸预警发布</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9434901" target="_blank">重庆彭水山体崩塌 23日至今搜出30死者</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">重庆山体崩塌已致30人死亡</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%AE%B5%E6%88%90%E5%88%9A%EF%BC%8C%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91%EF%BC%81" target="_blank">段成刚，无期徒刑！</a> <span class="news-source">[央视新闻]</span>
+            </div>
+            <div class="news-summary">重庆政协原副主席段成刚受贿被判无期</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9434524" target="_blank">中国民政部前部长陆治原当选中华全国总工会副主席</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">陆治原当选全国总工会副主席</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9433127" target="_blank">中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">中国反驳产能过剩论，警告保护主义</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9433133" target="_blank">中国外交部：同有关国家合作并非要拉拢对抗谁</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">外交部强调合作非对抗</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9433509" target="_blank">日本7.1级地震 赖清德：台湾已准备好提供协助</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">赖清德就日本地震表示愿提供协助</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9433064" target="_blank">李家超：与立法会首次对谈交流 强化行政与立法共识</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">李家超与立法会对谈强化共识</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%BA%BA%E6%B0%B4%E8%A2%AB%E6%95%91%EF%BC%8C%E6%8B%89%E6%A8%AA%E5%B9%85%E5%AF%BB%E6%89%BE%E6%81%A9%E4%BA%BA%EF%BC%81" target="_blank">一家三口溺水被救，拉横幅寻找恩人！</a> <span class="news-source">[央视新闻]</span>
+            </div>
+            <div class="news-summary">一家三口溺水被救，拉横幅寻恩人</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9434339" target="_blank">中国公布查办“最忙五人组”相关违法案件罚款17万人民币</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">查办“最忙五人组”违法案件罚款17万</div>
+        </div>
+        
 
-    <!-- 2. 重磅新闻 -->
-    <div class="card">
-        <h2>🔥 核心重磅新闻</h2>
-        <div id="important-news">读取中...</div>
-    </div>
-
-    <!-- 3. 兴趣/产业新闻 -->
-    <div class="card">
-        <h2>💡 产业与市场关注</h2>
-        <div id="interest-news">读取中...</div>
-    </div>
-
-    <script>
-        // ========== 主题切换逻辑 ==========
-        (function initTheme() {
-            const checkbox = document.getElementById('theme-checkbox');
-            const label = document.getElementById('theme-label');
-
-            // 从 localStorage 读取偏好
-            const savedTheme = localStorage.getItem('theme') || 'light';
-            const isDark = savedTheme === 'dark';
-
-            // 应用主题
-            document.documentElement.setAttribute('data-theme', savedTheme);
-            checkbox.checked = isDark;
-            label.textContent = isDark ? '☀️ 亮色' : '🌙 暗色';
-
-            // 监听切换事件
-            checkbox.addEventListener('change', function() {
-                const newTheme = this.checked ? 'dark' : 'light';
-                document.documentElement.setAttribute('data-theme', newTheme);
-                localStorage.setItem('theme', newTheme);
-                label.textContent = newTheme === 'dark' ? '☀️ 亮色' : '🌙 暗色';
-            });
-        })();
-
-        // ========== 新闻加载逻辑（不变） ==========
-        async function loadNews() {
-            const updateTimeEl = document.getElementById('update-time');
-            const timeSpan = updateTimeEl.querySelector('.time');
-
-            try {
-                const res = await fetch(`./news.json?t=${Date.now()}`);
-                if (!res.ok) throw new Error(`HTTP 错误! 状态码: ${res.status}`);
-                
-                const data = await res.json();
-                console.log("成功获取 JSON 数据:", data);
-
-                if (data.updated) {
-                    const updateDate = new Date(data.updated);
-                    const beijingTime = updateDate.toLocaleString('zh-CN', { 
-                        timeZone: 'Asia/Shanghai',
-                        year: 'numeric',
-                        month: '2-digit',
-                        day: '2-digit',
-                        hour: '2-digit',
-                        minute: '2-digit',
-                        second: '2-digit',
-                        hour12: false
-                    });
-                    timeSpan.textContent = beijingTime;
-                } else {
-                    timeSpan.textContent = '未知';
-                }
-
-                const aiCard = document.getElementById('ai-card');
-                const aiAnalysis = document.getElementById('ai-analysis');
-
-                if (data.summary_analysis && typeof data.summary_analysis === 'string' && data.summary_analysis.trim() !== "") {
-                    aiCard.style.display = 'block';
-                    let text = data.summary_analysis.trim();
-                    let formattedText = text
-                        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                        .replace(/\n\n/g, '</p><p>')
-                        .replace(/\n/g, '<br>');
-                    aiAnalysis.innerHTML = `<p>${formattedText}</p>`;
-                } else {
-                    console.warn("未检测到有效 summary_analysis 字段，隐藏研判卡片");
-                    aiCard.style.display = 'none';
-                }
-
-                renderList(data.important, 'important-news');
-                renderList(data.interest, 'interest-news');
-
-            } catch (err) {
-                console.error("加载 news.json 失败:", err);
-                timeSpan.textContent = '❌ 加载失败';
-                document.getElementById('important-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据，请检查 news.json 文件路径</p>';
-                document.getElementById('interest-news').innerHTML = '<p style="color:#ef4444;">未获取到新闻数据</p>';
-            }
-        }
-
-        function renderList(items, containerId) {
-            const container = document.getElementById(containerId);
-            if (!items || !Array.isArray(items) || items.length === 0) {
-                container.innerHTML = '<p style="color:var(--text-secondary);">暂无相关新闻</p>';
-                return;
-            }
-
-            container.innerHTML = items.map(item => `
-                <div class="news-item">
-                    <div>
-                        <span class="source-tag">${item.source || '财经'}</span>
-                        <a class="news-title" href="${item.url || '#'}" target="_blank" rel="noopener noreferrer">${item.title || '无标题'}</a>
-                    </div>
-                    ${item.summary ? `<p class="news-summary">${item.summary}</p>` : ''}
-                </div>
-            `).join('');
-        }
-
-        document.addEventListener("DOMContentLoaded", loadNews);
-    </script>
+  <h2 class="section-title">🎯 猜你喜欢：值得阅读的 10 条个性化新闻</h2>
+  
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF%EF%BC%818%E6%9C%88%E6%96%B0%E7%89%87%EF%BC%8C%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB%E2%86%92" target="_blank">暑期档电影总票房破60亿！8月新片，先睹为快→</a> <span class="news-source">[央视新闻]</span>
+            </div>
+            <div class="news-summary">暑期档票房破60亿，消费复苏信号</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9434120" target="_blank">下午察：量化砸盘成A股最大隐忧？</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">量化交易被指为A股隐忧</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9432792" target="_blank">不受在华销量欠佳影响 奔驰二季度营业利润上涨22%</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">奔驰在华销量不佳但利润增长22%</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%AD%94%E5%B9%BB%E6%B3%A1%E6%B2%AB%EF%BC%8C%E8%AE%A9%E5%B0%8F%E6%92%92%E7%9B%B4%E5%91%BC%EF%BC%9A%E2%80%9C%E6%98%AF%E6%A3%89%E8%8A%B1%E5%90%A7%EF%BC%9F%E2%80%9D" target="_blank">究竟是什么魔幻泡沫，让小撒直呼：“是棉花吧？”</a> <span class="news-source">[央视新闻]</span>
+            </div>
+            <div class="news-summary">央视节目展示魔幻泡沫，趣味科普</div>
+        </div>
+        
+        <div class="news-card">
+            
+            <div class="news-title">
+                <a href="https://www.zaobao.com/news/china/story20260728-9432952" target="_blank">收贿1.44亿人民币 重庆政协原副主席段成刚一审判无期</a> <span class="news-source">[联合早报]</span>
+            </div>
+            <div class="news-summary">段成刚受贿1.44亿被判无期</div>
+        </div>
+        
 </body>
 </html>
