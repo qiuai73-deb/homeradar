@@ -1,0 +1,193 @@
+name: 每日新闻抓取
+
+on:
+  schedule:
+    # 每 4 小时自动更新一次
+    - cron: "0 22,1,4,7,10,14 * * *"
+  workflow_dispatch:  # 允许手动触发测试
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install feedparser openai
+
+      - name: 抓取新闻并进行 AI 分析
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # 如果使用第三方模型（如 DeepSeek），取消下一行的注释并改成对应的 URL：
+          # OPENAI_BASE_URL: "https://api.deepseek.com"
+        run: python fetch_news.py
+
+      - name: 提交更新
+        run: |
+          git config --global user.name "News Bot"
+          git config --global user.email "news-bot@github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "没有新内容，跳过提交"
+          else
+            git commit -m "📰 $(date -u '+%Y-%m-%d %H:%M') 新闻更新"
+            git push
+            echo "✅ 已推送更新"
+          fi
+
+      # ===========================================================
+      # 📄 生成网页并部署到 GitHub Pages
+      # ===========================================================
+      - name: 检查新闻文件
+        run: |
+          if [ ! -f news.json ]; then
+            echo "❌ 未找到 news.json，跳过部署"
+            exit 1
+          fi
+          echo "✅ news.json 已生成"
+
+      - name: 生成网页
+        run: |
+          mkdir -p pages-dist
+                    python3 << 'PYEOF'
+          import json
+          import re
+
+          try:
+              with open('news.json', 'r', encoding='utf-8') as f:
+                  news_data = json.load(f)
+          except Exception as e:
+              print(f"❌ 读取 news.json 失败: {e}")
+              news_data = {"important": [], "interest": [], "summary_analysis": ""}
+
+          important_list = news_data.get("important", [])
+          interest_list = news_data.get("interest", [])
+          summary_analysis = news_data.get("summary_analysis", "")
+
+          # ========== 处理 AI 全局研判摘要 ==========
+          summary_html = ""
+          if summary_analysis and summary_analysis.strip():
+              text = summary_analysis.strip()
+              # 处理 Markdown 加粗 ** **
+              text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+              # 处理段落和换行
+              paragraphs = text.split('\n\n')
+              formatted_paragraphs = []
+              for p in paragraphs:
+                  p = p.replace('\n', '<br>')
+                  formatted_paragraphs.append(p)
+              formatted_text = '</p><p>'.join(formatted_paragraphs)
+              
+              summary_html = f'''
+          <div class="ai-card" style="background:#eef2ff; border-left:4px solid #4f46e5; padding:16px 20px; border-radius:8px; margin-bottom:24px;">
+              <h2 style="font-size:18px; color:#3730a3; margin:0 0 8px 0;">🤖 AI 财经情报深度研判</h2>
+              <div style="line-height:1.8; color:#1e1b4b; font-size:15px;">
+                  <p>{formatted_text}</p>
+              </div>
+          </div>
+          '''
+          else:
+              summary_html = ""
+
+          # ========== 渲染新闻卡片 ==========
+          def render_cards(items):
+              if not items:
+                  return '<p style="color:#888;">暂无推荐新闻</p>'
+              
+              html_cards = ""
+              for item in items:
+                  title = item.get('title', '无标题')
+                  url = item.get('url') or item.get('link') or '#'
+                  source = item.get('source') or item.get('source_name') or ''
+                  summary = item.get('summary') or '暂无详细摘要内容'
+                  reason = item.get('ai_reason', '')
+                  
+                  badge = f'<div class="ai-badge">💡 AI 推荐理由：{reason}</div>' if reason else ''
+                  source_html = f'<span class="news-source">[{source}]</span>' if source else ''
+                  
+                  html_cards += f"""
+                  <div class="news-card">
+                      {badge}
+                      <div class="news-title">
+                          <a href="{url}" target="_blank">{title}</a> {source_html}
+                      </div>
+                      <div class="news-summary">{summary}</div>
+                  </div>
+                  """
+              return html_cards
+
+          important_html = render_cards(important_list)
+          interest_html = render_cards(interest_list)
+
+          # ========== 组装完整 HTML ==========
+          html_content = f"""<!DOCTYPE html>
+          <html lang="zh-CN">
+          <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>每日精选新闻 (AI 驱动)</title>
+          <style>
+          * {{ margin:0; padding:0; box-sizing:border-box; }}
+          body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background: #f8f9fa; }}
+          h1 {{ font-size: 24px; color: #1a1a2e; margin: 20px 0 15px; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }}
+          h2.section-title {{ font-size: 18px; color: #0969da; margin: 25px 0 15px; padding-bottom: 5px; border-bottom: 1px solid #d0d7de; }}
+          .news-card {{ background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }}
+          .news-title {{ font-size: 16px; font-weight: 600; margin-bottom: 6px; }}
+          .news-title a {{ color: #0969da; text-decoration: none; }}
+          .news-title a:hover {{ text-decoration: underline; }}
+          .news-source {{ font-size: 13px; color: #6e7781; font-weight: normal; margin-left: 6px; }}
+          .news-summary {{ font-size: 14px; color: #57606a; margin-top: 6px; word-break: break-word; }}
+          .ai-badge {{ display: inline-block; background: #ddf4ff; color: #0969da; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 4px; margin-bottom: 8px; }}
+          
+          @media(prefers-color-scheme:dark){{
+            body {{ background: #0d1117; color: #c9d1d9; }}
+            h1 {{ color: #f0f6fc; border-color: #30363d; }}
+            h2.section-title {{ color: #58a6ff; border-color: #30363d; }}
+            .news-card {{ background: #161b22; border-color: #30363d; }}
+            .news-title a {{ color: #58a6ff; }}
+            .news-source {{ color: #8b949e; }}
+            .news-summary {{ color: #8b949e; }}
+            .ai-badge {{ background: #033a16; color: #7ee787; }}
+            .ai-card {{ background: #1c2333 !important; border-left-color: #818cf8 !important; }}
+            .ai-card h2 {{ color: #a5b4fc !important; }}
+            .ai-card div {{ color: #c7d2fe !important; }}
+          }}
+          </style>
+          </head>
+          <body>
+            <h1>📰 每日新闻深度精选</h1>
+            
+            {summary_html}
+
+            <h2 class="section-title">🚨 国计民生：对世界最重要的 10 条新闻</h2>
+            {important_html}
+
+            <h2 class="section-title">🎯 猜你喜欢：值得阅读的 10 条个性化新闻</h2>
+            {interest_html}
+          </body>
+          </html>"""
+
+          with open('pages-dist/index.html', 'w', encoding='utf-8') as f:
+              f.write(html_content)
+          print('✅ 包含 AI 全局研判的 index.html 已生成')
+          PYEOF
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          keep_files: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: '🚀 Deploy news to GitHub Pages'
