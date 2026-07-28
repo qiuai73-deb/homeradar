@@ -1,129 +1,93 @@
 {
-  "updated": "2026-07-28T14:30:59.185761+00:00",
-  "updated_beijing": "2026-07-28 14:30 北京时间",
-  "summary_analysis": "【核心主线】当前全球关注焦点包括日本熊本县7.1级地震引发的海啸预警及对半导体产业的影响，中国反驳“产能过剩”论并强调保护主义危害，以及中国国内反腐案件（段成刚无期徒刑）和暑期档票房突破60亿等经济文化动态。\n\n【市场与政策信号】日本地震可能导致半导体供应链短期扰动，台积电疏散员工显示风险管控；中国外交部强调国际合作非对抗性，德国评估中国经济弱点预示潜在贸易摩擦；量化交易对A股的影响成为市场隐忧。\n\n【关键风险提示】日本地震后续影响、中欧贸易争端升级、A股量化交易监管风险。",
+  "updated": "2026-07-28T14:50:08.830338+00:00",
+  "updated_beijing": "2026-07-28 14:50 北京时间",
+  "summary_analysis": "【核心主线】当前新闻显示，中国社会聚焦于正能量事件（如救人寻恩）、反腐成果（段成刚案）以及文化消费复苏（暑期档票房破60亿）。国际方面，日本熊本县7.1级地震引发海啸预警，台积电疏散员工，台湾地区表示愿提供协助，凸显区域灾害应对与合作。同时，中国与多国经贸摩擦升温，德国评估中国经济弱点，中国反驳“产能过剩”论，强调保护主义危害。\n\n【市场与政策信号】中国持续高压反腐，段成刚被判无期徒刑释放强烈信号。A股市场量化交易引发担忧，可能影响监管政策。汽车行业奔驰在华销量不佳但全球利润增长，显示跨国企业韧性。科技领域台积电因地震疏散，凸显供应链风险。\n\n【关键风险提示】日本地震可能影响半导体供应链，台积电疏散需关注后续影响。中欧贸易争端风险上升，德国评估中国经济弱点或预示更严格审查。量化交易对A股稳定性构成潜在威胁。",
   "important": [
     {
       "title": "日本熊本县附近发生7.1级地震 气象厅发布海啸预警",
       "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%20%E6%B0%94%E8%B1%A1%E5%8E%85%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
-      "summary": "日本熊本县7.1级地震，海啸预警发布。",
+      "summary": "日本熊本县7.1级地震，海啸预警发布",
+      "source": "央视新闻"
+    },
+    {
+      "title": "段成刚，无期徒刑！",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%AE%B5%E6%88%90%E5%88%9A%EF%BC%8C%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91%EF%BC%81",
+      "summary": "重庆政协原副主席段成刚受贿1.44亿被判无期",
       "source": "央视新闻"
     },
     {
       "title": "中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序",
       "url": "https://www.zaobao.com/news/china/story20260728-9433127",
-      "summary": "中国反驳产能过剩论，警告保护主义危害。",
+      "summary": "中国反驳产能过剩论，警告保护主义危害",
       "source": "联合早报"
     },
     {
       "title": "日本熊本县7.1级地震 台积电疏散员工",
       "url": "https://www.zaobao.com/news/china/story20260728-9432590",
-      "summary": "台积电因地震疏散员工，影响半导体生产。",
-      "source": "联合早报"
-    },
-    {
-      "title": "德国据报正评估中国经济弱点 应对潜在贸易争端",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432524",
-      "summary": "德国评估中国经济弱点，为贸易争端做准备。",
-      "source": "联合早报"
-    },
-    {
-      "title": "下午察：量化砸盘成A股最大隐忧？",
-      "url": "https://www.zaobao.com/news/china/story20260728-9434120",
-      "summary": "量化交易被指为A股下跌主因。",
-      "source": "联合早报"
-    },
-    {
-      "title": "收贿1.44亿人民币 重庆政协原副主席段成刚一审判无期",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432952",
-      "summary": "段成刚受贿1.44亿被判无期徒刑。",
-      "source": "联合早报"
-    },
-    {
-      "title": "暑期档电影总票房破60亿！8月新片，先睹为快→",
-      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF%EF%BC%818%E6%9C%88%E6%96%B0%E7%89%87%EF%BC%8C%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB%E2%86%92",
-      "summary": "暑期档票房破60亿，8月新片展望。",
-      "source": "央视新闻"
-    },
-    {
-      "title": "不受在华销量欠佳影响 奔驰二季度营业利润上涨22%",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432792",
-      "summary": "奔驰二季度利润涨22%，未受中国销量影响。",
+      "summary": "台积电因日本地震疏散员工，供应链受关注",
       "source": "联合早报"
     },
     {
       "title": "日本7.1级地震 赖清德：台湾已准备好提供协助",
       "url": "https://www.zaobao.com/news/china/story20260728-9433509",
-      "summary": "赖清德就日本地震表示愿提供协助。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国外交部：同有关国家合作并非要拉拢对抗谁",
-      "url": "https://www.zaobao.com/news/china/story20260728-9433133",
-      "summary": "外交部称合作不针对第三方。",
-      "source": "联合早报"
-    }
-  ],
-  "interest": [
-    {
-      "title": "中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序",
-      "url": "https://www.zaobao.com/news/china/story20260728-9433127",
-      "summary": "中国反驳产能过剩论，警告保护主义。",
-      "source": "联合早报"
-    },
-    {
-      "title": "下午察：量化砸盘成A股最大隐忧？",
-      "url": "https://www.zaobao.com/news/china/story20260728-9434120",
-      "summary": "量化交易引发A股下跌担忧。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国公布查办“最忙五人组”相关违法案件罚款17万人民币",
-      "url": "https://www.zaobao.com/news/china/story20260728-9434339",
-      "summary": "中国查处“最忙五人组”案件罚款17万。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国外交部：同有关国家合作并非要拉拢对抗谁",
-      "url": "https://www.zaobao.com/news/china/story20260728-9433133",
-      "summary": "外交部强调合作非对抗。",
-      "source": "联合早报"
-    },
-    {
-      "title": "日本熊本县7.1级地震 台积电疏散员工",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432590",
-      "summary": "台积电因地震疏散员工。",
+      "summary": "赖清德就日本地震表示台湾愿提供协助",
       "source": "联合早报"
     },
     {
       "title": "德国据报正评估中国经济弱点 应对潜在贸易争端",
       "url": "https://www.zaobao.com/news/china/story20260728-9432524",
-      "summary": "德国评估中国经济弱点。",
-      "source": "联合早报"
-    },
-    {
-      "title": "收贿1.44亿人民币 重庆政协原副主席段成刚一审判无期",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432952",
-      "summary": "段成刚受贿被判无期。",
-      "source": "联合早报"
-    },
-    {
-      "title": "不受在华销量欠佳影响 奔驰二季度营业利润上涨22%",
-      "url": "https://www.zaobao.com/news/china/story20260728-9432792",
-      "summary": "奔驰利润增长未受中国影响。",
+      "summary": "德国评估中国经济弱点，贸易争端风险上升",
       "source": "联合早报"
     },
     {
       "title": "李家超：与立法会首次对谈交流 强化行政与立法共识",
       "url": "https://www.zaobao.com/news/china/story20260728-9433064",
-      "summary": "李家超与立法会对谈强化共识。",
+      "summary": "李家超与立法会对谈，强化行政立法共识",
       "source": "联合早报"
+    },
+    {
+      "title": "中国外交部：同有关国家合作并非要拉拢对抗谁",
+      "url": "https://www.zaobao.com/news/china/story20260728-9433133",
+      "summary": "外交部称国际合作不针对第三方",
+      "source": "联合早报"
+    },
+    {
+      "title": "一家三口溺水被救，拉横幅寻找恩人！",
+      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%BA%BA%E6%B0%B4%E8%A2%AB%E6%95%91%EF%BC%8C%E6%8B%89%E6%A8%AA%E5%B9%85%E5%AF%BB%E6%89%BE%E6%81%A9%E4%BA%BA%EF%BC%81",
+      "summary": "一家三口获救后拉横幅寻恩人",
+      "source": "央视新闻"
     },
     {
       "title": "暑期档电影总票房破60亿！8月新片，先睹为快→",
       "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF%EF%BC%818%E6%9C%88%E6%96%B0%E7%89%87%EF%BC%8C%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB%E2%86%92",
-      "summary": "暑期档票房破60亿。",
+      "summary": "暑期档票房破60亿，8月新片预告",
       "source": "央视新闻"
+    }
+  ],
+  "interest": [
+    {
+      "title": "下午察：量化砸盘成A股最大隐忧？",
+      "url": "https://www.zaobao.com/news/china/story20260728-9434120",
+      "summary": "量化交易被指为A股最大隐忧",
+      "source": "联合早报"
+    },
+    {
+      "title": "不受在华销量欠佳影响 奔驰二季度营业利润上涨22%",
+      "url": "https://www.zaobao.com/news/china/story20260728-9432792",
+      "summary": "奔驰在华销量不佳但全球利润涨22%",
+      "source": "联合早报"
+    },
+    {
+      "title": "中国公布查办“最忙五人组”相关违法案件罚款17万人民币",
+      "url": "https://www.zaobao.com/news/china/story20260728-9434339",
+      "summary": "查办“最忙五人组”违法案件罚款17万",
+      "source": "联合早报"
+    },
+    {
+      "title": "收贿1.44亿人民币 重庆政协原副主席段成刚一审判无期",
+      "url": "https://www.zaobao.com/news/china/story20260728-9432952",
+      "summary": "段成刚受贿1.44亿被判无期徒刑",
+      "source": "联合早报"
     }
   ],
   "sources": {
