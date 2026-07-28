@@ -1,5 +1,5 @@
 # 📰 国内新闻摘要
-**更新时间：2026-07-28 13:27 北京时间**
+**更新时间：2026-07-28 14:03 北京时间**
 
 > 来源：国内媒体
 
@@ -7,11 +7,11 @@
 
 ## 🔴 央视新闻 (CCTV)
 
-1. [日本熊本县附近发生7.1级地震 气象厅发布海啸预警](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%20%E6%B0%94%E8%B1%A1%E5%8E%85%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6)
-2. [景区突发山洪，如何避险？野外露营要注意→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%99%AF%E5%8C%BA%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%EF%BC%8C%E5%A6%82%E4%BD%95%E9%81%BF%E9%99%A9%EF%BC%9F%E9%87%8E%E5%A4%96%E9%9C%B2%E8%90%A5%E8%A6%81%E6%B3%A8%E6%84%8F%E2%86%92)
-3. [关于所谓“产能过剩”问题，中方阐明立场！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%85%B3%E4%BA%8E%E6%89%80%E8%B0%93%E2%80%9C%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E2%80%9D%E9%97%AE%E9%A2%98%EF%BC%8C%E4%B8%AD%E6%96%B9%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA%EF%BC%81)
-4. [习近平同斯洛伐克总统佩列格里尼会谈](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E4%BD%A9%E5%88%97%E6%A0%BC%E9%87%8C%E5%B0%BC%E4%BC%9A%E8%B0%88)
-5. [习近平对侨务工作作出重要指示](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E4%BE%A8%E5%8A%A1%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA)
+1. [一家三口溺水被救，拉横幅寻找恩人！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%BA%BA%E6%B0%B4%E8%A2%AB%E6%95%91%EF%BC%8C%E6%8B%89%E6%A8%AA%E5%B9%85%E5%AF%BB%E6%89%BE%E6%81%A9%E4%BA%BA%EF%BC%81)
+2. [究竟是什么魔幻泡沫，让小撒直呼：“是棉花吧？”](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E9%AD%94%E5%B9%BB%E6%B3%A1%E6%B2%AB%EF%BC%8C%E8%AE%A9%E5%B0%8F%E6%92%92%E7%9B%B4%E5%91%BC%EF%BC%9A%E2%80%9C%E6%98%AF%E6%A3%89%E8%8A%B1%E5%90%A7%EF%BC%9F%E2%80%9D)
+3. [段成刚，无期徒刑！](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%AE%B5%E6%88%90%E5%88%9A%EF%BC%8C%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91%EF%BC%81)
+4. [暑期档电影总票房破60亿！8月新片，先睹为快→](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF%EF%BC%818%E6%9C%88%E6%96%B0%E7%89%87%EF%BC%8C%E5%85%88%E7%9D%B9%E4%B8%BA%E5%BF%AB%E2%86%92)
+5. [日本熊本县附近发生7.1级地震 气象厅发布海啸预警](http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%20%E6%B0%94%E8%B1%A1%E5%8E%85%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6)
 
 ## 🟢 联合申报 (zaobao)
 
@@ -43,4 +43,4 @@
 > ⚠️ 本次未获取到文章
 
 ---
-*自动生成于 2026-07-28 13:27 北京时间*
+*自动生成于 2026-07-28 14:03 北京时间*
