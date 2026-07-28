@@ -1,75 +1,112 @@
 import os
 import json
 import feedparser
+import requests  # 👈 新增：用于抓取普通网页 HTML
+from bs4 import BeautifulSoup  # 👈 新增：用于解析普通网页内容
 from ai_analyzer import analyze_news
 """
 每日抓取国内新闻
-通过 RSS 聚合（从 GitHub Actions 美国服务器运行）
+通过 RSS 聚合与网页解析（从 GitHub Actions 美国服务器运行）
 """
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 
-# ========== 新闻源配置 ==========
-# 1. 专门走 RSS 抓取通道的网站
-SOURCES_RSS = {
+# ========== 新闻源统一配置 ==========
+# 将两者合并为一个大字典，但通过 type 字段来区分抓取逻辑，并统一使用 'url' 键
+SOURCES = {
+    # --- RSS 抓取通道 ---
     "CCTV": {
         "name": "CCTV",
         "name_cn": "央视新闻",
-        "rss": "https://plink.anyfeeder.com/weixin/cctvnewscenter",
+        "url": "https://plink.anyfeeder.com/weixin/cctvnewscenter",
+        "type": "rss"
     },
     "zaobao": {
         "name": "zaobao",
         "name_cn": "联合早报",
-        "rss": "https://plink.anyfeeder.com/zaobao/realtime/china",
+        "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
+        "type": "rss"
     },
     "caixin": {
         "name": "caixinl",
         "name_cn": "财新",
-        "rss": "https://quanwenrss.com/caixin",
+        "url": "https://quanwenrss.com/caixin",
+        "type": "rss"
     },
-}
-
-# 2. 专门走普通网页（URL）抓取通道的网站
-SOURCES_URL = {
+    # --- 普通网页抓取通道 ---
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
         "url": "https://wallstreetcn.com/news/shares",
+        "type": "web"
     },
     "cls": {
         "name": "cls-hot",
         "name_cn": "财联社热门",
         "url": "https://www.cls.cn/depth?id=1003",
+        "type": "web"
     },
     "phoenix": {
         "name": "phoenix",
         "name_cn": "凤凰网",
         "url": "https://news.ifeng.com",
+        "type": "web"
     },
 }
-
 
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
 
 
 def fetch_source(key, config):
-    """抓取单个新闻源"""
+    """抓取单个新闻源（自适应支持 RSS 和普通 Web 网页）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
+    articles = []
+    
     try:
-        feed = feedparser.parse(config["rss"])
-        articles = []
-        for entry in feed.entries[:MAX_ARTICLES]:
-            articles.append({
-                "title": entry.get("title", ""),
-                "url": entry.get("link", ""),
-                "published": entry.get("published", ""),
-                "summary": entry.get("summary", ""),
-                "source": config["name_cn"],  # 👈 将新闻来源中文名写入数据中！
-            })
+        # ======= 核心修改：分流处理 =======
+        if config["type"] == "rss":
+            # 1. RSS 解析逻辑
+            feed = feedparser.parse(config["url"])
+            for entry in feed.entries[:MAX_ARTICLES]:
+                articles.append({
+                    "title": entry.get("title", ""),
+                    "url": entry.get("link", ""),
+                    "published": entry.get("published", ""),
+                    "summary": entry.get("summary", ""),
+                    "source": config["name_cn"],
+                })
+        
+        elif config["type"] == "web":
+            # 2. 网页 HTML 解析逻辑（防止直接读取 'rss' 报错）
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            response = requests.get(config["url"], headers=headers, timeout=10)
+            response.encoding = 'utf-8'
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # 💡 针对不同网页的简易 A 标签新闻提取逻辑（避免获取到 0 篇）
+            links = soup.find_all('a')
+            for link in links:
+                title = link.get_text().strip()
+                url = link.get('href', '')
+                
+                # 过滤掉字数太少、没有跳转链接或只是内部导航的无效链接
+                if len(title) > 8 and url.startswith('http') and not any(x in title for x in ["关于我们", "版权声明", "隐私政策"]):
+                    articles.append({
+                        "title": title,
+                        "url": url,
+                        "published": datetime.now().strftime("%Y-%m-%d"),
+                        "summary": title,
+                        "source": config["name_cn"],
+                    })
+                    if len(articles) >= MAX_ARTICLES:
+                        break
+
         print(f"  ✅ {config['name_cn']}: 获取到 {len(articles)} 篇文章")
         return articles
+        
     except Exception as e:
         print(f"  ❌ {config['name_cn']}: 抓取失败 - {e}")
         return []
@@ -102,7 +139,6 @@ def generate_markdown(all_data):
             continue
         for i, a in enumerate(articles, 1):
             title = a["title"].strip()
-            # 去掉 Google News 加的后缀
             title = title.split(" - ")[0].strip()
             url = a["url"]
             lines.append(f"{i}. [{title}]({url})")
@@ -139,17 +175,17 @@ def main():
         
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
-    # 2. 调用 AI 分析函数（解包接收 3 个返回值：全局总结段落、重磅新闻列表、感兴趣新闻列表）
+    # 2. 调用 AI 分析函数
     summary_analysis, important_news, interest_news = analyze_news(all_articles, prompt_text)
 
-    # 3. 构造符合前端渲染的 JSON 结构（添加 summary_analysis 字段）
+    # 3. 构造符合前端渲染的 JSON 结构
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
-        "updated_beijing": datetime.now().strftime("%Y-%m-%d %H:%M 北京时间"),  # 新增这一行
-        "summary_analysis": summary_analysis,  # 👈 【核心新增】全局 AI 宏观分析与研判总结段落
-        "important": important_news,             # 包含 source 信息的重磅新闻列表
-        "interest": interest_news,               # 包含 source 信息的兴趣新闻列表
+        "updated_beijing": datetime.now().strftime("%Y-%m-%d %H:%M 北京时间"),
+        "summary_analysis": summary_analysis,
+        "important": important_news,
+        "interest": interest_news,
         "sources": {
             key: {
                 "name": SOURCES[key]["name"],
