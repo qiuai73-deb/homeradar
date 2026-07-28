@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # ========== 新闻源配置 ==========
-SOURCES = {
+SOURCES_RSS = {
     "CCTV": {
         "name": "CCTV",
         "name_cn": "央视新闻",
@@ -19,7 +19,7 @@ SOURCES = {
     },
     "zaobao": {
         "name": "zaobao",
-        "name_cn": "联合申报",
+        "name_cn": "联合早报",
         "rss": "https://plink.anyfeeder.com/zaobao/realtime/china",
     },
     "caixin": {
@@ -27,6 +27,9 @@ SOURCES = {
         "name_cn": "财新",
         "rss": "https://quanwenrss.com/caixin",
     },
+}
+
+SOURCES_URL = {
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
@@ -40,9 +43,10 @@ SOURCES = {
     "phoenix": {
         "name": "phoenix",
         "name_cn": "凤凰网",
-        "rss": "https://news.ifeng.com",
+        "url": "https://news.ifeng.com",
     },
 }
+
 
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
