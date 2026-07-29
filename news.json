@@ -1,250 +1,143 @@
 {
-  "updated": "2026-07-29T02:28:41.604429+00:00",
-  "updated_beijing": "2026-07-29 02:28 北京时间",
-  "summary_analysis": "【核心主线】当前全球政治经济格局呈现多重风险交织：地缘冲突持续升级（俄乌、中东、南美），自然灾害频发（重庆山体滑坡、日本地震），中美科技战加剧（AI、光刻机、机器人管制），中国国内聚焦反腐、灾后重建与政策调整。\n\n【市场与政策信号】中国官方强化文物管理、工会人事变动，显示治理精细化；奔驰下调营收预期反映豪车市场疲软；全款买房成趋势暗示信贷收紧；国产DUV光刻机突破标志科技自主进展。\n\n【关键风险提示】美国对华科技制裁扩大至AI供应链，日本地震及俄日摩擦增加亚太不确定性，重庆灾害暴露应急管理短板，AI脱衣产业链警示技术滥用风险。",
+  "updated": "2026-07-29T04:13:57.297910+00:00",
+  "updated_beijing": "2026-07-29 04:13 北京时间",
+  "summary_analysis": "【核心主线】全球市场剧烈动荡，地缘政治风险与AI泡沫破裂叠加，韩国股市多次熔断，美股AI概念遭抛售，避险情绪浓厚。中国政策面积极应对，中药行业获政策利好，港股科技股反弹，银行ETF逆势走强，显示资金在防御与成长间切换。\n\n【市场与政策信号】韩国股市熔断、AI股暴跌引发追保潮，反映市场对高估值科技股的恐慌。中国11部门联合发文支持中药，政策红利持续释放；港股科技股反弹，互联网龙头补涨，显示资金低位布局。美国制裁中国科研机构，科技脱钩加剧，自主可控逻辑强化。\n\n【关键风险提示】地缘冲突（伊朗、胡塞武装）推升油价，全球通胀压力不减。韩国股市熔断可能蔓延至其他新兴市场。AI板块回调若持续，可能引发系统性风险。需关注中美科技博弈升级对产业链的冲击。",
   "important": [
-    {
-      "title": "美国禁止进口中国新款人形机器人 防范AI供应链风险",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435912",
-      "summary": "美国限制中国AI机器人进口，加剧科技脱钩。",
-      "source": "联合早报"
-    },
-    {
-      "title": "传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”",
-      "url": "https://www.zaobao.com/news/china/story20260729-9434970",
-      "summary": "中国光刻机突破，或改变半导体格局。",
-      "source": "联合早报"
-    },
-    {
-      "title": "路透：中国与也门胡塞武装磋商 争取船只安全通过红海",
-      "url": "https://www.zaobao.com/news/china/story20260729-9436023",
-      "summary": "中国斡旋红海安全，展现外交影响力。",
-      "source": "联合早报"
-    },
     {
       "title": "美国防部制裁部分中国科研机构，中方回应",
       "url": "https://news.ifeng.com/c/8v9Hb3PT32R",
-      "summary": "美方扩大制裁，中方反对科技封锁。",
+      "summary": "美国制裁中国科研机构，中方坚决反对。",
+      "source": "凤凰网"
+    },
+    {
+      "title": "美国更新受管制清单，外媒分析其意图",
+      "url": "https://news.ifeng.com/c/8v9BxEKAxKB",
+      "summary": "美国扩大管制清单，意图遏制中国科技发展。",
+      "source": "凤凰网"
+    },
+    {
+      "title": "禁止进口中国新型机器人和逆变器，美国在忌惮什么？",
+      "url": "https://news.ifeng.com/c/8v9Ibfxya12",
+      "summary": "美国禁止进口中国机器人，担忧技术优势丧失。",
       "source": "凤凰网"
     },
     {
       "title": "日本发生7.1级地震，灾区画面曝光",
       "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
-      "summary": "日本强震引发海啸风险，亚太安全受关注。",
+      "summary": "日本强震引发海啸预警，灾情严重。",
       "source": "凤凰网"
     },
     {
-      "title": "俄罗斯警告日本",
-      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-      "summary": "俄日关系紧张，地缘风险上升。",
-      "source": "央视新闻"
+      "title": "泽连斯基连遭“逼宫”，少帅临危受命",
+      "url": "https://news.ifeng.com/c/8v9Hb3PT37t",
+      "summary": "乌克兰政局动荡，军方高层变动。",
+      "source": "凤凰网"
     },
     {
-      "title": "重庆彭水山体崩塌，已新搜寻确认30名遇难者",
-      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%EF%BC%8C%E5%B7%B2%E6%96%B0%E6%90%9C%E5%AF%BB%E7%A1%AE%E8%AE%A430%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85",
-      "summary": "重庆山体滑坡致30死，应急响应受考验。",
-      "source": "央视新闻"
+      "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+      "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+      "summary": "以色列总理访美，聚焦伊朗核问题。",
+      "source": "凤凰网"
     },
     {
-      "title": "唐山大地震50周年 李强受习近平委托到唐山调研慰问",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435892",
-      "summary": "高层慰问唐山，强调防灾减灾。",
-      "source": "联合早报"
+      "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+      "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+      "summary": "乌克兰袭击伊朗商船，意在讨好美国。",
+      "source": "凤凰网"
     },
     {
-      "title": "港媒：湖南高校大反腐 与军工密切南华大学两任校长被查",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435938",
-      "summary": "高校反腐深入军工领域，释放严管信号。",
-      "source": "联合早报"
+      "title": "巴西阿根廷，掀桌子吵起来了",
+      "url": "https://news.ifeng.com/c/8v9CjXslQ4g",
+      "summary": "巴西与阿根廷关系紧张，贸易摩擦升级。",
+      "source": "凤凰网"
     },
     {
-      "title": "央视起底“AI脱衣”黑色产业链",
-      "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E2%80%9CAI%E8%84%B1%E8%A1%A3%E2%80%9D%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
-      "summary": "AI技术滥用引发监管关注。",
-      "source": "央视新闻"
+      "title": "11部门联合发文，中药行业又迎政策利好，融资7月净买入9只中药股",
+      "url": "https://news.10jqka.com.cn/20260729/c678502860.shtml",
+      "summary": "中药行业获政策支持，资金积极布局。",
+      "source": "证券时报网"
+    },
+    {
+      "title": "港股硬科技大反攻！规模最大港股通信息技术ETF华宝（159131）冲高逾2%，小米、智谱涨超4%",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumm0037260.shtml",
+      "summary": "港股科技股反弹，ETF资金流入明显。",
+      "source": "新浪"
     }
   ],
   "interest": [
     {
-      "title": "今日开盘：沪指报3823.29点 涨幅0.26%",
-      "url": "https://finance.caixin.com/2026-07-29/102468979.html",
-      "summary": "A股小幅高开，市场情绪平稳。",
-      "source": "财新"
+      "title": "2韩国综指今年第九次熔断！交易暂停20分钟",
+      "url": "https://news.10jqka.com.cn/20260729/c678512210.shtml",
+      "summary": "韩国股市暴跌触发熔断，今年第九次。",
+      "source": "同花顺"
     },
     {
-      "title": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
-      "url": "https://finance.caixin.com/2026-07-29/102468937.html",
-      "summary": "全款购房趋势反映信贷收紧与市场分化。",
-      "source": "财新"
+      "title": "AI股暴跌引发追保潮，高盛摩根大通向对冲基金追讨抵押品",
+      "url": "https://t.10jqka.com.cn/pid_667554302.shtml",
+      "summary": "AI股暴跌导致对冲基金追加保证金。",
+      "source": "同花顺"
     },
     {
-      "title": "奔驰下调全年营收展望 中国豪车市场颓势加深",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435736",
-      "summary": "豪车需求疲软，消费升级遇阻。",
-      "source": "联合早报"
+      "title": "刚刚，“伊朗对美军发动突然袭击”！胡塞武装发射多枚弹道导弹！油价直线飙升，OPEC+最新计划曝光！美股科技板块重挫",
+      "url": "https://news.10jqka.com.cn/20260729/c678502705.shtml",
+      "summary": "地缘冲突推升油价，美股科技股承压。",
+      "source": "同花顺"
     },
     {
-      "title": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
-      "url": "https://www.caixin.com/2026-07-29/102468972.html",
-      "summary": "科技巨头市值新高，AI监管争议持续。",
-      "source": "财新"
+      "title": "SK海力士营业利润飙涨557%！HBM4下半年将扩大生产，但市场期待更高",
+      "url": "https://news.10jqka.com.cn/20260729/c678500440.shtml",
+      "summary": "SK海力士业绩大增，但市场仍不满足。",
+      "source": "同花顺"
     },
     {
-      "title": "“补税潮”背后的治理逻辑",
-      "url": "https://opinion.caixin.com/2026-07-29/102468986.html",
-      "summary": "税收征管加强，企业合规压力上升。",
-      "source": "财新"
+      "title": "最高80亿元回购！“易中天”密集发声，齐看好行业前景",
+      "url": "https://news.10jqka.com.cn/20260728/c678498903.shtml",
+      "summary": "多家公司宣布回购，看好行业前景。",
+      "source": "同花顺"
     },
     {
-      "title": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
-      "url": "https://companies.caixin.com/2026-07-29/102468953.html",
-      "summary": "中企出海需优化股权结构应对风险。",
-      "source": "财新"
+      "title": "放量异动！两大宽基ETF，单日成交破百亿！资金风向要变了吗？",
+      "url": "https://t.10jqka.com.cn/pid_667370985.shtml",
+      "summary": "宽基ETF成交放量，资金或转向。",
+      "source": "同花顺"
     },
     {
-      "title": "中国民政部前部长陆治原当选中华全国总工会副主席",
-      "url": "https://www.zaobao.com/news/china/story20260728-9434524",
-      "summary": "工会高层人事变动，关注劳动关系政策。",
-      "source": "联合早报"
+      "title": "美股涨跌互现AI概念股惨遭抛售，苹果市值首破5万亿美元",
+      "url": "https://t.10jqka.com.cn/pid_667382642.shtml",
+      "summary": "美股分化，AI股遭抛售，苹果创新高。",
+      "source": "同花顺"
     },
     {
-      "title": "中国官方要求国有文物管理机构提供主动公开授权使用等服务",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435744",
-      "summary": "文物管理规范化，促进文化资源开放。",
-      "source": "联合早报"
+      "title": "苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性",
+      "url": "https://t.10jqka.com.cn/pid_667366609.shtml",
+      "summary": "苹果市值创新高，AI策略受追捧。",
+      "source": "同花顺"
     },
     {
-      "title": "对驰名商标的特别保护，边界在哪里",
-      "url": "https://opinion.caixin.com/2026-07-29/102468981.html",
-      "summary": "商标保护争议，平衡创新与竞争。",
-      "source": "财新"
+      "title": "刚刚，全线拉升！日韩股市，大反攻！",
+      "url": "https://t.10jqka.com.cn/pid_667419495.shtml",
+      "summary": "日韩股市反弹，市场情绪回暖。",
+      "source": "同花顺"
     },
     {
-      "title": "美国更新受管制清单，外媒分析其意图",
-      "url": "https://news.ifeng.com/c/8v9BxEKAxKB",
-      "summary": "美方管制清单更新，科技竞争加剧。",
-      "source": "凤凰网"
+      "title": "稳！逆市6连涨，百亿银行ETF华宝（512800）再创反弹新高！",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumm0036496.shtml",
+      "summary": "银行ETF逆势上涨，防御属性凸显。",
+      "source": "新浪"
     }
   ],
   "sources": {
     "CCTV": {
       "name": "CCTV",
       "name_cn": "央视新闻",
-      "count": 5,
-      "articles": [
-        {
-          "title": "身体出现这几个信号，可能是肝在“求救”！",
-          "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E8%BA%AB%E4%BD%93%E5%87%BA%E7%8E%B0%E8%BF%99%E5%87%A0%E4%B8%AA%E4%BF%A1%E5%8F%B7%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E8%82%9D%E5%9C%A8%E2%80%9C%E6%B1%82%E6%95%91%E2%80%9D%EF%BC%81",
-          "published": "Tue, 28 Jul 2026 23:16:00 +0800",
-          "summary": "<div><div><div class=\"rich_media_content\" id=\"js_content\"><section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_gif/oq1PymRl9D6RP2nDfy42zGUT7g9QD8UaWAo7soxwCyzeTZPQheSOaibIe2e9fFIpRUhLuAA68vNThZicYSVQpq2A/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=20\" /></span></section><section><p style=\"text-align: center; white-space: normal; margin: 8px 0px; padding: 0px;\"><span><span style=\"font-size: 16px;\">今天（28日）是</span></span><span style=\"color: rgb(10, 40, 99);\"><strong><span><span style=\"font-size: 16px;\">世界肝炎日</span></span></strong></span></p><p style=\"text-align: center; margin-top: 8px; margin-bottom: 8px;\"><span><span style=\"font-size: 16px;\">肝脏是人体至关重要的器官</span></span></p><p style=\"text-align: center; margin-top: 8px; margin-bottom: 8px;\"><span><span style=\"font-size: 16px;\">不仅是消化系统的重要组成部分</span></span></p><p style=\"text-align: center; margin-top: 8px; margin-bottom: 8px;\"><span><span style=\"font-size: 16px;\">还承担着代谢、免疫调节等多重功能</span></span></p><p style=\"text-align: center; white-space: normal; margin: 8px 0px; padding: 0px;\"><span style=\"color: rgb(10, 40, 99); font-weight: bold;\"><span style=\"font-size: 16px;\">但肝脏疾病早期缺乏典型症状</span></span></p><p style=\"text-align: center; white-space: normal; margin: 8px 0px; padding: 0px;\"><span style=\"color: rgb(10, 40, 99); font-weight: bold;\"><span style=\"font-size: 16px;\">若遵循“不舒服才看病”的原则</span></span></p><p style=\"text-align: center; white-space: normal; margin: 8px 0px; padding: 0px;\"><span style=\"color: rgb(10, 40, 99); font-weight: bold;\"><span style=\"font-size: 16px;\">极易延误病情</span></span></p><p style=\"text-align: center; white-space: normal; margin: 8px 0px 24px; padding: 0px;\"><span style=\"color: rgb(10, 40, 99); font-weight: bold;\"><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-weight: normal;\">及时关注身体信号很重要！</span></span></p><section style=\"text-align: center; margin-bottom: 24px;\"><img alt=\"图片\" class=\"rich_pages wxw-img js_insertlocalimg\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/wdtsTRPicKCkx0hs5zWWUU3lSyBPmadTqskDToXCmkryw3Eyxe9eck1ibH0qZDNLSw1bZJaAVDE4t0uznMfbhqgInJhsKKsITQvUGiaaliaeTRM/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=wxpic&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=1\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"text-align: left; white-space: normal; margin: 0px; padding: 0px;\"><span style=\"color: rgb(255, 255, 255);\"><span> </span><strong><span hidden=\"hidden\">肝脏损伤前的</span></strong><strong><span hidden=\"hidden\">“身体信号”</span></strong><span>！</span></span></p></section><section><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">肝脏内部缺乏痛觉神经，只有表面肝包膜存在神经分布。因此，</span></span><span><strong><span>肝脏病变早期往往无症状</span></strong></span><span>，只有当损伤累积到一定程度（如肝包膜受牵拉）时，才会出现明显不适</span><span><span style=\"font-size: 16px;\">。通常，</span></span><strong><span><span style=\"font-size: 16px;\">肝病的早期表现以全身性的症状为主</span></span></strong><span><span style=\"font-size: 16px;\">。出现以下症状，建议及时就医检查诊断。</span></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 17px; text-decoration: none;\">食欲不振</span></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">食欲不振是肝病常见的症状之一，</span></span><span>如果长时间食欲不振，除了怀疑胃炎以及其他疾病，也应考虑肝炎的可能</span><span><span style=\"font-size: 16px;\">。</span></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 17px; text-decoration: none;\">恶心、呕吐、腹胀</span></span></p></section><section><p style=\"white-space: normal; margin: 0px 0px 24px; padding: 0px;\"><span><span style=\"font-size: 16px;\">很多肝病在出现肝功能异常后，都会</span></span><span>伴有恶心欲呕、厌食油腻、上腹饱胀等不适</span><span><span style=\"font-size: 16px;\">。常会被患者误当成急性胃肠炎就医，有经验的医生会让患者去</span></span><span><span style=\"font-size: 16px;\">做肝功能检</span></span><span><span style=\"font-size: 16px;\">查，从而发现肝病。</span></span></p><p style=\"white-space: normal; margin: 0px 0px 24px; padding: 0px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/wdtsTRPicKCnQxarbPPwBW5HuyvK0JH3u2ceEw9au7G37cJ0Z4hky8ZsLhmg38Wo6lstdRkqicp0eIicDgPWay8VSMtKk3iaOwq04cibzliccaR34/640?wx_fmt=jpeg&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=2\" /></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><strong><span><span style=\"font-size: 17px; text-decoration: none;\">黄疸</span></span></strong></p><p style=\"white-space: normal; margin: 0px 0px 24px; padding: 0px;\"><span><span style=\"font-size: 16px;\">正常情况下，肝脏能够清除多余的胆红素，而</span></span><strong><span><span style=\"font-size: 16px;\">黄疸是由于体内胆红素代谢障碍，导致血液中胆红素浓度增高所引起的一系列变化</span></span></strong><span><span style=\"font-size: 16px;\">，</span></span><span>最常见的是尿液发黄如浓茶水样。严重时，白眼珠甚至全身皮肤会变黄</span><span><span style=\"font-size: 16px;\">。</span></span></p></section><section style=\"text-align: left; display: flex; margin: 0px;\"><section><section style=\"text-align: center; display: flex; margin: 0px;\"><section style=\"display: inline-block; vertical-align: bottom; width: auto; height: auto; padding: 0px 5px 0px 0px;\"><section><section style=\"display: inline-block; vertical-align: middle; width: auto; height: auto; padding: 0px 2px;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section><section style=\"display: inline-block; vertical-align: middle; width: auto; height: auto; padding: 0px 2px;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; border-bottom: 1px solid rgb(48, 72, 142);\"><section style=\"letter-spacing: 3px; color: rgb(255, 255, 255);\"><p style=\"margin: 0px; padding: 0px;\"><strong><span><span>关键提示</span></span></strong></p></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto;\"><section style=\"margin: 3px 0px 10px; line-height: 0;\"><section style=\"vertical-align: middle; display: inline-block; line-height: 0; width: 20px; height: auto;\"><img alt=\"图片\" class=\"rich_pages wxw-img __bg_gif\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_gif/wdtsTRPicKCnF2cx1LiapXkK03FyPjYlmfv8SicpuSyZqEulfUmajfTGwqDdvtiaxFBGibrZ2D0V4yLh6FibTvprSmurSRr8TYfCWzfL1qKCMycj4/640?wx_fmt=gif&amp;from=appmsg&amp;tp=wxpic&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=3\" style=\"vertical-align: middle; width: 20px !important; height: auto !important;\" /></section></section></section></section><section><section style=\"display: inline-block; width: 100%; vertical-align: top; background-color: rgb(255, 255, 255); padding: 23px;\"><section style=\"text-align: justify; letter-spacing: 1.2px; font-size: 16px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span style=\"letter-spacing: 1.2px;\"><span><span style=\"font-size: 16px;\">若出现</span></span><strong><span>尿液持续</span><span>发黄如浓茶水样</span><span>或皮肤、眼白发黄</span></strong><span><span style=\"font-size: 16px;\">，即使无其他症状，也应尽快</span></span><strong><span><span style=\"font-size: 16px; color: rgb(29, 37, 114);\">检查肝功能</span></span></strong><span><span style=\"font-size: 16px;\">，这可能是肝细胞损伤或胆道问题的</span></span><strong><span><span style=\"font-size: 16px; color: rgb(29, 37, 114);\">直接信号</span></span></strong><span><span style=\"font-size: 16px;\">。</span></span></span></p></section></section></section></section></section><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 17px; text-decoration: none;\">肝掌、蜘蛛痣</span></span></p><ul class=\"list-paddingleft-1\"><li style=\"font-size: 16px;\"><p style=\"margin-bottom: 24px; margin-top: 24px;\"><span>肝掌是在大鱼际和小鱼际部位形成的一些特别发红的表现</span><span><span style=\"font-size: 16px;\">。很多肝掌有特别清晰的界限，仅在大鱼际和小鱼际部位存在，非常典型。</span></span></p></li><li style=\"font-size: 16px;\"><p style=\"margin-bottom: 24px;\"><span>蜘蛛痣形似蜘蛛，一般会在</span><span><strong><span>前胸和颈部</span></strong></span><span>见到</span><span><span style=\"font-size: 16px;\">，中间有一个特别小的血管聚集区，如果拿笔尖轻轻点按，周围这些“爪子”就会全部消失。</span></span></p></li></ul><section><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">这些皮肤症状和肝脏对雌激素代谢能力下降有关，导致了毛细血管的扩张，</span></span><span>但</span><span><strong><span>也不能认为只要有蜘蛛痣或肝掌就是得了肝病</span></strong></span><span><span style=\"font-size: 16px;\">。建议到医院做肝功检测，以排除肝炎。</span></span></p></section><section style=\"text-align: center; margin-top: 10px; margin-bottom: 10px; line-height: 0;\"><section style=\"vertical-align: middle; display: inline-block; line-height: 0; margin-bottom: 24px;\"><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/wdtsTRPicKCn7sWicaoStOEAEGuOFFAu0UunzVic4RjVl6QnV40Oic4AaEaicgIqMxlicNzM1t8jsZm0qUJPcV2R7xd0V4odXLVE9hl0GfB4icLUdU/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=wxpic&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=4\" style=\"vertical-align: middle; width: 100%;\" /></section></section><p><span><span style=\"background-color: rgb(29, 37, 114); color: rgb(255, 255, 255);\"> </span></span><strong><span hidden=\"hidden\"><span style=\"background-color: rgb(29, 37, 114); color: rgb(255, 255, 255);\">肝炎患者没有症状，</span></span><strong><span hidden=\"hidden\"><span style=\"background-color: rgb(29, 37, 114); color: rgb(255, 255, 255);\">还需要治疗吗？</span></span></strong></strong><span><br /></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><strong><span>答案是：需要！</span></strong></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">许多肝炎患者在早期甚至中期都没有明显不适。无症状肝炎是否需要干预？哪些情况必须及时治疗？</span></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">首都医科大学附属北京地坛医院肝病中心主任医师李明慧表示，70%的肝炎都没有症状，一定不要认为没有症状，就不去做检查和治疗。</span></span></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">研究显示，慢性乙肝患者肝癌风险比常人高出15至20倍，</span></span><span><strong><span>对慢性肝炎、肝硬化患者进行抗病毒治疗，能在较短时间内显著降低肝癌发生风险</span></strong></span><span><span style=\"font-size: 16px;\">。肝脏纤维化患者接受规范抗病毒治疗3至5年，可降低罹患肝癌的风险10%至30%。</span></span></p><section style=\"text-align: center;\"><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_png/wdtsTRPicKClib818qIpxxBTzBBPHHG8dibJdibWnrWfBgCWApsiaHNam8PibmjovMmAb7zPBvyPmZ5fSU37c63V5s2wTK2dPl1AW6cu0LSxJv25M/640?wx_fmt=png&amp;from=appmsg&amp;tp=wxpic&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=5\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">因此，一旦</span></span><span><strong><span>发现乙肝核酸阳性，无论</span></strong></span><span><strong><span>转</span></strong></span><span><strong><span>氨酶是否正常</span></strong></span><span>，只要满足年龄大于30岁</span><span><span style=\"font-size: 16px;\">，或者有乙肝</span></span><span><span style=\"font-size: 16px;\">肝硬化、肝癌家族史的人群，都应接受治疗。</span></span></p><p><span><span style=\"background-color: rgb(29, 37, 114); color: rgb(255, 255, 255);\"> 几</span></span><strong><strong><span hidden=\"hidden\"><span style=\"background-color: rgb(29, 37, 114); color: rgb(255, 255, 255);\">条实用的护肝建议 </span></span></strong></strong></p><p style=\"margin-top: 24px; margin-bottom: 24px;\"><strong><span><span style=\"font-size: 16px;\">专家给出几条实用的护肝建议：</span></span></strong></p><ul class=\"list-paddingleft-1\"><li><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span>避免酗酒</span><span><span style=\"text-decoration: none;\">。</span></span><span><span style=\"font-size: 16px;\">酒精会直接损伤肝细胞，导致代谢能力下降，诱发酒精性肝炎。</span></span></p></li><li><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span>减少高糖高油饮食</span><span><span style=\"text-decoration: none;\">。</span></span><span><span style=\"font-size: 16px;\">过量糖分和脂肪酸会在肝脏内沉积，引发非酒精性脂肪肝。</span></span></p></li><li><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span>减少熬夜</span><span><span style=\"font-size: 16px;\">。</span></span><span><span style=\"font-size: 16px;\">肝脏的黄金修复时段主要在夜间，长期熬夜会错失最佳自我修复时机。</span></span></p></li><li><p style=\"margin-top: 24px; margin-bottom: 24px;\"><span>勿盲目服用护肝药。</span><span><span style=\"font-size: 16px;\">健康人群的肝脏自带防御与代谢功能，可以代谢酒精、药物以及各类毒素。专家提醒，盲目服用护肝药，反而可能造成肝损伤。任何护肝药物，都应当在医生指导下谨慎使用。</span></span></p></li></ul><p><strong><span><span>▌</span></span></strong><span><span>本文来源：</span><span><span>央</span><span>视新闻微信公众号</span><span><span>转载自国家应急广播</span></span></span></span></p><section><section><hr /><section><span><span>监制/王元  主编/张志达</span></span></section><section><span><span>编辑/关欣</span></span></section></section></section><section><span><strong><span><strong><span><span>©央视新闻</span></span></strong></span></strong></span></section><section><strong><strong><span><span style=\"font-size: 20px; color: rgb(29, 37, 114); font-weight: bold; text-decoration: none;\">转发周知！</span></span></strong></strong></section><p style=\"display: none;\"></p></div>\n    \n\n    \n    <br />\n\n    \n        <a class=\"media_tool_meta meta_primary\" href=\"http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657951288&amp;idx=1&amp;sn=a1852a9569da8f1d60aa7b37b57bc4d2&amp;chksm=7b7e8f956bc3b3028a9d3d0a7cd661c9e82244f09ec12a58d01332d4c93df19e1d1c74701fd7&amp;scene=0#rd\" style=\"color: blue;\" target=\"_blank\">文章原文</a>\n        <br />\n    \n\n    \n\n    <img alt=\"\" class=\"\" height=\"1px\" src=\"http://www.jintiankansha.me/rss_static/18664/uSclrHwnvR\" style=\"width: 1px; height: 1px; display: none;\" width=\"1px\" /></div></div>",
-          "source": "央视新闻"
-        },
-        {
-          "title": "如何把别人的知识，变成自己的见识",
-          "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A6%82%E4%BD%95%E6%8A%8A%E5%88%AB%E4%BA%BA%E7%9A%84%E7%9F%A5%E8%AF%86%EF%BC%8C%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%81%E8%AF%86",
-          "published": "Tue, 28 Jul 2026 22:26:00 +0800",
-          "summary": "<div><div><div class=\"rich_media_content\" id=\"js_content\"><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XFQHdicD8bsyURnWtia6icmvib5ia0Jgia8hebQc1tRVfdSLeQzGOTu7IyKxibFzaelXfJdJYLnl7jcWSaqP5yj533EBlFuJl2mHuX88Y/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><section><span><br /></span></section><section style=\"font-style: normal; font-weight: 400; text-align: justify; font-size: 16px; color: rgb(62, 62, 62);\"><section style=\"text-align: left; display: flex; margin: 0px 0px 10px;\"><section style=\"display: inline-block; width: 100%; vertical-align: top; border-style: solid; border-width: 1px; border-color: rgb(195, 226, 252); padding: 20px;\"><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p><span>我们总是被日常节奏推着向前，习惯催促自己奔赴下一个目标，期待所有的付出立刻看见结果。<span style=\"font-weight: bold;\">可万物自有时序，成长无法速成</span>。人生其实不必一路狂奔，多给自己一点时间，允许一切慢慢来。</span></p><p><span><br /></span></p><section class=\"channels_iframe_wrp\"></section><p style=\"text-align: center;\"><span><span style=\"font-size: 12px; color: rgb(178, 178, 178);\">《夜读》 × 大米Video 特别呈现</span></span></p><p><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>读书，便是最好的沉淀方式。翻开书页的片刻，不必追赶他人，万事都可以缓缓而行。<span style=\"font-weight: bold;\">慢慢读一本书，就如同慢慢看见自己。</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>但小编</span><span>经常</span><span>在后台收到一类问题：“我读了很多书，但总觉得自己没有什么变化。书里的道理我都懂，可一到用的时候就想不起来。怎么才能把看过的东西真正变成我自己的？”</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>这个问题可能很多人都遇到过。我们读完书时感觉自己“没变化”，往往是因为，我们阅读时，只完成了 “接收” 这一步，缺失了理解、转化和输出。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>所以，<span style=\"font-weight: bold;\">想要把知识从书本上内化成自己的，可以尝试以下这四个步骤</span>——</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XEFZr4YELDSRGicHQwplE7zftVr6oYE8zPwsNXtvqCqQMSq4WqjF4Sd75AwyfRWZLQ71M1aYXyPJSMs7Tr0tBNRakzXRuVUnd30/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p></section><section style=\"text-align: center; display: flex; margin: 10px 0px;\"><section style=\"display: inline-block; width: auto; vertical-align: top; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"display: flex;\"><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); border-right: 2px solid rgb(2, 150, 68); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px 0px 0px 2px;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); background-color: rgba(255, 255, 255, 0); border-left: 2px solid rgb(2, 150, 68); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; width: 6px; height: 2px; vertical-align: top; overflow: hidden; background-color: rgb(2, 150, 68);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px; text-align: center;\"><span><span style=\"font-size: 18px; color: rgb(105, 163, 163); font-weight: bold;\">第一步：转化</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"color: rgb(105, 163, 163); font-weight: bold;\">读完了，先用自己的话说一遍，帮助大脑从知识的“接收模式”切换到“处理模式”。</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>这一步是知识内化的核心。书上的内容是作者的语言，我们看了一遍，往往只是“听懂了”，而不是“学会了”，因为我们的大脑在储存知识时，需要我们用某种方式与其建立真正的连接。而“<span style=\"font-weight: bold;\">复述”就是一种很好的建立连接的方式</span>。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>尝试在读完一段内容后，合上书，试着给自己发一段语音，简述这部分内容的要义，或者在手账上写下它的核心观点。如果发现发语音的时候卡壳了，或者难以下笔，说明这部分还没真懂，需要回头再看。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XHkfOKYFqmwrvWMM7MMib3SBLFlYgGdausOkdvA4NDJ7QaS3OlnCaZibKFJBKYIvf0wOuahjicSib1NibOSMRh5M5ho0e1fn6omVySg/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p></section><section style=\"text-align: center; display: flex; margin: 10px 0px;\"><section style=\"display: inline-block; width: auto; vertical-align: top; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"display: flex;\"><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); border-right: 2px solid rgb(2, 150, 68); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px 0px 0px 2px;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); background-color: rgba(255, 255, 255, 0); border-left: 2px solid rgb(2, 150, 68); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; width: 6px; height: 2px; vertical-align: top; overflow: hidden; background-color: rgb(2, 150, 68);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px; text-align: center;\"><span><span style=\"font-size: 18px; color: rgb(105, 163, 163); font-weight: bold;\">第二步：连接</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"color: rgb(105, 163, 163); font-weight: bold;\">把看书时看到的内容和已经知道的东西联系起来，问自己：“这个观点能用在我生活里的什么地方？”</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>孤立的知识点很容易被遗忘，但如果它们跟我们的日常产生连接，就更容易被我们所理解、内化。<span style=\"font-weight: bold;\">这就像在脑海中编织一张网，新节点连上的线越多，就越稳固</span>。毕竟，</span><span>阅读的起点不是书单，而是我们内心那个真实的“痛点”。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>看一本新书后，可以试着问自己三个问题：</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><ul class=\"list-paddingleft-1\"><li><p style=\"white-space: normal; margin: 0px 0px 8px; padding: 0px;\"><span>这个观点，反驳了我过去相信的什么道理？</span></p></li><li><p style=\"white-space: normal; margin: 0px 0px 8px; padding: 0px;\"><span>它让我想起了哪本读过的书，或者哪段经历？</span></p></li><li><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>如果我接受这个观点，我生活中的哪件事会因此改变？</span></p></li></ul><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span><span><span style=\"font-weight: bold;\">阅读最大的意义不在于和别人交流时能言之有物，更在于它能真实地解决我们的问题，满足我们的需求。</span></span><span>这三个问题不必全部回答，只需要回答上一个，你就可以有所收获。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XEzcKk0dQGBeZjrKibnJ7VgFCRw6ko7nreKtXNSnQtNVulvsKicNy8o3oofw3aq5NAkPnyErJTAZdOs9H6xaFuMpYHSjm0XkeMgo/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p></section><section style=\"text-align: center; display: flex; margin: 10px 0px;\"><section style=\"display: inline-block; width: auto; vertical-align: top; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"display: flex;\"><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); border-right: 2px solid rgb(2, 150, 68); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px 0px 0px 2px;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); background-color: rgba(255, 255, 255, 0); border-left: 2px solid rgb(2, 150, 68); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; width: 6px; height: 2px; vertical-align: top; overflow: hidden; background-color: rgb(2, 150, 68);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px; text-align: center;\"><span><span style=\"font-size: 18px; color: rgb(105, 163, 163); font-weight: bold;\">第三步：捕捉情绪</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"color: rgb(105, 163, 163); font-weight: bold;\">读书时，将自己的情绪批注在旁边，或者找个本子记录下来。大脑记不住道理，但一定记得住情绪。</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>下次读到触动你的观点时，试着停下来问自己：“这个观点让我产生了哪种感觉？”当读到一句话心头一震时，<span style=\"font-weight: bold;\">你可以首先尝试去识别自己此刻的感受，在手账上写下一段笔记</span>，比如“读到这句话时，我感到豁然开朗。”然后再问问自己，<span style=\"font-weight: normal;\">“是我的哪段经历，让我对这个部分产生了强烈的共鸣？” </span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>当我们在书中看见我们自己，当书中的内容和真实的心情建立连接，我们就可以收获与作者之间的珍贵同频，自然就更容易将书中内容内化。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/JPu5lvAD1XFuQTPlbhic35ZADMWI0toxp0zNZxj2icVcI3Ovc4vjjlXStuZ1ZxTnFWOibYoEx9A70vhKd6v1bs183bp2jtpzxfh7aDJZUmBFeU/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p></section><section style=\"text-align: center; display: flex; margin: 10px 0px;\"><section style=\"display: inline-block; width: auto; vertical-align: top; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"display: flex;\"><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); border-right: 2px solid rgb(2, 150, 68); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px 0px 0px 2px;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); background-color: rgba(255, 255, 255, 0); border-left: 2px solid rgb(2, 150, 68); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; width: 6px; height: 2px; vertical-align: top; overflow: hidden; background-color: rgb(2, 150, 68);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px; text-align: center;\"><span><span style=\"font-size: 18px; color: rgb(105, 163, 163); font-weight: bold;\">第四步：输出</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"color: rgb(105, 163, 163); font-weight: bold;\">给别人讲一遍，如果你能让对方听懂，说明你真的理解了。</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>所谓“教是最好的学”，把知识讲出来，是检验你对知识脉络掌握程度的最好方式。可以尝试以推荐的方式，对朋友、同学复述之前看过的那本书，或者其中的核心观点。如果对方可以正确接收到你的意思，那说明你把这本书吃透了。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>此外，不方便对具体的人复述时，也可以尝试讲给AI，然后问问它，“你能知道我刚才描述的是哪本书吗？”“我刚才描述该书的核心观点准确吗？”如果AI听明白了，它会很清晰地将那本书的名字报给你，并给你肯定的答复。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"font-weight: bold;\">当我们把读到的知识真正转化成自己的语言，并与自己的生活联系起来，书本中的知识，才算真正被我们吸收。</span></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XFH5HFhw7cclvqKStgb51oIxDH8aUkLfwYq3FNibf5PSpOicxSkFxWCicTTN3j3C6ENHBBRSMqwaiaOdLFvNd39qcOmB0Hbl5QTCts/640?wx_fmt=jpeg&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p></section><section style=\"text-align: center; display: flex; margin: 10px 0px;\"><section style=\"display: inline-block; width: auto; vertical-align: top; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); border-right: 1px solid rgb(62, 62, 62); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px;\"><section><section style=\"display: inline-block; width: 19px; height: 8px; vertical-align: top; overflow: hidden; border-top: 1px solid rgb(62, 62, 62); background-color: rgba(255, 255, 255, 0); border-left: 1px solid rgb(62, 62, 62); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"display: flex;\"><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); border-right: 2px solid rgb(2, 150, 68); border-top-right-radius: 100%; background-color: rgba(255, 255, 255, 0);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section><section style=\"display: inline-block; vertical-align: top; width: auto; height: auto; line-height: 0; padding: 0px 0px 0px 2px;\"><section><section style=\"display: inline-block; width: 20px; height: 8px; vertical-align: top; overflow: hidden; border-top: 2px solid rgb(2, 150, 68); background-color: rgba(255, 255, 255, 0); border-left: 2px solid rgb(2, 150, 68); border-top-left-radius: 100%;\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section><section style=\"display: inline-block; width: 6px; height: 2px; vertical-align: top; overflow: hidden; background-color: rgb(2, 150, 68);\"><svg viewBox=\"0 0 1 1\" xmlns=\"http://www.w3.org/2000/svg\"></svg></section></section></section></section><section style=\"text-align: justify; font-size: 15px; line-height: 1.8; letter-spacing: 2px;\"><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>最后，为大家提供一个读书的好习惯，那就是<span style=\"color: rgb(105, 163, 163); font-weight: bold; text-decoration: underline;\">找一本合适自己的手账</span>，随时记录想法、感受、心情，以及好词好句。只需要一个简单的本子，就可以把我们悬浮在空中的想法落纸为安，很多想法经由笔尖流淌一遍，就慢慢内化成属于自己的东西。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>隔一段时间翻一次手账时，你还会发现，那些日积月累的词句给你带来成就感，而那些心得与感悟，已经逐渐成为你的一部分。<span style=\"font-weight: bold;\">你将不再问一本书自己“看没看懂”，而是可以将其中的知识和内容信手拈来，甚至转化成你的行事准则</span>。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span>而当时过境迁，我们再翻开这本书，或打开手账看到我们写下的心情时，会发现当时的困境，如今已经稳稳跨过；曾经读不懂的句子，如今经历赋予了我们新的解读；而当时的情绪，现在依然能感染我们。</span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><br /></span></p><p style=\"white-space: normal; margin: 0px; padding: 0px;\"><span><span style=\"font-weight: bold;\">这就是书写的力量，更是积累的力量。</span></span></p></section></section></section></section><section><span><br /></span></section><p><font face=\"宋体\"><span><span style=\"font-size: 12px; letter-spacing: 2px; color: rgb(136, 136, 136); font-weight: normal;\">文|央视新闻《夜读》</span></span></font></p><p><font face=\"宋体\"><span><span style=\"font-size: 12px; letter-spacing: 2px; color: rgb(136, 136, 136); font-weight: normal;\">图|视觉中国</span></span></font></p><section><span><br /></span></section><section><span><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">记录的过程</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">也是行走的过程</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">夜读手账</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">推出全新治愈封面：</span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(120, 172, 254); font-weight: bold;\">静屿・蓝</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">助力大家记录自己的同时</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><span style=\"font-size: 15px; letter-spacing: 2px; color: rgb(105, 163, 163);\">也给心灵一方静静的港湾</span></span></span></p><p style=\"text-align: center; line-height: 1.75em;\"><span><span><br /></span></span></p></span></section><section style=\"text-align: center;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_png/JPu5lvAD1XHia5J70EFHWfcdNYP7mkf3ENmuXFC7OCb9kzqHp0t93h1mvK7EeIBgnNn45nzEbKAtKib5ZGBuGBWd0w38JSyUQ7JTUd9z4fmCg/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=7\" style=\"width: 100%;\" /></span></section><section><span><br /></span></section><p><span><span style=\"font-size: 15px; color: rgb(120, 172, 254); font-weight: bold;\">翻开本子，慢慢书写</span></span></p><p><span><span style=\"font-size: 15px; color: rgb(120, 172, 254); font-weight: bold;\">多给自己一点时间</span></span></p><p><span><br /></span></p><section><span><span><span style=\"color: rgb(255, 76, 0);\">点击下方图片 立即购买↓</span></span></span></section><section><a class=\"weapp_image_link js_weapp_entry\" style=\"width: 100%;\"><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/JPu5lvAD1XGwmNdibt8hO4I8nbB2JayAKL3UCztKNHSuJYCjWo7GCpDiaAB1YnbiaaEAmoOnEFSWDrIzOednb5kEE24JNKnDbomoGGBe5urXG8/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=9\" style=\"width: 100%;\" /></a></section><section class=\"js_darkmode__93\"><span><section class=\"js_darkmode__94\"><section class=\"js_darkmode__95\"><section><p><span><span>📮</span></span><span class=\"js_darkmode__96\"><span>投稿邮箱：yedu_cctv@126.com</span></span></p></section></section></section></span></section><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657949993&amp;idx=1&amp;sn=22dbc1552aef2ec154625a52e649b772&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">逆风翻盘前的最后一段路，注定最颠簸</span></a></span></p><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657949337&amp;idx=1&amp;sn=21f9bcb7b6130552ee70d946b07c543b&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">这间教室里没有考卷，只有孩子们写给世界的诗</span></a></span></p><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657948877&amp;idx=1&amp;sn=1b55a537f6b1c5cc3a22a7b25b0b7038&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">30件夏日幸福感小事（低成本版）</span></a></span></p><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657948368&amp;idx=1&amp;sn=2fa5627ebcf9413dcf6c5f39bc3cd3b3&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">“一个半小时，其实是三个半小时”</span></a></span></p><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657947349&amp;idx=1&amp;sn=2153bafd3f4bfdad1e3059c296e9879d&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">唤醒孩子自信力的一个有效方法</span></a></span></p><p class=\"js_darkmode__50\"><span><a class=\"normal_text_link mp_article_text_link\" href=\"https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657946252&amp;idx=1&amp;sn=eea2a69b55c2b2d3338794708fc50290&amp;scene=21#wechat_redirect\" target=\"_blank\"><span style=\"text-decoration: underline;\">愿每个赶时间的人，都能多一些从容</span></a></span></p><p class=\"js_darkmode__102\"><span>监制 | 王元  </span><span><span><span>主编 | 马文佳</span><span><br /></span></span></span></p><p class=\"js_darkmode__102\"><span><span><span>编辑 | 李柯谕 </span><span>播音 | 董华</span></span></span></p><p class=\"js_darkmode__104\"><span><span><span><br /></span></span></span></p><p class=\"js_darkmode__105\"><span><br /></span></p><section><span><span style=\"font-size: 20px; color: rgb(255, 76, 0); font-weight: bold;\">点赞，给爱读书的你！</span></span></section><p style=\"display: none;\"></p></div>\n    \n\n    \n    <br />\n\n    \n        <a class=\"media_tool_meta meta_primary\" href=\"http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657951285&amp;idx=1&amp;sn=403f36345cd0f02e1828ab549fc89a46&amp;chksm=7b1ac66f687baac770c01523b118535ce0028f80ce3bca46c3ee2ddf72cd68ff10d4a29417ac&amp;scene=0#rd\" style=\"color: blue;\" target=\"_blank\">文章原文</a>\n        <br />\n    \n\n    \n\n    <img alt=\"\" class=\"\" height=\"1px\" src=\"http://www.jintiankansha.me/rss_static/18664/azDlJnXc0R\" style=\"width: 1px; height: 1px; display: none;\" width=\"1px\" /></div></div>",
-          "source": "央视新闻"
-        },
-        {
-          "title": "重庆彭水山体崩塌，已新搜寻确认30名遇难者",
-          "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%EF%BC%8C%E5%B7%B2%E6%96%B0%E6%90%9C%E5%AF%BB%E7%A1%AE%E8%AE%A430%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85",
-          "published": "Tue, 28 Jul 2026 21:56:00 +0800",
-          "summary": "<div><div><div class=\"rich_media_content\" id=\"js_content\"><section><img alt=\"图片\" class=\"rich_pages wxw-img __bg_gif\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_gif/oq1PymRl9D6RP2nDfy42zGUT7g9QD8UaWAo7soxwCyzeTZPQheSOaibIe2e9fFIpRUhLuAA68vNThZicYSVQpq2A/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=20\" /></section><section style=\"margin-bottom: 16px;\"><span><span><span style=\"font-size: 16px;\">7月28日晚，</span></span></span><span><span style=\"font-size: 16px;\">彭水县</span></span><span><span style=\"font-size: 16px;\">发布情况通报：</span></span></section><p style=\"margin-bottom: 16px;\"><span><span style=\"font-size: 16px;\">彭水山体崩塌救援工作进入深度搜寻以来，专业救援力量24小时连续作业，按照“不漏一处、不留盲区”的搜寻原则，进行反复排查、层层推进、逐一搜寻。截至目前，已全面完成对A、B区的搜寻，C、D区搜寻工作进入最后攻坚阶段。</span></span></p><p style=\"margin-bottom: 16px;\"><span><span style=\"font-size: 16px;\">7月23日以来，</span><span style=\"font-size: 16px; font-weight: bold;\">截至7月28日21时，经对现场搜寻到的遗体及残骸进行DNA检测鉴定后，已累计新搜寻确认出30名遇难者</span><span style=\"font-size: 16px;\">。另有部分搜寻结果正在DNA检测中。</span></span></p><p style=\"margin-bottom: 16px; text-align: right;\"><span><span><span style=\"font-size: 16px;\">（总台记者 陈杨 江华）</span></span></span></p><p><strong><span><span>▌</span></span></strong><span><span>本文来源：</span><span><span>央</span><span>视新闻微信公众号</span><span><span><br /></span></span></span></span></p><section><section><hr /><section><span><span>监制/王元  主编/张志达</span></span></section><section><span><span>编辑/关欣</span></span></section></section></section><section><span><strong><span><strong><span><span>©央视新闻</span></span></strong></span></strong></span></section><p style=\"display: none;\"></p></div>\n    \n\n    \n    <br />\n\n    \n        <a class=\"media_tool_meta meta_primary\" href=\"http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657951278&amp;idx=1&amp;sn=ee27cec79cf67d429ff15f731381798e&amp;chksm=7bbbf4e0094a319bdd18b931e02d940b3eed388c98c77b14d185abe8ed398f7c6052d27577d7&amp;scene=0#rd\" style=\"color: blue;\" target=\"_blank\">文章原文</a>\n        <br />\n    \n\n    \n\n    <img alt=\"\" class=\"\" height=\"1px\" src=\"http://www.jintiankansha.me/rss_static/18664/Ij6XxV2M57\" style=\"width: 1px; height: 1px; display: none;\" width=\"1px\" /></div></div>",
-          "source": "央视新闻"
-        },
-        {
-          "title": "央视起底“AI脱衣”黑色产业链",
-          "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E2%80%9CAI%E8%84%B1%E8%A1%A3%E2%80%9D%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
-          "published": "Tue, 28 Jul 2026 20:40:00 +0800",
-          "summary": "<div><div><div class=\"rich_media_content\" id=\"js_content\"><section><img alt=\"图片\" class=\"rich_pages wxw-img __bg_gif\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_gif/oq1PymRl9D6RP2nDfy42zGUT7g9QD8UaWAo7soxwCyzeTZPQheSOaibIe2e9fFIpRUhLuAA68vNThZicYSVQpq2A/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=20\" /></section><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">你可能从来没想到，</span></span><span><span style=\"font-size: 16px;\">手机里一张普通的日常自拍、地铁随手拍、同事合影，这些照片会被人用AI软件处理成裸体图片，一张只需1.5元。</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">今年3月，一名女大学生收到网友私信，说她的生活照被人用“AI一键脱衣”技术处理成裸体图片，发到了不良网站上。她点开一看，“很恶心，非常恶心”</span></span><span><span style=\"font-size: 16px;\">。</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">记者调查发现，类似的案例不止一起。</span><span style=\"font-size: 16px; font-weight: bold;\">“AI脱衣”已经形成了一条从软件销售到图片代加工、下游犯罪的完整链条。</span></span></p><p style=\"margin-bottom: 24px;\"><span></span></p><p style=\"margin-bottom: 0px;\"><strong><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">入群</span></span><strong><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">付费</span></span></strong><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">即可获</span></span><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">“AI一键脱衣”</span></span><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">教程</span></span></strong></p><p style=\"margin-bottom: 24px;\"><strong><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">已有数千人购买</span></span></strong></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">在部分社交平台上搜索“一键脱衣”，就会出现大量图文和视频教程。标题多为“一键穿脱衣”、“如何快速P掉美女衣服”等。评论区里，不少网友留言索要资源，博主们则通过分享、邀请进群等方式，将此技术扩散传播。</span></span></p><section style=\"text-align: center; margin-bottom: 24px;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_png/JPu5lvAD1XHDGcUra8pr9OLqric2YltIcVQDw1ibEHpjYLjCdVCHJk42YZqiaPsRiaBRwdCxaDKvxOv41PQfU3mQDZlylNRLl3XlRGmEfryjGicM/640?wx_fmt=png&amp;from=appmsg\" style=\"width: 100%;\" type=\"block\" /></section><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">更隐蔽的渠道在境外社交平台。一些不法分子打着“AI绘画”“技术交流学习”的幌子设立群组，以付费入群为诱饵招募所谓“学员”。</span></span><span><span><span style=\"font-size: 16px;\">网友交费入群，就可以收到一份手把手教你“一键脱衣”的详细教程。</span></span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">北京市海淀区人民检察院近日披露的案件显示，犯罪嫌疑人张某</span></span><span><span style=\"font-size: 16px;\">在境外平台建立多个群组，</span></span><span><span style=\"font-size: 16px;\">贩卖“AI一键脱衣”软件及配套教程，</span></span><strong><span><span style=\"font-size: 16px;\">还附带教学实例和提示词文档，相当于将操作傻瓜化。</span></span></strong><span><span style=\"font-size: 16px;\">使用者下载后无需额外学习，打开软件可以直接操作，降低了使用门槛。其第一个群组就有27000人，所谓的“高级会员群”也有数千人。</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">张某售卖的</span></span><span><span style=\"font-size: 16px;\">软件工具价格也是</span></span><span><span><span style=\"font-size: 16px;\">一路飙升，</span></span></span><span><span style=\"font-size: 16px;\">从2023年的60多元一路涨至2025年的168元，但依然有数千人付费购买。使用软件后，他们还会交流心得，分享经验。从2023年8月至2025年6月其被捕，张某非法获利10万余元。</span></span></p><p start=\"start\"><span><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XEdicL1fJlUNZNKRE0MzZu1kGGiarFHq1ubKSjojzgndpy9I06WfCAiaJMMokxx7PmmJkFaNZlYSuL4hqDIniaZobV4Wuf7cXeUUN4/640?wx_fmt=jpeg\" style=\"width: 100%;\" /></span></p><p style=\"margin-bottom: 24px;\"><span start=\"start\"><span><span style=\"font-size: 16px;\">而</span></span><span><span><span style=\"font-size: 16px;\">张某并非是这款软件的原创开发者，他</span></span></span><strong><span><span style=\"font-size: 16px;\">利用现成的AI软件，通过特定关键词进行模型训练，将成型的AI脱衣模块进行打包出售。</span></span><strong><span><br /></span></strong></strong></span></p><p style=\"margin-bottom: 24px;\"><span start=\"start\"><strong><strong><span><span style=\"font-size: 16px;\">北京市海淀区人民检察院检察官李涛介绍，</span></span><strong><span><span style=\"font-size: 16px;\">所谓的“脱衣工具”并不是真的脱掉衣服，而是一种伪造、重绘技术。</span></span></strong><span><span style=\"font-size: 16px;\">实际上是算法对人物的特定部位进行了重新的数据生成和描绘，通过调整参数生成不同效果的裸体图像，因此这类图片其实都是虚假图片。</span></span></strong></strong></span></p><p style=\"margin-bottom: 24px;\"><span start=\"start\"><strong><strong><span><span style=\"font-size: 16px;\">今年5月19日，北京市海淀区人民法院作出判决：</span><span style=\"font-size: 16px; font-weight: bold;\">张某因犯非法利用信息网络罪，被判处有期徒刑一年六个月，并处罚金两万元</span><span style=\"font-size: 16px;\">。</span></span></strong></strong></span></p><section style=\"margin-bottom: 24px;\"></section><p><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">代工厂批量接单</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">学生、同事照片都成“素材”</span></span></p><p style=\"margin-bottom: 24px;\"><span><span><span style=\"font-size: 16px;\">利用“AI一键脱衣”工具，</span></span></span><strong><span><span style=\"font-size: 16px;\">只需要几秒到几分钟，就能批量生成大量淫秽图片。</span></span></strong><span><span><span style=\"font-size: 16px;\">而这样的便利，又催生出了下游的黑色产业链。</span></span></span><span><br /></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">北京某互联网公司技术员白某某，在境外社交媒体发布广告“去衣，1.5元一张”</span></span><span><span style=\"font-size: 16px;\">，浏览量迅速达3万人左右。客户通过QQ发送照片，指明需要处理的部位，白某某操作软件，</span></span><span start=\"start\"><span style=\"font-size: 16px;\">几分钟即可出图。短短几个月，他制作了近7000张虚假裸体图片，向351人贩卖，非法获利近一万元。</span></span></p><section style=\"margin-bottom: 24px;\"></section><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">办案检察官郭树正介绍，</span></span><span start=\"start\"><span style=\"font-size: 16px;\">白某某</span></span><span><span><span style=\"font-size: 16px;\">接单的制作对象</span></span></span><span start=\"start\"><span style=\"font-size: 16px;\">包括学生、教师、女同事的照片。</span></span><span><span style=\"font-size: 16px;\">白某某承认，他清楚这些图片可能被用于敲诈勒索、损害他人名誉等违法犯罪行为，但并未停止操作。</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">2024年，</span><span style=\"font-size: 16px; font-weight: bold;\">白某某因犯制作、贩卖淫秽物品牟利罪，被判处有期徒刑三年</span><span style=\"font-size: 16px;\">。</span></span></p><p><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">假图片沦为犯罪“武器”</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 18px; color: rgb(0, 122, 170); font-weight: bold;\">从网络诽谤到挂号信敲诈</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">这些通过“</span></span><span><span style=\"font-size: 16px;\">AI</span></span><span><span style=\"font-size: 16px;\">脱衣”生成的虚假色情图片，</span></span><span start=\"start\">被用于多种违法犯罪活动。</span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">2023年3月，广东广州一名网络博主在社交平台发布了一张普通的地铁随拍照，被不法分子</span></span><span><span><span style=\"font-size: 16px;\">通过AI软件“一键脱衣”后，生成裸露身体的虚假照片全网传播，</span></span></span><span start=\"start\"><span style=\"font-size: 16px;\">当事人随后遭受大量谣言攻击。</span></span></p><p style=\"margin-bottom: 24px;\"><span><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/JPu5lvAD1XFfEW7SeyL0RZPPzvYWFB5NqMhibKaJ8lTUR1sYKIwwKaI5mHc1WrVExicmGZhEicEicOE5Ot4CDDWHW8AxYpMtoGsyqgq18GnBC18/640?wx_fmt=jpeg\" style=\"width: 573px; height: 312px;\" /></span><span><br /></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">今年3月，河南南阳一犯罪团伙利用AI合成虚假不雅照片，批量装入信封，通过挂号信精准寄给全国多地银行工作人员，以“封口费”为名实施敲诈。警方在邮政部门配合下，成功拦截280封敲诈信，并将该犯罪团伙抓获</span></span><span><span style=\"font-size: 16px;\">。</span></span></p><p style=\"margin-bottom: 24px;\"><span><img class=\"rich_pages wxw-img\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/mmbiz_jpg/JPu5lvAD1XHWyIO1nyvwRrSZeUwvNZfrc5HlUYIOKH8cgXgC6l1mWPfSUnTxlUs1RM4pqibvW0cNehdOT5kNamficcgEwXEicz2xEiakAZnPd1Q/640?wx_fmt=jpeg\" style=\"width: 100%;\" /></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">科技是中立的，它可以为工作、生活提供方便，但同样可能被有心之人利用，沦为犯罪的工具。实现科技向善，既需要研发者守住伦理的红线，也离不开使用者筑牢法律的底线。</span></span></p><p style=\"margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">我国已发布《生成式人工智能服务管理暂行办法》，对提供、制作和研发</span></span><span><span style=\"font-size: 16px;\">AI工具，在义务上进行了明确规定。</span></span><span><span style=\"font-size: 16px;\">研发者必须守住伦理红线，在技术源头加上“安全锁”，不能任由功能被滥用。李涛强调，普通用户应知法守法，不能以“技术中立”作为违法借口。</span></span></p><p><strong><span><span>▌</span></span></strong><span><span>本文来源：</span><span><span>央</span><span>视新闻微信公众号</span><span><span><br /></span></span></span></span></p><section><section><hr /><section><span><span>监制/王元  主编/张志达</span></span></section><section><span><span>编辑/关欣</span></span></section><section><span><span>来源/《法治在线》</span></span></section></section></section><section><span><strong><span><strong><span><span>©央视新闻</span></span></strong></span></strong></span></section><p style=\"display: none;\"></p></div> \n                <video controls=\"controls\" id=\"video\" src=\"http://mpvideo.qpic.cn/0bc3mabx4aadx4abl5lllbvfgygdpzqag7qa.f10002.mp4?dis_k=2af10c46d21f1795b86bdb6d88ead40b&amp;dis_t=1785243076&amp;play_scene=10120&amp;auth_info=Wf7A79x3cSNeydupmXdXEA4sPj9NQjViHWlsZk44YkdnTwQiZhMEECN6NlljS18FcXV0ZhsdN3wbfWY=&amp;auth_key=d7f8a410eed85094768167b1df52dc91\" width=\"100%\">\n                    <div class=\"fallback\"><p></p></div>\n                </video>\n                \n    \n\n    \n    <br />\n\n    \n        <a class=\"media_tool_meta meta_primary\" href=\"http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657951208&amp;idx=1&amp;sn=3896a17bcc56e68e901e9b245083396a&amp;chksm=7bf9b3b9661f2b6fd327a50a4872c588800661724c6822f75e22b0e9bc1e4d3fd20b77dc19df&amp;scene=0#rd\" style=\"color: blue;\" target=\"_blank\">文章原文</a>\n        <br />\n    \n\n    \n\n    <img alt=\"\" class=\"\" height=\"1px\" src=\"http://www.jintiankansha.me/rss_static/18664/HzbMO7dwJq\" style=\"width: 1px; height: 1px; display: none;\" width=\"1px\" /></div></div>",
-          "source": "央视新闻"
-        },
-        {
-          "title": "俄罗斯警告日本",
-          "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "published": "Tue, 28 Jul 2026 19:55:00 +0800",
-          "summary": "<div><div><div class=\"rich_media_content\" id=\"js_content\"><section><img alt=\"图片\" class=\"rich_pages wxw-img __bg_gif\" src=\"http://img2.jintiankansha.me/get?src=http://mmbiz.qpic.cn/sz_mmbiz_gif/oq1PymRl9D6RP2nDfy42zGUT7g9QD8UaWAo7soxwCyzeTZPQheSOaibIe2e9fFIpRUhLuAA68vNThZicYSVQpq2A/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=20\" /></section><p style=\"line-height: 1.6em; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">俄罗斯外交部发言人扎哈罗娃27日表示，日本如果在加速推进的“再军事化”进程中引入核武器，不仅将给俄国家安全带来威胁和挑战，也危害整个地区的稳定。</span></span></p><section class=\"channels_iframe_wrp\" style=\"margin-bottom: 24px;\"></section><p style=\"line-height: 1.6em; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">针对日本防卫大臣小泉进次郎近期声称“日本应毫无禁忌地讨论与核武器相关的政策”，扎哈罗娃27日在例行记者会上说，日本是“核门槛”国家，一旦作出决定，日本能够在较短时间内研制出核弹头。小泉此番言论并不能以“防卫”作为理由来自辩，因为没有国家威胁日本主权和领土完整，相反，日本军国主义思潮正死灰复燃。</span></span></p><p style=\"line-height: 1.6em; margin-bottom: 24px;\"><span><span style=\"font-size: 16px;\">扎哈罗娃表示，俄方再次呼吁日方铭记二战历史教训并重回和平发展道路。</span></span></p><section><strong><span><span>▌</span></span></strong><span><span>本文来源：</span><span><span>央视新闻微信公众号</span></span></span></section><section><section><hr /><section><section><section><section><section><span><span>监制/王元  主编/张志达</span></span><p><font face=\"等线\"><span><span style=\"font-size: 12px; color: rgb(178, 178, 178);\">编辑/余甜甜</span></span></font></p></section></section></section></section></section></section></section><section><span><strong><span><strong><span><span>©央视新闻</span></span></strong></span></strong></span></section><p style=\"display: none;\"></p></div>\n    \n\n    \n    <br />\n\n    \n        <a class=\"media_tool_meta meta_primary\" href=\"http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657951203&amp;idx=1&amp;sn=100b9e132be7634f90f58c25426729e2&amp;chksm=7b3be3b880972f4e3c7f98a7962c9308d6c2a326e7e8ab421230ebf11c5e06723a57ba95a98a&amp;scene=0#rd\" style=\"color: blue;\" target=\"_blank\">文章原文</a>\n        <br />\n    \n\n    \n\n    <img alt=\"\" class=\"\" height=\"1px\" src=\"http://www.jintiankansha.me/rss_static/18664/vp1mX90Btz\" style=\"width: 1px; height: 1px; display: none;\" width=\"1px\" /></div></div>",
-          "source": "央视新闻"
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "zaobao": {
       "name": "zaobao",
       "name_cn": "联合早报",
-      "count": 10,
-      "articles": [
-        {
-          "title": "路透：中国与也门胡塞武装磋商 争取船只安全通过红海",
-          "url": "https://www.zaobao.com/news/china/story20260729-9436023",
-          "published": "Wed, 29 Jul 2026 01:16:07 GMT",
-          "summary": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>知情人士透露，在与伊朗结盟的也门胡塞武装扬言封锁沙特阿拉伯港口后，中国已直接与胡塞武装磋商，争取让中国油轮安全通过红海南部。</p><p>据路透社报道，胡塞武装7月20日宣布封锁沙特港口，将伊朗战争中针对美国及盟友的行动扩大至海上运输。胡塞武装随后电邮警告国际航运公司，凡在沙特港口装卸货物的船只，都可能遭到袭击。</p><p>包括一名伊朗高级官员在内的知情人士说，北京已直接要求胡塞武装保证中国油轮安全通行。中国也是最早就此与胡塞武装接触的国家之一。</p><p>由于伊朗实际上已封锁海湾出口处的霍尔木兹海峡，北京正设法维持从沙特红海沿岸港口、主要是延布港运往中国的石油供应，以填补缺口。在此情况下，油轮需要经过红海南端的曼德海峡，也门则位于海峡东岸。</p><p>能源分析公司Kpler的分析，以及伦敦证券交易所集团和船舶追踪网站MarineTraffic的数据显示，胡塞武装宣布限制措施后，至少已有四艘从沙特港口装载原油、驶往中国的油轮通过曼德海峡。</p>\n    \n  <p>一名知情人士说，中国官员正逐艘与胡塞武装协调放行事宜。两名获德黑兰通报的地区官员则透露，中国和胡塞武装均已把相关安排告知伊朗。</p><p>另有两名接近胡塞武装的知情人士说，胡塞武装与中国一直保持良好关系，双方过去也曾密切协调，尤其是在沙特对华石油运输方面。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "港媒：湖南高校大反腐 与军工密切南华大学两任校长被查",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435938",
-          "published": "Wed, 29 Jul 2026 00:54:38 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/61ead3d34c53b67a4e214b6aa36515f3a1fc4627ba2ab5458d5b277af2f3724a\" /><figcaption></figcaption></figure><div><div><p>香港媒体报道，位于中国湖南省的高校展开大反腐，南华大学一个月之内罕见有两任校长被查。二人均出身中南大学，这所中国重点大学的正副校长此前也先后落马，而两间湖南高校都与军工系统有密切关联。</p><p>香港《明报》星期二（7月29日）报道上述消息。湖南省纪委监委星期一（7月28日）通报，南华大学中共党委副书记、校长夏昆涉嫌严重违纪违法任上被查。此前，这所湖南省内重点医学高校的前任校长张灼华，已在7月3日通报受查。</p><p>报道指出，两人均出身湘雅医学遗传学体系，都曾任中南大学要职，先后担任南华大学校长，时隔不到一个月相继被调查。</p><p>公开信息显示，55岁的夏昆是湖南人，1989年考入中南大学湘雅医学院，2004年取得医学遗传学博士学位，凭借系列科研成果先后获评长江学者特聘教授、国家杰出青年基金获得者、973计划首席科学家，长期在母校任职，曾任生命科学学院院长、湘雅医学院常务副院长等职。</p><p>夏昆在2021调任南华大学副校长，去年11月升任校长。从正式执掌学校到被通报调查，任期不足八个月。</p>\n    \n  <p>夏昆的前任张灼华同样深耕医学遗传学领域，从业经历高度重合。 62岁的张灼华1980年进入湖南医学院，1989年取得医学遗传学硕士后赴美深造取得博士学位，1996年返回中国进入湖南医科大学医学遗传学国家重点实验室。2008年出任中南大学校长助理、重点实验室主任，2010年升任中南大学副校长。</p><p>2016年5月，张灼华调任南华大学校长，至2025年11月卸任。张灼华还是中国全国政协常委、湖南省政协副主席，农工党湖南省委主委。</p><p>中纪委7月23日也通报，中南大学原副校长郭学益被开除中共党籍和公职，移送司法。郭学益在去年12月官宣落马。此前，去年10月17日，中南大学前校长、中国工程院院士张尧学也被查。张尧学于2011年10月至2017年5月任中南大学校长，今年5月被开除党籍和公职，之后撤销院士称号。</p><p>《明报》报道称，南华大学与中南大学有历史渊源，且都与军工系统密切关联。中南大学以矿冶见长，航天学院与国防科学技术研究院获中国教育部重点支持建设。南华大学则与核军工渊源深厚，2000年率先成立了核科学技术学院，也是海军后备军官选拔培训基地。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "美国禁止进口中国新款人形机器人 防范AI供应链风险",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435912",
-          "published": "Wed, 29 Jul 2026 00:41:57 GMT",
-          "summary": "<figure><img src=\"https://www.zaobao.com.sg/_web2/assets/social-share.png\" /><figcaption></figcaption></figure><div><div><p>美国政府星期二（7月28日）宣布，禁止进口中国新款机器人和电力逆变器，以防范美国人工智能（AI）供应链面临的国家安全风险，并推动关键产业回流美国。</p><p>据路透社报道，美国联邦通信委员会（FCC）当天公布相关措施，禁止进口中国新款人形机器人、四足机器人，以及用于将可再生能源和电池接入电网及数据中心设备的联网型电力逆变器。</p><p>这项措施显示，特朗普政府正加强保护美国AI供应链，防范供应中断、数据窃取和网络攻击等风险，同时推动企业把生产转移到美国。</p><p>FCC在声明中说，这些设备可能造成供应链漏洞，冲击美国经济和国家安全，并构成威胁关键基础设施的网络安全风险。FCC主席卡尔（Brendan Carr）也说：“FCC将继续尽己所能，保障美国关键供应链的安全。”</p><p>部分分析师预测，配备AI“大脑”的人形机器人未来将在消费和工业领域广泛应用。随着美国数据中心建设迅速扩张，市场对稳定可靠的逆变器供应也将更加依赖。</p>\n    \n  <p>新措施自公布后立即生效，但仅适用于尚未推出的机器人和逆变器型号。不过，FCC有权撤销已获准在美国销售的现有型号授权。</p><p>另据四名知情人士透露，FCC预计将豁免许多非中国供应商，做法与近期限制外国无人机和路由器时类似。</p><p>报道称，禁令预计将冲击中国机器人制造商宇树科技。市场研究机构Counterpoint Research的数据显示，宇树科技是全球人形机器人龙头企业，市场占有率接近五分之一。</p><p>宇树科技近期与英伟达达成合作，采用后者先进的Blackwell晶片驱动机器人的AI“大脑”。英伟达称，机器人收集的数据将留在美国，宇树科技在美主要客户为学术和科研机构。</p><p>不过，美国对华鹰派人士担心，这些机器人可能被用于监视美国关键产业、向北京传输数据，甚至干扰重要设施运作。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "唐山大地震50周年 李强受习近平委托到唐山调研慰问",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435892",
-          "published": "Wed, 29 Jul 2026 00:33:50 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/3cd4c437ce3eb73b8fbc7a24ff6c1024fa97462bf541d5d4b2c14fada276996c\" /><figcaption></figcaption></figure><div><div><p>星期二（7月28日）是唐山大地震50周年纪念日，受中国国家主席、中共总书记习近平委托，中共政治局常委、中国总理李强当天到河北省唐山市调研慰问。</p><p>据新华社报道，李强首先来到唐山地震遗址纪念公园，以中共中央、国务院名义向唐山大地震罹难者和抗震救灾捐躯者敬献花篮，并向纪念墙三鞠躬。</p><p>李强说，50年前那场灾难令人难以忘记，当年可歌可泣的抗震救灾情景感人至深。半个世纪以来，唐山人民在一片废墟上重建了一座现代化新兴城市，“这是我们党领导人民战胜各种困难挑战的生动典范”。</p><p>在唐山市截瘫疗养院，李强听取疗养院近年发展情况汇报，看望慰问地震截瘫伤员，并与他们交流。</p><p>他说：“习近平总书记十分牵挂大家，一直惦念大家的身体、生活状况，这次专门委托我来看望大家。今天看到大家的状态很好，我感到非常欣慰，大家身上展现出的坚强不屈精神和积极乐观生活态度更是值得敬佩，祝愿大家健康幸福、越来越好。”</p>\n    \n  <p>2016年7月28日，习近平曾到唐山市截瘫疗养院看望截瘫伤员，欣赏截瘫伤员表演的二胡伴唱《唱支山歌给党听》。</p><p>唐山大地震发生于1976年7月28日凌晨3时42分，是在唐山发生的一场7.8级特大浅源地震。由于地震发生在深夜且震源浅，导致这座当时百万人口的工业重镇瞬间夷为废墟。官方数据显示，地震造成24万2769人死亡、16万4000多人重伤，是上世纪全球伤亡最惨重的自然灾害之一。</p><p>翻阅过去中国官媒报道，唐山大地震20周年、30周年和40周年纪念日时，中国最高领导人都前往唐山慰问。</p><p>李强星期二还到安能集团第一工程局唐山分公司有关救援基地，了解基地承担救援任务、未来发展规划等情况，察看各类装备，与救援人员交流。</p><p>李强指出，防灾减灾救灾工作关系人民安危和国家安全。要时刻绷紧应急救援这根弦，常态化开展实战训练、联合演练，全面提升快速响应、科学施救、高效处置的专业能力。要强化应急领域装备技术支撑，以科技赋能提高救援精准度和安全性。要大力开展科普宣传，增强全民防灾避险意识和能力。</p><p>李强说，当前正处在“七下八上”防汛关键期，要全面压实责任，强化监测预警，备足物资装备，在灾害来临时第一时间响应、科学有序应对。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "中国官方要求国有文物管理机构提供主动公开授权使用等服务",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435744",
-          "published": "Tue, 28 Jul 2026 23:42:00 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/ec8f860a35f39dfc98913c7a2002aeede2e681dbefb90e82a727104125d68fd0\" /><figcaption></figcaption></figure><div><div><p>中国国家文物局出台《国有文物资源数据管理办法》，要求国有文物管理机构提供主动公开、授权使用等服务。</p><p>据中新社报道，在星期二（7月28日）的新闻发布会上，中国国家文物局科技教育司司长罗静指出，《办法》强调国有文物管理机构应面向社会提供主动公开、授权使用等服务，推动文物保护与数字化发展成果更多更公平惠及广大民众。</p><p>《办法》明晰了国有文物资源数据权益主体，明确了国有文物资源数据责任主体，构建了数据采集、加工、存储、传输、登记、服务全生命周期管理制度，对实现文物数据权益清晰、开放有序、利用有效、安全可控的科学管理目标，指导文物行业开展文物数字化实践具有重要意义。</p><p>罗静表示，实体文物受各种条件限制不可能全部长期展出，而数字资源可以把有限的线下展陈延伸为全天候公共文化服务。《办法》要求国有文物管理机构通过官方网站等平台，有计划、有步骤地主动公开文物高清影像以及数字展览等内容，满足社会公众浏览、欣赏、学习等使用需求。</p><p>在非营利性授权使用方面，文博从业人员、科研人员、教育从业者等文物考古研究与价值阐释主体，需要来源可靠、信息完整、体系化的文物数据，支撑开展学术研究、论文刊发、公益展览、公益宣传等非营利活动。《办法》要求国有文物管理机构按照非营利性原则明确使用范围并向社会公布，通过授权方式提供相应的文物数据。</p><p>在经营性活动授权使用方面，《办法》要求国有文物管理机构根据使用方申请，协商确定授权使用范围和服务费用，提供相应的数据。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "奔驰下调全年营收展望 中国豪车市场颓势加深",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435736",
-          "published": "Tue, 28 Jul 2026 23:17:01 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/c6dc9b86921c74b51dbca0ba6848a1cfdb0bd75330c0145790359015fcd08b23\" /><figcaption></figcaption></figure><div><div><p>梅赛德斯-奔驰（新加坡译为马赛地）集团下调全年业绩预期，理由是中国市场需求疲软。</p><p>据彭博社报道，梅赛德斯-奔驰星期二（7月28日）表示，目前预计集团营收将略低于上年水平，此前的预测是与上年持平。</p><p>中国经济放缓令梅赛德斯-奔驰首席执行官推动公司进一步在高端市场扩张的努力面临挑战。公司第二季度在中国的销量大跌30%，超过整体市场下跌幅度。</p><p>第二季度，奔驰汽车制造业务的调整后营业利润同比下滑26%。公司仍维持对汽车业务年度利润率的预期。</p><p>奔驰已将目光聚焦于下半年，预计新产品将带来销售增长。下半年的销量将主要依赖改款S级轿车、全新电动GLC SUV和升级版GLE和GLS车型。</p><p>除奔驰外，大众汽车上周也下调了营收预期，因交付量低于预期。</p><p>报道称，中国房地产市场持续低迷，削弱消费者信心，令豪华汽车需求受挫。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "杨丹旭：黄仁勋点燃硅谷AI大激辩",
-          "url": "https://www.zaobao.com/news/china/story20260729-9435262",
-          "published": "Tue, 28 Jul 2026 21:00:00 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/5be0b9181548c04907bddcc067960e19f331501dabc638e203e317fcb4d4f067\" /><figcaption></figcaption></figure><div><div><p>美国晶片巨头英伟达掌舵人黄仁勋上周五（7月24日）在社交平台X上发布了“处女帖”，力挺开源人工智能（AI）模型，还附上一封题为《开放权重与美国的AI领导地位》的公开信。和英伟达一起签署这封信的，还有Meta、微软、Palantir等25家美国科技企业与机构。</p><p>这封公开信把围绕AI开源的争论，与1980年代开源软件的崛起做比较，指出开放权重模型将允许初创企业、大学和公共机构直接在先进模型基础上进行开发，无须从头训练模型，也无须为每项任务都支付昂贵的前沿模型使用费，从而能扩大AI经济的参与面。</p><p>公开信也认为，这将加强行业竞争，确保AI红利被广泛共享，而非被少数人垄断；也能赋予客户更大自主控制权，不被单一供应商深度绑定。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”",
-          "url": "https://www.zaobao.com/news/china/story20260729-9434970",
-          "published": "Tue, 28 Jul 2026 16:00:12 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/21de9ced5a8f7aa6f75b4dc950fd0161f548bb7b8ad240ad050b04bbc24cc526\" /><figcaption></figcaption></figure><div><div><p>中国本周传出已开始生产自主研发的浸没式深紫外光刻机，预计今年内交付约五台这类晶片制造关键设备。受访学者评估，若消息属实，意味着美国对华科技战持续数年的“小院高墙”策略宣告失效，中国应对美国以晶片和光刻机卡脖子取得里程碑式突破，但在设备质量追赶行业龙头可能有待数年。</p><p>美国科技媒体《信息报》（The Information）星期一（7月27日）引述两名消息人士披露，位于上海的一家国资企业开始生产深紫外光刻机（Deep Ultraviolet Lithography，简称DUV），并已从光刻初创公司上海宇量昇科技等其他中国企业抽调人员，组建研发团队，计划今年生产约五台DUV，明年目标约20台，预计今年内交付中芯国际、华虹半导体和长鑫存储。这三家中国主要晶片制造商，目前受到不同程度的美国制裁与出口管制限制。</p><p>因荷兰晶片设备制造巨头阿斯麦（ASML）被禁止对华出口最先进的极紫外光刻机（Extreme Ultraviolet Lithography，简称EUV），浸没式DUV成为中国晶片制造商目前能使用的最先进光刻设备，用于在硅晶圆上印制电路图形。报道称，中国也正在研发国产EUV，但目前仍处于原型机阶段。</p><p>路透社星期二（28日）引述消息人士证实中国开始生产国产DUV，并点名仅创立三年的上海爱晟纳电子科技集团，在整合来自中国顶尖光刻初创公司的团队后，正领导生产工作。</p><p>中国企业信息查询系统“天眼查”资料显示，上海爱晟纳成立于2023年8月，注册资本逾70亿元人民币（13.4亿新元），专注于半导体与电子专用设备研发、制造和销售，由上海电气控股和上海国际信托旗下子公司等两家国有企业持股。</p>\n    \n  <p>新加坡管理大学李光前商学院金融学副教授傅方剑接受《联合早报》采访时说：“如果这个消息属实，那当然是代表中国在科技攻关、克服美国卡脖子取得一个里程碑式的突破。”</p><p>傅方剑指出，美国拜登时期升级对华科技战，联合日本、台湾、荷兰等晶片供应链方卡中国大陆脖子；美国国会今年4月还推动《硬件技术多边协调管制法案》（MATCH Act），进一步限制北京获取阿斯麦DUV等设备及售后服务。</p><p>他说：“中国早就知道这块必须自立自强，美国是不可能放松的，所以中国确实一直在组织，生产国产DUV只是什么时候做出来的问题。”</p><p>消息人士称，爱晟纳的DUV光刻机预计还需进一步测试，与阿斯麦机型相比还有很大差距，不会直接构成商业威胁。但投资者仍担忧这将对这家荷兰巨头在华市场地位构成挑战，导致阿斯麦股价星期一跌至6月初以来最低水平，一度重挫8.3%。</p><p>摩根大通分析师星期二在报告中指出，生产少量DUV工具，与大批量生产不同，“在大批量生产中，良率、套刻精度、吞吐量和数千片晶圆运行的可靠性才是关键”。</p><p>傅方剑认为，尽管中国加速生产国产DUV，但“刚出来的机器还需要各方测试，质量还需要磨合提高，再给个三四年，才可能做得和阿斯麦的DUV质量相差无几”。</p><p>新加坡优势研究咨询公司联合创始人张帆受访时指出，中美科技战已持续八九年，中国期间在重建设备体系方面取得相当大的进展。“现在中国的第一代DUV，性能肯定还不如阿斯麦现有的产品，但有了基础以后，其实产品是可以迭代的，中国突破七纳米（晶片）只是时间问题”。</p><p>张帆认为，中国一旦加速开发国内替代产品，“可能假以时日就会全面对美国技术为主导的半导体产业，产生真正的‘生存级的威胁’”。 </p><p>张帆并指出，美国对华发起科技围堵已失效并宣告破产，“拜登任期内采取的小院高墙政策，基本上完全没有达到预定效果，美国应该考虑把墙拆了，就像当初柏林墙拆掉一样，这个墙存在没有任何意义了”。</p><p>尽管硬件方面取得可观进展，但张帆指出，中国在晶片算力方面仍与美国有差距。他呼吁中国考虑在未来两三年的过渡期，引进更多有性能优势的美国晶片，以确保中国人工智能模型有足够算力支撑迭代，以跟上美国模型的更新步调。 </p><p>他说：“（中国）需要有两条腿走路的均衡态势，全部都要求只能用国产晶片，就会变成单脚跳，单脚是跑不快的。” </p><div class=\"bff-sub-heading\"><h2>什么是深紫外线（DUV）与极紫外线（EUV）？</h2></div><p>DUV（深紫外线）和 EUV（极紫外线）是制造半导体晶片最核心的两大光刻技术。两者的本质区别在于光源波长不同，DUV是支撑当前行业产能的“中流砥柱”，EUV则是突破物理极限、攀登性能巅峰的“行业金字塔尖”。</p><p>据阿斯麦官网、中国科学院微电子研究所等介绍，DUV波长193纳米，如同细笔，通过多次曝光雕刻电路，适用于生产七纳米以上成熟晶片，包括多数汽车晶片、手机基带等。</p><p>EUV波长骤降至13.5纳米，如同超细针管笔，必须在真空环境下通过反射镜运作，主要用于生产五纳米、三纳米及以下先进晶片，包括高端手机SoC（System on Chip）、人工智能等晶片。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "重庆彭水山体崩塌 23日至今搜出30死者",
-          "url": "https://www.zaobao.com/news/china/story20260728-9434901",
-          "published": "Tue, 28 Jul 2026 14:02:35 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/590c11e662737f8c49a48f51e85376f894d845fde459efe9845bb2aedad20560\" /><figcaption></figcaption></figure><div><div><p>中国重庆彭水县发生山体崩塌后，从上星期四（7月23日）至星期二（28日）晚上9时，累计新搜寻确认出30名遇难者。</p><p>重庆彭水汉葭街道于7月17日上午9时发生大型山体崩塌事故，多栋居民楼和一辆载有多人的客运巴士被埋。</p><p>据中国央视新闻报道，事故救援工作进入深度搜寻以来，专业救援力量24小时连续作业，进行反复排查、层层推进、逐一搜寻。</p><p>截至星期二，中国当局已全面完成对A、B区的搜寻，C、D区搜寻工作进入最后攻坚阶段。</p><p>从上星期四至星期二晚上9时，对现场搜寻到的遗体及残骸进行DNA检测鉴定后，已累计新搜寻确认出30名遇难者。</p><p>另有部分搜寻结果正在DNA检测中。</p></div></div>",
-          "source": "联合早报"
-        },
-        {
-          "title": "中国民政部前部长陆治原当选中华全国总工会副主席",
-          "url": "https://www.zaobao.com/news/china/story20260728-9434524",
-          "published": "Tue, 28 Jul 2026 12:55:37 GMT",
-          "summary": "<figure><img src=\"https://cassette.sphdigital.com.sg/image/zaobao/91af92cd11dbf07bcff3eed236e47733ab0cea38f68d8eda13ba0a15c176bd0f\" /><figcaption></figcaption></figure><div><div><p>中国民政部前部长陆治原出任中华全国总工会中共党组书记后，在星期二（7月28日）当选中华全国总工会副主席、书记处第一书记。</p><p>新华社报道，根据《中国工会章程》规定，星期二在北京召开的中华全国总工会执行委员会全体会议，选举陆治原为副主席；中华全国总工会执行委员会主席团全体会议推选陆治原为中华全国总工会书记处第一书记。</p><p>公开资料显示，陆治原今年62岁，曾在陕西省内工作多年，担任过榆林市委副书记、市长，渭南市委书记等职，2018年1月升任陕西副省长。</p><p>陆治原2018年9月跨省履新辽宁省委常委、组织部部长，2021年9月调任山东省委常委、青岛市委书记，后任山东省委副书记、青岛市委书记。</p><p>陆治原2023年10月任民政部党组书记，2023年12月任民政部党组书记、部长。中华全国总工会机关报《工人日报》今年6月30日在微信公众号报道，中共中央决定，陆治原任中华全国总工会党组书记。</p>\n    \n  </div></div>",
-          "source": "联合早报"
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "wallstreetcn": {
       "name": "wallstreetcn-hot",
@@ -255,8 +148,79 @@
     "ths": {
       "name": "ths",
       "name_cn": "同花顺",
-      "count": 0,
-      "articles": []
+      "count": 10,
+      "articles": [
+        {
+          "title": "2韩国综指今年第九次熔断！交易暂停20分钟7月29日，韩国首尔综合指数下跌8%后触发熔断机制，交易暂停20分钟。这是韩国股市今年以来第九次触发熔断机制。　　当日，SK海力士暴跌超10%。此前，韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。韩国交易所对KOSDAQ指韩股跌势不止！财闻35分钟前",
+          "url": "https://news.10jqka.com.cn/20260729/c678512210.shtml",
+          "published": "2026-07-29",
+          "summary": "2韩国综指今年第九次熔断！交易暂停20分钟7月29日，韩国首尔综合指数下跌8%后触发熔断机制，交易暂停20分钟。这是韩国股市今年以来第九次触发熔断机制。　　当日，SK海力士暴跌超10%。此前，韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。韩国交易所对KOSDAQ指韩股跌势不止！财闻35分钟前",
+          "source": "同花顺"
+        },
+        {
+          "title": "AI股暴跌引发追保潮，高盛摩根大通向对冲基金追讨抵押品华尔街见闻45分钟前",
+          "url": "https://t.10jqka.com.cn/pid_667554302.shtml",
+          "published": "2026-07-29",
+          "summary": "AI股暴跌引发追保潮，高盛摩根大通向对冲基金追讨抵押品华尔街见闻45分钟前",
+          "source": "同花顺"
+        },
+        {
+          "title": "刚刚，“伊朗对美军发动突然袭击”！胡塞武装发射多枚弹道导弹！油价直线飙升，OPEC+最新计划曝光！美股科技板块重挫期货日报4小时前",
+          "url": "https://news.10jqka.com.cn/20260729/c678502705.shtml",
+          "published": "2026-07-29",
+          "summary": "刚刚，“伊朗对美军发动突然袭击”！胡塞武装发射多枚弹道导弹！油价直线飙升，OPEC+最新计划曝光！美股科技板块重挫期货日报4小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "SK海力士营业利润飙涨557%！HBM4下半年将扩大生产，但市场期待更高财闻5小时前",
+          "url": "https://news.10jqka.com.cn/20260729/c678500440.shtml",
+          "published": "2026-07-29",
+          "summary": "SK海力士营业利润飙涨557%！HBM4下半年将扩大生产，但市场期待更高财闻5小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "最高80亿元回购！“易中天”密集发声，齐看好行业前景中国基金报昨天 23:26",
+          "url": "https://news.10jqka.com.cn/20260728/c678498903.shtml",
+          "published": "2026-07-29",
+          "summary": "最高80亿元回购！“易中天”密集发声，齐看好行业前景中国基金报昨天 23:26",
+          "source": "同花顺"
+        },
+        {
+          "title": "放量异动！两大宽基ETF，单日成交破百亿！资金风向要变了吗？券商中国4小时前",
+          "url": "https://t.10jqka.com.cn/pid_667370985.shtml",
+          "published": "2026-07-29",
+          "summary": "放量异动！两大宽基ETF，单日成交破百亿！资金风向要变了吗？券商中国4小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "美股涨跌互现AI概念股惨遭抛售，苹果市值首破5万亿美元要闻君4小时前",
+          "url": "https://t.10jqka.com.cn/pid_667382642.shtml",
+          "published": "2026-07-29",
+          "summary": "美股涨跌互现AI概念股惨遭抛售，苹果市值首破5万亿美元要闻君4小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "11部门联合发文，中药行业又迎政策利好，融资7月净买入9只中药股证券时报网3小时前",
+          "url": "https://news.10jqka.com.cn/20260729/c678502860.shtml",
+          "published": "2026-07-29",
+          "summary": "11部门联合发文，中药行业又迎政策利好，融资7月净买入9只中药股证券时报网3小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性华尔街见闻5小时前",
+          "url": "https://t.10jqka.com.cn/pid_667366609.shtml",
+          "published": "2026-07-29",
+          "summary": "苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性华尔街见闻5小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "刚刚，全线拉升！日韩股市，大反攻！券商中国3小时前",
+          "url": "https://t.10jqka.com.cn/pid_667419495.shtml",
+          "published": "2026-07-29",
+          "summary": "刚刚，全线拉升！日韩股市，大反攻！券商中国3小时前",
+          "source": "同花顺"
+        }
+      ]
     },
     "phoenix": {
       "name": "phoenix",
@@ -292,24 +256,17 @@
           "source": "凤凰网"
         },
         {
+          "title": "禁止进口中国新型机器人和逆变器，美国在忌惮什么？",
+          "url": "https://news.ifeng.com/c/8v9Ibfxya12",
+          "published": "2026-07-29",
+          "summary": "禁止进口中国新型机器人和逆变器，美国在忌惮什么？",
+          "source": "凤凰网"
+        },
+        {
           "title": "日本7.1级强震亲历者：红绿灯变黑，抬头时见楼房开始倒塌",
           "url": "https://news.ifeng.com/c/8v8a79T0gXq",
           "published": "2026-07-29",
           "summary": "日本7.1级强震亲历者：红绿灯变黑，抬头时见楼房开始倒塌",
-          "source": "凤凰网"
-        },
-        {
-          "title": "巴西阿根廷，掀桌子吵起来了",
-          "url": "https://news.ifeng.com/c/8v9CjXslQ4g",
-          "published": "2026-07-29",
-          "summary": "巴西阿根廷，掀桌子吵起来了",
-          "source": "凤凰网"
-        },
-        {
-          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
-          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
-          "published": "2026-07-29",
-          "summary": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "source": "凤凰网"
         },
         {
@@ -320,6 +277,13 @@
           "source": "凤凰网"
         },
         {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "published": "2026-07-29",
+          "summary": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "source": "凤凰网"
+        },
+        {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
           "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
           "published": "2026-07-29",
@@ -327,88 +291,88 @@
           "source": "凤凰网"
         },
         {
-          "title": "乌克兰千里一击，里海燃起烽烟，俄乌、中东局势或迎来变数",
-          "url": "https://news.ifeng.com/c/8v8T4nsu8bj",
+          "title": "巴西阿根廷，掀桌子吵起来了",
+          "url": "https://news.ifeng.com/c/8v9CjXslQ4g",
           "published": "2026-07-29",
-          "summary": "乌克兰千里一击，里海燃起烽烟，俄乌、中东局势或迎来变数",
+          "summary": "巴西阿根廷，掀桌子吵起来了",
           "source": "凤凰网"
         }
       ]
     },
-    "caixin": {
-      "name": "caixin",
-      "name_cn": "财新",
+    "sina": {
+      "name": "sina",
+      "name_cn": "新浪",
       "count": 10,
       "articles": [
         {
-          "title": "Promotion",
-          "url": "https://promote.caixin.com/",
+          "title": "新浪财经全球资本峰会",
+          "url": "https://finance.sina.com.cn/zt_d/subject-1783394329/",
           "published": "2026-07-29",
-          "summary": "Promotion",
-          "source": "财新"
+          "summary": "新浪财经全球资本峰会",
+          "source": "新浪"
         },
         {
-          "title": "网上有害信息举报专区",
-          "url": "https://www.12377.cn/",
+          "title": "世界人工智能大会",
+          "url": "https://finance.sina.com.cn/zt_d/subject-1782718283/",
           "published": "2026-07-29",
-          "summary": "网上有害信息举报专区",
-          "source": "财新"
+          "summary": "世界人工智能大会",
+          "source": "新浪"
         },
         {
-          "title": "English",
-          "url": "https://en.caixin.com/",
+          "title": "聚焦2026基金二季报",
+          "url": "https://finance.sina.com.cn/zt_d/jjjjejb2026",
           "published": "2026-07-29",
-          "summary": "English",
-          "source": "财新"
+          "summary": "聚焦2026基金二季报",
+          "source": "新浪"
         },
         {
-          "title": "数据通Claw🦞",
-          "url": "https://cxdata.caixin.com/nexus/#/CaixindataClaw?source=caixinweb",
+          "title": "港股硬科技大反攻！规模最大港股通信息技术ETF华宝（159131）冲高逾2%，小米、智谱涨超4%",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumm0037260.shtml",
           "published": "2026-07-29",
-          "summary": "数据通Claw🦞",
-          "source": "财新"
+          "summary": "港股硬科技大反攻！规模最大港股通信息技术ETF华宝（159131）冲高逾2%，小米、智谱涨超4%",
+          "source": "新浪"
         },
         {
-          "title": "“补税潮”背后的治理逻辑",
-          "url": "https://opinion.caixin.com/2026-07-29/102468986.html",
+          "title": "稳！逆市6连涨，百亿银行ETF华宝（512800）再创反弹新高！",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumm0036496.shtml",
           "published": "2026-07-29",
-          "summary": "“补税潮”背后的治理逻辑",
-          "source": "财新"
+          "summary": "稳！逆市6连涨，百亿银行ETF华宝（512800）再创反弹新高！",
+          "source": "新浪"
         },
         {
-          "title": "对驰名商标的特别保护，边界在哪里",
-          "url": "https://opinion.caixin.com/2026-07-29/102468981.html",
+          "title": "AI医疗或迎价值兑现窗口，京东健康涨超5%，港股通医疗ETF（159137）上探2.84%！规模最大医疗ETF逆市飘红",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumr5891117.shtml",
           "published": "2026-07-29",
-          "summary": "对驰名商标的特别保护，边界在哪里",
-          "source": "财新"
+          "summary": "AI医疗或迎价值兑现窗口，京东健康涨超5%，港股通医疗ETF（159137）上探2.84%！规模最大医疗ETF逆市飘红",
+          "source": "新浪"
         },
         {
-          "title": "今日开盘：沪指报3823.29点 涨幅0.26%",
-          "url": "https://finance.caixin.com/2026-07-29/102468979.html",
+          "title": "低位互联网龙头继续补涨，小米大涨6%，打新长鑫科技浮盈超7亿？513770涨近4%站上重要均线",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmumm0034263.shtml",
           "published": "2026-07-29",
-          "summary": "今日开盘：沪指报3823.29点 涨幅0.26%",
-          "source": "财新"
+          "summary": "低位互联网龙头继续补涨，小米大涨6%，打新长鑫科技浮盈超7亿？513770涨近4%站上重要均线",
+          "source": "新浪"
         },
         {
-          "title": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
-          "url": "https://www.caixin.com/2026-07-29/102468972.html",
+          "title": "【早盘三分钟】7月29日华宝基金ETF早知道",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-29/doc-inikmqcr1689354.shtml",
           "published": "2026-07-29",
-          "summary": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
-          "source": "财新"
+          "summary": "【早盘三分钟】7月29日华宝基金ETF早知道",
+          "source": "新浪"
         },
         {
-          "title": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
-          "url": "https://companies.caixin.com/2026-07-29/102468953.html",
+          "title": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
+          "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
           "published": "2026-07-29",
-          "summary": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
-          "source": "财新"
+          "summary": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
+          "source": "新浪"
         },
         {
-          "title": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
-          "url": "https://finance.caixin.com/2026-07-29/102468937.html",
+          "title": "民营房企重返土拍市场 谁在加大力度拿地？",
+          "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-06-10/doc-inezqwaa3375791.shtml",
           "published": "2026-07-29",
-          "summary": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
-          "source": "财新"
+          "summary": "民营房企重返土拍市场 谁在加大力度拿地？",
+          "source": "新浪"
         }
       ]
     }
