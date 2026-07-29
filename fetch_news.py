@@ -138,24 +138,40 @@ def fetch_source(key, config):
                 })
         
         elif config["type"] == "web":
-            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-            response = requests.get(config["url"], headers=headers, timeout=10)
+            # 强化 请求头，防止被防爬防火墙拦截
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            }
+            
+            response = requests.get(config["url"], headers=headers, timeout=12)
             response.encoding = 'utf-8'
             
             soup = BeautifulSoup(response.text, 'html.parser')
             links = soup.find_all('a')
+            
             for link in links:
                 title = link.get_text().strip()
                 url = link.get('href', '')
                 
-                if len(title) > 8 and url.startswith('http') and not any(x in title for x in ["关于我们", "版权声明", "隐私政策"]):
-                    articles.append({
-                        "title": title,
-                        "url": url,
-                        "published": datetime.now().strftime("%Y-%m-%d"),
-                        "summary": title,
-                        "source": config["name_cn"],
-                    })
+                # 兼容相对路径补全（例如 /news/12345 -> https://domain.com/news/12345）
+                if url.startswith('/'):
+                    from urllib.parse import urljoin
+                    url = urljoin(config["url"], url)
+                
+                # 降低字数门槛并过滤无效导航
+                if len(title) >= 6 and url.startswith('http') and not any(x in title for x in ["关于我们", "版权声明", "隐私政策", "登录", "注册", "首页"]):
+                    # 简单去重
+                    if not any(a["title"] == title for a in articles):
+                        articles.append({
+                            "title": title,
+                            "url": url,
+                            "published": datetime.now().strftime("%Y-%m-%d"),
+                            "summary": title,
+                            "source": config["name_cn"],
+                        })
+                    
                     if len(articles) >= MAX_ARTICLES:
                         break
 
