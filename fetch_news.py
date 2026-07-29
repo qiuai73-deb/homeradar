@@ -26,12 +26,14 @@ SOURCES = {
         "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
         "type": "rss"
     },
+}
+
     
     # --- 普通网页抓取通道 ---
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
-        "url": "https://www.wallstreetcn.com",
+        "url": "https://wallstreetcn.com/news/global",
         "type": "web"
     },
     "ths": {
@@ -46,10 +48,10 @@ SOURCES = {
         "url": "https://www.ifeng.com",
         "type": "web"
     },
-    "caixin": {
-        "name": "caixin",
-        "name_cn": "财新",
-        "url": "https://www.caixin.com/",
+    "sina": {
+        "name": "sina",
+        "name_cn": "新浪",
+        "url": "https://finance.sina.com.cn/stock",
         "type": "web"
     },
     
@@ -120,17 +122,23 @@ def send_dingtalk_msg(summary_analysis, important_news, interest_news):
         print(f"❌ 钉钉推送异常: {e}")
 
 
+from urllib.parse import urljoin
+
 def fetch_source(key, config):
-    """抓取单个新闻源（自适应支持 RSS 和普通 Web 网页）"""
+    """抓取单个新闻源（自适应支持 RSS 和普通 Web 网页，优化二级页面/相对路径提取）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
     articles = []
     
     try:
         if config["type"] == "rss":
-            feed = feedparser.parse(config["url"])
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+            feed = feedparser.parse(config["rss"], request_headers=headers)
             for entry in feed.entries[:MAX_ARTICLES]:
+                title = entry.get("title", "").strip()
+                if " - " in title:
+                    title = title.rsplit(" - ", 1)[0].strip()
                 articles.append({
-                    "title": entry.get("title", ""),
+                    "title": title,
                     "url": entry.get("link", ""),
                     "published": entry.get("published", ""),
                     "summary": entry.get("summary", ""),
@@ -138,7 +146,6 @@ def fetch_source(key, config):
                 })
         
         elif config["type"] == "web":
-            # 强化 请求头，防止被防爬防火墙拦截
             headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -147,26 +154,34 @@ def fetch_source(key, config):
             
             response = requests.get(config["url"], headers=headers, timeout=12)
             response.encoding = 'utf-8'
-            
             soup = BeautifulSoup(response.text, 'html.parser')
-            links = soup.find_all('a')
             
+            links = soup.find_all('a')
+            seen_urls = set()
+
             for link in links:
                 title = link.get_text().strip()
-                url = link.get('href', '')
+                raw_url = link.get('href', '')
                 
-                # 兼容相对路径补全（例如 /news/12345 -> https://domain.com/news/12345）
-                if url.startswith('/'):
-                    from urllib.parse import urljoin
-                    url = urljoin(config["url"], url)
+                if not raw_url or raw_url.startswith('#') or raw_url.startswith('javascript:'):
+                    continue
                 
-                # 降低字数门槛并过滤无效导航
-                if len(title) >= 6 and url.startswith('http') and not any(x in title for x in ["关于我们", "版权声明", "隐私政策", "登录", "注册", "首页"]):
-                    # 简单去重
-                    if not any(a["title"] == title for a in articles):
+                # 1. 自动拼接补全为完整绝对路径 (例如 /articles/3712345 -> https://www.wallstreetcn.com/articles/3712345)
+                full_url = urljoin(config["url"], raw_url)
+                
+                # 2. 排除纯根域名（防止抓回主页本身）
+                if full_url.strip('/') in ["https://wallstreetcn.com", "https://www.wallstreetcn.com"]:
+                    continue
+
+                # 3. 过滤噪音标题（如导航、登录按钮、纯数字或极短标题）
+                invalid_keywords = ["关于我们", "版权声明", "隐私政策", "登录", "注册", "首页", "下载App", "更多", "快讯", "实时"]
+                if len(title) >= 8 and not any(k in title for k in invalid_keywords):
+                    # 去重处理
+                    if full_url not in seen_urls:
+                        seen_urls.add(full_url)
                         articles.append({
                             "title": title,
-                            "url": url,
+                            "url": full_url,
                             "published": datetime.now().strftime("%Y-%m-%d"),
                             "summary": title,
                             "source": config["name_cn"],
