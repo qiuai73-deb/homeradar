@@ -31,19 +31,19 @@ SOURCES = {
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
-        "url": "https://wallstreetcn.com/news/global",
+        "url": "https://wallstreetcn.com",
         "type": "web"
     },
     "ths": {
         "name": "ths",
-        "name_cn": "财联社热门",
-        "url": "https://stock.10jqka.com.cn/hsdp_list",
+        "name_cn": "同花顺",
+        "url": "https://WWW.10jqka.com.cn",
         "type": "web"
     },
     "phoenix": {
         "name": "phoenix",
         "name_cn": "凤凰网",
-        "url": "https://news.ifeng.com",
+        "url": "https://WWW.ifeng.com",
         "type": "web"
     },
     "caixin": {
