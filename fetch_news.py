@@ -1,19 +1,17 @@
 import os
 import json
+import time
+import hmac
+import urllib.parse
 import feedparser
-import requests  # 👈 新增：用于抓取普通网页 HTML
-from bs4 import BeautifulSoup  # 👈 新增：用于解析普通网页内容
+import requests  # 用于抓取网页与发送钉钉通知
+from bs4 import BeautifulSoup
 from ai_analyzer import analyze_news
-"""
-每日抓取国内新闻
-通过 RSS 聚合与网页解析（从 GitHub Actions 美国服务器运行）
-"""
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 
 # ========== 新闻源统一配置 ==========
-# 将两者合并为一个大字典，但通过 type 字段来区分抓取逻辑，并统一使用 'url' 键
 SOURCES = {
     # --- RSS 抓取通道 ---
     "CCTV": {
@@ -59,15 +57,74 @@ OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
 
 
+def send_dingtalk_msg(summary_analysis, important_news, interest_news):
+    """加签发送钉钉机器人消息"""
+    webhook_url = os.getenv("DINGTALK_WEBHOOK_URL")
+    secret = os.getenv("DINGTALK_SECRET")
+
+    if not webhook_url:
+        print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过钉钉推送。")
+        return
+
+    # 1. 计算签名 (如果设置了密钥 Secret)
+    target_url = webhook_url
+    if secret:
+        timestamp = str(round(time.time() * 1000))
+        secret_enc = secret.encode('utf-8')
+        string_to_sign = f'{timestamp}\n{secret}'
+        string_to_sign_enc = string_to_sign.encode('utf-8')
+        hmac_code = hmac.new(secret_enc, string_to_sign_enc, digestmod=hashlib.sha256).digest()
+        sign = urllib.parse.quote_plus(base64.b64encode(hmac_code)) if 'base64' in globals() else urllib.parse.quote_plus(__import__('base64').b64encode(hmac_code))
+        target_url = f"{webhook_url}&timestamp={timestamp}&sign={sign}"
+
+    # 2. 拼接 Markdown 内容
+    now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    md_text = f"### 📰 每日 AI 新闻深度精选 ({now_str})\n\n"
+
+    if summary_analysis:
+        md_text += f"> **🤖 AI 财经研判**：\n> {summary_analysis.strip()[:300]}...\n\n---\n\n"
+
+    md_text += "#### 🚨 **国计民生 (TOP 新闻)**\n"
+    for i, item in enumerate(important_news[:5], 1):
+        title = item.get("title", "")
+        url = item.get("url") or item.get("link") or "#"
+        source = item.get("source", "")
+        md_text += f"{i}. [{title}]({url}) `[{source}]`\n"
+
+    md_text += "\n#### 🎯 **猜你喜欢 (精选新闻)**\n"
+    for i, item in enumerate(interest_news[:5], 1):
+        title = item.get("title", "")
+        url = item.get("url") or item.get("link") or "#"
+        source = item.get("source", "")
+        md_text += f"{i}. [{title}]({url}) `[{source}]`\n"
+
+    # 3. 发送 POST 请求
+    payload = {
+        "msgtype": "markdown",
+        "markdown": {
+            "title": f"📰 每日新闻精选 ({now_str})",
+            "text": md_text
+        }
+    }
+
+    try:
+        resp = requests.post(target_url, json=payload, headers={"Content-Type": "application/json"}, timeout=10)
+        res_data = resp.json()
+        if res_data.get("errcode") == 0:
+            print("🎉 钉钉消息推送成功！")
+        else:
+            print(f"❌ 钉钉推送失败: {res_data}")
+    except Exception as e:
+        print(f"❌ 钉钉推送异常: {e}")
+
+
 def fetch_source(key, config):
     """抓取单个新闻源（自适应支持 RSS 和普通 Web 网页）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
     articles = []
     
     try:
-        # ======= 核心修改：分流处理 =======
         if config["type"] == "rss":
-            # 1. RSS 解析逻辑
             feed = feedparser.parse(config["url"])
             for entry in feed.entries[:MAX_ARTICLES]:
                 articles.append({
@@ -79,20 +136,16 @@ def fetch_source(key, config):
                 })
         
         elif config["type"] == "web":
-            # 2. 网页 HTML 解析逻辑（防止直接读取 'rss' 报错）
             headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
             response = requests.get(config["url"], headers=headers, timeout=10)
             response.encoding = 'utf-8'
             
             soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # 💡 针对不同网页的简易 A 标签新闻提取逻辑（避免获取到 0 篇）
             links = soup.find_all('a')
             for link in links:
                 title = link.get_text().strip()
                 url = link.get('href', '')
                 
-                # 过滤掉字数太少、没有跳转链接或只是内部导航的无效链接
                 if len(title) > 8 and url.startswith('http') and not any(x in title for x in ["关于我们", "版权声明", "隐私政策"]):
                     articles.append({
                         "title": title,
@@ -115,7 +168,6 @@ def fetch_source(key, config):
 def generate_markdown(all_data):
     """生成可读的 Markdown 摘要"""
     now = datetime.now().strftime("%Y-%m-%d %H:%M 北京时间")
-    print(f"生成的更新时间: {now}")  # 调试输出
     lines = [
         f"# 📰 国内新闻摘要",
         f"**更新时间：{now}**",
@@ -138,8 +190,7 @@ def generate_markdown(all_data):
             lines.append("")
             continue
         for i, a in enumerate(articles, 1):
-            title = a["title"].strip()
-            title = title.split(" - ")[0].strip()
+            title = a["title"].strip().split(" - ")[0].strip()
             url = a["url"]
             lines.append(f"{i}. [{title}]({url})")
         lines.append("")
@@ -158,12 +209,10 @@ def main():
         articles = fetch_source(key, config)
         all_data[key] = articles
 
-    # 1. 收集所有抓取到的文章到一个总列表里面
     all_articles = []
     for key in SOURCES:
         all_articles.extend(all_data[key])
 
-    # ------------------ 🔹 读取同目录下的 Prompt 文件 ------------------
     prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
     prompt_text = ""
     if prompt_path.exists():
@@ -175,10 +224,10 @@ def main():
         
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
-    # 2. 调用 AI 分析函数
+    # 1. 调用 AI 分析
     summary_analysis, important_news, interest_news = analyze_news(all_articles, prompt_text)
 
-    # 3. 构造符合前端渲染的 JSON 结构
+    # 2. 构造 json 结构并保存
     json_path = OUTPUT_DIR / "news.json"
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
@@ -197,23 +246,22 @@ def main():
         }
     }
 
-    # 4. 保存 JSON 文件
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
     print("✅ 带 AI 全局总结及新闻列表的 news.json 保存成功！")
 
-    # 5. 保存 Markdown
+    # 3. 保存 Markdown
     md_path = OUTPUT_DIR / "news.md"
     md_content = generate_markdown(all_data)
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)
 
-    # 统计
+    # 4. 📢 关键步骤：发送钉钉推送
+    send_dingtalk_msg(summary_analysis, important_news, interest_news)
+
     total = sum(len(v) for v in all_data.values())
     print(f"\n✅ 完成！共获取 {total} 篇文章")
-    print(f"   JSON: {json_path}")
-    print(f"   Markdown: {md_path}")
 
 
 if __name__ == "__main__":
