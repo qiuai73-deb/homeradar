@@ -43,7 +43,7 @@ SOURCES = {
     "phoenix": {
         "name": "phoenix",
         "name_cn": "凤凰网",
-        "url": "https://wwww.ifeng.com",
+        "url": "https://www.ifeng.com",
         "type": "web"
     },
     "caixin": {
