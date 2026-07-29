@@ -87,14 +87,14 @@ def send_dingtalk_msg(summary_analysis, important_news, interest_news):
         md_text += f"> **🤖 AI 财经研判**：\n> {summary_analysis.strip()[:300]}...\n\n---\n\n"
 
     md_text += "#### 🚨 **国计民生 (TOP 新闻)**\n"
-    for i, item in enumerate(important_news[:5], 1):
+    for i, item in enumerate(important_news[:10], 1):
         title = item.get("title", "")
         url = item.get("url") or item.get("link") or "#"
         source = item.get("source", "")
         md_text += f"{i}. [{title}]({url}) `[{source}]`\n"
 
     md_text += "\n#### 🎯 **猜你喜欢 (精选新闻)**\n"
-    for i, item in enumerate(interest_news[:5], 1):
+    for i, item in enumerate(interest_news[:10], 1):
         title = item.get("title", "")
         url = item.get("url") or item.get("link") or "#"
         source = item.get("source", "")
