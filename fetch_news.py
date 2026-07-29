@@ -31,19 +31,19 @@ SOURCES = {
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
-        "url": "https://wallstreetcn.com",
+        "url": "https://www.wallstreetcn.com",
         "type": "web"
     },
     "ths": {
         "name": "ths",
         "name_cn": "同花顺",
-        "url": "https://WWW.10jqka.com.cn",
+        "url": "https://www.10jqka.com.cn",
         "type": "web"
     },
     "phoenix": {
         "name": "phoenix",
         "name_cn": "凤凰网",
-        "url": "https://WWW.ifeng.com",
+        "url": "https://wwww.ifeng.com",
         "type": "web"
     },
     "caixin": {
@@ -56,7 +56,7 @@ SOURCES = {
 }
 
 OUTPUT_DIR = Path(__file__).parent
-MAX_ARTICLES = 30  # 每个源最多取多少条
+MAX_ARTICLES = 10  # 每个源最多取多少条
 
 
 def send_dingtalk_msg(summary_analysis, important_news, interest_news):
