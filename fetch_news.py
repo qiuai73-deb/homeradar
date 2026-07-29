@@ -122,15 +122,27 @@ def send_dingtalk_msg(summary_analysis, important_news, interest_news):
 
 from urllib.parse import urljoin
 
+from urllib.parse import urljoin
+
 def fetch_source(key, config):
-    """抓取单个新闻源（自适应支持 RSS 和普通 Web 网页，优化二级页面/相对路径提取）"""
+    """抓取单个新闻源（兼容 url 配置，支持 RSS 与 Web 网页）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
     articles = []
     
+    # 统一获取 URL 字段（兼容 "url" 和 "rss" 两种写法）
+    target_url = config.get("url") or config.get("rss")
+    
+    if not target_url:
+        print(f"  ❌ {config['name_cn']}: 未配置有效的 URL")
+        return []
+
     try:
         if config["type"] == "rss":
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-            feed = feedparser.parse(config["rss"], request_headers=headers)
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            }
+            # 使用统一的 target_url 变量
+            feed = feedparser.parse(target_url, request_headers=headers)
             for entry in feed.entries[:MAX_ARTICLES]:
                 title = entry.get("title", "").strip()
                 if " - " in title:
@@ -150,7 +162,7 @@ def fetch_source(key, config):
                 "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
             }
             
-            response = requests.get(config["url"], headers=headers, timeout=12)
+            response = requests.get(target_url, headers=headers, timeout=12)
             response.encoding = 'utf-8'
             soup = BeautifulSoup(response.text, 'html.parser')
             
@@ -164,17 +176,16 @@ def fetch_source(key, config):
                 if not raw_url or raw_url.startswith('#') or raw_url.startswith('javascript:'):
                     continue
                 
-                # 1. 自动拼接补全为完整绝对路径 (例如 /articles/3712345 -> https://www.wallstreetcn.com/articles/3712345)
-                full_url = urljoin(config["url"], raw_url)
+                # 1. 拼接绝对路径
+                full_url = urljoin(target_url, raw_url)
                 
-                # 2. 排除纯根域名（防止抓回主页本身）
+                # 2. 排除根主页
                 if full_url.strip('/') in ["https://wallstreetcn.com", "https://www.wallstreetcn.com"]:
                     continue
 
-                # 3. 过滤噪音标题（如导航、登录按钮、纯数字或极短标题）
+                # 3. 过滤纯功能性按钮文本
                 invalid_keywords = ["关于我们", "版权声明", "隐私政策", "登录", "注册", "首页", "下载App", "更多", "快讯", "实时"]
                 if len(title) >= 8 and not any(k in title for k in invalid_keywords):
-                    # 去重处理
                     if full_url not in seen_urls:
                         seen_urls.add(full_url)
                         articles.append({
