@@ -56,7 +56,7 @@ SOURCES = {
 }
 
 OUTPUT_DIR = Path(__file__).parent
-MAX_ARTICLES = 10  # 每个源最多取多少条
+MAX_ARTICLES = 30  # 每个源最多取多少条
 
 
 def send_dingtalk_msg(summary_analysis, important_news, interest_news):
