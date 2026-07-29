@@ -26,8 +26,6 @@ SOURCES = {
         "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
         "type": "rss"
     },
-}
-
     
     # --- 普通网页抓取通道 ---
     "wallstreetcn": {
