@@ -1,80 +1,128 @@
 {
-  "updated": "2026-07-29T01:00:40.468741+00:00",
-  "updated_beijing": "2026-07-29 01:00 北京时间",
-  "summary_analysis": "【核心主线】当前新闻显示，中国面临多重挑战：自然灾害（重庆山体滑坡）造成重大人员伤亡；科技领域，美国限制中国AI和半导体发展，中国国产DUV光刻机取得突破；经济方面，奔驰下调展望反映豪车市场疲软，中国政府反驳产能过剩论；社会层面，AI脱衣黑产被曝光，唐山大地震50周年纪念。\n\n【市场与政策信号】中国官方加强文物管理授权，民政部前部长当选总工会副主席，显示人事调整。A股市场量化交易引发担忧。俄罗斯警告日本，地缘政治紧张。\n\n【关键风险提示】自然灾害救援压力、中美科技脱钩风险、消费市场疲软、AI伦理问题。",
+  "updated": "2026-07-29T01:23:54.152020+00:00",
+  "updated_beijing": "2026-07-29 01:23 北京时间",
+  "summary_analysis": "【核心主线】当前新闻显示，中国面临多重挑战：重庆山体崩塌造成重大人员伤亡，凸显自然灾害应急管理压力；美国禁止进口中国新款人形机器人，加剧AI供应链脱钩风险；奔驰下调营收展望反映中国豪车市场疲软，经济复苏基础不稳。同时，中国在科技领域取得突破，如国产DUV光刻机被视为对美科技战里程碑，但量化交易砸盘等金融风险隐忧仍存。\n\n【市场与政策信号】政策层面，中国官方要求国有文物管理机构主动公开授权，体现治理透明化；民政部前部长当选总工会副主席，显示人事调整。市场信号方面，全款买房成流行，反映信贷收缩与楼市分化；英伟达CDS暴涨引发AI基建融资担忧，全球金融风险上升。\n\n【关键风险提示】主要风险包括：自然灾害（重庆山体崩塌）与AI伦理（AI脱衣黑产）的社会风险；中美科技脱钩（机器人禁令）与金融波动（量化砸盘、CDS暴涨）的经济风险；以及阿根廷总统贬损卢拉等外交摩擦。",
   "important": [
     {
       "title": "美国禁止进口中国新款人形机器人 防范AI供应链风险",
       "url": "https://www.zaobao.com/news/china/story20260729-9435912",
-      "summary": "美国限制中国AI机器人进口，加剧科技脱钩。",
-      "source": "联合早报"
-    },
-    {
-      "title": "传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”",
-      "url": "https://www.zaobao.com/news/china/story20260729-9434970",
-      "summary": "中国光刻机突破，或改变半导体格局。",
+      "summary": "美国禁止进口中国新款人形机器人，加剧AI供应链脱钩。",
       "source": "联合早报"
     },
     {
       "title": "重庆彭水山体崩塌，已新搜寻确认30名遇难者",
       "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%EF%BC%8C%E5%B7%B2%E6%96%B0%E6%90%9C%E5%AF%BB%E7%A1%AE%E8%AE%A430%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85",
-      "summary": "重庆山体滑坡已致30人遇难，救援持续。",
+      "summary": "重庆彭水山体崩塌已致30人遇难，搜救持续。",
       "source": "央视新闻"
     },
     {
-      "title": "唐山大地震50周年 李强受习近平委托到唐山调研慰问",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435892",
-      "summary": "李强调研唐山，纪念大地震50周年。",
+      "title": "传中国国产DUV光刻机 学者：对美科技战“里程碑式突破”",
+      "url": "https://www.zaobao.com/news/china/story20260729-9434970",
+      "summary": "国产DUV光刻机被指对美科技战里程碑式突破。",
+      "source": "联合早报"
+    },
+    {
+      "title": "奔驰下调全年营收展望 中国豪车市场颓势加深",
+      "url": "https://www.zaobao.com/news/china/story20260729-9435736",
+      "summary": "奔驰下调营收展望，中国豪车市场持续疲软。",
       "source": "联合早报"
     },
     {
       "title": "中国政府反驳“产能过剩”论 称保护主义将扰乱全球经贸秩序",
       "url": "https://www.zaobao.com/news/china/story20260728-9433127",
-      "summary": "中国反驳产能过剩论，反对保护主义。",
+      "summary": "中国政府反驳产能过剩论，警告保护主义扰乱经贸。",
+      "source": "联合早报"
+    },
+    {
+      "title": "唐山大地震50周年 李强受习近平委托到唐山调研慰问",
+      "url": "https://www.zaobao.com/news/china/story20260729-9435892",
+      "summary": "李强受习近平委托赴唐山调研慰问，纪念大地震50周年。",
       "source": "联合早报"
     },
     {
       "title": "央视起底“AI脱衣”黑色产业链",
       "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E2%80%9CAI%E8%84%B1%E8%A1%A3%E2%80%9D%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE",
-      "summary": "央视曝光AI脱衣黑产，引发伦理担忧。",
+      "summary": "央视揭露AI脱衣黑色产业链，引发社会关注。",
       "source": "央视新闻"
     },
     {
       "title": "俄罗斯警告日本",
       "url": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-      "summary": "俄罗斯对日本发出警告，地缘紧张升级。",
+      "summary": "俄罗斯对日本发出警告，地缘政治紧张升级。",
       "source": "央视新闻"
     },
     {
       "title": "中国民政部前部长陆治原当选中华全国总工会副主席",
       "url": "https://www.zaobao.com/news/china/story20260728-9434524",
-      "summary": "陆治原当选总工会副主席，人事变动。",
+      "summary": "陆治原当选全国总工会副主席，人事调整。",
       "source": "联合早报"
     },
     {
       "title": "中国官方要求国有文物管理机构提供主动公开授权使用等服务",
       "url": "https://www.zaobao.com/news/china/story20260729-9435744",
-      "summary": "文物管理新规，推动公开授权。",
-      "source": "联合早报"
-    },
-    {
-      "title": "杨丹旭：黄仁勋点燃硅谷AI大激辩",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435262",
-      "summary": "黄仁勋言论引发AI行业辩论。",
+      "summary": "官方要求国有文物机构主动公开授权，提升透明度。",
       "source": "联合早报"
     }
   ],
   "interest": [
     {
-      "title": "奔驰下调全年营收展望 中国豪车市场颓势加深",
-      "url": "https://www.zaobao.com/news/china/story20260729-9435736",
-      "summary": "奔驰下调展望，中国豪车市场疲软。",
+      "title": "下午察：量化砸盘成A股最大隐忧？",
+      "url": "https://www.zaobao.com/news/china/story20260728-9434120",
+      "summary": "量化交易砸盘引发A股市场担忧。",
       "source": "联合早报"
     },
     {
-      "title": "下午察：量化砸盘成A股最大隐忧？",
-      "url": "https://www.zaobao.com/news/china/story20260728-9434120",
-      "summary": "量化交易引发A股市场担忧。",
+      "title": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
+      "url": "https://finance.caixin.com/2026-07-29/102468937.html",
+      "summary": "全款买房成流行，反映信贷收缩与楼市分化。",
+      "source": "财新"
+    },
+    {
+      "title": "英伟达CDS暴涨 AI基建循环融资引债市担忧",
+      "url": "https://finance.caixin.com/2026-07-28/102468882.html",
+      "summary": "英伟达CDS暴涨引发AI基建融资担忧。",
+      "source": "财新"
+    },
+    {
+      "title": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
+      "url": "https://www.caixin.com/2026-07-29/102468972.html",
+      "summary": "苹果市值破5万亿，Kimi K3开源，xAI起诉封禁。",
+      "source": "财新"
+    },
+    {
+      "title": "个人智能体加速落地 全时感知、端侧智能等成产业焦点",
+      "url": "https://www.caixin.com/2026-07-28/102468909.html",
+      "summary": "个人智能体加速落地，端侧智能成焦点。",
+      "source": "财新"
+    },
+    {
+      "title": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
+      "url": "https://companies.caixin.com/2026-07-29/102468953.html",
+      "summary": "中国企业出海需权衡参股与控股策略。",
+      "source": "财新"
+    },
+    {
+      "title": "阿根廷总统米莱在巴西境内为右翼盟友助选 公开贬损卢拉引爆外交风波",
+      "url": "https://international.caixin.com/2026-07-28/102468899.html",
+      "summary": "米莱贬损卢拉引发阿根廷与巴西外交风波。",
+      "source": "财新"
+    },
+    {
+      "title": "解药｜女童死亡风波中的碱基编辑",
+      "url": "https://www.caixin.com/2026-07-28/102468889.html",
+      "summary": "碱基编辑技术因女童死亡事件引发争议。",
+      "source": "财新"
+    },
+    {
+      "title": "杨丹旭：黄仁勋点燃硅谷AI大激辩",
+      "url": "https://www.zaobao.com/news/china/story20260729-9435262",
+      "summary": "黄仁勋言论引发硅谷AI发展大辩论。",
+      "source": "联合早报"
+    },
+    {
+      "title": "奔驰下调全年营收展望 中国豪车市场颓势加深",
+      "url": "https://www.zaobao.com/news/china/story20260729-9435736",
+      "summary": "奔驰下调营收展望，中国豪车市场持续疲软。",
       "source": "联合早报"
     }
   ],
@@ -198,45 +246,17 @@
         }
       ]
     },
-    "caixin": {
-      "name": "caixinl",
-      "name_cn": "财新",
-      "count": 0,
-      "articles": []
-    },
     "wallstreetcn": {
       "name": "wallstreetcn-hot",
       "name_cn": "华尔街见闻",
       "count": 0,
       "articles": []
     },
-    "cls": {
-      "name": "cls-hot",
+    "ths": {
+      "name": "ths",
       "name_cn": "财联社热门",
-      "count": 3,
-      "articles": [
-        {
-          "title": "沪ICP备14040942号-9",
-          "url": "http://beian.miit.gov.cn",
-          "published": "2026-07-29",
-          "summary": "沪ICP备14040942号-9",
-          "source": "财联社热门"
-        },
-        {
-          "title": "沪公网安备31010402006047号",
-          "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402006047",
-          "published": "2026-07-29",
-          "summary": "沪公网安备31010402006047号",
-          "source": "财联社热门"
-        },
-        {
-          "title": "沪金信备 [2021] 2号",
-          "url": "https://fisbaobei.ifcert.cn/Home/homeIindex",
-          "published": "2026-07-29",
-          "summary": "沪金信备 [2021] 2号",
-          "source": "财联社热门"
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "phoenix": {
       "name": "phoenix",
@@ -263,6 +283,83 @@
           "published": "2026-07-29",
           "summary": "全球华人之光人物盛典启动仪式",
           "source": "凤凰网"
+        }
+      ]
+    },
+    "caixin": {
+      "name": "caixin",
+      "name_cn": "财新",
+      "count": 10,
+      "articles": [
+        {
+          "title": "Promotion",
+          "url": "https://promote.caixin.com/",
+          "published": "2026-07-29",
+          "summary": "Promotion",
+          "source": "财新"
+        },
+        {
+          "title": "网上有害信息举报专区",
+          "url": "https://www.12377.cn/",
+          "published": "2026-07-29",
+          "summary": "网上有害信息举报专区",
+          "source": "财新"
+        },
+        {
+          "title": "Promotion",
+          "url": "https://promote.caixin.com/",
+          "published": "2026-07-29",
+          "summary": "Promotion",
+          "source": "财新"
+        },
+        {
+          "title": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
+          "url": "https://www.caixin.com/2026-07-29/102468972.html",
+          "published": "2026-07-29",
+          "summary": "T早报｜苹果市值站上5万亿美元；开闭源之争再起：Kimi K3正式开源；xAI起诉明尼苏达州封禁“一键脱衣应用”",
+          "source": "财新"
+        },
+        {
+          "title": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
+          "url": "https://companies.caixin.com/2026-07-29/102468953.html",
+          "published": "2026-07-29",
+          "summary": "朱梅：参股还是控股？“走出去”需要股权智慧 | 出海·专栏",
+          "source": "财新"
+        },
+        {
+          "title": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
+          "url": "https://finance.caixin.com/2026-07-29/102468937.html",
+          "published": "2026-07-29",
+          "summary": "财经早知道｜从豪宅到普宅，“全款买房”成流行",
+          "source": "财新"
+        },
+        {
+          "title": "个人智能体加速落地 全时感知、端侧智能等成产业焦点",
+          "url": "https://www.caixin.com/2026-07-28/102468909.html",
+          "published": "2026-07-29",
+          "summary": "个人智能体加速落地 全时感知、端侧智能等成产业焦点",
+          "source": "财新"
+        },
+        {
+          "title": "阿根廷总统米莱在巴西境内为右翼盟友助选 公开贬损卢拉引爆外交风波",
+          "url": "https://international.caixin.com/2026-07-28/102468899.html",
+          "published": "2026-07-29",
+          "summary": "阿根廷总统米莱在巴西境内为右翼盟友助选 公开贬损卢拉引爆外交风波",
+          "source": "财新"
+        },
+        {
+          "title": "解药｜女童死亡风波中的碱基编辑",
+          "url": "https://www.caixin.com/2026-07-28/102468889.html",
+          "published": "2026-07-29",
+          "summary": "解药｜女童死亡风波中的碱基编辑",
+          "source": "财新"
+        },
+        {
+          "title": "英伟达CDS暴涨 AI基建循环融资引债市担忧",
+          "url": "https://finance.caixin.com/2026-07-28/102468882.html",
+          "published": "2026-07-29",
+          "summary": "英伟达CDS暴涨 AI基建循环融资引债市担忧",
+          "source": "财新"
         }
       ]
     }
