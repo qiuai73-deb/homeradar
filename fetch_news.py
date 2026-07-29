@@ -26,23 +26,18 @@ SOURCES = {
         "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
         "type": "rss"
     },
-    "caixin": {
-        "name": "caixinl",
-        "name_cn": "财新",
-        "url": "https://quanwenrss.com/caixin",
-        "type": "rss"
-    },
+    
     # --- 普通网页抓取通道 ---
     "wallstreetcn": {
         "name": "wallstreetcn-hot",
         "name_cn": "华尔街见闻",
-        "url": "https://wallstreetcn.com/news/shares",
+        "url": "https://wallstreetcn.com/news/global",
         "type": "web"
     },
-    "cls": {
-        "name": "cls-hot",
+    "ths": {
+        "name": "ths",
         "name_cn": "财联社热门",
-        "url": "https://www.cls.cn/depth?id=1003",
+        "url": "https://stock.10jqka.com.cn/hsdp_list",
         "type": "web"
     },
     "phoenix": {
@@ -51,6 +46,13 @@ SOURCES = {
         "url": "https://news.ifeng.com",
         "type": "web"
     },
+    "caixin": {
+        "name": "caixin",
+        "name_cn": "财新",
+        "url": "https://www.caixin.com/",
+        "type": "web"
+    },
+    
 }
 
 OUTPUT_DIR = Path(__file__).parent
