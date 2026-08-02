@@ -57,6 +57,7 @@ SOURCES = {
         "name_cn": "联合早报",
         "url": "https://www.kuzaobao.com/plus/list.php?tid=1",
         "type": "web"
+    }     
 }
 
 OUTPUT_DIR = Path(__file__).parent
