@@ -14,18 +14,6 @@ from pathlib import Path
 # ========== 新闻源统一配置 ==========
 SOURCES = {
     # --- RSS 抓取通道 ---
-    "CCTV": {
-        "name": "CCTV",
-        "name_cn": "央视新闻",
-        "url": "https://plink.anyfeeder.com/weixin/cctvnewscenter",
-        "type": "rss"
-    },
-    "zaobao": {
-        "name": "zaobao",
-        "name_cn": "联合早报",
-        "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
-        "type": "rss"
-    },
     "caixin": {
         "name": "caixin",
         "name_cn": "财新",
@@ -58,7 +46,17 @@ SOURCES = {
         "url": "https://finance.sina.com.cn/stock",
         "type": "web"
     },
-    
+    "cctv": {
+        "name": "cctv",
+        "name_cn": "央视新闻",
+        "url": "https://ysxw.cctv.cn/24hours.html",
+        "type": "web"
+    },
+    "zaobao": {
+        "name": "zaobao",
+        "name_cn": "联合早报",
+        "url": "https://www.kuzaobao.com/plus/list.php?tid=1",
+        "type": "web"
 }
 
 OUTPUT_DIR = Path(__file__).parent
