@@ -313,7 +313,9 @@ def main():
         all_articles.extend(all_data[key])
 
 
+    # =============================
     # 去除已经推送过的新闻
+    # =============================
     all_articles = filter_new_articles(all_articles)
 
 
@@ -324,26 +326,37 @@ def main():
 
     prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
     prompt_text = ""
+
     if prompt_path.exists():
         with open(prompt_path, "r", encoding="utf-8") as f:
             prompt_text = f.read().strip()
+
         print(f"📄 成功读取分析 Prompt（共 {len(prompt_text)} 字）")
+
     else:
         print("⚠️ 未找到 ai_analysis_prompt.txt，将使用默认 Prompt进行分析")
-        
+
+
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
+
     # 1. 调用 AI 分析
-    summary_analysis, important_news, interest_news = analyze_news(all_articles, prompt_text)
+    summary_analysis, important_news, interest_news = analyze_news(
+        all_articles,
+        prompt_text
+    )
+
 
     # 2. 构造 json 结构并保存
     json_path = OUTPUT_DIR / "news.json"
+
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "updated_beijing": datetime.now().strftime("%Y-%m-%d %H:%M 北京时间"),
         "summary_analysis": summary_analysis,
         "important": important_news,
         "interest": interest_news,
+
         "sources": {
             key: {
                 "name": SOURCES[key]["name"],
@@ -355,41 +368,60 @@ def main():
         }
     }
 
+
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(json_data, f, ensure_ascii=False, indent=2)
+        json.dump(
+            json_data,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
 
     print("✅ 带 AI 全局总结及新闻列表的 news.json 保存成功！")
 
+
     # 3. 保存 Markdown
     md_path = OUTPUT_DIR / "news.md"
+
     md_content = generate_markdown(all_data)
+
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)
 
-    # 4. 📢 关键步骤：发送钉钉推送
+
+    # 4. 📢 发送钉钉推送
     send_dingtalk_msg(
-    summary_analysis,
-    important_news,
-    interest_news
-)
+        summary_analysis,
+        important_news,
+        interest_news
+    )
 
 
-# 保存已经推送新闻
+    # =============================
+    # 保存已经推送过的新闻
+    # =============================
 
-pushed = load_pushed_news()
-
-
-for item in important_news + interest_news:
-    key = item.get("url") or item.get("title")
-    pushed.add(key)
+    pushed = load_pushed_news()
 
 
-save_pushed_news(pushed)
+    for item in important_news + interest_news:
+        key = item.get("url") or item.get("title")
 
-print("✅ 已更新新闻去重记录")
+        if key:
+            pushed.add(key)
 
-total = sum(len(v) for v in all_data.values())
-print(f"\n✅ 完成！共获取 {total} 篇文章")
+
+    save_pushed_news(pushed)
+
+
+    print("✅ 已更新新闻去重记录")
+
+
+    total = sum(len(v) for v in all_data.values())
+
+    print(f"\n✅ 完成！共获取 {total} 篇文章")
+
 
 
 if __name__ == "__main__":
