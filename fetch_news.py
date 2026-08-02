@@ -391,8 +391,8 @@ save_pushed_news(pushed)
 
 print("✅ 已更新新闻去重记录")
 
-    total = sum(len(v) for v in all_data.values())
-    print(f"\n✅ 完成！共获取 {total} 篇文章")
+total = sum(len(v) for v in all_data.values())
+print(f"\n✅ 完成！共获取 {total} 篇文章")
 
 
 if __name__ == "__main__":
