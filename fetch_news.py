@@ -63,6 +63,54 @@ SOURCES = {
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
 
+# ================= 新闻推送去重 =================
+
+PUSHED_FILE = OUTPUT_DIR / "pushed_news.json"
+
+
+def load_pushed_news():
+    """读取历史已推送新闻"""
+    if PUSHED_FILE.exists():
+        try:
+            with open(PUSHED_FILE, "r", encoding="utf-8") as f:
+                return set(json.load(f))
+        except:
+            return set()
+
+    return set()
+
+
+
+def save_pushed_news(news_list):
+    """保存已推送新闻"""
+    with open(PUSHED_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            list(news_list)[-500:],
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+def filter_new_articles(articles):
+    """
+    去除已经推送过的新闻
+    """
+    pushed = load_pushed_news()
+
+    new_articles = []
+
+    for item in articles:
+        key = item.get("url") or item.get("title")
+
+        if key not in pushed:
+            new_articles.append(item)
+
+    print(
+        f"🆕 新新闻 {len(new_articles)} 条，历史重复 {len(articles)-len(new_articles)} 条"
+    )
+
+    return new_articles
 
 def send_dingtalk_msg(summary_analysis, important_news, interest_news):
     """加签发送钉钉机器人消息"""
@@ -259,8 +307,23 @@ def main():
         all_data[key] = articles
 
     all_articles = []
-    for key in SOURCES:
-        all_articles.extend(all_data[key])
+
+for key in SOURCES:
+    all_articles.extend(all_data[key])
+
+
+# =====================
+# 去除已经推送过的新闻
+# =====================
+
+all_articles = filter_new_articles(all_articles)
+
+
+if not all_articles:
+    print("✅ 没有新的新闻，跳过推送")
+    return
+
+    
 
     prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
     prompt_text = ""
@@ -307,7 +370,26 @@ def main():
         f.write(md_content)
 
     # 4. 📢 关键步骤：发送钉钉推送
-    send_dingtalk_msg(summary_analysis, important_news, interest_news)
+    send_dingtalk_msg(
+    summary_analysis,
+    important_news,
+    interest_news
+)
+
+
+# 保存已经推送新闻
+
+pushed = load_pushed_news()
+
+
+for item in important_news + interest_news:
+    key = item.get("url") or item.get("title")
+    pushed.add(key)
+
+
+save_pushed_news(pushed)
+
+print("✅ 已更新新闻去重记录")
 
     total = sum(len(v) for v in all_data.values())
     print(f"\n✅ 完成！共获取 {total} 篇文章")
