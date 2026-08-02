@@ -20,10 +20,10 @@ SOURCES = {
         "url": "https://quanwenrss.com/caixin",
         "type": "rss"
     },
-    "wallstreet-cn": {
-        "name": "wallstreetcn",
-        "name_cn": "华尔街见闻",
-        "url": "https://plink.anyfeeder.com/weixin/wallstreetcn",
+    "snowball": {
+        "name": "snowball",
+        "name_cn": "雪球",
+        "url": "https://xueqiu.com/hots/topic/rss",
         "type": "rss"
     },
     
