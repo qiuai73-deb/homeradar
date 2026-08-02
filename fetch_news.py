@@ -46,10 +46,10 @@ SOURCES = {
         "url": "https://finance.sina.com.cn/stock",
         "type": "web"
     },
-    "cctv": {
-        "name": "cctv",
-        "name_cn": "央视新闻",
-        "url": "https://ysxw.cctv.cn",
+    "global": {
+        "name": "global",
+        "name_cn": "环球时报",
+        "url": "https://china.huanqiu.com/focus",
         "type": "web"
     },
     "zaobao": {
