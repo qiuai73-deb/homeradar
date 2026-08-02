@@ -298,32 +298,29 @@ def generate_markdown(all_data):
 
 
 def main():
-    print(f"🚀 开始抓取新闻... ({datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')})")
-    print()
+    print(f"🚀 开始抓取新闻...")
 
     all_data = {}
+
     for key, config in SOURCES.items():
         articles = fetch_source(key, config)
         all_data[key] = articles
 
+
     all_articles = []
 
-for key in SOURCES:
-    all_articles.extend(all_data[key])
+    for key in SOURCES:
+        all_articles.extend(all_data[key])
 
 
-# =====================
-# 去除已经推送过的新闻
-# =====================
-
-all_articles = filter_new_articles(all_articles)
+    # 去除已经推送过的新闻
+    all_articles = filter_new_articles(all_articles)
 
 
-if not all_articles:
-    print("✅ 没有新的新闻，跳过推送")
-    return
+    if not all_articles:
+        print("✅ 没有新的新闻，跳过推送")
+        return
 
-    
 
     prompt_path = OUTPUT_DIR / "ai_analysis_prompt.txt"
     prompt_text = ""
