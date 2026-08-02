@@ -49,7 +49,7 @@ SOURCES = {
     "cctv": {
         "name": "cctv",
         "name_cn": "央视新闻",
-        "url": "https://ysxw.cctv.cn/24hours.html",
+        "url": "https://ysxw.cctv.cn",
         "type": "web"
     },
     "zaobao": {
