@@ -65,7 +65,7 @@ SOURCES = {
         "url": "https://api-one-wscn.awtmt.com/apiv1/content/carousel/information-flow?channel=global&limit=10",
         "type": "api"
     }
-
+}
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
 
