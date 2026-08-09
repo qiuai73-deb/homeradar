@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -139,29 +140,6 @@
             margin-top: 0;
         }
 
-        .ai-summary {
-            background: var(--bg-card-ai);
-            border-left: 4px solid var(--border-ai);
-            transition: background 0.3s, border-color 0.3s;
-        }
-
-        .ai-summary h2 {
-            color: var(--border-ai);
-        }
-
-        .analysis-text {
-            line-height: 1.7;
-            font-size: 15px;
-            color: var(--text-ai);
-        }
-
-        .analysis-text p {
-            margin-bottom: 12px;
-        }
-        .analysis-text p:last-child {
-            margin-bottom: 0;
-        }
-
         .news-item {
             border-bottom: 1px solid var(--border-item);
             padding: 12px 0;
@@ -244,12 +222,6 @@
 
     <div id="update-time">⏱️ <span class="label">更新时间：</span><span class="time">加载中...</span></div>
 
-    <!-- 1. AI 研判总览区域 -->
-    <div class="card ai-summary" id="ai-card" style="display: none;">
-        <h2>🤖 国内新闻</h2>
-        <div class="analysis-text" id="ai-analysis"></div>
-    </div>
-
     <!-- 2. 重磅新闻 -->
     <div class="card">
         <h2>🔥 核心重磅新闻</h2>
@@ -313,22 +285,6 @@
                     timeSpan.textContent = beijingTime;
                 } else {
                     timeSpan.textContent = '未知';
-                }
-
-                const aiCard = document.getElementById('ai-card');
-                const aiAnalysis = document.getElementById('ai-analysis');
-
-                if (data.summary_analysis && typeof data.summary_analysis === 'string' && data.summary_analysis.trim() !== "") {
-                    aiCard.style.display = 'block';
-                    let text = data.summary_analysis.trim();
-                    let formattedText = text
-                        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                        .replace(/\n\n/g, '</p><p>')
-                        .replace(/\n/g, '<br>');
-                    aiAnalysis.innerHTML = `<p>${formattedText}</p>`;
-                } else {
-                    console.warn("未检测到有效 summary_analysis 字段，隐藏研判卡片");
-                    aiCard.style.display = 'none';
                 }
 
                 renderList(data.important, 'important-news');
