@@ -112,7 +112,7 @@ def filter_new_articles(articles):
 
     return new_articles
 
-def send_dingtalk_msg(summary_analysis, important_news, interest_news):
+def send_dingtalk_msg(important_news, interest_news):
     """加签发送钉钉机器人消息"""
     webhook_url = os.getenv("DINGTALK_WEBHOOK_URL")
     secret = os.getenv("DINGTALK_SECRET")
@@ -136,9 +136,7 @@ def send_dingtalk_msg(summary_analysis, important_news, interest_news):
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     md_text = f"### 📰 每日 AI 新闻深度精选 ({now_str})\n\n"
 
-    if summary_analysis:
-        md_text += f"> **🤖 AI 财经研判**：\n> {summary_analysis.strip()[:300]}...\n\n---\n\n"
-
+    
     md_text += "#### 🚨 **国计民生 (TOP 新闻)**\n"
     for i, item in enumerate(important_news[:8], 1):
         title = item.get("title", "")
@@ -340,20 +338,12 @@ def main():
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
 
-    # 1. 调用 AI 分析
-    summary_analysis, important_news, interest_news = analyze_news(
-        all_articles,
-        prompt_text
-    )
-
-
-    # 2. 构造 json 结构并保存
+        # 2. 构造 json 结构并保存
     json_path = OUTPUT_DIR / "news.json"
 
     json_data = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "updated_beijing": datetime.now().strftime("%Y-%m-%d %H:%M 北京时间"),
-        "summary_analysis": summary_analysis,
         "important": important_news,
         "interest": interest_news,
 
@@ -392,7 +382,6 @@ def main():
 
     # 4. 📢 发送钉钉推送
     send_dingtalk_msg(
-        summary_analysis,
         important_news,
         interest_news
     )
