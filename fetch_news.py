@@ -6,6 +6,7 @@ import urllib.parse
 import feedparser
 import requests  # 用于抓取网页与发送钉钉通知
 from bs4 import BeautifulSoup
+from ai_analyzer import analyze_news
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
@@ -337,7 +338,14 @@ def main():
     print(f"开始对 {len(all_articles)} 篇文章进行 AI 分析与宏观总结...")
 
 
-        # 2. 构造 json 结构并保存
+    # 1. 调用 AI 分析
+    important_news, interest_news = analyze_news(
+        all_articles,
+        prompt_text
+    )
+
+
+    # 2. 构造 json 结构并保存
     json_path = OUTPUT_DIR / "news.json"
 
     json_data = {
