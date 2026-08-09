@@ -112,7 +112,7 @@ def filter_new_articles(articles):
 
     return new_articles
 
-def send_dingtalk_msg(summary_analysis, important_news, interest_news):
+def send_dingtalk_msg(important_news, interest_news):
     """加签发送钉钉机器人消息"""
     webhook_url = os.getenv("DINGTALK_WEBHOOK_URL")
     secret = os.getenv("DINGTALK_SECRET")
