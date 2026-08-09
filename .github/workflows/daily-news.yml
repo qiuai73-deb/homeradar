@@ -1,9 +1,9 @@
 name: 每日新闻抓取
 
 on:
-  schedule:
+#  schedule:
     # 每 4 小时自动更新一次
-#    - cron: "22 22,4,8,13 * * *"
+#   - cron: "22 22,4,8,13 * * *"
   workflow_dispatch:  # 允许手动触发测试
 
 jobs:
