@@ -50,12 +50,12 @@ def analyze_news(articles, prompt_text=""):
 1. 强制标题翻译：所有新闻的 "title" 必须彻底翻译为地道的中文！
 2. 精简摘要："summary" 字段控制在 20 字以内（1句极简说明）！
 3. 数量限制："important" 列表8 条，"interest" 列表8 条！
-4. 全局宏观研判："summary_analysis" 字段用 2 段中文提炼核心逻辑。
+
 
 【强制格式】
 必须返回合法 JSON 对象，格式如下：
 {
-  "summary_analysis": "中文研判...",
+  
   "important": [{"title": "中文标题", "url": "URL", "summary": "摘要", "source": "来源"}],
   "interest": [{"title": "中文标题", "url": "URL", "summary": "摘要", "source": "来源"}]
 }"""
@@ -92,14 +92,14 @@ def analyze_news(articles, prompt_text=""):
                 return ("⚠️ AI 输出了无法修复的数据，请重试。", [], [])
 
         # 安全提取字段
-        summary_analysis = result.get("summary_analysis", "AI 未生成全局研判。")
+        
         important_news = result.get("important", [])
         interest_news = result.get("interest", [])
 
         if not isinstance(important_news, list): important_news = []
         if not isinstance(interest_news, list): interest_news = []
 
-        return summary_analysis, important_news, interest_news
+        return important_news, interest_news
 
     except Exception as e:
         print(f"❌ 请求 AI 过程报错: {e}")
