@@ -6,7 +6,6 @@ import urllib.parse
 import feedparser
 import requests  # 用于抓取网页与发送钉钉通知
 from bs4 import BeautifulSoup
-from ai_analyzer import analyze_news
 import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
