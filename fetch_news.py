@@ -31,7 +31,7 @@ SOURCES = {
     "ths": {
         "name": "ths",
         "name_cn": "同花顺",
-        "url": "https://www.10jqka.com.cn",
+        "url": "https://www.10jqka.com.cn/classic",
         "type": "web"
     },
     "phoenix": {
@@ -46,10 +46,10 @@ SOURCES = {
         "url": "https://finance.sina.com.cn/stock",
         "type": "web"
     },
-    "cctv": {
-        "name": "cctv",
-        "name_cn": "央视新闻",
-        "url": "https://news.cctv.cn/china",
+    "eastmoney": {
+        "name": "eastmoney",
+        "name_cn": "东财",
+        "url": "https://finance.eastmoney.com",
         "type": "web"
     },
     "zaobao": {
