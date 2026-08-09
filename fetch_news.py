@@ -59,12 +59,13 @@ SOURCES = {
         "url": "https://www.kuzaobao.com/plus/list.php?tid=1",
         "type": "web",
     },
-    "wallstreetcn": {    
+    # --- API 抓取通道 ---
+    "wallstreetcn": {
         "name": "wscn",
         "name_cn": "华尔街见闻",
         "url": "https://api-one-wscn.awtmt.com/apiv1/content/carousel/information-flow?channel=global&limit=10",
-        "type": "api"
-    }
+        "type": "api",
+    },
 }
 OUTPUT_DIR = Path(__file__).parent
 MAX_ARTICLES = 10  # 每个源最多取多少条
@@ -183,7 +184,7 @@ def send_dingtalk_msg(important_news, interest_news):
 
 
 def fetch_source(key, config):
-    """抓取单个新闻源（兼容 url 配置，支持 RSS 与 Web 网页）"""
+    """抓取单个新闻源（支持 RSS、普通网页 Web 和 JSON API）"""
     print(f"  正在抓取 {config['name_cn']} ({config['name']})...")
     articles = []
 
@@ -212,6 +213,148 @@ def fetch_source(key, config):
                         "source": config["name_cn"],
                     }
                 )
+
+        elif config["type"] == "api":
+            # 华尔街见闻 JSON API 专用通道
+            # 注意：不要用 display_time 判断新闻是否有效，因为部分新闻的 display_time 可能为 0。
+            headers = {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/120.0.0.0 Safari/537.36"
+                ),
+                "Accept": "application/json, text/plain, */*",
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                "Referer": "https://wallstreetcn.com/",
+                "Origin": "https://wallstreetcn.com",
+                "Connection": "keep-alive",
+            }
+
+            # 使用 Session，并自动重试，适合 GitHub Actions 等网络环境
+            session = requests.Session()
+            response = session.get(
+                target_url,
+                headers=headers,
+                timeout=20,
+            )
+
+            print(f"  [WSCN API] HTTP 状态码: {response.status_code}")
+            print(f"  [WSCN API] Content-Type: {response.headers.get('Content-Type', '')}")
+
+            response.raise_for_status()
+
+            try:
+                data = response.json()
+            except ValueError:
+                # API 偶尔可能返回 HTML / 文本错误页，直接打印前 300 字帮助排查
+                print("  ❌ [WSCN API] 返回内容不是 JSON：")
+                print(f"  {response.text[:300]}")
+                return []
+
+            print(f"  [WSCN API] 顶层字段: {list(data.keys()) if isinstance(data, dict) else type(data).__name__}")
+
+            if not isinstance(data, dict):
+                print("  ❌ [WSCN API] 返回 JSON 不是对象")
+                return []
+
+            api_code = data.get("code")
+            print(f"  [WSCN API] API code: {api_code}")
+
+            # 有些版本的接口没有 code，不能因此直接判定失败
+            if api_code not in (None, 20000, 200):
+                print(
+                    f"  ❌ [WSCN API] API 返回异常: "
+                    f"code={api_code}, message={data.get('message', '')}"
+                )
+                return []
+
+            # 标准结构：data.items
+            api_data = data.get("data") or {}
+            items = []
+            if isinstance(api_data, dict):
+                items = api_data.get("items") or []
+            elif isinstance(api_data, list):
+                items = api_data
+
+            print(f"  [WSCN API] data.items 数量: {len(items) if isinstance(items, list) else 0}")
+
+            if not isinstance(items, list):
+                print(f"  ❌ [WSCN API] items 类型异常: {type(items).__name__}")
+                return []
+
+            for item in items[:MAX_ARTICLES]:
+                if not isinstance(item, dict):
+                    continue
+
+                # 当前 API：item.resource
+                resource = item.get("resource")
+                if not isinstance(resource, dict):
+                    resource = item
+
+                title = str(
+                    resource.get("title")
+                    or resource.get("title_text")
+                    or resource.get("name")
+                    or ""
+                ).strip()
+
+                article_url = str(
+                    resource.get("uri")
+                    or resource.get("url")
+                    or resource.get("link")
+                    or ""
+                ).strip()
+
+                # 有些 API 返回相对地址，补成完整华尔街见闻链接
+                if article_url.startswith("/"):
+                    article_url = urljoin("https://wallstreetcn.com", article_url)
+
+                if not title or not article_url:
+                    print(
+                        "  ⚠️ [WSCN API] 跳过一条无标题/无链接的数据："
+                        f"title={bool(title)}, url={bool(article_url)}"
+                    )
+                    continue
+
+                # display_time 只是发布时间，不参与有效新闻判断
+                display_time = resource.get("display_time")
+                published = ""
+
+                if display_time not in (None, "", 0, "0"):
+                    try:
+                        ts = int(float(display_time))
+                        # 明确使用北京时间，避免 GitHub Actions 默认 UTC
+                        from datetime import timedelta
+                        beijing_tz = timezone(timedelta(hours=8))
+                        published = datetime.fromtimestamp(
+                            ts, tz=timezone.utc
+                        ).astimezone(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
+                    except (TypeError, ValueError, OSError, OverflowError):
+                        published = str(display_time)
+
+                summary = (
+                    resource.get("content_short")
+                    or resource.get("summary")
+                    or resource.get("description")
+                    or title
+                )
+
+                articles.append(
+                    {
+                        "title": title,
+                        "url": article_url,
+                        "published": published,
+                        "summary": str(summary).strip(),
+                        "source": config["name_cn"],
+                    }
+                )
+
+            print(f"  [WSCN API] 成功解析: {len(articles)} 条")
+
+            # 如果 API 明明返回了数据但最终为 0，打印第一条原始数据用于诊断
+            if items and not articles:
+                print("  ❌ [WSCN API] API 有 items，但没有成功解析任何新闻。")
+                print(f"  [WSCN API] 第一条原始数据: {json.dumps(items[0], ensure_ascii=False)[:1000]}")
 
         elif config["type"] == "web":
             headers = {
