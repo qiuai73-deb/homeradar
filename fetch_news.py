@@ -126,78 +126,63 @@ def send_feishu_msg(important_news, interest_news):
         print("⚠️ 未配置 FEISHU_WEBHOOK_URL，跳过消息推送。")
         return
 
-    target_url = webhook_url
-    print(f"🔗 请求 URL: {target_url}")
-
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
-    content = []
+    
+    markdown_lines = []
+    
+    if important_news:
+        markdown_lines.append("**🚨 国计民生 (TOP 新闻)**")
+        for i, item in enumerate(important_news[:8], 1):
+            title = item.get("title", "").strip()
+            url = item.get("url") or item.get("link")
+            source = item.get("source", "")
+            if url and title:
+                markdown_lines.append(f"{i}. [{title}]({url}) `{source}`")
+        markdown_lines.append("")
 
-    # 标题行（加粗）
-    content.append([
-        {"tag": "text", "text": f"📰 每日 AI 新闻深度精选 ({now_str})", "style": ["bold"]}
-    ])
+    if interest_news:
+        markdown_lines.append("**🎯 猜你喜欢 (精选新闻)**")
+        for i, item in enumerate(interest_news[:8], 1):
+            title = item.get("title", "").strip()
+            url = item.get("url") or item.get("link")
+            source = item.get("source", "")
+            if url and title:
+                markdown_lines.append(f"{i}. [{title}]({url}) `{source}`")
 
-    # 重要新闻区块
-    content.append([
-        {"tag": "text", "text": "🚨 国计民生 (TOP 新闻)", "style": ["bold"]}
-    ])
-    for i, item in enumerate(important_news[:8], 1):
-        title = item.get("title", "")
-        url = item.get("url") or item.get("link")
-        if not url:
-            continue  # 无链接则跳过该条
-        source = item.get("source", "")
-        content.append([
-            {"tag": "text", "text": f"{i}. "},
-            {"tag": "a", "text": title, "href": url},
-            {"tag": "text", "text": f" `[{source}]`"}
-        ])
-
-    # 兴趣新闻区块
-    content.append([
-        {"tag": "text", "text": "🎯 猜你喜欢 (精选新闻)", "style": ["bold"]}
-    ])
-    for i, item in enumerate(interest_news[:8], 1):
-        title = item.get("title", "")
-        url = item.get("url") or item.get("link")
-        if not url:
-            continue
-        source = item.get("source", "")
-        content.append([
-            {"tag": "text", "text": f"{i}. "},
-            {"tag": "a", "text": title, "href": url},
-            {"tag": "text", "text": f" `[{source}]`"}
-        ])
-
-    # 如果内容为空（比如所有新闻都没有链接），发一条提示
-    if len(content) <= 2:   # 只有标题行和区块标题，没有新闻
-        content.append([{"tag": "text", "text": "暂无新闻推送"}])
+    markdown_content = "\n".join(markdown_lines) if markdown_lines else "暂无更新"
 
     payload = {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": f"📰 每日新闻精选 ({now_str})",
-                    "content": content
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {
+                    "tag": "plain_text",
+                    "content": f"📰 每日新闻精选 ({now_str})"
+                },
+                "template": "blue"
+            },
+            "elements": [
+                {
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": markdown_content
+                    }
                 }
-            }
+            ]
         }
     }
 
     try:
         resp = requests.post(
-            target_url,
+            webhook_url,
             json=payload,
-            headers={"Content-Type": "application/json"},
+            headers={"Content-Type": "application/json; charset=utf-8"},
             timeout=10
         )
-        print(f"📡 HTTP 状态码: {resp.status_code}")
-        print(f"📄 响应内容: {resp.text}")
-
         res_data = resp.json()
         if res_data.get("code") == 0:
-            print("🎉 飞书消息推送成功！")
+            print("🎉 飞书卡片推送成功！")
         else:
             print(f"❌ 飞书推送失败: {res_data}")
     except Exception as e:
