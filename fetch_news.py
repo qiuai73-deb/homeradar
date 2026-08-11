@@ -584,7 +584,7 @@ def main():
         f.write(md_content)
 
     # 4. 📢 发送钉钉推送
-    send_feishu_msg(important_news, interest_news)
+    send_dingtalk_msg(important_news, interest_news)
 
     # =============================
     # 保存已经推送过的新闻
