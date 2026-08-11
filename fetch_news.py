@@ -122,24 +122,55 @@ def filter_new_articles(articles):
 
 def send_feishu_msg(important_news, interest_news):
     webhook_url = os.getenv("FEISHU_WEBHOOK_URL")
-    secret = os.getenv("FEISHU_SECRET", "").strip()  # 去除首尾空格
+    secret = os.getenv("FEISHU_SECRET", "").strip()  # 去除首尾空格、换行
 
     if not webhook_url:
-        print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
+        print("⚠️ 未配置 FEISHU_WEBHOOK_URL，跳过消息推送。")
         return
 
-    # ---- 调试：时间偏差检查 ----
-    import time
-    local_ts = int(time.time())
-    # 可选：从网络获取时间，跳过该步骤，直接打印本地时间
-    print(f"🕐 当前本地时间戳: {local_ts}，对应时间: {datetime.fromtimestamp(local_ts).strftime('%Y-%m-%d %H:%M:%S')}")
-    # 如果你的系统时间正确，可以忽略网络对比
+    # ---- 1. 获取网络时间（避免本地时间偏差） ----
+    def get_network_timestamp():
+        """从网络获取当前毫秒级时间戳，失败返回 None"""
+        try:
+            # 从 GitHub API 的响应头获取 Date
+            resp = requests.head("https://api.github.com", timeout=3)
+            date_str = resp.headers.get("Date")
+            if date_str:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(date_str)
+                return int(dt.timestamp() * 1000)  # 毫秒
+        except:
+            pass
+        # 备用：从百度获取
+        try:
+            resp = requests.get("https://www.baidu.com", timeout=3)
+            date_str = resp.headers.get("Date")
+            if date_str:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(date_str)
+                return int(dt.timestamp() * 1000)
+        except:
+            pass
+        return None
 
-    # ---- 签名计算 ----
+    net_ts = get_network_timestamp()
+    if net_ts:
+        timestamp = str(net_ts)
+        print(f"🕐 使用网络时间戳: {timestamp} (对应 {datetime.fromtimestamp(net_ts/1000).strftime('%Y-%m-%d %H:%M:%S')})")
+    else:
+        # 退而求其次，使用本地时间并打印警告
+        local_ts = int(time.time() * 1000)
+        timestamp = str(local_ts)
+        print(f"⚠️ 无法获取网络时间，使用本地时间戳: {timestamp} (对应 {datetime.fromtimestamp(local_ts/1000).strftime('%Y-%m-%d %H:%M:%S')})")
+        print("   如果本地时间不准确，请同步系统时间。")
+
+    # ---- 2. 签名计算 ----
     if secret:
-        # 使用本地时间戳（或网络时间戳，如果可用）
-        timestamp = str(local_ts * 1000)  # 飞书要求毫秒级
         string_to_sign = f"{timestamp}\n{secret}"
+        # 调试：打印签名用的时间戳和 secret 前几位（不要泄露完整 secret）
+        print(f"🔐 签名 timestamp: {timestamp}")
+        print(f"🔐 secret 长度: {len(secret)}，前4位: {secret[:4]}...")
+
         hmac_code = hmac.new(
             secret.encode('utf-8'),
             string_to_sign.encode('utf-8'),
@@ -147,23 +178,20 @@ def send_feishu_msg(important_news, interest_news):
         ).digest()
         sign = urllib.parse.quote_plus(base64.b64encode(hmac_code))
         target_url = f"{webhook_url}?timestamp={timestamp}&sign={sign}"
-        print(f"✅ 签名生成完成，timestamp={timestamp}，sign前10位={sign[:10]}...")
+        print(f"✅ 签名生成完成，sign前10位={sign[:10]}...")
     else:
         target_url = webhook_url
+        print("⚠️ 未设置 secret，将不使用签名发送（可能被飞书拒绝）")
 
-    # 后续消息构造和发送不变...
-
-    # 2. 构造飞书 post 消息内容（二维数组结构）
+    # ---- 3. 构造飞书 post 消息内容 ----
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     content = []
 
-    # 标题行
     content.append([
         {"tag": "text", "text": f"📰 每日 AI 新闻深度精选 ({now_str})", "style": ["bold"]}
     ])
-    content.append([{"tag": "text", "text": " "}])   # 空行
+    content.append([{"tag": "text", "text": " "}])
 
-    # 重要新闻区块
     content.append([
         {"tag": "text", "text": "🚨 国计民生 (TOP 新闻)", "style": ["bold"]}
     ])
@@ -171,16 +199,14 @@ def send_feishu_msg(important_news, interest_news):
         title = item.get("title", "")
         url = item.get("url") or item.get("link") or "#"
         source = item.get("source", "")
-        # 一行：序号 + 链接（标题）+ 来源
         content.append([
             {"tag": "text", "text": f"{i}. "},
             {"tag": "a", "text": title, "href": url},
             {"tag": "text", "text": f" `[{source}]`"}
         ])
 
-    content.append([{"tag": "text", "text": " "}])   # 空行
+    content.append([{"tag": "text", "text": " "}])
 
-    # 兴趣新闻区块
     content.append([
         {"tag": "text", "text": "🎯 猜你喜欢 (精选新闻)", "style": ["bold"]}
     ])
@@ -194,20 +220,23 @@ def send_feishu_msg(important_news, interest_news):
             {"tag": "text", "text": f" `[{source}]`"}
         ])
 
-    # 3. 组装飞书请求体
     payload = {
         "msg_type": "post",
         "content": {
             "post": {
                 "zh_cn": {
-                    "title": f"📰 每日新闻精选 ({now_str})",   # 可选标题（在消息卡片顶部显示）
+                    "title": f"📰 每日新闻精选 ({now_str})",
                     "content": content
                 }
             }
         }
     }
 
-    # 4. 发送请求
+    # 调试：打印脱敏后的 URL 和 payload 摘要
+    print(f"🔗 请求 URL (不含敏感签名): {target_url.split('&sign=')[0]}")
+    print(f"📦 发送 payload 摘要: {json.dumps(payload, ensure_ascii=False)[:200]}...")
+
+    # ---- 4. 发送请求 ----
     try:
         resp = requests.post(
             target_url,
@@ -215,12 +244,17 @@ def send_feishu_msg(important_news, interest_news):
             headers={"Content-Type": "application/json"},
             timeout=10
         )
-        res_data = resp.json()
-        # 飞书返回码：0 表示成功，非0 则失败
-        if res_data.get("code") == 0:
-            print("🎉 飞书消息推送成功！")
-        else:
-            print(f"❌ 飞书推送失败: {res_data}")
+        print(f"📡 HTTP 状态码: {resp.status_code}")
+        print(f"📄 响应内容: {resp.text}")  # 完整响应，帮助排查
+
+        try:
+            res_data = resp.json()
+            if res_data.get("code") == 0:
+                print("🎉 飞书消息推送成功！")
+            else:
+                print(f"❌ 飞书推送失败: {res_data}")
+        except ValueError:
+            print("❌ 响应不是 JSON，可能 Webhook 地址错误或服务端异常。")
     except Exception as e:
         print(f"❌ 飞书推送异常: {e}")
 
