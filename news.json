@@ -1,104 +1,104 @@
 {
-  "updated": "2026-08-11T07:08:38.663183+00:00",
-  "updated_beijing": "2026-08-11 07:08 北京时间",
+  "updated": "2026-08-11T07:21:09.023325+00:00",
+  "updated_beijing": "2026-08-11 07:21 北京时间",
   "important": [
     {
-      "title": "Meta发布开源小模型Muse Glimmer 使用“蒸馏”训练",
-      "url": "https://www.caixin.com/2026-08-11/102473126.html",
-      "summary": "Meta推出开源小模型，采用蒸馏技术训练。",
-      "source": "财新"
+      "title": "伊朗总统透露最高领袖身体状况，结束会晤后引发关注",
+      "url": "https://news.ifeng.com/c/8vUxlx302vt",
+      "summary": "伊朗总统透露最高领袖健康，政局或生变。",
+      "source": "凤凰网"
     },
     {
-      "title": "清华的“光刻厂”梦想，要被马斯克实现了？",
-      "url": "https://opinion.caixin.com/2026-08-11/102473109.html",
-      "summary": "探讨马斯克可能实现清华光刻厂构想。",
-      "source": "财新"
+      "title": "伊朗最高领袖调整6名军方高层，美媒称德黑兰发出信号",
+      "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+      "summary": "伊朗军方高层调整，对外释放强硬信号。",
+      "source": "凤凰网"
     },
     {
-      "title": "中国火箭发射失败 马斯克：这是极为困难的事",
-      "url": "https://www.kuzaobao.com/news/china/202608/1178506.html",
-      "summary": "中国火箭发射失败，马斯克评论称困难。",
+      "title": "伊朗更强硬的强硬派来了",
+      "url": "https://news.ifeng.com/c/8vUncUovk9A",
+      "summary": "伊朗强硬派势力上升，或加剧地区紧张。",
+      "source": "凤凰网"
+    },
+    {
+      "title": "特朗普称要向伊朗索赔",
+      "url": "https://finance.eastmoney.com/a/202608113836985655.html",
+      "summary": "特朗普对伊朗索赔，美伊关系再添变数。",
+      "source": "东财"
+    },
+    {
+      "title": "霍尔木兹海峡重启预期降温",
+      "url": "https://finance.eastmoney.com/a/202608113836984852.html",
+      "summary": "霍尔木兹海峡风险升温，影响全球油市。",
+      "source": "东财"
+    },
+    {
+      "title": "中国海军在东海举行军事训练，禁止船只驶入",
+      "url": "https://www.kuzaobao.com/news/china/202608/1178501.html",
+      "summary": "中国东海军事训练，区域局势受关注。",
       "source": "联合早报"
     },
     {
-      "title": "中国外交部回应美方对华投资限制：将采取必要措施",
-      "url": "https://www.kuzaobao.com/news/china/202608/1178496.html",
-      "summary": "中方回应美投资限制，将反制。",
+      "title": "中国中央党校学习时强调备战打仗，应对挑战",
+      "url": "https://www.kuzaobao.com/news/china/202608/1178498.html",
+      "summary": "中央党校强调备战，应对国际挑战。",
       "source": "联合早报"
     },
     {
-      "title": "中国媒体：中美新一轮贸易谈判或推迟",
-      "url": "https://www.kuzaobao.com/news/china/202608/1178495.html",
-      "summary": "中美贸易谈判可能推迟，原因待定。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国模型正“走出”价格战，“走向”智能战",
-      "url": "https://wallstreetcn.com/articles/3779138",
-      "summary": "中国AI模型竞争转向智能水平。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "Anthropic宣布Claude生成内容将嵌入隐形水印，复制粘贴后仍可追踪",
-      "url": "https://wallstreetcn.com/articles/3779160",
-      "summary": "Claude内容添加隐形水印，可追踪。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "数学家花了37年，AI一次就做到了",
-      "url": "https://wallstreetcn.com/charts/41959560",
-      "summary": "AI解决数学难题，超越人类。",
+      "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+      "url": "https://wallstreetcn.com/articles/3779166",
+      "summary": "英伟达融资模式引争议，大摩澄清。",
       "source": "华尔街见闻"
     }
   ],
   "interest": [
     {
-      "title": "【权益周观察】AI算力上周强势反弹 科技股第二波要开始了吗？",
-      "url": "https://database.caixin.com/2026-08-11/102473135.html",
-      "summary": "AI算力反弹，科技股或迎第二波。",
+      "title": "美的置业上半年开发服务收入同比下降35% 产业园交付推动资产运营收入翻倍",
+      "url": "https://www.caixin.com/2026-08-11/102473131.html",
+      "summary": "美的置业开发收入降，资产运营增。",
       "source": "财新"
     },
     {
-      "title": "行业ETF风向标丨半导体产业链ETF交易热度持续下滑，两只科创创新药ETF半日涨超4%",
-      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimxmer4307365.shtml",
-      "summary": "半导体ETF热度降，创新药ETF涨。",
-      "source": "新浪"
+      "title": "5连板！百花医药紧急提示",
+      "url": "https://finance.eastmoney.com/a/202608113837151477.html",
+      "summary": "百花医药连续涨停，公司发风险提示。",
+      "source": "东财"
     },
     {
-      "title": "AI杠杆、美债利率与霍尔木兹海峡--这个夏天主导全球市场的三大因素",
-      "url": "https://wallstreetcn.com/articles/3779143",
-      "summary": "三大因素主导夏季全球市场。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
-      "url": "https://wallstreetcn.com/articles/3779129",
-      "summary": "AI Agent成本低于人力外包。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "1年大涨400%后！英特尔增发200亿美元，为“未来增长”筹资",
-      "url": "https://wallstreetcn.com/articles/3779124",
-      "summary": "英特尔增发200亿美元筹资。",
+      "title": "浙商证券谈A股下阶段策略：从“K型”到“菱形”",
+      "url": "https://wallstreetcn.com/articles/3779168",
+      "summary": "浙商证券预测A股转向菱形结构。",
       "source": "华尔街见闻"
     },
     {
       "title": "科技情绪企稳，韩股上涨1.2%、三星涨约5%，通胀忧虑压制债市，黄金下跌",
       "url": "https://wallstreetcn.com/articles/3779161",
-      "summary": "科技股企稳，债市黄金承压。",
+      "summary": "科技股企稳，债市受通胀压制。",
       "source": "华尔街见闻"
     },
     {
-      "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
-      "url": "https://wallstreetcn.com/articles/3779167",
-      "summary": "恒生科技指数改革，转向硬科技。",
+      "title": "7月美国CPI预计降温：美联储加息预期或迎二次冲击",
+      "url": "https://wallstreetcn.com/member/articles/3779159",
+      "summary": "美国CPI或降温，影响美联储政策。",
       "source": "华尔街见闻"
     },
     {
-      "title": "创三年半新高！人民币强势突围的三大底牌",
-      "url": "https://wallstreetcn.com/articles/3779163",
-      "summary": "人民币创新高，三大支撑因素。",
+      "title": "人民日报：中国经济看速度更看“稳劲”",
+      "url": "https://wallstreetcn.com/articles/3779156",
+      "summary": "人民日报强调经济稳劲，重质量。",
       "source": "华尔街见闻"
+    },
+    {
+      "title": "（周记344）杠杆的魔力丨聊聊本周丨急时总想做点什么",
+      "url": "http://xueqiu.com/1643044849/404344208",
+      "summary": "雪球用户讨论杠杆投资风险与心态。",
+      "source": "雪球"
+    },
+    {
+      "title": "AAOI财报精读，“10倍扩产”的真相是什么？",
+      "url": "http://xueqiu.com/8730228692/404330200",
+      "summary": "AAOI财报分析，扩产计划引关注。",
+      "source": "雪球"
     }
   ],
   "sources": {
@@ -689,6 +689,20 @@
           "source": "华尔街见闻头条"
         },
         {
+          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+          "url": "https://wallstreetcn.com/articles/3779166",
+          "published": "2026-08-11 15:08:37",
+          "summary": "大摩认为，英伟达在该结构中仅提供不超过25%的\"残值支持机制\"，主导决策权和资金来源均由独立第三方承担，从结构上化解\"循环融资\"质疑。该安排同时为英伟达开辟近100%毛利率的年金式收入分成通道，测算FY29年度分成收入可超百亿美元，EPS上行超10%。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "浙商证券谈A股下阶段策略：从“K型”到“菱形”",
+          "url": "https://wallstreetcn.com/articles/3779168",
+          "published": "2026-08-11 15:07:21",
+          "summary": "浙商证券提出的“菱形策略”指出，随着AI叙事斜率放缓、市场微观结构恶化及全球流动性扰动，资金极致集中的“K型”分化难以持续，市场正转入“收敛→反弹→再收敛”的震荡过渡期。策略上建议从两端集中转向中部增厚，围绕科技分化、深度价值以及困境反转三条主线布局。",
+          "source": "华尔街见闻头条"
+        },
+        {
           "title": "科技情绪企稳，韩股上涨1.2%、三星涨约5%，通胀忧虑压制债市，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3779161",
           "published": "2026-08-11 14:55:21",
@@ -701,20 +715,6 @@
           "published": "2026-08-11 14:43:01",
           "summary": "恒生科技指数将迎大修订：30只扩容至50只，AI升独立主题，增设收入增长组，向高增长中小公司开门。换掉的不只是名单，更是指数的贝塔——硬科技占比升至42%。12月前，404亿美元被动资金将按新规则重新分配。9月底看名单，12月看资金。",
           "source": "华尔街见闻头条"
-        },
-        {
-          "title": "创三年半新高！人民币强势突围的三大底牌",
-          "url": "https://wallstreetcn.com/articles/3779163",
-          "published": "2026-08-11 14:17:47",
-          "summary": "“美元阶段性走弱是本轮人民币升值的首要催化剂。”中国首席经济学家论坛理事长连平接受采访时表示，一方面，美日联合干预日元汇率，日元短期反弹拖累美元指数权重；另一方面，中东地缘风险降温，缓解避险情绪，进一步推动美元回调。此外，美国宏观数据的疲软进一步加剧了美元的弱势，使非美货币普遍获得修复动能。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "一家“二手车经销商”的“AI CEO”实验",
-          "url": "https://wallstreetcn.com/articles/3779164",
-          "published": "2026-08-11 14:14:28",
-          "summary": "Alejandro在节目里反复纠正采访者用的一个词——\"采用\"。他说，应该说是\"围绕AI重新设计公司\"。6%的改进来自把AI嵌入旧流程，10倍改进来自让AI重新定义流程。",
-          "source": "华尔街见闻头条"
         }
       ]
     },
@@ -723,6 +723,20 @@
       "name_cn": "华尔街见闻最新",
       "count": 10,
       "articles": [
+        {
+          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+          "url": "https://wallstreetcn.com/articles/3779166",
+          "published": "2026-08-11 15:08:37",
+          "summary": "大摩认为，英伟达在该结构中仅提供不超过25%的\"残值支持机制\"，主导决策权和资金来源均由独立第三方承担，从结构上化解\"循环融资\"质疑。该安排同时为英伟达开辟近100%毛利率的年金式收入分成通道，测算FY29年度分成收入可超百亿美元，EPS上行超10%。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "浙商证券谈A股下阶段策略：从“K型”到“菱形”",
+          "url": "https://wallstreetcn.com/articles/3779168",
+          "published": "2026-08-11 15:07:21",
+          "summary": "浙商证券提出的“菱形策略”指出，随着AI叙事斜率放缓、市场微观结构恶化及全球流动性扰动，资金极致集中的“K型”分化难以持续，市场正转入“收敛→反弹→再收敛”的震荡过渡期。策略上建议从两端集中转向中部增厚，围绕科技分化、深度价值以及困境反转三条主线布局。",
+          "source": "华尔街见闻最新"
+        },
         {
           "title": "科技情绪企稳，韩股上涨1.2%、三星涨约5%，通胀忧虑压制债市，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3779161",
@@ -777,20 +791,6 @@
           "url": "https://wallstreetcn.com/articles/3779156",
           "published": "2026-08-11 13:52:37",
           "summary": "中国经济\"半年报\"增速4.7%，经济增量近5年同期最大，展现强劲韧性。稳就业、稳企业、稳市场、稳预期是保持\"稳劲\"的关键：就业形势稳定，新动能创造新岗位；民营企业活力迸发，进出口创历史新高；超大市场磁吸力持续增强；外资加码布局中国。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "美元拐点将至？2024年vs2026年",
-          "url": "https://wallstreetcn.com/articles/3779157",
-          "published": "2026-08-11 13:23:20",
-          "summary": "2024与2026年均因非农就业爆冷触发美元下行，且在日元干预与双顶形态上高度相似。核心差异在于：24年通胀回落助推降息；26年通胀高企形成滞胀，掣肘美联储转鸽，致当前美元跌幅受限。后续8月CPI将是决定美元能否跌破关键支撑、开启下跌的分水岭。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "台积电积压10亿美元苹果处理器订单？郭明錤辟谣：库存上升属正常爬坡，非被动积压",
-          "url": "https://wallstreetcn.com/articles/3779158",
-          "published": "2026-08-11 13:19:40",
-          "summary": "郭明錤驳斥了“台积电积压10亿美元苹果2nm芯片”的传言，强调苹果会提前根据内存供应规划生产节奏，且台积电库存上升源于2nm爬坡及多客户备货，非被动积压。不过，苹果管理层已确认受内存短缺等供应限制影响，第四财季多条产品线出货承压。",
           "source": "华尔街见闻最新"
         }
       ]
