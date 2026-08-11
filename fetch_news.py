@@ -122,11 +122,17 @@ def filter_new_articles(articles):
 
 def send_feishu_msg(important_news, interest_news):
     webhook_url = os.getenv("FEISHU_WEBHOOK_URL")
-    secret = os.getenv("FEISHU_SECRET", "").strip()  # 去除首尾空格、换行
+    # secret = os.getenv("FEISHU_SECRET", "").strip()  # 临时注释掉
 
     if not webhook_url:
         print("⚠️ 未配置 FEISHU_WEBHOOK_URL，跳过消息推送。")
         return
+
+    # 直接使用 webhook_url，不签名
+    target_url = webhook_url
+    print(f"🔗 请求 URL: {target_url}")
+
+    # ... 构造 payload 不变 ...
 
     # ---- 1. 获取网络时间（避免本地时间偏差） ----
     def get_network_timestamp():
