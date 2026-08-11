@@ -120,7 +120,7 @@ def filter_new_articles(articles):
     return new_articles
 
 
-        if not webhook_url:
+    if not webhook_url:
         print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
         return
 
