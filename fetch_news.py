@@ -124,7 +124,7 @@ def filter_new_articles(articles):
         print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
         return
 
-    # 1. 计算签名（算法与钉钉完全相同）
+    # 1. 计算签名
     target_url = webhook_url
     if secret:
         timestamp = str(round(time.time() * 1000))
@@ -134,7 +134,6 @@ def filter_new_articles(articles):
             string_to_sign.encode("utf-8"),
             digestmod=hashlib.sha256
         ).digest()
-        # 兼容没有 import base64 的环境
         sign = (
             urllib.parse.quote_plus(base64.b64encode(hmac_code))
             if "base64" in globals()
@@ -142,23 +141,21 @@ def filter_new_articles(articles):
                 __import__("base64").b64encode(hmac_code)
             )
         )
-        # 🔧 关键修正：智能判断用 ? 还是 &（兼容钉钉和飞书）
-        if "?" in webhook_url:
-            target_url = f"{webhook_url}&timestamp={timestamp}&sign={sign}"
-        else:
-            target_url = f"{webhook_url}?timestamp={timestamp}&sign={sign}"
+        # 飞书 Webhook 没有参数，直接加 ? 即可
+        target_url = f"{webhook_url}?timestamp={timestamp}&sign={sign}"
 
-    # 2. 构造飞书 post 消息内容（二维数组结构）
+    # 调试：打印脱敏后的 URL
+    print(f"🔗 请求 URL（不含敏感签名）: {target_url.split('&sign=')[0]}")
+
+    # 2. 构造飞书 post 消息内容
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     content = []
 
-    # 标题行
     content.append([
         {"tag": "text", "text": f"📰 每日 AI 新闻深度精选 ({now_str})", "style": ["bold"]}
     ])
     content.append([{"tag": "text", "text": " "}])  # 空行
 
-    # 国计民生 (TOP 新闻)
     content.append([
         {"tag": "text", "text": "🚨 国计民生 (TOP 新闻)", "style": ["bold"]}
     ])
@@ -172,9 +169,8 @@ def filter_new_articles(articles):
             {"tag": "text", "text": f" `[{source}]`"}
         ])
 
-    content.append([{"tag": "text", "text": " "}])  # 空行
+    content.append([{"tag": "text", "text": " "}])
 
-    # 猜你喜欢 (精选新闻)
     content.append([
         {"tag": "text", "text": "🎯 猜你喜欢 (精选新闻)", "style": ["bold"]}
     ])
@@ -188,7 +184,6 @@ def filter_new_articles(articles):
             {"tag": "text", "text": f" `[{source}]`"}
         ])
 
-    # 3. 组装飞书请求体
     payload = {
         "msg_type": "post",
         "content": {
@@ -201,7 +196,10 @@ def filter_new_articles(articles):
         }
     }
 
-    # 4. 发送 POST 请求
+    # 调试：打印精简的 payload
+    print(f"📦 发送 payload（摘要）: {json.dumps(payload, ensure_ascii=False)[:300]}...")
+
+    # 3. 发送请求
     try:
         resp = requests.post(
             target_url,
@@ -209,12 +207,19 @@ def filter_new_articles(articles):
             headers={"Content-Type": "application/json"},
             timeout=10
         )
-        res_data = resp.json()
-        # 飞书返回码：code == 0 表示成功
-        if res_data.get("code") == 0:
-            print("🎉 飞书消息推送成功！")
-        else:
-            print(f"❌ 飞书推送失败: {res_data}")
+        print(f"📡 HTTP 状态码: {resp.status_code}")
+        print(f"📄 响应内容: {resp.text}")   # 关键！直接打印原始响应
+
+        # 尝试解析 JSON
+        try:
+            res_data = resp.json()
+            if res_data.get("code") == 0:
+                print("🎉 飞书消息推送成功！")
+            else:
+                print(f"❌ 飞书推送失败，错误码 {res_data.get('code')}: {res_data.get('msg')}")
+        except ValueError:
+            print("❌ 响应不是 JSON，可能是 HTML 错误页，请检查 Webhook 地址是否正确。")
+
     except Exception as e:
         print(f"❌ 飞书推送异常: {e}")
 
