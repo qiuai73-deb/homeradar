@@ -120,9 +120,9 @@ def filter_new_articles(articles):
     return new_articles
 
 
-def send_dingtalk_msg(important_news, interest_news):
-    webhook_url = os.getenv("DINGTALK_WEBHOOK_URL")
-    secret = os.getenv("DINGTALK_SECRET", "").strip()  # 去除首尾空格
+def send_feishu_msg(important_news, interest_news):
+    webhook_url = os.getenv("FEISHU_WEBHOOK_URL")
+    secret = os.getenv("FEISHU_SECRET", "").strip()  # 去除首尾空格
 
     if not webhook_url:
         print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
@@ -584,7 +584,7 @@ def main():
         f.write(md_content)
 
     # 4. 📢 发送钉钉推送
-    send_dingtalk_msg(important_news, interest_news)
+    send_feishu_msg(important_news, interest_news)
 
     # =============================
     # 保存已经推送过的新闻
