@@ -120,27 +120,38 @@ def filter_new_articles(articles):
     return new_articles
 
 
-def send_feishu_msg(important_news, interest_news):
-    """发送飞书机器人消息（post 富文本格式）"""
-    webhook_url = os.getenv("FEISHU_WEBHOOK_URL")   # 建议改用飞书专用环境变量
-    secret = os.getenv("FEISHU_SECRET")             # 飞书加签密钥（可选）
+def send_dingtalk_msg(important_news, interest_news):
+    webhook_url = os.getenv("DINGTALK_WEBHOOK_URL")
+    secret = os.getenv("DINGTALK_SECRET", "").strip()  # 去除首尾空格
 
     if not webhook_url:
-        print("⚠️ 未配置 FEISHU_WEBHOOK_URL，跳过飞书推送。")
+        print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
         return
 
-    # 1. 计算签名（与钉钉算法完全一致）
-    target_url = webhook_url
+    # ---- 调试：时间偏差检查 ----
+    import time
+    local_ts = int(time.time())
+    # 可选：从网络获取时间，跳过该步骤，直接打印本地时间
+    print(f"🕐 当前本地时间戳: {local_ts}，对应时间: {datetime.fromtimestamp(local_ts).strftime('%Y-%m-%d %H:%M:%S')}")
+    # 如果你的系统时间正确，可以忽略网络对比
+
+    # ---- 签名计算 ----
     if secret:
-        timestamp = str(round(time.time() * 1000))
+        # 使用本地时间戳（或网络时间戳，如果可用）
+        timestamp = str(local_ts * 1000)  # 飞书要求毫秒级
         string_to_sign = f"{timestamp}\n{secret}"
         hmac_code = hmac.new(
-            secret.encode("utf-8"),
-            string_to_sign.encode("utf-8"),
-            digestmod=hashlib.sha256
+            secret.encode('utf-8'),
+            string_to_sign.encode('utf-8'),
+            hashlib.sha256
         ).digest()
         sign = urllib.parse.quote_plus(base64.b64encode(hmac_code))
         target_url = f"{webhook_url}?timestamp={timestamp}&sign={sign}"
+        print(f"✅ 签名生成完成，timestamp={timestamp}，sign前10位={sign[:10]}...")
+    else:
+        target_url = webhook_url
+
+    # 后续消息构造和发送不变...
 
     # 2. 构造飞书 post 消息内容（二维数组结构）
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
