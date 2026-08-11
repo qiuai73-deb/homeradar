@@ -221,15 +221,8 @@ def send_feishu_msg(important_news, interest_news):
         ])
 
     payload = {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": f"📰 每日新闻精选 ({now_str})",
-                    "content": content
-                }
-            }
-        }
+        "msg_type": "text",
+        "content": {"text": "Hello from test"}
     }
 
     # 调试：打印脱敏后的 URL 和 payload 摘要
