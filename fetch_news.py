@@ -120,8 +120,8 @@ def filter_new_articles(articles):
     return new_articles
 
 
-    if not webhook_url:
-        print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过飞书推送。")
+        if not webhook_url:
+        print("⚠️ 未配置 DINGTALK_WEBHOOK_URL，跳过消息推送。")
         return
 
     # 1. 计算签名（算法与钉钉完全相同）
@@ -134,7 +134,7 @@ def filter_new_articles(articles):
             string_to_sign.encode("utf-8"),
             digestmod=hashlib.sha256
         ).digest()
-        # 兼容没有 import base64 的环境（与原代码逻辑一致）
+        # 兼容没有 import base64 的环境
         sign = (
             urllib.parse.quote_plus(base64.b64encode(hmac_code))
             if "base64" in globals()
@@ -142,7 +142,11 @@ def filter_new_articles(articles):
                 __import__("base64").b64encode(hmac_code)
             )
         )
-        target_url = f"{webhook_url}&timestamp={timestamp}&sign={sign}"
+        # 🔧 关键修正：智能判断用 ? 还是 &（兼容钉钉和飞书）
+        if "?" in webhook_url:
+            target_url = f"{webhook_url}&timestamp={timestamp}&sign={sign}"
+        else:
+            target_url = f"{webhook_url}?timestamp={timestamp}&sign={sign}"
 
     # 2. 构造飞书 post 消息内容（二维数组结构）
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
