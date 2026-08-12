@@ -22,7 +22,7 @@ SOURCES = {
 #        "name_cn": "财新",
 #        "url": "https://quanwenrss.com/caixin",
 #        "type": "rss",
-    },
+#    },
     "snowball": {
         "name": "snowball",
         "name_cn": "雪球",
