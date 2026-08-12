@@ -49,7 +49,7 @@ def analyze_news(articles, prompt_text=""):
 【核心任务与严格限制】
 1. 强制标题翻译：所有新闻的 "title" 必须彻底翻译为地道的中文！
 2. 精简摘要："summary" 字段控制在 20 字以内（1句极简说明）！
-3. 数量限制："important" 列表8 条，"interest" 列表8 条！
+3. 数量限制："important" 列表15条，"interest" 列表15条！
 
 
 【强制格式】
