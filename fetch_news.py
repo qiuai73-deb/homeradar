@@ -33,7 +33,7 @@ SOURCES = {
     "ths": {
         "name": "ths",
         "name_cn": "同花顺",
-        "url": "https://www.10jqka.com.cn/classic",
+        "url": "https://www.10jqka.com.cn",
         "type": "web",
     },
 #    "phoenix": {
