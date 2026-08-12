@@ -17,11 +17,11 @@ from bs4 import BeautifulSoup
 # ========== 新闻源统一配置 ==========
 SOURCES = {
     # --- RSS 抓取通道 ---
-    "caixin": {
-        "name": "caixin",
-        "name_cn": "财新",
-        "url": "https://quanwenrss.com/caixin",
-        "type": "rss",
+#    "caixin": {
+#        "name": "caixin",
+#        "name_cn": "财新",
+#        "url": "https://quanwenrss.com/caixin",
+#        "type": "rss",
     },
     "snowball": {
         "name": "snowball",
@@ -36,12 +36,12 @@ SOURCES = {
         "url": "https://www.10jqka.com.cn/classic",
         "type": "web",
     },
-    "phoenix": {
-        "name": "phoenix",
-        "name_cn": "凤凰网",
-        "url": "https://www.ifeng.com",
-        "type": "web",
-    },
+#    "phoenix": {
+#        "name": "phoenix",
+#        "name_cn": "凤凰网",
+#        "url": "https://www.ifeng.com",
+#        "type": "web",
+#    },
     "sina": {
         "name": "sina",
         "name_cn": "新浪",
