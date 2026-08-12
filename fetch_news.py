@@ -144,7 +144,7 @@ def send_feishu_msg(important_news, interest_news):
     
     if important_news:
         markdown_lines.append("**🚨 国计民生 (TOP 新闻)**")
-        for i, item in enumerate(important_news[:8], 1):
+        for i, item in enumerate(important_news[:15], 1):
             title = item.get("title", "").strip()
             url = item.get("url") or item.get("link")
             source = item.get("source", "")
@@ -154,7 +154,7 @@ def send_feishu_msg(important_news, interest_news):
 
     if interest_news:
         markdown_lines.append("**🎯 猜你喜欢 (精选新闻)**")
-        for i, item in enumerate(interest_news[:8], 1):
+        for i, item in enumerate(interest_news[:15], 1):
             title = item.get("title", "").strip()
             url = item.get("url") or item.get("link")
             source = item.get("source", "")
