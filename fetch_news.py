@@ -17,12 +17,12 @@ from bs4 import BeautifulSoup
 # ========== 新闻源统一配置 ==========
 SOURCES = {
     # --- RSS 抓取通道 ---
-#    "caixin": {
-#        "name": "caixin",
-#        "name_cn": "财新",
-#        "url": "https://quanwenrss.com/caixin",
-#        "type": "rss",
-#    },
+    "caixin": {
+        "name": "caixin",
+        "name_cn": "财新",
+        "url": "https://quanwenrss.com/caixin",
+        "type": "rss",
+    },
     "snowball": {
         "name": "snowball",
         "name_cn": "雪球",
@@ -84,7 +84,7 @@ SOURCES = {
         "type": "gelonghui",
         # channel: all=全部, a=A股, hk=港股, us=美股, futures=期货, forex=外汇, bond=债券
         "channel": "all",
-        "limit": 15,
+        "limit": 10,
     },
 }
 OUTPUT_DIR = Path(__file__).parent
@@ -144,7 +144,7 @@ def send_feishu_msg(important_news, interest_news):
     
     if important_news:
         markdown_lines.append("**🚨 国计民生 (TOP 新闻)**")
-        for i, item in enumerate(important_news[:15], 1):
+        for i, item in enumerate(important_news[:10], 1):
             title = item.get("title", "").strip()
             url = item.get("url") or item.get("link")
             source = item.get("source", "")
@@ -154,7 +154,7 @@ def send_feishu_msg(important_news, interest_news):
 
     if interest_news:
         markdown_lines.append("**🎯 猜你喜欢 (精选新闻)**")
-        for i, item in enumerate(interest_news[:15], 1):
+        for i, item in enumerate(interest_news[:10], 1):
             title = item.get("title", "").strip()
             url = item.get("url") or item.get("link")
             source = item.get("source", "")
@@ -377,7 +377,7 @@ def fetch_source(key, config):
         elif config["type"] == "gelonghui":
             # 格隆汇快讯 JSON API 专用通道：只取「重要 / 红色」新闻
             channel = config.get("channel", "all")
-            limit = config.get("limit", 15)
+            limit = config.get("limit", 10)
             api_url = (
                 "https://www.gelonghui.com/api/dtb/list"
                 f"?channel={channel}&limit={limit}"
