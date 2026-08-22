@@ -1,188 +1,104 @@
 {
-  "updated": "2026-08-22T07:05:59.658658+00:00",
-  "updated_beijing": "2026-08-22 07:05 北京时间",
+  "updated": "2026-08-22T10:05:55.696757+00:00",
+  "updated_beijing": "2026-08-22 10:05 北京时间",
   "important": [
     {
-      "title": "空客：AI硬件取代跨境电商成为货运增长新引擎",
-      "url": "https://companies.caixin.com/2026-08-22/102476830.html",
-      "summary": "AI硬件需求推动航空货运增长，超越跨境电商。",
+      "title": "长江存储IPO辅导完成",
+      "url": "https://finance.eastmoney.com/a/202608213848461316.html",
+      "summary": "长江存储IPO辅导完成，国产存储芯片加速资本化。",
+      "source": "东财"
+    },
+    {
+      "title": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
+      "url": "https://wallstreetcn.com/articles/3780061",
+      "summary": "美加贸易谈判破裂，美国加征50%关税，加拿大或反制。",
+      "source": "华尔街见闻头条"
+    },
+    {
+      "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
+      "url": "https://wallstreetcn.com/articles/3780055",
+      "summary": "高盛报告称AI进入执行时代，竞争转向工作流和世界模型。",
+      "source": "华尔街见闻头条"
+    },
+    {
+      "title": "恒生科技指数拟扩至50只，宁德时代等20家公司有望入选",
+      "url": "https://wallstreetcn.com/articles/3780063",
+      "summary": "恒生科技指数扩容至50只，宁德时代等20家或入选。",
+      "source": "华尔街见闻头条"
+    },
+    {
+      "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
+      "url": "https://wallstreetcn.com/articles/3780060",
+      "summary": "特斯拉宣布9月3日发布Cybercab，自动驾驶商业化提速。",
+      "source": "华尔街见闻头条"
+    },
+    {
+      "title": "大西洋观察｜美加关系斗而不破",
+      "url": "https://international.caixin.com/2026-08-22/102476913.html",
+      "summary": "美加关系虽摩擦不断但总体可控，斗而不破。",
       "source": "财新"
     },
     {
-      "title": "车内应急拉手难识别，特斯拉等九家车企召回近430万辆汽车",
-      "url": "https://www.caixin.com/2026-08-22/102476786.html",
-      "summary": "因应急拉手问题，多家车企大规模召回。",
-      "source": "财新"
+      "title": "中国媒体指可萨比亚号抵近，中国海军组织巡逻",
+      "url": "https://www.kuzaobao.com/news/china/202608/2279359.html",
+      "summary": "中国海军组织巡逻应对可萨比亚号抵近，维护主权。",
+      "source": "联合早报"
     },
     {
-      "title": "全球数据中心聚焦东南亚，中企出海机遇何在？",
-      "url": "https://database.caixin.com/2026-08-22/102476718.html",
-      "summary": "东南亚数据中心投资热，中企出海面临机会。",
-      "source": "财新"
-    },
-    {
-      "title": "中际旭创管理层阐释优秀报告标准，让投资者安心",
-      "url": "http://xueqiu.com/4999611913/406155999",
-      "summary": "中际旭创强调高质量信息披露以增强信心。",
-      "source": "雪球"
-    },
-    {
-      "title": "美银首次覆盖罗博特科，看好ficonTEC",
-      "url": "http://xueqiu.com/4176577233/406157565",
-      "summary": "美银首次覆盖罗博特科，给予积极评价。",
-      "source": "雪球"
-    },
-    {
-      "title": "南哥的2026年8月火电行业分析",
-      "url": "http://xueqiu.com/1665500619/406147007",
-      "summary": "火电行业月度分析，关注供需与政策。",
-      "source": "雪球"
-    },
-    {
-      "title": "对长江存储上市的展望与思考",
-      "url": "http://xueqiu.com/5332385101/406150977",
-      "summary": "长江存储上市前景分析，关注国产替代。",
-      "source": "雪球"
-    },
-    {
-      "title": "宁德时代布局储能“小单”市场",
-      "url": "https://t.10jqka.com.cn/pid_681014911.shtml",
-      "summary": "宁德时代拓展储能小规模订单业务。",
-      "source": "同花顺"
-    },
-    {
-      "title": "威力传动半年报：营收增71.97%，风电业务驱动增长",
-      "url": "https://news.10jqka.com.cn/20260822/c679193135.shtml",
-      "summary": "威力传动营收大增，风电主业夯实。",
-      "source": "同花顺"
-    },
-    {
-      "title": "中际旭创上半年净利增241.7%，拟派现",
-      "url": "https://news.10jqka.com.cn/20260822/c679192553.shtml",
-      "summary": "中际旭创业绩大增，分红回报股东。",
-      "source": "同花顺"
-    },
-    {
-      "title": "华南城将被清盘，腾讯23亿投资或打水漂",
-      "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
-      "summary": "华南城清盘风险，腾讯投资受损。",
-      "source": "新浪"
-    },
-    {
-      "title": "伊朗回应美国经济战威胁：美方注定失败，中国反对非法单边制裁",
-      "url": "https://wallstreetcn.com/articles/3780032",
-      "summary": "伊朗强硬回应美国，中国支持反制裁。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "Anthropic自研芯片，挖角谷歌TPU负责人，豪赌去英伟达",
-      "url": "https://wallstreetcn.com/articles/3780053",
-      "summary": "Anthropic自研芯片，挑战英伟达主导。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "长存控股闯关IPO：业绩高增长与三道必过坎",
-      "url": "https://wallstreetcn.com/articles/3780054",
-      "summary": "长江存储IPO面临挑战，需过三道坎。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "中东航线海运费突破1万美元",
-      "url": "https://www.gelonghui.com/live/2626639",
-      "summary": "中东航线运费飙升，地缘影响供应链。",
-      "source": "格隆汇"
+      "title": "中纪委全会公报要求加强政治监督 全面从严治党",
+      "url": "https://www.kuzaobao.com/news/china/202608/2279355.html",
+      "summary": "中纪委全会强调加强政治监督，推进全面从严治党。",
+      "source": "联合早报"
     }
   ],
   "interest": [
     {
-      "title": "宁德时代盯上储能“小单”",
-      "url": "https://wallstreetcn.com/articles/3780057",
-      "summary": "宁德时代进军储能小单市场。",
-      "source": "华尔街见闻"
+      "title": "南京银行2026年上半年利息净收入高增40% 原因何在？",
+      "url": "https://finance.caixin.com/2026-08-22/102477009.html",
+      "summary": "南京银行上半年利息净收入增40%，业绩亮眼。",
+      "source": "财新"
     },
     {
-      "title": "东财发布半年报：非货基金规模首破万亿，中期不分红",
-      "url": "https://wallstreetcn.com/articles/3780059",
-      "summary": "东方财富非货基金规模破万亿。",
-      "source": "华尔街见闻"
+      "title": "晶圆代工Q2业绩复盘：华虹高弹性、中芯规模释放，国产替代高景气延续",
+      "url": "https://wallstreetcn.com/member/articles/3779793",
+      "summary": "晶圆代工Q2业绩分化，国产替代高景气延续。",
+      "source": "华尔街见闻最新"
     },
     {
-      "title": "贝森特未能稳住市场，日本或重蹈1997年金融危机",
-      "url": "https://wallstreetcn.com/articles/3780052",
-      "summary": "日本经济风险加剧，或引发金融危机。",
-      "source": "华尔街见闻"
+      "title": "美债没救成却坑了美元，黄金暴涨！贝森特“偷鸡不成蚀把米”？",
+      "url": "https://wallstreetcn.com/charts/41959658",
+      "summary": "美债政策反噬美元，黄金暴涨，贝森特策略失败。",
+      "source": "华尔街见闻最新"
     },
     {
-      "title": "LABUBU退潮，泡泡玛特面临验真深水区",
-      "url": "https://wallstreetcn.com/articles/3780051",
-      "summary": "泡泡玛特潮玩热度下降，验真问题凸显。",
-      "source": "华尔街见闻"
+      "title": "多家银行发布公告 单人在同家银行贴息上限提升到5000元",
+      "url": "https://www.gelonghui.com/live/2626652",
+      "summary": "多家银行提升贴息上限至5000元，刺激消费。",
+      "source": "格隆汇快讯"
     },
     {
-      "title": "韩国专家：未来十年最瞩目的6大核心硬件技术",
-      "url": "https://wallstreetcn.com/charts/41959657",
-      "summary": "韩国专家预测未来硬件技术趋势。",
-      "source": "华尔街见闻"
+      "title": "榴莲价格下降近3成",
+      "url": "https://www.gelonghui.com/live/2626723",
+      "summary": "榴莲价格下降近三成，市场供应充足。",
+      "source": "格隆汇快讯"
     },
     {
-      "title": "粮价未涨化肥先涨，厄尔尼诺开启农资第二段行情",
-      "url": "https://wallstreetcn.com/member/articles/3779774",
-      "summary": "化肥价格先行上涨，农资周期启动。",
-      "source": "华尔街见闻"
+      "title": "伊拉克总统：已有部分装载伊拉克石油船只获准通过霍尔木兹海峡",
+      "url": "https://www.gelonghui.com/live/2626701",
+      "summary": "伊拉克部分油轮获准通过霍尔木兹海峡，供应缓解。",
+      "source": "格隆汇快讯"
     },
     {
-      "title": "工商银行优化贴息政策，上限提高至5000元",
-      "url": "https://www.gelonghui.com/live/2626621",
-      "summary": "工行提高贴息上限，支持小微企业。",
-      "source": "格隆汇"
-    },
-    {
-      "title": "行业指数90天跌超21%，葡萄酒行业寒冬未结束",
-      "url": "https://www.gelonghui.com/live/2626638",
-      "summary": "葡萄酒行业持续低迷，指数大跌。",
-      "source": "格隆汇"
-    },
-    {
-      "title": "中国官方要求清理拖欠中小企业账款",
-      "url": "https://www.kuzaobao.com/news/china/202608/2279342.html",
-      "summary": "国务院部署清理欠款，支持中小企业。",
-      "source": "联合早报"
-    },
-    {
-      "title": "日本拟关闭在华最大工厂，称因成本上升",
-      "url": "https://www.kuzaobao.com/news/china/202608/2279341.html",
-      "summary": "日本企业关闭在华工厂，成本压力所致。",
-      "source": "联合早报"
-    },
-    {
-      "title": "上海市委召开座谈会，强调全面深化改革",
-      "url": "https://www.kuzaobao.com/news/china/202608/2279343.html",
-      "summary": "上海强调改革，推动高质量发展。",
-      "source": "联合早报"
-    },
-    {
-      "title": "成都铁路回应霸座事件：未让座不违法",
+      "title": "成都铁路局回应：票占座未上车视为放弃席位使用权",
       "url": "https://www.kuzaobao.com/news/china/202608/2279344.html",
-      "summary": "铁路部门回应霸座，称未违法。",
+      "summary": "成都铁路局明确票占座未上车视为放弃席位使用权。",
       "source": "联合早报"
     },
     {
-      "title": "河北通报非法采矿问题，涉案人员被控制",
-      "url": "https://www.kuzaobao.com/news/china/202608/2279345.html",
-      "summary": "河北严查非法采矿，控制涉案人员。",
+      "title": "中国银保监会：对恒大母公司及关联公司启动破产清算",
+      "url": "https://www.kuzaobao.com/news/china/202608/2279360.html",
+      "summary": "银保监会对恒大母公司启动破产清算，风险处置推进。",
       "source": "联合早报"
-    },
-    {
-      "title": "中国外交部：中印应加强团结应对外部挑战",
-      "url": "https://www.kuzaobao.com/news/china/202608/2279346.html",
-      "summary": "中印关系强调团结，应对外部挑战。",
-      "source": "联合早报"
-    },
-    {
-      "title": "华南城将被清盘！腾讯23亿投资打水漂",
-      "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
-      "summary": "华南城清盘风险，腾讯投资受损。",
-      "source": "新浪"
     }
   ],
   "sources": {
@@ -191,6 +107,27 @@
       "name_cn": "财新",
       "count": 10,
       "articles": [
+        {
+          "title": "南京银行2026年上半年利息净收入高增40% 原因何在？",
+          "url": "https://finance.caixin.com/2026-08-22/102477009.html",
+          "published": "Sat, 22 Aug 2026 17:33:12 +0800",
+          "summary": "<img alt=\"江苏南京，南京银行总部大楼。南京银行半年报显示，2026年上半年实现营业收入315.96亿元，同比增长10.94%。图：视觉中国\" id=\"picture_178739123987252\" src=\"https://img.caixin.com/2026-08-22/178739123987252_840_560.jpg\" /><dl><dt>江苏南京，南京银行总部大楼。南京银行半年报显示，2026年上半年实现营业收入315.96亿元，同比增长10.94%。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>总部位于长三角的三家上市城商行江苏银行（600919.SH）、宁波银行（002142.SZ）、南京银行（601009.SH），半年报业绩同期发布，江苏银行继续资产狂飙、宁波银行的手续费收入增长较快，而南京银行的利息净收入则颇为罕见地同比高增40%。</p><p>　　南京银行半年报显示，2026年上半年实现营业收入315.96亿元，同比增长10.94%；实现归属于母公司股东的净利润136.50亿元，同比增长8.17%。</p><p>　　315.96亿元的营业收入中，利息净收入219.35亿元，同比增加62.89亿元，同比增长40.19%，在营业收入中的占比提高14.48个百分点至69.42%；公司非利息净收入96.61 亿元，同比下降了24.73%。</p><p>　　多位券商银行业分析师提到，这可能和南京银行2025年对于金融投资账户的重新分类有关。</p><p>　　据业内人士介绍，按照摊余成本法和公允价值法的计量方法不同，金融资产可以分为交易性金融资产、债权投资和其他债权投资三个科目，银行内部管理上会对应到TPL账户、AC账户以及OCI账户，这些科目的底层资产都主要是国债、政策性银行债、地方政府债、同业存单和企业债券等债券，AC账户内主要是持有到期型的债券，业内也称配置型债券，其他两类科目的债券日常可以交易。</p><p>　　金融投资资产的会计分类，为银行通过债券投资收益调节报表提供了可能。“TPL账户的债券不管卖出还是市值重估，每日都会影响损益；OCI账户的债券只有卖出了才能体现收益，市值重估的损益不影响利润，但会影响资本公积。”一位股份行的债券交易员向财新解释道。</p><p>　　据财新此前报道，2024年上半年时，由于息差持续收窄和手续费收入加速下降，上市银行普遍只能依靠当时债券“牛市”带动的债券投资收益和估值上涨支撑。</p><p>　　但到了2025年，债券市场收益率整体上行，市场震荡加剧，“债牛”行情不再，TPL账户中的债券估值变动对银行收入和利润产生拖累。2025年有超七成上市银行披露的公允价值变动净收益为负。</p><p>　　在此背景下，多家银行调整金融投资账户分类，把利率债、高等级信用债划入OCI账户，以减少债券估值波动对利润的直接冲击。</p><p>　　国联民生证券的银行业首席分析师王先爽在研报中提到，南京银行从2025年开始大幅压降TPL类金融资产（交易性金融资产）规模，其占总资产的比重从2025年初的18.2%下降到2026年上半年末的11.2%；而OCI类资产（其他债权投资）则快速扩张，占比从11.3%上升到18.1%。由于TPL类资产所产生的收益计入其他非息收入，而OCI类资产的票息收入则计入利息收入，因此，资产结构上的这种变化传导至利润表上，就体现为净利息收入增速提高而其他非息收入整体承压。</p><p>　　财报显示，南京银行的OCI类资产规模从2025年初的2910亿元调整增至2026年半年末的5825亿元，是利息净收入高增的重要原因之一。</p><p>　　2026年上半年南京银行的非利息净收入中，手续费及佣金净收入也同比下降了18.5%。相较而言，同样属于头部城商行的宁波银行2026年上半年实现手续费及佣金净收入43.17亿元，同比增长53.90%，在营业收入中占比为10.41%，同比上升2.87个百分点。</p><p>　　一位南京银行的分行人士谈到，相较而言，宁波银行的代销渠道质量和营销体系建设确实更完善，包括分行培训、督导和激励政策充分配备到员工等方面，支行一线员工能够有充分的积极性去接洽营销客户，而南京银行总行不少这方面的政策还很模糊。</p><p>　　2025年资产规模一度位列城商行第一位的江苏银行，资产规模增速继续“狂飙”。截至2026年上半年末，江苏银行的资产总额56111 亿元，较上年末增长13.79%。上半年，江苏银行实现营业收入489.52 亿元，同比增长9.11%，其中利息净收入368.92亿元，同比增长12.00%；手续费及佣金净收入 31.94 亿元，同比增长 0.26%。实现归属于母公司股东的净利润218.76 亿元，同比增长 8.09%。<a class=\"end_ico\" href=\"https://finance.caixin.com/2026-08-22/102477009.html\" rel=\"nofollow\" title=\"南京银行2026年上半年利息净收入高增40% 原因何在？\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "陈燕妮：睡列侬他们睡过的床｜纪行",
+          "url": "https://mini.caixin.com/2026-08-22/102476918.html",
+          "published": "Sat, 22 Aug 2026 17:21:41 +0800",
+          "summary": "<img alt=\"坐在列侬夫妇睡过的床上完成了心愿。\" id=\"picture_178738898218348\" src=\"https://img.caixin.com/2026-08-22/178738898218348_840_560.jpg\" /><dl><dt>坐在列侬夫妇睡过的床上完成了心愿。</dt></dl><h2 class=\"cx-app-content-subheads\">一</h2><p>　　2026年7月27日上午，我在加拿大蒙特利尔费尔蒙伊丽莎白女王酒店（Fairmont The Queen Elizabeth）办妥了入住1742套房的手续，这是个名为“约翰·列侬与小野洋子套房”（John Lennon &amp; Yoko Ono Suite）。</p><p>　　在等候房间清扫的空档，我下楼而转，直直地刚过马路就撞见一个欧洲旅行团，只听导游指着我身后的费尔蒙，张口就说：“这个酒店曾经住过无数总统和大人物，但真正让它出名的是披头士乐队的灵魂人物列侬和小野洋子夫妇，他们在这里举行过第二次‘床上和平抗议’。而且，你们全都会唱的那首歌《给和平一个机会》（Give Peace a Chance）也是在这里写成和录制的。”</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898294671.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898294671.png\" /></a></div><div class=\"article_img_talk\">                大名鼎鼎的费尔蒙伊丽莎白女王酒店。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898485034.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898485034.png\" /></a></div><div class=\"article_img_talk\">                欧洲旅行团导游在费尔蒙楼前做着介绍。            </div></div> <p>　　人潮赞叹中，我心头一热。原本以为，来到这座城市，一门心思去住1742，完成的只是我个人的定制与私藏；想不到，这间套房的往事至今仍著名地流传于街面存活于历史，不禁为自己当晚行将扎实触摸这一伟大现场而深感骄傲。</p><p>　　想想看吧，房卡就在身上、房间正在收拾，我其实已经握住了通往历史的钥匙，离列侬他们只隔着一条马路的距离。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898650145.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898650145.png\" /></a></div><div class=\"article_img_talk\">                列侬夫妇在费尔蒙著名的床上抗议照。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898750062.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898750062.png\" /></a></div><div class=\"article_img_talk\">                彼此恩爱的列侬夫妇是灵魂伴侣。            </div></div> <p>　　1969年，列侬和小野洋子新婚五天之后，接连举办了两场“床上和平抗议”（Bed-In for Peace）。第一场在1969年3月25日至31日的阿姆斯特丹希尔顿酒店（Amsterdam Hilton），第二场就在我即将入住的蒙特利尔·费尔蒙，只不过当时这家酒店还与费尔蒙无关，全名为“伊丽莎白女王酒店”。酒店于1988年进入加拿大太平洋酒店集团旗下，直至2000至2001年前后才正式冠上费尔蒙之名。</p><p>　　这场著名的抗议活动从1969年5月26日开始，持续了大约一周，并于6月1日在房间内录制了著名反战歌曲《给和平一个机会》。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898839171.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898839171.png\" /></a></div><div class=\"article_img_talk\">                列侬和小野洋子发布的结婚照。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738898964732.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738898964732.png\" /></a></div><div class=\"article_img_talk\">                小野洋子与约翰抵达蒙特利尔机场引发轰动，随行的是洋子的女儿小京子。            </div></div> <p>　　为了这一住我实在处心积虑，前一晚从格陵兰首都努克降落蒙特利尔后，入住万豪城堡香普兰酒店（Marriott Château Champlain），进房之后推窗而望，一眼看见费尔蒙竟然就在视线。</p><p>　　这是一个端庄的建筑，店名字体高贵矜持地被嵌在楼宇上端，在夜色中熠熠生辉。订酒店时，我其实知道万豪和费尔蒙都位于市中心，可隔窗即见的惊喜却是意料之外的收获。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899022234.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899022234.png\" /></a></div><div class=\"article_img_talk\">                我到蒙特利尔的第一夜，在才下榻的酒店窗口就能远远地看到费尔蒙。            </div></div> <h2 class=\"cx-app-content-subheads\">二</h2><p>　　我多少次想象自己第一次进入列侬套房，将房门在身后轻轻掩上的刹那，一定会百感交集得无法自控，可真到了这个关头，其实还好。</p><p>　　前往1742号房，需搭乘电梯直达费尔蒙17层，出梯后折向最短的一侧走廊，不过数步便可触及尽头。这时，你按照指示牌向右一转，立即可见列侬和小野洋子的黑白照片顶天立地贴了满墙，盘踞在整个走道尽头。1742的房门就在这些照片的掩映下，不很显眼地坦然而立。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899087414.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899087414.png\" /></a></div><div class=\"article_img_talk\">                列侬和小野洋子套房的大门在楼道最深处。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899199457.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899199457.png\" /></a></div><div class=\"article_img_talk\">                1742的房门牌专门标记了套房名称。</div></div><p>　　当年，列侬团队直接订下了1742以及相邻的1738、1740和1744四个房间，其中真正进行床上抗议的，也就是摆着那张著名大床和后来录制《给和平一个机会》的1742，其他房间主要供随行人员、记者以及来访者使用。</p><p>　　2017年酒店大翻修时，费尔蒙把上述四个相邻房间打通成了今天的1742套房。如今，在1742房间贴在门内的楼道消防逃生图上，清晰可见这项大型合并的波及范围。</p><p>　　那一周，房间的大门七天七夜没有关过，媒体、粉丝、政治人物、文化名流以及反战骨干随时推门而入，1742成了公开的和平演讲现场。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899253050.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899253050.png\" /></a></div><div class=\"article_img_talk\">                从17楼电梯出来向短侧直走就到套房。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899335292.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899335292.png\" /></a></div><div class=\"article_img_talk\">                从消防图上能清楚看到套房面积相当大。            </div></div> <p>　　当年，为了配合床上抗议的现场拍摄与媒体采访，列侬团队要求清空客厅的所有常规家具，沙发、茶几等全部搬到走廊，他们将一张双人大床对准大面积采光的窗户直接放下，酒店最终同意了这一闻所未闻的“拆房”要求。</p><p>　　对于酒店管理层，最担心的大量媒体和追星族冲击酒店这事，列侬团队承诺会负担相关费用，并配合酒店安全人员维持秩序。</p><p>　　抗议期间，酒店每天需要接待超过150名挤进套房的各色人等，这使得保洁和客房服务团队压力极大。据酒店历史日志记载，“列侬喜欢在房间里扬撒花瓣，保洁人员每天光是对套房外走廊专门吸尘就要做三到四次”。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899399717.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899399717.png\" /></a></div><div class=\"article_img_talk\">                如今与1742紧连的两个房间号码，极其符合史实地有着不连贯的跳跃。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899456648.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899456648.png\" /></a></div><div class=\"article_img_talk\">                从酒店大楼外面看到的列侬套房。            </div></div>  <h2 class=\"cx-app-content-subheads\">三</h2><p>　　推开这扇著名的1742房门之前，我把远在纽约的儿子紧急招到。他一路狂飞而来，只停留了10个小时，就又匆匆离开，但我替他觉得，这可真是其这些年来最值得的一趟往返，意义长远。</p><p>　　更何况列侬最著名的《想象》（Imagine），虽则古老，却也是他的心头所爱。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899547543.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899547543.png\" /></a></div><div class=\"article_img_talk\">                儿子从纽约赶来体会列侬套房的光彩。            </div></div>  <p>　　推开1742的房门，里面的纤细质感扑面而来。四周极静，我甚至听得见自己的心跳，和当年七天七夜挤满了人的旧场景相比，新套房安静得近乎空旷。</p><p>　　你会最先看到一条颇长走廊，地面铺着浅色厚毯。从光线走向分析，你知道尽头就是主卧，途中左侧是主卧浴室，右侧是独立厨房，你必须穿过这些过渡，才能真正抵达套房的核心。</p><p>　　走廊走过四分之三时，空间豁然宽敞，整间主卧以完全打开的姿态呈现眼前。右手短边安放着一张八人餐桌，墙上高低错落挂着列侬与小野洋子当年的照片。照片里人声鼎沸，照片外万籁俱寂，半个多世纪的距离被压缩在几步之遥。</p><p>　　今天的1742已是一间面积128平方米的宽阔套房，拥有2间卧室、2间浴室、2处客厅、一个餐区和一个独立小厨房。</p><p>　　这个曾被世界各地镜头挤得水泄不通的地方，如今重新还原一间客房应有的寂静。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899659019.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899659019.png\" /></a></div><div class=\"article_img_talk\">                推开门就见到一条长毯直通屋内深处。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899756875.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899756875.png\" /></a></div><div class=\"article_img_talk\">                套房内的8座餐桌有6个餐椅。            </div></div>  <p>　　此前一路所见都只是铺垫，此时当目光转向左侧，越过不大的客厅区域，那张著名的大床终于出现。对1742而言，此乃这间套房的灵魂所在。</p><p>　　屋内光线有些昏暗，整张床依旧按照1969年留下那一窝子著名照片所示，紧紧贴窗而放。除此之外，套房在现实中的陈设和酒店宣传照一模一样，连床尾三个抱枕颜色都不曾改变。</p><p>　　床后的玻璃上，牢牢贴着列侬与小野洋子当年抗议时喊出的两句著名口号“头发和平、卧床和平”（Bed Peace、Hair Peace）。</p><p>　　卧床和平（Bed Peace）剑指这种连续七天不下床、穿着睡衣接受全球媒体采访的举动，他们想用这种毫无攻击性的“卧床”方式，向世界宣告“不如躺在床上呼吁和平”</p><p>　　头发和平（Hair Peace）则是在面对当时主流社会对摇滚青年留长发的批判与偏见，列侬和小野洋子认为，留长发是一种表达自由与非暴力的姿态，借此向大众传递“长发无害，心怀和平即可”的诉求。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899869481.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899869481.png\" /></a></div><div class=\"article_img_talk\">                这就是被人们口耳相传的1742大床。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899935664.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899935664.png\" /></a></div><div class=\"article_img_talk\">                近距离看清造成全球轰动的列侬大床。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738899996150.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738899996150.png\" /></a></div><div class=\"article_img_talk\">                白天和黑夜的1712床头大窗。            </div></div>  <p>　　酒店在床边的两个小桌上简单地放了一些怀旧物件，右侧是一个古早收音机，左侧则是戴上即可观看视频的VR眼镜，说起来，这算是全房最具新时代痕迹的物件了。</p><p>　　这眼镜仔细看上去疑似多年没洗，有一些浅浅的灰色勾边存在于与皮肤连接之处，要把它戴在头上，还真得有“一咬牙一跺脚”的勇气。</p><p>　　但在我们入住最初，这个VR眼镜是不工作的，请酒店技师专门来修时，眼见他把和电脑连接的这玩意做了重启等等系列动作。</p><p>　　其他包括桌旁摆着的一把吉他和一架旧电视乃至客厅区的老式拨号电话，都是后配的模仿品。拨号电话原来据知被设计成拿起来就能听见列侬音乐，此刻我们却被告知这玩意已经“被客人弄坏了”。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738900109671.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738900109671.png\" /></a></div><div class=\"article_img_talk\">                从1742套房大床的侧面看过去。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929024081.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929024081.png\" /></a></div><div class=\"article_img_talk\">                床头的连接电脑VR头戴设备正被修理。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929095782.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929095782.png\" /></a></div><div class=\"article_img_talk\">                儿子戴着VR头戴设备正被观看视频。            </div></div>  <p>　　这间套房还带有可单独封闭的小厨房，以酒店客房的炊事而言，除了炉灶，这里几乎一应俱全。</p><p>　　主卧的浴室与相邻的另一套房紧紧相连，穿过这里，可立即进入另一套房的客厅。</p><p>　　另一套房客厅的窗户颇不尽如人意，窗台高仅及腰，真正能够采光的只是这上半截，加之初次进入时看到清洁人员刻意将窗帘搞得半开半闭，在这种光照条件下，去看房内的一组不大沙发，其暗红、深蓝的配色浸泡在昏暗里，多少显得阴森诡异。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929165667.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929165667.png\" /></a></div><div class=\"article_img_talk\">                1742的小厨房看上去真是设施完备。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929235793.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929235793.png\" /></a></div><div class=\"article_img_talk\">                如今套房内的两个厕所都很豪华。            </div></div>  <p>　　穿过这间诡异客厅，便可进入1742的另间卧室，目测里面大床虽然网站上标志着也是最大尺寸（king size），宽度却感觉小了很多。不过，与之相配的浴室却大得惊人，浴缸等设施安置区域宽广，更见豪华。</p><p>　　这一区最有列侬夫妇痕迹的，是客厅里有一座靠墙而立的高柜，柜体分出许多带门小格，打开每扇小门，都可以听到披头士当年歌曲或列侬夫妇当年宣言。</p><p>　　遗憾的是，如今大约三分之一的小格已经空无一物，这么多年过去，不知是因为这份遗产渐渐在离开时代，还是酒店的维护已经跟不上岁月。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929306238.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929306238.png\" /></a></div><div class=\"article_img_talk\">                1742套房内的另外一套房间。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929409911.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929409911.png\" /></a></div><div class=\"article_img_talk\">                儿子察看套房内专设的列侬音乐纪念柜。            </div></div>  <h2 class=\"cx-app-content-subheads\">四</h2><p>　　历史镜头中的床上抗议期间，短短一周里，列侬与小野洋子在1742套房接受了将近150次媒体采访，也就是说平均每天超过21次。若按他们保持每天8小时睡眠、16小时清醒计算，几乎每45分钟就要接受一次采访。</p><p>　　据知在那七天，酒店的许多贵宾和员工感到当头疼，大堂里每天都挤满数百名嬉皮士和记者，在最后的日子里，列侬在套房现场录制反战名曲 《给和平一个机会》，也给酒店的整体安宁带来了巨大滋扰。</p><p>　　然而，正是这次看似荒诞的包房预订，让1742房间成为世界摇滚史与反战运动史中的圣地，如今的费尔蒙集团也早将此套房视为最引以为傲的历史文化遗产之一。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929468065.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929468065.png\" /></a></div><div class=\"article_img_talk\">                上图为从套房餐厅位置看向大门的视角。下图为从主卧大床位置看向另一端的视角。            </div></div>  <p>　　如今看似一气呵成的列侬夫妇“床上抗议”，在当年不过是一场仓促上阵的豪赌。从构想到落脚于此且得以最终完成，过程堪称险象环生，充斥着难以预料的波澜与转折。</p><p>　　当时，两人在阿姆斯特丹成功举办了第一次“床上抗议”之后，原本打算将第二次抗议活动放在美国反战运动的核心城市纽约，遗憾列侬因大麻指控被美国拒绝入境。</p><p>　　为了贴近美国媒体，他们退而求其次，选择了离美国距离很近的巴哈马。但他们抵达那里后，列侬觉得当地气候过于炎热潮湿，根本无法在没有空调的房间里连躺七天，而且也缺乏大规模媒体跟进的条件，于是他们在那里仅待了一天就决定立刻离开。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929579192.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929579192.png\" /></a></div><div class=\"article_img_talk\">                连接主卧室和主卧厕所的墙壁很有味道。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929630244.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929630244.png\" /></a></div><div class=\"article_img_talk\">                酒店送给我的套房专属甜点相当精美。            </div></div>  <p>　　他们先是从从巴哈马飞抵加拿大多伦多，进入加拿大国境时，列侬再次因大麻前科被移民部门留置审查两个多小时，最终获准以10天临时访客身份入境。</p><p>　　两人随即住进多伦多的爱德华国王酒店（King Edward Hotel），然而他们最终没有把第二场“床上抗议”留在多伦多。因为这场示威从一开始便高度依赖媒体，他们尤其希望纽约记者能够赶来，而蒙特利尔比多伦多离纽约更近，于是仅住一夜之后，他们再次收拾行装，于5月26日离开多伦多飞往蒙特利尔。</p><p>　　与此同时，列侬团队开始紧急向蒙特利尔的多家顶级酒店发出询价和预订请求，但绝大多数酒店直接拒绝了他们。上世纪60年代末期，列侬和小野洋子著名的前卫行为以及反战主张极具争议，加上他们此前在阿姆斯特丹已经举行过的床上抗议，让许多传统豪华酒店管理层认为这会破坏酒店的形象，甚至担心引发治安混乱或嬉皮士围堵。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929730052.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929730052.png\" /></a></div><div class=\"article_img_talk\">                当年的1742承载过怎样酝酿和呐喊。            </div></div>  <p>　　最终，位于蒙特利尔市中心的伊丽莎白女王酒店接下了这一预订。由于时间极其紧迫，谈判主要由列侬的团队、披头士公司人员与酒店管理层在极短的时间内敲定。</p><p>　　他们最终拿下的就是1742。</p><p>　　之所以选择了高楼层相邻的几个房间，是因为这既方便安排庞大的随行人员与媒体接待，也能防止楼层通道被堵死。</p><p>　　蒙特利尔伊丽莎白女王酒店当年隶属加拿大国家铁路（Canadian National Railways），是其酒店系统中最体面的旗舰级大酒店之一，英国女王伊丽莎白二世（Queen Elizabeth II）、菲利普亲王（Prince Philip）、法国总统戴高乐（Charles de Gaulle）、古巴领导人菲德尔·卡斯特罗（Fidel Castro）以及摩纳哥王妃格蕾丝·凯利（Grace Kelly）都曾是这里的座上宾。</p><p>　　从今天的角度回看，酒店当时的举动实在跳脱。后来证明，他们的这一决定成就了该酒店历史上最成功的一次全球曝光。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929801871.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929801871.png\" /></a></div><div class=\"article_img_talk\">                2018年9月13日，小野洋子（左）与披头士乐队鼓手林戈·斯塔尔、演员杰夫·布里吉一道，在纽约市政厅参加了一场旨在呼吁支持纽约市学校的“床上抗议”活动。            </div></div>  <h2 class=\"cx-app-content-subheads\">五</h2><p>　　1969年列侬夫妇床上抗议活动进行到最后一天，也就是6月1日，一屋子人围着列侬夫妇躺着的那张大床录制了《给和平一个机会》。一场原本注定散去的示威，却因此留下了永不消逝的回音。</p><p>　　那一天，蒙特利尔当地的录音师安德烈·佩里（André Perry）带着一台4轨录音机和4支麦克风来到1742房间录歌。4支麦克风中，一支放在距离列侬大约30厘米的位置收录他的歌声和吉他，一支给坐在旁边弹奏木吉他的汤米.斯蒙瑟（Tommy Smothers），剩下两支则用来收录整个房间里的合唱声音。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929871290.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929871290.png\" /></a></div><div class=\"article_img_talk\">                上图为蒙特利尔制作人安德烈·佩里在与列侬交谈，随后录制了《给和平一个机会》。下图为佩里的形象出现在单曲MTV中。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738929995419.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738929995419.png\" /></a></div><div class=\"article_img_talk\">                列侬站在床上，向房间里准备加入合唱的数十人讲解这首歌曲的演唱要点。            </div></div>  <p>　　1742显然不是一个适合录制唱片的地方，佩里后来回忆，“套房的天花板很低，平行的石膏板墙面又产生了严重的声音反射，几十个人挤在这样一个空间里，声音乱作一团”。</p><p>　　录制过程中，有人打鼓、拍手、敲门、敲烟灰缸，房间里拥挤着一支大概再也无法复制的临时“合唱团”，每个人都在制造声音。对于专业录音师而言，这个后来被传为佳话的现场，当时简直是一场声学灾难。</p><p>　　歌曲本身同样带着浓厚的即兴色彩。“给和平一个机会”这句话，是列侬在抗议期间不断接受记者采访时逐渐形成的，他一边接受采访，一边陆续给酝酿中的歌曲添加内容。</p><p>　　歌词中相当醒目的一连串堆叠的“主义”和押韵词，本身就带着戏谑和即兴的意味，它也是那几天在1742房间里被不断涌入的人物观点、政治议题以及现场情绪，一点点催生出来的。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930049413.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930049413.png\" /></a></div><div class=\"article_img_talk\">                录制歌曲前的准备工作基本就绪。            </div></div>  <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930109224.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930109224.png\" /></a></div><div class=\"article_img_talk\">                匆忙设置在1742号房间内的调音台。</div></div><p>　　真正录音时，并没有想象中的那样会有反复折腾。佩里回忆，“开录之前，列侬先带着满屋子的人把整首歌从头到尾走了一遍，随后便进入正式录制，基本就是一遍完成”。</p><p>　　面对这样一份原始录音，佩里回到自己的工作室后发现，背景声音过于混乱，原始录音如果完全不加处理，很难达到正式发行要求。于是，他把在1742房间录下来的原始4轨转录到8轨设备上，保留原来的现场录音，同时利用增加出来的轨道补录了一些背景人声，参与补录的既有歌手，也有他即兴叫来的朋友。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930171396.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930171396.png\" /></a></div><div class=\"article_img_talk\">                歌曲录制现场人多声大得无以伦比。</div></div><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930330213.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930330213.png\" /></a></div><div class=\"article_img_talk\">                在现场的大家热情参与歌曲的录制。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930383887.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930383887.png\" /></a></div><div class=\"article_img_talk\">                摄影师雅克·布尔东（Jacques Bourdon）拍到了两个躲在壁橱里的年轻女孩，她们当时正试图避免被赶走。列侬允许她们去和其他人坐在一起，共同演唱《给和平一个机会》。            </div></div>  <p>　　列侬并没有再到正规录音棚把自己的主唱部分重唱一遍，人们今天听到的《给和平一个机会》的核心，也就是列侬的歌声和他的木吉它声音，仍然来自1969年6月1日拥挤、嘈杂而混乱的酒店房间。</p><p>　　换句话说，今天在世界任何地方听到列侬原唱《给和平一个机会》，其声音的源头仍然牢牢定格在1742房间6月1日的那次录音。</p><p>　　这首歌很快走出了1742。</p><p>　　几个月后的1969年11月，在华盛顿规模巨大的反对越战示威中，《给和平一个机会》被成千上万的人共同唱起，最终成为那个时代最具辨识度的反战歌曲。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930433296.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930433296.png\" /></a></div><div class=\"article_img_talk\">                1969年11月15日，美国华盛顿爆发大规模反越战示威。皮特·西格（Pete Seeger）带领聚集人群唱响《给和平一个机会》，这首诞生仅数月的歌曲由此成为最具代表性的反战歌曲之一。            </div></div>  <p>　　我跨越57年的光阴推开这扇门，双脚踏过的地板、指尖抚过的墙壁都曾亲自目睹当年那场草率而狂乱的录音，目睹过这首伟大的歌曲最原始的模样。那一天在1742号房里收存的声音，至今仍在这个世界的各个角落震荡。</p><p>　　我也因此有了全新的意味，此行并非造访一个被精心还原的展示空间，而是踏入了历史爆发的起点。我原以为自己只是来凭吊一段逝去的岁月，最终明白有些往事从未褪色离开，它一直在此处静静呼吸，早已融入1742的空气与砖石之中。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930575582.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930575582.png\" /></a></div><div class=\"article_img_talk\">                1969年发行的《给和平一个机会》单曲封面，以列侬的“塑料小野乐队”（Plastic Ono Band）名义发行。单曲B面同时收录小野洋子的《记住爱（Remember Love）》。            </div></div>  <h2 class=\"cx-app-content-subheads\">六</h2><p>　　根据公开资料显示，1969年列侬租下4个房间用作床上抗议现场而付给伊丽莎白女王酒店的总付费是每天1000美元。57年之后，在这几间房已被重新整合成今天的1742套房，我入住的价格是2856美元一晚。</p><p>　　乍看之下，从1000美元涨到2856美元似乎也不便宜，然而把这组数字放进57年的物价变化中却会出现另一种结论。自1969年至今，加拿大整体消费物价指数（CPI）已经上涨约758%，达到当年的8.6倍左右。也就是说，如果单纯按照同期加拿大整体物价水平的变化计算，当年的1000美元对应到今天，大致已是8600美元这个量级。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930658258.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930658258.png\" /></a></div><div class=\"article_img_talk\">                小野洋子于费尔蒙的床上在列侬伴唱下录制了自己的歌曲《记住爱》。            </div></div>  <p>　　如此再看今天2856美元的房价便颇有意思，57年过去，这间全球独一无二的套房价格，若单按通胀计算，远远没有追上同期加拿大整体物价的涨幅。</p><p>　　应该是8.6倍的涨幅却只落实到3倍不到，时代绝唱留了下来，价格反倒没有随行就市地一路狂奔。</p><p>　　这场轰动一时的行为艺术，将理想主义的锋芒藏进了温热的被褥，最终在半个多世纪的苍茫中提炼成不朽符号。</p><p>　　这么算起来，这间因为列侬夫妇而进入全球记忆的套房，今天卖的与其说是越来越昂贵的现场，不如说是一段被通货膨胀反衬得意外便宜的纪念。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930735752.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930735752.png\" /></a></div><div class=\"article_img_talk\">                我躺在费尔蒙列侬夫妇睡过的床上分别拍下了黑夜与白昼的目力所及。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-22/178738930821033.png\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-22/178738930821033.png\" /></a></div><div class=\"article_img_talk\">                让我难忘的费尔蒙1742房卡。            </div></div>  <p>　　这场声势浩大的“床上抗议”真正值得记住的，或许并不是列侬夫妇究竟躺了几天，而在于他们对现代传播逻辑近乎天才般的洞察，无需街头游行、无需政治讲坛，甚至未曾迈出房门半步，便将全球媒体的聚光灯悉数引入，让1742成为新闻原点。</p><p>　　本该属于私人最隐秘的卧室，就被推上面向整个社会的展台。</p><p>　　有些地方之所以值得漂洋过海，只因为漫长岁月早已赋予它超越空间本身的意义，1742便是如此。</p><p>　　半个多世纪前的一张床一群人一首歌的七天七夜越过国界与年代从未被封存，我这一趟，说穿了，不过是决意走到想象的尽头，给自己不散的执念一个安抚。</p><p>　　推门是半生波澜与硬刚。</p><p>　　关门是满室从容与圆满。</p><p>　　我说过人之所见从来跟随其心其愿。<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-08-22/102476918.html\" rel=\"nofollow\" title=\"陈燕妮：睡列侬他们睡过的床｜纪行\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "大西洋观察｜美加关系斗而不破",
+          "url": "https://international.caixin.com/2026-08-22/102476913.html",
+          "published": "Sat, 22 Aug 2026 16:50:04 +0800",
+          "summary": "<img alt=\"当地时间2026年8月20日，加拿大安大略省伊利堡，拖拉机拖车和车辆通过加拿大-美国边境的和平桥。图：视觉中国\" id=\"picture_178738900107769\" src=\"https://img.caixin.com/2026-08-22/178738900107769_840_560.jpg\" /><dl><dt>当地时间2026年8月20日，加拿大安大略省伊利堡，拖拉机拖车和车辆通过加拿大-美国边境的和平桥。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>一早起来，欧美主流媒体的头条，被美加贸易谈判最终崩溃的消息所覆盖。此轮谈判一度进展顺利，美国总统特朗普为此将施加惩罚性关税的截止日期推后三天，以给双方更多的时间解决最后的问题。</p><p>　　按照当下的报道，美国将从当地时间8月22日凌晨向总额为200亿美元的加拿大商品征收50%的税率，涉及品类从水泥到冰球棍，不一而足。而加拿大总理卡尼也同样强硬地表示，加方将向同等数额的美国进口商品征收同等税率关税。</p><p>　　本轮美加贸易争端发轫于去年的特朗普政府初期。加拿大与中国成为当时仅有的公开与美国互打“贸易战”的国家。但不同于中国，作为美国惟一的陆地邻国，加拿大在各方面对美的严重依赖，使得美加之间的贸易纠纷更加引人注意。</p><p>　　举例而言，虽然近年来加拿大被墨西哥取代，滑落到美国第二大贸易伙伴，对美出口依然占到加拿大出口比例的72%，同时加拿大仍然是美国最大的外国投资来源国。</p><p>　　而过去18个月以来，美国对加拿大输美钢铁和铝业50%的关税，对汽车出口25%的关税以及对加拿大木材35.19%的反倾销关税，已经导致加拿大的企业关门和工人失业。</p><p>　　而卡尼之所以敢与加拿大最大的利益相关方叫板，其底气一是源自加拿大当下普遍的反美情绪，第二是其所在中左自由党在加拿大议会中的绝对多数。</p><p>　　根据加拿大民调机构Leger的统计，当下有56%的加拿大民众支持对美采取强硬立场，另有31%的民众支持必要条件下保持对美的灵活性。</p><p>　　作为联邦制国家，加拿大各省也有相当的自治权，其中包括最大城市多伦多所在的安大略省下架了产自美国的酒精饮品，作为对美开打贸易战的反制。</p><p>　　其次，在2025年的联邦议会选举中，从未出任过民选公职的卡尼，在党内初选中异军突起，最终率领民调落后而本应落败的加拿大自由党，依靠对特朗普政府采取强硬立场的政纲击败保守党获胜，在总席位为343席的议会中斩获169席，成为议会最大政党，获得组阁授权。此后，凭借对手议员倒戈和三场补选的胜利，以总共174个席位正式迈入了多数党执政时代。</p><p>　　在过去的 20 年里，加拿大仅出现过两届多数议会 ——分别是 2011 年至 2015 年的保守党哈珀（Stephen Harper）政府，以及 2015 年至 2019 年的自由党特鲁多（Justin Trudeau）政府。</p><p>　　卡尼以政治素人之姿，取得加拿大选举政治的奇迹，为其对抗强大的南方对手赢得最大底气。</p><p>　　而卡尼在年初达沃斯世界经济论坛关于“基于规则的旧世界已死”的发言，更是在短短一年间，将其抬升到世界级领袖的地位。</p><p>　　尽管如此，就此做出美加决裂的判断依然言之尚早。</p><p>　　卡尼本人今年5月在纽约呼吁，希望能与美国形成新的伙伴关系，“一个强大的加拿大应该助力美国再次伟大，”直接呼应了特朗普的关于让美国再次伟大的口号。</p><p>　　此外，卡尼对旨在构建美加墨更紧密贸易联系的“北美堡垒”（Fortress North America）概念的开放态度，也被认为是对传统北美自由贸易精神的继承。“北美堡垒”的概念，一方面是继续加强北美三国之间的贸易和制造业联系，同时也有限制来自中国竞争的含义。</p><p>　　此前，自由党特鲁多政府加入时任美国拜登政府对产自中国电动车100%关税的举动，就被认为是加拿大在对华政策上与美国亦步亦趋的表现。</p><p>　　此外，卡尼的务实风格，也看到他长期打造的绿色能源转型先行者的形象，在就任总理后的转变。</p><p>　　比如，今年5月，卡尼代表联邦政府与产油大省阿尔伯塔省签订协议，将发展一条通向太平洋沿岸的新输油管道，从而实现每天向亚洲市场出口100万桶油的计划。</p><p>　　而对传统化石能源的重新依赖，是特朗普政府上台后除关税大棒外，最突出的政策选项。</p><p>　　对卡尼而言，其在十年内将加拿大对非美国家出口比例翻番、从而将美国占加拿大出口比例下降到一半的愿景，取决于其与包括中国、印度、澳大利亚等国在内的多元化出口战略能否zou效。<a class=\"end_ico\" href=\"https://international.caixin.com/2026-08-22/102476913.html\" rel=\"nofollow\" title=\"大西洋观察｜美加关系斗而不破\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
         {
           "title": "空客：AI硬件代替跨境电商成为货运增量",
           "url": "https://companies.caixin.com/2026-08-22/102476830.html",
@@ -238,27 +175,6 @@
           "url": "https://mini.caixin.com/2026-08-22/102476735.html",
           "published": "Sat, 22 Aug 2026 09:26:09 +0800",
           "summary": "<img alt=\"2026年8月18日，在北京国家速滑馆，机器人团队赛前测试中，为第二届世界人形机器人运动会做准备。图：视觉中国\" id=\"picture_178736235723856\" src=\"https://img.caixin.com/2026-08-22/178736235723856_840_560.jpg\" /><dl><dt>2026年8月18日，在北京国家速滑馆，机器人团队赛前测试中，为第二届世界人形机器人运动会做准备。图：视觉中国</dt></dl><h2 class=\"cx-app-content-subheads\">“沙德尔”向超强台风发展 会否登陆中国</h2><p>中央气象台21日预报，位于太平洋上的第18号台风“沙德尔”正在向西北方向移动，强度逐渐增强，预计未来3天可能达到超强台风级，26日前后将进入东海。</p><p>进入东海后，“沙德尔”会否登陆我国？中央气象台首席预报员董林预测，“沙德尔”进入东海后的路径，可能于28日至29日前后登陆我国华东沿海，也可能在我国近海转向东北方向移动。</p><p>董林介绍，目前，“沙德尔”附近的引导气流相对稳定。其北侧是带状副热带高压，“沙德尔”位置比较靠近副热带高压南缘，在副热带高压主体引导下，未来4至5天总体将稳定向西北方向移动。</p><p>“‘沙德尔’所处海域热力条件较好，强度还将逐渐增强。预计未来3天可能达到强度峰值，最高可达超强台风级。不过，25日之前，它对我国近海基本没有直接影响。”董林说。</p><p>专家在预测“沙德尔”进入东海之前的路径比较清晰，为何台风进入东海后，距离我国更近，预测反而变得困难？</p><p>董林说，其中的关键在于副热带高压。目前，“沙德尔”北侧的副热带高压呈带状分布。如果后期副热带高压保持完整并稳定维持，“沙德尔”受其南侧偏东气流引导，向我国近海靠近的可能性就会增加；如果副热带高压发生断裂或减弱，在其北侧出现通道，“沙德尔”就可能逐渐转向东北方向移动。</p><p>值得注意的是，除了“沙德尔”之外，北部湾目前也有热带低压活动，两者距离虽然较远，但可以通过共同的大尺度环流背景间接发生联系。</p><p>董林表示，北部湾热带低压路径复杂，预计21日夜间至22日将在北部湾海面回旋少动，并有可能加强为热带风暴级，获得台风编号。23日后，它将转向偏东方向移动，逐渐向琼州海峡靠近。在回旋和移动过程中，不排除其中心多次擦过或登陆海南、广东、广西沿海的可能。</p><p>专家提醒，25日前“沙德尔”对我国不会有直接影响，未来几天更需留意北部湾热带低压带来的影响，因其移动缓慢、回旋时间较长，华南沿海、北部湾和南海北部的大风和降雨可能持续较长时间，需关注和防范海南、广西、广东等地强降雨的叠加效应，以及山洪、地质灾害、城乡积涝等次生灾害风险。</p><p>（据新华社客户端）</p><p>相关链接：<a href=\"https://mini.caixin.com/2024-06-17/102206833.html\" target=\"_blank\">“点心”“船尾”“娜尼”“花斑”……新的台风名字是怎么来的？｜自然</a></p><p></p><h2 class=\"cx-app-content-subheads\">国家防总、应急管理部针对琼桂粤启动应急响应</h2><p>国家防总、应急管理部针对海南广西广东启动防汛防台风四级应急响应</p><p>北部湾热带低压已于21日下午加强为今年第19号台风（热带风暴级），预计21日夜间至23日白天，该台风将在北部湾海面回旋少动，强度缓慢加强，最强可达强热带风暴级。受其和西南季风共同影响，未来三天，海南、广西南部、广东沿海地区将有大到暴雨，局地大暴雨。中央气象台8月21日18时发布台风蓝色预警和暴雨蓝色预警。</p><p>根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月21日20时针对海南、广西、广东省（自治区）启动防汛防台风四级应急响应。</p><p>（据新华社客户端）</p><h2 class=\"cx-app-content-subheads\">“旅客买票占座放零食”，成都铁路局回应</h2><p>关于“旅客买票占座放零食”网络信息情况说明</p><p>近日，针对 “旅客买票占座放零食” 网络信息，相关部门迅速组织核实，并组织法律和客运专业人员进行专题分析。</p><p>经核查，视频中的列车为8月16日上海至成都西的K1156次，由成都局集团公司成都客运段担当。当日，3名旅客实名制购买6号车厢005号、006号、007号三个硬座席位车票，乘车区间为上海站至南充站，其中2名旅客检票乘车并按席位号就座，将零食放置到1名未检票乘车旅客车票所对应的006号空闲席位。途中，该车厢一名持无座席号车票旅客希望在006号空闲席位就坐，并请求列车员协调，列车员在核实购票和席位情况后，建议旅客双方自行协商解决，后双方协商未果，其他旅客将这一过程进行视频记录并发至网上。</p><p>《民法典》第815条规定：“旅客应当按照有效客票记载的时间、班次和座位号乘坐”；第816条规定：“旅客因自己原因不能按照客票记载的时间乘坐的，应当在约定期限内办理退票或者变更手续；逾期办理的，承运人可以不退票款，并不再承担运输义务”。交通运输部《铁路旅客运输规程》第20条规定：“铁路运输企业应当按照有效车票记载的时间、车次、车厢号、席别和座位号运输旅客；旅客应当按照有效车票记载的时间、车次、车厢号、席别和席位号乘车”。交通运输部《铁路旅客车票实名制管理办法》第3条规定：“购票人凭乘车人的有效身份证件购买车票”“铁路运输企业对实行车票实名购买的车票记载的身份信息与乘车人及其有效身份证件进行一致性核对”。此外，国铁集团铁路旅客运输规则还规定，旅客自支付购票款，即建立了与承运企业间的客运服务合同，当检票上车时开始享有对应席位的使用权利；列车开车后，未检票乘车的还可享受免费改签当日24时前车次车票的权利。</p><p>根据以上法律法规和相关规定，若旅客购票后未检票上车，视为该旅客不行使期间的席位使用权利，且基于合同相对性原理和铁路旅客运输规则，第三方也不能占用和处置该席位；有特殊需求的，可以向列车工作人员说明情况。此次事件中，对应006号席位的旅客未检票乘车，已放弃其本次列车正在运行区段席位使用权，另2名旅客也不能占用和处置该席位，列车工作人员应根据现场实际情况协调处置。</p><p>铁路部门对因旅客服务工作不到位给旅客带来的不佳旅行体验深表歉意。下一步，我们将持续强化员工培训，不断完善客运规章制度，优化客运服务产品体系，更好地满足广大旅客出行需求。同时，铁路部门真诚希望广大旅客能够相互理解、互谅互助，共同营造温暖和谐的旅途环境。</p><p>（据新华社客户端）</p><h2 class=\"cx-app-content-subheads\">特斯拉、小米等9家车企公布召回计划</h2><p>8月21日，据市场监管总局官网，特斯拉、小米、小鹏、吉利、零跑、奇瑞、东风、北汽蓝谷、一汽等多家车企向国家市场监督管理总局备案了召回计划，均涉及车内应急机械拉手。</p><p>上述车企表示，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。</p><p>小米汽车科技有限公司：</p><p>一、召回编号S2026M0096V：自即日起，召回2024年8月8日至2026年3月4日生产的部分2024款小米SU7系列纯电动汽车，共计339069台。</p><p>二、召回编号S2026M0097V：自即日起，召回2023年12月27日至2024年8月16日生产的部分2024款小米SU7系列纯电动汽车，共计51366台。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。</p><p>小米汽车科技有限公司将免费为召回范围内的车辆在车内应急机械拉手处加贴警示标识；并通过汽车远程升级（OTA）技术升级软件，优化中控解锁逻辑及降窗策略，以降低安全隐患。因部分车辆已加贴警示标识，本次召回此部分车辆无需再次加贴。</p><p>特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司：</p><p>召回编号S2026M0098V：自2026年9月25日起，召回2019年3月4日至2026年4月29日期间生产的部分国产Model 3电动汽车，共计973156辆；2020年11月16日至2026年4月30日期间生产的部分国产Model Y电动汽车，共计1956713辆。</p><p>召回编号S2026M0099V：自2026年9月25日起，召回2018年8月22日至2019年11月20日期间生产的部分进口Model 3电动汽车，共计35590辆；2022年10月27日至2026年2月13日期间生产的部分进口Model X电动汽车，共计8328辆；2023年1月18日至2026年2月10日期间生产的部分进口Model S电动汽车，共计2123辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。</p><p>特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司将免费为召回范围内的车辆加贴警示标识；并通过汽车远程升级（OTA）技术升级车窗控制软件，增加事故后降窗策略，以降低安全隐患。因部分车辆已配备警示标识，本次召回此部分车辆无需再次加贴。</p><p>零跑汽车有限公司：</p><p>召回编号S2026M0100V：自即日起，召回2022年8月7日至2025年11月29日期间生产的部分C01汽车，共计48625辆；2021年9月20日至2026年4月21日期间生产的部分C11汽车，共计322575辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生，存在安全隐患。</p><p>零跑汽车有限公司将免费为召回范围内的车辆在车内应急机械拉手位置加贴警示标识；并通过汽车远程升级（OTA）技术升级车窗控制软件，增加事故后降窗策略，以降低安全隐患。</p><p>肇庆小鹏新能源投资有限公司：</p><p>召回编号S2026M0101V：自2026年8月22日起，召回2023年4月7日至2025年12月22日期间生产的部分小鹏G6汽车，共计134588辆；2024年7月23日至2025年12月10日期间生产的部分小鹏P7+汽车，共计94688辆；2023年8月8日至2025年9月26日期间生产的部分小鹏X9汽车，共计35566辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生，存在安全隐患。</p><p>肇庆小鹏新能源投资有限公司将免费为召回范围内的车辆在车内应急机械拉手位置加贴警示标识，以降低安全隐患。</p><p>浙江吉利汽车有限公司：</p><p>召回编号S2026M0102V：自2026年8月24日起，召回2023年3月1日至2026年5月21日期间生产的部分极氪007和极氪X汽车，共计92658辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。</p><p>浙江吉利汽车有限公司将授权、委托浙江极氪智能科技有限公司免费为召回范围内的车辆加贴警示标识；并通过汽车远程升级（OTA）技术升级车窗控制软件，增加事故后降窗策略，以降低安全隐患。</p><p>奇瑞新能源汽车股份有限公司：</p><p>召回编号S2026M0103V：自2026年9月18日起，召回2023年10月11日至2025年2月27日期间生产的iCAR 03汽车，共计57688辆；2025年5月23日至2026年3月15日期间生产的风云X3汽车，共计10800辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手盖板与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生，存在安全隐患。</p><p>奇瑞新能源汽车股份有限公司将免费为召回范围内的车辆在车内应急机械拉手下方加贴警示标识，并更换改进后的车内应急机械拉手盖板，以降低安全隐患。</p><p>东风汽车集团有限公司：</p><p>召回编号S2026M0105V：自即日起，召回2025年3月4日至2026年4月16日期间生产的部分纳米06、风神L8、eπ007、eπ008汽车，共计53452辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生，存在安全隐患。</p><p>东风汽车集团有限公司将免费为召回范围内的车辆在车内应急机械拉手位置加贴警示标识；并通过汽车远程升级（OTA）技术为纳米06、风神L8汽车升级车窗控制软件，增加事故后降窗策略，以降低安全隐患。</p><p>北汽蓝谷麦格纳汽车有限公司：</p><p>召回编号S2026M0104V：自2026年8月22日起，召回2023年8月17日至2026年7月31日期间生产的极狐考拉纯电动汽车，共计46850辆。</p><p>本次召回范围内的车辆，因右后侧滑动门内部应急机械拉手开启盖板缺少专用文字提示标识，可识别性较差，极端情形下可能影响右后侧滑动门快速开启，存在安全隐患。</p><p>北汽蓝谷麦格纳汽车有限公司将免费为召回范围内的车辆更换带有文字提示标识的应急机械拉手开启盖板，并通过汽车远程升级（OTA）技术，免费为召回范围内的车辆升级软件，增加严重碰撞事故后降窗策略，以降低安全隐患。</p><p>中国第一汽车集团有限公司：</p><p>召回编号S2026M0106V：自即日起，召回2024年1月11日至2026年3月30日期间生产的部分EH7汽车，共计7873辆；2024年4月29日至2026年1月23日期间生产的部分天工08汽车，共计4035辆。</p><p>本次召回范围内的车辆，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生，存在安全隐患。</p><p>中国第一汽车股份有限公司将免费为召回范围内的车辆在车内应急机械拉手位置加贴警示标识，以降低安全隐患。</p><p></p><p>（据市场监管总局官网）</p><p></p><h2 class=\"cx-app-content-subheads\">演员陈柏霖，当庭认罪</h2><p>据看看新闻news，身陷“艺人逃兵役案”，台湾地方法院8月21日传唤陈柏霖 、谢坤达出庭，两人被求刑2年8个月。现场媒体问陈柏霖“是否觉得后悔逃兵役”，陈柏霖点头承认。</p><p>陈柏霖在庭上承认自己逃兵役，并要求缓刑。庭审结束后，陈柏霖表示：“未来会更谨慎做好每一个选择，做对这个世界有意义的事情，会尊重司法全力配合法院程序。”</p><p>据新浪娱乐援引台媒报道，王大陆与女友阙沐轩、警官刘居荣、车商小开游翔闵、黑帮分子陈子俊等人共同涉犯个资法案4月22日宣判。当事人皆未到庭，法官宣判王大陆、阙沐轩依个资法判处6个月，得易科罚金18万新台币（约3.9万人民币），可上诉。</p><p>台湾艺人修杰楷逃避兵役案侦查告一段落，新北地方法院持续审理中。7月29日，首度传唤修杰楷出庭，他在庭上坦承犯罪。</p><p>修杰楷辩护人表示，修杰楷变更兵役体位，只是达到服替代役的目的。另外修杰楷仍有服替代役，自然不觉得有逃避兵役的行为，事后也立即声明表示悔意，希望法官判处6个月以下徒刑。修杰楷在庭后受访表示，他在诚心地反省当中，一切尊重司法。</p><p>公开信息显示，修杰楷，中国台湾男演员，代表作品有《痞子英雄》《白色巨塔》《战神》《天堂的微笑》等。修杰楷妻子为知名演员贾静雯。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">西宁“00后”骑手勇斗持刀男子 生日当天获奖励</h2><p>8月18日晚9时许，青海西宁城东区北小街金牛小区门口，一名醉酒男子持刀滋事，已经造成两人受伤，现场情况十分危急。</p><p>外卖骑手于荣先取完餐途经此处，目睹险情后，没有贸然近身肉搏，他先稳妥放下手中待配送的外卖订单，悄悄绕到持刀男子身后，看准时机，驾驶电动车将对方撞倒在地，随后配合现场群众合力将行凶男子控制住，等待民警与救护人员赶到现场处置。</p><p>记者了解到，于荣先2005年出生，是一名来自青海海南州的藏族小伙，从事外卖骑手工作时间不长。事发之后，他取回外卖继续完成配送，受突发状况影响，当晚订单出现超时，平台后续为他完成了申诉并撤销记录。</p><p>谈及当晚的举动，于荣先表示，徒手夺刀风险很高，选择用车制止，也是在保护自己的前提下阻止伤害继续发生，看到现场还有普通群众，便想着必须上前制止险情。</p><p>8月20日，恰好是于荣先21岁生日。当天上午，外卖平台在站点为他举行表彰仪式，授予他“至善至勇先锋骑手”锦旗，发放5000元见义勇为奖金奖励，站点同事还准备了蛋糕，为他过了一场意义特殊的生日。</p><p>这件事在网络传播后，不少网友为这位年轻骑手点赞，称赞他临危不乱、智勇双全。于荣先说，这次经历是一份特别的生日礼物，自己只是做了普通公民该做的事。</p><p>（据“人民网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">7月以来，北京警方已奖励1500余人！</h2><p>紧盯出租房、日租房、自建房、出租大院等重点场所，7月以来，北京警方排查整治出租房屋各类安全隐患3.5万余处，奖励提供有效线索的群众1500余人。</p><p>为实现出租房屋风险源头管控，北京警方依托“线上申报、群众监督、上门核查”方式登记核对租住人员信息，排查安全隐患问题，督促相关责任人员自觉履行安全管理责任。每到一处，社区民警不仅核对租客信息、登记台账，还同步查看是否存在违规隔断、安防设施缺损、消防通道堵塞等隐患，能当场整改的现场整改，不能立即解决的限期整改并跟进检查。</p><p>暑期以来，北京警方依法查处多起违法违规出租房屋行为。例如，东城公安分局北新桥派出所民警近日在开展日常入户检查时，发现房屋出租人贺某某未按规定登记承租人员身份信息，公安机关依法对其作出行政罚款的处罚。</p><p>还有部分房东擅自改变租住用途，违规开展经营性租房活动。例如，丰台公安分局马家堡派出所民警在辖区开展安全检查时，发现房屋出租人周某某将房屋以旅店形式对外招租，按日收费、违规经营，且未登记租住人员身份信息，公安机关依法对周某某行政拘留，并对其违规经营场所依法取缔。</p><p>此外，部分单位承租住房供职工居住，但未履行安全管理责任。近期，朝阳公安分局潘家园派出所民警在工作中发现，某公司承租一房屋用于员工宿舍，期间该公司未对宿舍制定安全管理制度，未明确专人管理，未履行安全管理责任，公安机关依法对该公司责令限期整改，并处以行政罚款的处罚。</p><p>“结合暑期特点，我们持续加强出租房屋安全检查，并广泛征集涉出租房屋治安管理方面的问题线索，发动群防力量共建共治，进一步规范出租房屋管理。”市公安局人口基层总队流管支队支队长侯玉杰介绍。近日，海淀公安分局上地派出所接到群众举报，辖区一处出租房屋疑似存在擅自经营旅馆行为。经查实无误后，公安机关依法对房屋出租人闫某行政拘留，并对该人经营的场所予以取缔。同时，对举报人杨某奖励人民币1000元。</p><p>下一步北京警方将持续加强对出租房屋领域治安管理，结合社会面清查整治行动，加大对出租房屋的隐患排查、违法查处和联合执法力度。</p><p>（据“北京发布”微信公众号）</p><h2 class=\"cx-app-content-subheads\">金价大涨！突破4600美元关口</h2><p>8月21日，受美元指数下跌等因素影响，国际金价进一步上涨，盘中一度突破每盎司4600美元关口，国际银价也同步上涨。</p><p>截至北京时间21日12时30分，</p><p>纽约商品交易所12月交割的黄金期货价格报每盎司4603.60美元，上涨0.70%；</p><p>9月交割的白银期货价格报每盎司69.175美元，上涨1.57%。</p><p>8月21日，上海黄金交易所AU99.99现货黄金跳空走高，盘中最高触及981.2元/克，8月以来累计涨幅超过10%。</p><p>A股贵金属板块开盘集体走强，国内各大品牌金店同步上调零售金饰报价。以周大福为例，17日足金饰品报价1332元/克，21日报价1355元/克，三天上涨23元。</p><p>记者注意到，8月以来，国际金价摆脱了此前每盎司4000美元至4100美元的区间波动，打开上行空间。</p><p>（据“央广网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">伊朗誓言对美国做出“毁灭性”回应</h2><p>据路透社报道，伊朗方面当地时间8月21日表示，如果美国再次发出威胁，伊朗将予以“毁灭性”回应。此前，华盛顿承诺将对伊朗实施历史上最严厉的金融制裁。</p><p>伊朗武装部队总参谋长表示，伊朗伊斯兰共和国的反应将是广泛而果断的。</p><p>据伊朗媒体报道，阿卜杜拉希表示：“伊朗武装部队在陆地、海洋、空中、防空和网络空间都做好了充分准备，将以毁灭性的打击和惩罚来回应敌人的新威胁。”</p><p>（据“中国新闻网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">中疾控专家：前一段时间，新冠疫情出现了周期性波动，在8月中上旬达到高峰平台期，目前已出现下降趋势</h2><p>中国疾控中心研究员王富珍8月21日在国家卫生健康委新闻发布会上表示，前一段时间，新冠疫情出现了周期性波动，在8月中上旬达到高峰平台期，目前已出现下降趋势，南方地区下降趋势较为明显。新冠疫情整体强度与前两年相当，疾病仍以轻症为主，监测未发现可能引发重大公共卫生风险的变异株，也未发现新冠疫情波动对整体医疗秩序造成明显影响。</p><p>（据“中国新闻网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">两部门发布公告 打击非法买卖人民币活动</h2><p>中国人民银行、国家市场监督管理总局8月21日共同发布公告，打击非法买卖人民币活动。</p><p>公告规定了人民币可以买卖和禁止买卖的情形，具体来看：</p><p>现行流通人民币不得买卖。非法买卖正在流通的人民币，混淆“流通货币”与“收藏品”等普通商品的边界，囤积炒作同号、连号或特定版别人民币等行为扰乱正常的人民币流通秩序，损害人民币信誉及其法定货币的严肃性，必须严格禁止。</p><p>经中国人民银行公告停止流通的人民币可以买卖。经中国人民银行公告停止流通的人民币已不具备流通货币职能，面额已不代表货币价值，其作为历史文物、收藏品等意义更为突出，可以收藏，可以去银行网点兑换，也可以上市进行买卖。</p><p>普通纪念币和贵金属纪念币可以买卖。《公告》明确规定，普通纪念币在面向公众兑换前不得以任何方式进行买卖，以此遏制一些市场主体在普通纪念币发行前，预售炒作、囤货抬价等人为制造稀缺扰乱市场的行为。</p><p>人民币买卖有哪些规范要求？</p><p>买卖人民币的双方应依法依规交易，遵循诚实、守信、自愿、公平原则，不得有囤积居奇、哄抬价格、恶意炒作特殊号码等扰乱市场秩序、侵害消费者合法权益的行为。</p><p>不得进行虚假宣传，不得夸大收益、对未来收益作出保证性承诺、明示或者暗示保收益无风险等。</p><p>不得通过买卖人民币从事洗钱、非法集资等非法金融活动。</p><p>装帧纪念币、停止流通的人民币，应当标注装帧单位名称，不得违规使用中国人民银行相关信息。</p><p>制作售卖纪念章、纪念券等非人民币类商品，应明确标注产品属性，不得通过任何形式的伪装故意将纪念章、纪念券等工艺品、文创商品与人民币纪念币进行混淆，不得通过冒用中国人民银行名义等方式误导消费者认为是人民币。</p><p>中国人民银行表示，《公告》施行后，公众合法的、正常的钱币收藏将得到更好的保护，跟风炒作的行为将被遏制，违法违规的行为将被依法惩治。钱币收藏爱好者要认准正规渠道，购买前可查询中国人民银行网站，确认是否为中国人民银行发行的纪念币或是否已退出流通人民币。纪念币收藏有市场波动，要警惕“稳赚不赔”等虚假宣传。</p><p>（据央视新闻客户端）</p><h2 class=\"cx-app-content-subheads\">武王墩墓最新考古研究，为“以粽子投江纪念屈原”这一传说找到可能的历史渊源</h2><p>作为中华民族的重要传统节日，端午节祭祀屈原和食粽是广为人知的两项代表性活动，其历史源流广受社会大众与学界关注。</p><p>记者8月21日从中国科学院古脊椎动物与古人类研究所（古脊椎所）获悉，中国科研团队基于安徽淮南武王墩墓出土距今2200年植物包的考古研究，最新揭示该植物包的祭祀属性，为“以粽子投江纪念屈原”这一传说寻找到可能的历史渊源。同时，其用叶片包裹种子的形制，也为粽子这一传统食物找到可能的起源。</p><p>这项重要考古研究成果，由中国科学院古脊椎所葛勇副研究员、国家文物局考古中心张治国研究馆员和杨凡副研究馆员联合安徽省文物考古研究所、首都师范大学、中国社会科学院考古研究所等合作者共同完成，相关论文近日在综合性学术期刊《国家科学评论》（NSR）发表。</p><p>研究团队介绍，关于粽子的记载最早可追溯至西晋周处的《风土记》，而将粽子与纪念屈原建立联系，最早见于南朝梁吴均所著《续齐谐记》。然而，考古学发现中，仅有北宋铁拐墓中发现过可被称为“粽子”的植物遗存，虽然2000年前的城阳城遗址也出土过“类似粽子”的植物包，但当时并未进行深入研究，难以对粽子的历史源流进行探讨。</p><p>安徽淮南武王墩墓是目前发现的保存最好、规模最大的楚王（楚考烈王）墓。2024年3月该墓椁室中出土大量饱水状态下保存良好的植物包，研究团队立刻进行样品采集，并制定详细研究方案，随后经过近两年的系统研究，获得两方面主要认识：</p><p>首先，这些植物包中包裹大量未脱壳的水稻、粟和黍，还发现麦类种子苞片中的植硅体，说明这并不是无意的混杂，而是有目的的选择完整的种子进行包裹。结合秦简相关粮食可以作为死者所用金钱的记载，有理由认为墓侧室中的植物包，其功能更倾向于祭祀死者，而不是用于食用。</p><p>其次，植物包由叶片包裹，经过鉴定确认其为槲栎的叶片，并且植物包表面可见“绳”状植物绑缚，经过鉴定确认是由黍亚科和芦竹亚科的植物叶片制成。由此可以确认，这些植物包具有与传说中以及现代粽子相似的结构。这种相似的形制暗示其间可能存在的传承关系，但并不能简单地视为相同。</p><p>在此基础上，研究团队认为，武王墩墓出土植物包代表了盛行于楚国时期的一种祭祀方式，而不是后世所描述的“粽子”。</p><p>他们强调，由于文化存在交流和传承，2200年前的植物包可能在后世传承中逐渐发生变化，从祭祀用品逐渐变为食用，并且不同地方的人群进行适应性的改善，最后演变成人们熟知的端午食粽。</p><p>（据“中国新闻网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">美军发表声明：机上人员全部遇难</h2><p>美军阿拉斯加司令部8月20日发表声明说，一架载有8人的飞机当天在阿拉斯加州西部偏远地区坠毁，机上8人全部遇难。</p><p>涉事飞机为塞斯纳441型（Cessna 441），当日从安克雷奇起飞，原定飞往纽纳姆角。据FAA初步信息，飞机在接近目的地时发生事故。</p><p>声明说，失事的是一架“民用包机”。阿拉斯加司令部司令罗伯特·戴维斯表示，遇难者是在艰苦环境中执行重要任务的专业人员。</p><p>美国陆军工程兵部队同一天发表声明说，该部队一架包机当天在阿拉斯加州西部坠毁。两名在飞机上的该部队雇员遇难。其他信息将适时公布。</p><p>美国国家运输安全委员会阿拉斯加地区负责人说，失事飞机载有2名飞行员和6名乘客，事故原因正在调查中。</p><p>目前事故原因尚不明确。遇难乘客及机组人员姓名将在通知亲属后公布。</p><p>（据“中国新闻社”微信公众号）</p><h2 class=\"cx-app-content-subheads\">中国自研新一代深水多功能海洋工程船命名交付</h2><p>8月21日，我国自主研发的新一代深水多功能海洋工程船“海洋石油292”，在江苏启东完工交付，它由海洋石油工程股份有限公司（简称海油工程）投资建造，进一步提升了我国水下工程和海洋在役设施专业服务能力，为加快深海能源资源开发提供关键装备保障。</p><p>“海洋石油292”采用双层结构、单体流线型设计，总长126米、型宽28米，排水量超17600吨，甲板面积相当于近5个标准篮球场，配备先进电力全回转推进系统和DP2动力定位系统，可实现全球海域无限航区通行。船舶装备400吨级起重机，预搭载3000吨级卷缆盘、水下机器人、水下挖沟机等先进设备，具备深水级海洋工程开发、建设、维护、检修及应急处置等多项作业能力，适配多海域水下管缆及结构物安装、海底调查、运输保障等海洋工程全流程综合作业，数字化、智能化和绿色化达到同类装备先进水平。</p><p>据海油工程深水多功能海洋工程船建造项目经理贾璐瑾介绍，“海洋石油292”构建覆盖“感知—传输—决策—执行”全链条的智能化体系，搭载自动化系统实时监控与智能联动关键设备，全天候监测并智能分析人机状态，从而实现周期性无人值守。创新应用智能化电站、双向换热加热等先进系统，可高效优化电力分配，燃油消耗较传统方案可降低约15%，续航能力达15000海里，保障作业连续性。</p><p>“海洋石油292”于2024年12月开工建造，全程严格遵循国际海事规范及国内最高建造标准，用时15个月完成分段建造、总装集成、船台整装、船舶下水、系泊调试等核心工序。项目团队推行设计施工一体化，应用数字孪生三维建模与模拟搭载，自主研发精度计算软件、双吊机协调及智能吊装系统。采用模块化施工，将船体划为艏舯艉三大区域93个分段，以搭积木方式完成总装，一次就位成功率100%，精度达世界领先。</p><p>据上海振华重工集团深水多功能海洋工程船项目经理叶中来介绍，为高质量完成船舶出坞及海试全科目，围绕牵引定位反复推演，通过绞盘、拖轮精准定位，实时监测姿态及位移数据，船舶参数满足设计标准，动力系统、操控系统、作业系统、安全保障系统等核心性能指标全部达标，各项参数优于设计标准，具备交付投用标准。</p><p>近年来，我国海洋油气勘探开发力度显著加大，海上工程建设及运维作业量持续攀升，综合工程船舶服务需求日益迫切。海油工程持续强化海上工程装备建设，成功打造由深水多功能作业船、起重船、铺管船、挖沟作业船、大型下水驳船等6大类20艘专业化船舶组成的海洋工程作业船队，建成我国首艘3000米深水铺管起重船“海洋石油201”、最大海洋油气工程起重船“蓝鲸7500”、亚洲最大下水驳船“海洋石油229”等核心装备，形成覆盖浅水至超深水、从近海到深远海的全海域作业能力，为我国海洋油气资源自主可控开发与保障能源安全提供了有力支撑。</p><p>（据人民日报客户端）</p><h2 class=\"cx-app-content-subheads\">报告显示全国建成启用超70家具身智能训练场</h2><p>中国信息通信研究院日前发布的《具身智能训练场研究报告（2026年）》显示，近两年，在政策支持和产业需求的牵引下，我国具身智能训练场建设加速推进。据不完全统计，截至今年6月底，全国建成启用超70家训练场，在建或规划中的训练场为46家。</p><p>具身智能训练场是一类面向具身智能研发和应用搭建的关键基础设施，在真实物理环境中支撑具身智能数据生产、模型训练、系统应用能力验证和迭代优化。报告显示，当前全国范围内掀起一轮具身智能训练场建设热潮，训练场建设已覆盖全国过半的省级行政区，形成以长三角、京津冀和珠三角为核心的三大集群。</p><p>报告显示，具身智能训练场突破传统人工智能产业高度集聚于省会城市、直辖市和一线城市的发展模式，逐步向三线、四线乃至五线城市延伸，呈现出多层级城市协同布局的发展态势。这一布局特征反映出，训练场的选址逻辑正由传统的人才、资本积聚驱动，逐步转向以真实场景、数据供给和运营效率为核心的资源配置模式。</p><p>场景建设将直接决定数据生产方向、能力训练重点和运营服务边界。报告显示当前，我国具身智能训练场建设总体呈现“以应用为牵引、以综合能力提升为目标”的特征，围绕工业制造、家庭服务、商业零售、医疗康养、特种应急等行业场景加快布局。其中含工业制造场景的训练场最多，占86%。</p><p>报告预测，随着具身智能技术逐步成熟、产业应用不断深化，训练场将在场景、数据、服务、运营、标准化等多维度持续演进，我国具身智能训练场将从建设热潮期向能力沉淀期稳步过渡。</p><p>（据新华社客户端）</p><h2 class=\"cx-app-content-subheads\">第二届世界人形机器人运动会今日开幕</h2><p>第二届世界人形机器人运动会将于8月22日至26日在国家速滑馆“冰丝带”举办，共设置51个项目、开展1301场比赛。赛事吸引了666支队伍、2056台机器人同台竞技，参赛队伍数量较首届增长138%，机器人数量翻了两番。</p><p>（据新华社客户端）</p><p>相关链接：<a href=\"https://photos.caixin.com/2026-08-20/102475955.html\" target=\"_blank\">2056台机器人同台竞技 世界人形机器人运动会开赛在即</a></p><p></p><h2 class=\"cx-app-content-subheads\">两部门发文推动服务类社会救助发展</h2><p>记者8月20日从民政部获悉，民政部、财政部近日联合印发《关于积极发展服务类社会救助的指导意见》。这是社会救助法颁布实施后的首个配套政策文件，将推动社会救助由单一物质救助方式向“物质+服务”综合救助模式转变，更好发挥社会救助“保基本、防风险、促发展”作用。</p><p>服务类社会救助是通过提供服务实施社会救助的一种方式，主要面向有需求的各类社会救助对象，以满足其依靠自身能力难以获取的基本生活方面的服务需求。意见明确，现阶段各地可根据实际将分散供养特困人员和最低生活保障家庭成员作为重点对象，有针对性地提供服务类社会救助。</p><p>摸清困难群众需求是开展服务类社会救助的前提。意见提出建立服务类社会救助需求评估体系，要科学设置需求评估指标，细化评估标准；要结合社会救助对象认定和动态管理工作，同步开展服务类社会救助需求评估，做到定期梳理、更新需求台账。</p><p>在制定服务类社会救助供给清单方面，意见提出，各地要结合本地经济社会发展水平、政府财政承受能力、社会救助对象服务需求、服务资源供给能力等因素，编制服务类社会救助供给清单，有针对性地为救助对象提供照护服务、生活服务、关爱服务等；要求制定清单量力而行，与各项社会福利制度和社会保险制度做好统筹衔接。</p><p>意见还就积极引导社会力量有序参与、合理确定筹资渠道和服务模式作出要求。意见提出建立健全政府主导、多元参与的服务类社会救助工作机制；充分利用一般公共预算资金、彩票公益金、社会捐赠等现有资源合理确定服务类社会救助资金筹措渠道，并根据救助对象类型、困难程度等，按需匹配服务模式。</p><p>（据新华社客户端）</p><br />",
-          "source": "财新"
-        },
-        {
-          "title": "【周刊提前读】婚外冷冻胚胎制造人伦困局 社会如何调整",
-          "url": "https://database.caixin.com/2026-08-22/102476726.html",
-          "published": "Sat, 22 Aug 2026 08:44:49 +0800",
-          "summary": "<img alt=\"2025年11月1日，朱女士发现丈夫唐某与第三者在复旦大学附属中山医院生殖医学中心完成试管婴儿的辅助生殖建档，实施了取精、取卵，并已培育出冷冻胚胎。当时该胚胎存放于医院，尚未开展胚胎移植手术。\" id=\"picture_178736180052864\" src=\"https://img.caixin.com/2026-08-22/178736180052864_840_560.jpg\" /><dl><dt>2025年11月1日，朱女士发现丈夫唐某与第三者在复旦大学附属中山医院生殖医学中心完成试管婴儿的辅助生殖建档，实施了取精、取卵，并已培育出冷冻胚胎。当时该胚胎存放于医院，尚未开展胚胎移植手术。</dt></dl><p>　　一枚婚外冷冻胚胎，引发道德与法律的双重争论，也折射出辅助生殖技术所面临的制度漏洞和困局。</p><p>　　1981年出生的朱女士与丈夫唐某育有一女，自2019年肺癌手术后，朱女士一直在家休养。2025年11月1日，她无意间在唐某手机上看到复旦大学附属中山医院发送的辅助生殖手术提醒短信，短信中将唐某与另一名女子称为“夫妇”，并提醒“务必携带身份证及结婚证原件”。</p><p>　　与唐某对质后，朱女士得知，唐某与第三者使用伪造的结婚证，已经在复旦大学附属中山医院生殖医学中心完成了试管婴儿的辅助生殖建档，实施了取精、取卵，并已培育出冷冻胚胎。当时该胚胎存放于医院，尚未开展胚胎移植手术。</p><p>　　发现这枚婚外胚胎后，朱女士开启了“维权”之路，希望将胚胎销毁，而医院、卫健委均告知无权限。这让对冷冻胚胎及辅助生殖相关制度的讨论持续升温，“婚外胚胎”性质为何、如何处置、谁有权处置？在医疗技术日益进步、辅助生殖需求不断升高的当下，新纠纷与现实困境是怎样产生的？</p><h2 class=\"cx-app-content-subheads\">发现“婚外胚胎”之后</h2><p>　　朱女士告诉财新，从唐某处得知前述情况后，11月3日，她持本人真实结婚证件前往复旦大学附属中山医院。“我带着四个问题找到医院，他们（唐某和第三者）做了什么手术？手术进行到什么阶段？结果如何？对这枚伪造结婚证件得到的胚胎，医院要怎么处理？”</p><p>　　“医院称没有任何法条规定他们有权销毁胚胎，只能对争议胚胎封存，可以保存这枚胚胎20—30年的时间。但如果男方离婚后再与第三者取得合法的结婚证件，该辅助生殖流程仍可以继续。”朱女士说。</p><p>　　2026年3月起，她就伪造证件一事向公安机关多次报案，最终上海市公安局徐汇分局于5月作出行政处罚，唐某、第三者因使用伪造证件被行政拘留5日。</p><p>　　此外，2026年5月，朱女士向国家卫健委和上海卫健委提交投诉。上海市卫健委在2026年7月16日出具的《答复函》中表示，复旦大学附属中山医院已按规定查验了唐某与第三者二人提供的身份证和结婚证，尚无证据表明医院存在违法违规行为；目前医院已停止对该二人实施辅助生殖技术服务，涉事胚胎也已由医院封存，但卫健委无职责责令医院销毁该胚胎。</p><p>　　7月30日，朱女士对丈夫唐某、第三者与医院提起的民事诉讼在上海市徐汇区人民法院开庭，该案件为不公开审理，也未当庭宣判。根据朱女士曾向媒体提供的起诉书内容，该案案由为人格权纠纷，诉讼请求包括判令医院赔偿精神损害抚慰金10万元，丈夫及第三者承担连带责任、第三者公开赔礼道歉等。朱女士对财新表示，由于男方申请了不公开审理，对于诉讼细节，无法对外界做更多透露。</p><p>　　在民事诉讼开庭当日，朱女士收到了家乡无锡市梁溪区人民法院的离婚案件传票，唐某起诉离婚。该离婚诉讼原定于8月11日开庭。8月14日，朱女士告诉财新，目前唐某已撤诉。此前在8月7日接受中新网采访时，朱女士坚定表示在该胚胎案件未完结的情况下坚决不会离婚。</p><p>　　朱女士还称，在自己并不知情的情形下，案涉胚胎疑似已被销毁。据深圳卫视《第一现场》报道，8月5日，唐某主动联系该媒体记者做出回应，称当天上午在医院负责人、己方律师和涉案女方（第三者）律师的见证下，已向医院正式申请销毁涉案胚胎；唐某的律师也随后向《第一现场》表示该胚胎已被销毁。朱女士对财新表达了自己的质疑，“对于这一销毁行为，我持有巨大的异议，胚胎解封、销毁的流程是什么？是否需要公证方和法院方在场？对这种有争议的胚胎，是否需要提交医学伦理委员会讨论？”</p><p>　　8月13日，财新以调研为由致电复旦大学附属中山医院生殖医学中心，工作人员答复“现在办理辅助生殖建档还需提供政务平台、随申办等电子凭证”，随即挂断电话。</p><h2 class=\"cx-app-content-subheads\">各方权责几何</h2><p>　　在本案中，朱女士一直要求销毁这枚婚外胚胎。这引发舆论关注，在婚姻合法存续的背景下，合法伴侣是否有权销毁婚外胚胎？事件中各方权责几何？婚姻关系遭到侵害的当事人如何维权？</p><p>　　根据中国现行法律规范可知，只有持合法结婚证的不育夫妇，才可以在国内接受完整的人类辅助生殖技术服务（如试管婴儿），单身妇女亦不满足该条件。这一对主体资格的限制主要来源于2003年修订的《人类辅助生殖技术规范》等系列文件（下称《规范》），“不得对不符合国家人口和计划生育法规和条例规定的夫妇和单身妇女实施人类辅助生殖技术”。</p><p>　　但值得注意的是，对“冷冻胚胎”的法律性质、权属归于何方，目前尚无任何法律规范予以定义，实践中当纠纷发生时，司法也往往缺少明确的规范指引。</p><p>　　当前有不少观点认为，冷冻胚胎的法律地位属于介于“人”和“物”之间的中间存在，是一种“特殊伦理物”。这一观点始于2014年的“无锡冷冻胚胎案”，这也是中国首例冷冻胚胎权属纠纷案。当时曾在医院实行辅助生殖、获得四枚冷冻胚胎的夫妻二人不幸意外身亡，男方和女方父母共四位失独老人希望从医院获取冷冻胚胎，却遭到拒绝，理由是代孕被禁止，当事人死亡后胚胎应当销毁。一审判决也驳回原告将胚胎作为遗产来继承的诉讼请求。几经争议后，案件二审案由变更为人体冷冻胚胎监管权、处置权纠纷。无锡市中级人民法院在二审最终判决，将四枚冷冻胚胎交由四位老人共同监管、共同处置。这份判决书中指出：“胚胎是介于人与物之间的过渡存在，具有孕育成生命的潜质，比非生命体具有更高的道德地位，应受到特殊尊重与保护。”</p><p>　　长期关注辅助生殖技术法律领域的中国人民大学法学院教授、民商事法律科学研究中心执行主任石佳友告诉财新，在这种观点下，由于冷冻胚胎不是“物”，故不能行使“所有权”，但从生育权的角度出发，冷冻胚胎上承载着夫妻双方的生育利益，基于此，夫妻双方就冷冻胚胎享有处置权。具体表现为可以选择将冷冻胚胎植入、捐赠给科研机构或其他夫妇、销毁、长期保存，并且由于夫妻双方平等享有生育权，故处置权的行使一般应以双方共同意愿为基础。</p><p>　　在司法实践中，判决书常使用“承载遗传信息”等表述，重点强调冷冻胚胎与其精子、卵子提供者的基因、生命伦理关联。如在2024年“叶某琳诉厦门某医院、第三人朱某强医疗服务合同纠纷案”中，叶某琳与朱某强离婚后，发现卵巢功能衰退，无法生育，希望获取此前辅助生殖所得冷冻胚胎，遭医院拒绝。院方指其属于单身状态，根据卫健部门有关规章，认为其无资格处置。厦门市思明区人民法院一审认定，案涉冷冻胚胎含有双方遗传信息，具有潜在生命属性，区别于一般之物，应受特别保护，胚胎权利人对经合法途径培育的冷冻胚胎享有的监管权和处分权，不因婚姻关系的解除而消灭。</p><p>　　“胚胎是由精子和卵子形成的，处置权益应属于生殖细胞的双方捐献者，因此在本案中，无论朱女士的诉讼请求为何，法院都无权判令直接销毁胚胎。”石佳友认为，现行法律规范虽然规定了只有不育夫妇可以获得完整辅助生殖服务，但只能解决医院能给谁做辅助生殖的行政准入问题，并不解决已经形成胚胎之后，民事层面谁有权处置的私法确权问题。“胚胎处置权的归属，应按照民法原理，参照《民法典》的有关规定予以确定。”</p><p>　　“而公序良俗原则的作用，主要是对合同的效力及权利行使的方式适当控制，并不能支持法院直接判令销毁他人的胚胎。”石佳友补充。</p><p>　　此外，北京大学医学人文学院医学伦理与法律系教授王岳指出，精子、卵子具有人身权属性，承载人格利益，在未经本人同意的情况下，即使立法，也不宜对具有人身权属性的权益强行处置。本文所述的争议中，朱女士虽身为原配，但并非胚胎生殖细胞的双方提供者，无权请求医院、卫健委销毁这枚胚胎。</p><p>　　另一方面，根据《规范》，现阶段接受辅助生殖技术服务的夫妇只需向医疗机构提供双方身份证、结婚证原件及复印件即可，没有规定强制医院通过电子证件、人脸识别等核验方式来对结婚证的真伪做实质判断，这也是该案中上海卫健委认定医院无违法违规行为的原因。</p><p>　　多位法律人士对财新表示，从现实情况来看，由于医疗机构并没有权限接入民政婚姻登记系统，仅从未能识别伪造结婚证这一点，通常难以对医院追责。</p><p>　　石佳友告诉财新，在该类案件中，认定医院在证件审查上是否存在过错，需要结合具体的事实环境来判断：如在技术上，医院是否有能力判断当事人所提供的结婚证真伪？医院是否接入了民政部门的结婚登记系统？</p><p>　　“如果医院在技术上不具有鉴别结婚证件真伪的能力，就没有这样的义务。”石佳友说，“即便为防范小概率违法事件，法律也不能给医院施加过度的普遍性义务，否则会给绝大多数普通人正常办事造成过度的负担和成本，出现要求‘证明自己是自己’的困局，给社会公众造成不便。”</p><p>　　王岳认为，在《规范》仅规定医疗机构进行形式审查的情况下，如果要求医院必须“实质审查”、辨别证件真伪，实际上也超出了医院的能力范畴。</p><p>　　但医院的行为仍存争议。中银律师事务所高级合伙人杨保全指出，本案有一个特殊的关键情节，即原配已经向医院提出了异议，这意味着该冷冻胚胎的权属、合法性已经发生争议。</p><p>　　此类案件中，原配还有何维权途径？杨保全告诉财新，在离婚纠纷中，由于男方婚内与第三者通过伪造证件实施辅助生殖，属于重大婚内过错，原配可以依法请求法院对夫妻共同财产予以倾斜分割，同时主张离婚精神损害赔偿。另外，男方投入辅助生殖项目中的费用，属于擅自处分夫妻共同财产，原配也可以起诉男方、第三者，要求追回该部分共同财产。</p><p>　　“原配也可以提起人格权侵权之诉，主张男方、第三者侵害自身的配偶权、人格利益，要求赔礼道歉、精神损害赔偿；如果后续法院认定医院未尽到胚胎争议状态下的审慎注意义务，朱女士也可就该行为主张医院承担相应民事侵权责任。”杨保全表示。</p><p>　　北京两高律师事务所家庭婚姻部主任、北京市律协婚家委副主任张荆认为，本案中，朱女士可以以丈夫唐某侵害其配偶权为由提起民事诉讼，同时将医院和第三者列为第三人，并可以在诉讼中同时主张确认唐某与医院之间的辅助生殖服务合同无效。由于唐某使用伪造的结婚证件，属于以欺诈手段订立合同，且更为关键的是该合同违反国家强制性规定，唐某与第三者并非合法夫妻，不具备接受辅助生殖服务的主体资格，合同应属于自始无效。</p><p>　　同时，张荆指出，伪造证件骗取医疗服务、破坏合法婚姻关系、婚外培育胚胎的行为严重违背公序良俗，依据《民法典》第153条，违背公序良俗的民事法律行为无效。若法院确认合同无效，医院基于该合同对胚胎冷冻保存、后续移植的依据便不复存在。</p><p>　　但张荆也表示，这种以配偶权起诉并同时主张确认合同无效的做法在司法实践中并不常见。</p><h2 class=\"cx-app-content-subheads\">辅助生殖与现实冲撞</h2><p>　　这并非辅助生殖技术第一次催生舆论争议。多位专业人士对财新表示，究其根源，近年来，随着医疗技术的进步，辅助生殖需求进一步拓展，新情形与新纠纷不断出现，诸多现实争议难以得到制度回应。</p><p>　　其中，较为典型的是近年来频繁引起热议的“单身女性能否使用辅助生殖技术”之争。2024年，全国首例“单身女子冻卵案”以二审法院驳回上诉、维持原判落幕，当事人徐枣枣（化名）作为单身女性的冻卵请求未得到支持。</p><p>　　徐枣枣曾于2018年在首都医科大学附属北京妇产医院咨询冻卵事宜，在身体符合冻卵条件的情况下，因是单身女性，其冻卵请求被医院拒绝。徐枣枣以一般人格权纠纷起诉医院，认为医院侵害了自己的生育自主决定权及生育方式选择权。法院以为单身女性提供“冻卵”服务不符合《人类辅助生殖技术管理办法》《人类辅助生殖技术规范》及相关诊疗规范为理由驳回。</p><p>　　单身女性可否获得辅助生殖技术服务的争论，暴露出现行辅助生殖领域规则与社会发展需求的矛盾。石佳友在《单身女性使用人类辅助生殖技术的证成与实现路径》一文中指出，由于中国传统生育观念秉持“生育以婚姻关系的存在为前提”的基本理念，现行法律将生育纳入婚姻家庭的范畴之内，“忽视了单身女性的生育保障”。</p><p>　　在长沙市开福区人民法院2022年发布的一起案件中，法院认为禁止单身女性使用辅助生殖技术的目的是“防止单身女性通过实施辅助生殖技术躲避婚姻和家庭责任，以保障正常的家庭伦理秩序及风俗”，而该案中当事人在丧偶情况下，希望医院继续履行丈夫在世时依据夫妻合意签署的冷冻胚胎协议，此种情况与未婚的“单身妇女”有本质区别，应得到支持。</p><p>　　随着社会发展，单身女性对辅助生殖技术的需求不断上升，近年来，各地多位人大代表公开建议修改《规范》等法律文件，取消对单身女性使用辅助生殖的限制。实践中，亦已有部分地区制定了相关规定，如吉林省2002年的《吉林省人口与计划生育条例》中规定“达到法定婚龄决定不再结婚并无子女的妇女，可以采取合法的医学辅助生育技术手段生育一个子女”。</p><p>　　但吉林省卫健委在2023年对省政协委员提案的答复中称“此政策在实施中还存在一定难度”。原因在于各医疗机构仍需要执行《规范》的规定。</p><p>　　石佳友在前文中认为，单身女性使用辅助生殖技术，既顺应了出生率下降大背景下国家的人口政策，也体现了生育观念的转变，且并不损害社会公共利益及他人权益。他建议，在立法层面保障单身女性能够使用辅助生殖技术。</p><p>　　实践中另一常发生的争议问题是，由于现行法律并未对离婚、配偶死亡情形下冷冻胚胎如何处置作出专门规定，且“夫妻共同知情同意”仍为前提，在夫妻离婚、一方死亡后，大量冷冻胚胎会陷入无人处置、不知如何处置的“僵局”。</p><p>　　如在前述2024年“叶某琳诉厦门某医院、第三人朱某强医疗服务合同纠纷案”中，叶某琳作为离异多年的女性希望医院返还其在婚姻期间培育的冷冻胚胎，医院因缺少法律明确规定的处置规则予以拒绝。后在前夫书面同意女方继续使用胚胎的前提下，法院认定女方有权要求医院返还胚胎，但并未判决将胚胎返还给女方个人，而是应交由其他符合条件的医疗机构代为接收。</p><p>　　上海交通大学副教授于佳佳撰文指出，现行法规要求医疗机构在实施辅助生殖的每一个阶段都应该获得夫妻双方的共同同意，其意义不仅在于“保护双方的知情同意权”，而且在于保护隐私和维护家庭关系和谐稳定。实践中，可能出现的争议情况有精子卵子提供者共同对抗医疗机构、精卵提供者的继承人对抗医疗机构，甚至精卵提供者双方也会出现内部纠纷，而裁判中尚缺乏明确可操作的规则指引。</p><p>　　此外，长期冷冻的胚胎应如何处置也无定论。中信湘雅生殖与遗传专科医院院长林戈曾对财新表示，不断增多的冷冻胚胎数量已经给医院带来储存成本的压力。这些困境都亟待通过更加完善、符合社会发展现状的法律规范解决。</p><p>　　当前中国对人类辅助生殖技术的立法规制，主要是通过部门规章及规范性文件展开的，石佳友指出，这样做立法成本低、针对性强且便于实际操作，但规范的覆盖性有所不足，当实践中出现新情况时，监管部门和法院可能面临无规可依的处境。“当前辅助生殖技术日渐扩张，立法模式应适应时代需求。应尽快通过立法明确体外胚胎的法律地位、处置权归属、辅助生殖服务的申请和审核流程、伦理审查制度，以及法律责任等问题。”<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-22/102476726.html\" rel=\"nofollow\" title=\"【周刊提前读】婚外冷冻胚胎制造人伦困局 社会如何调整\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>本文选自即将于08月24日出版的《财新周刊》，原标题《婚外冷冻胚胎争议》</b></p>",
-          "source": "财新"
-        },
-        {
-          "title": "【周刊提前读】自动驾驶冲刺L3 头部企业出啥招？",
-          "url": "https://database.caixin.com/2026-08-22/102476725.html",
-          "published": "Sat, 22 Aug 2026 08:43:52 +0800",
-          "summary": "<img alt=\"2025年12月21日，广州汽车巡游活动，滴滴展出的广汽埃安×滴滴联合打造的Robotaxi埃安R2。\" id=\"picture_178736163381421\" src=\"https://img.caixin.com/2026-08-22/178736163381421_840_560.jpg\" /><dl><dt>2025年12月21日，广州汽车巡游活动，滴滴展出的广汽埃安×滴滴联合打造的Robotaxi埃安R2。</dt></dl><p>　　国家强制标准为“汽车辅助驾驶”通向“自动驾驶”指明了落地路径。</p><p>　　2026年6月和7月，标准制定机构先后发布了《智能网联汽车 组合驾驶辅助系统安全要求》和《智能网联汽车 自动驾驶系统安全要求》（下称“辅助驾驶强标”和“自动驾驶强标”），两大强制性标准将分别于2027年1月1日和7月1日起实施。</p><p>　　按照中国主管部门和国际行业机构分级，L1和L2级为辅助驾驶，L3级进入自动驾驶范畴，L4级为高级别自动驾驶，L5级为无人驾驶。L3级和L4级的主要区别在于应用场景范围大小，以及是否还需要人类作为“备份”接管。</p><p>　　在两大强标公布实施之前，行业内长期存在混淆辅助驾驶和自动驾驶界限的问题。近两年辅助驾驶体验突飞猛进之后，问题更加凸显。</p><p>　　2024年1月，特斯拉（NASDAQ：TSLA）向部分用户推送新版本的辅助驾驶系统FSD（Full Self-Driving），该版本首次用神经网络模型替代人工手写规则，信息从感知端输入，系统就可直接输出执行端行动，中间环节减少了信息损失，行业称之为“端到端”。消费者实际体验有了显著提升，辅助驾驶系统距离人类司机更进一步。</p><p>　　中国企业快速跟进。为了塑造技术领先形象，企业在营销中为端到端辅助驾驶创造出多个新名词，例如“L2++”“领航辅助驾驶（NOA）”“智能驾驶”等。还有企业宣称自己的L2级系统具备L4级的体验和能力。</p><p>　　一些消费者也忽略了辅助驾驶和自动驾驶的差别，甚至造成事故。</p><p>　　辅助驾驶强标制定工作于2024年启动，于2025年3月加速。自动驾驶强标于2025年3月启动制定工作。</p><p>　　不愿具名的行业人士称，两项强标最大的社会价值是界定了辅助驾驶和自动驾驶的区别，企业命名产品功能时不能再随心所欲，强标也可以帮助消费者清晰辨别，防止误判辅助驾驶系统的能力边界。</p><p>　　对企业来说，两项强标实施既是挑战也是机遇。辅助驾驶和自动驾驶强标均要求，企业相关系统在量产之前需要经过检测认证，达标才能上车。</p><p>　　长城汽车（601633.SH）标准法规专家张瀛称，企业达标主要难点在于既要努力提升系统性能上限，又要建立贯穿整个研发和生产等业务的安全管理体系，企业正在检测认证机构指导下建立相关体系。</p><p>　　自动驾驶强标的达标难度比辅助驾驶强标更高，部分企业望而却步。长安汽车（000625.SZ）智能驾驶高级总工程师潘屹峰称，强标把自动驾驶的技术和投入门槛提升了一个量级，比如为了满足高速全场景L3级自动驾驶要求，车企的软硬件和检测设施投入可能高达数十亿元。</p><p>　　他认为，自动驾驶技术量产落地将为汽车行业开创出新的商业模式，而自动驾驶强标生效落地会为企业竞争划出分水岭。</p><h2 class=\"cx-app-content-subheads\">约束辅助驾驶</h2><p>　　目前国内面向消费者销售的车型搭载的全部是辅助驾驶系统，不同企业的产品，能力参差不齐。辅助驾驶强标实施对于行业和消费者极具现实意义。</p><p>　　辅助驾驶强标创造性地将系统划分为三类，即基础单车道组合驾驶辅助系统、基础多车道组合驾驶辅助系统，以及领航组合驾驶辅助系统。领航组合驾驶辅助在行业内又称“高速和城市场景辅助驾驶”或“高阶辅助驾驶”。</p><p>　　深圳市卓驭科技有限公司安全专家刘辉称，过去辅助驾驶的级别和功能界定不清，企业还经常在产品功能成熟之前先行宣传营销，后续再通过远程升级的方式推送给消费者。辅助驾驶系统相关安全验证也由企业自行完成。系统实际能力可能与企业宣传不符，也可能存在安全隐患。</p><p>　　辅助驾驶强标实施后，三类系统有了清晰界定，不允许企业夸大宣传。在安全方面，辅助驾驶强标设定了一系列场地验证试验，只有通过验证的辅助驾驶系统才能量产上车。</p><p>　　刘辉介绍，部分场地测试场景的难度较高，比如夜间场景测试要求没有环境照明，测试车辆只能依靠自身灯光系统，隧道内翻车场景也是不容易达标的测试项目之一。</p><p>　　辅助驾驶强标突出强调了驾驶员教育与驾驶能力监测。驾驶员需要接受专门培训，了解系统功能与局限。在系统使用过程中，企业必须持续监测驾驶员状态，一旦发现司机没有关注驾驶任务，系统就会发出警示；若持续警示没有响应，系统会执行风险减缓功能并最终退出。此外，强标要求系统实时存储关键数据，以便在严重事故发生后追溯明确责任。</p><p>　　前述行业人士称，辅助驾驶强标立项时间较长。2026年1月，工信部发布了修订后的《道路机动车辆生产企业准入审查要求》和《道路机动车辆产品准入审查要求》，升级了辅助驾驶相关要求。</p><p>　　他认为，辅助驾驶安全要求成为强制性标准，相当于为行业增加一道把关程序，提升了系统安全下限。</p><p>　　接近华为的人士称，一些头部企业早就期待辅助驾驶强标出台，辅助驾驶和自动驾驶一旦出现严重事故，会打击整个行业发展。他还指出，行业大部分企业都参与了辅助驾驶强标制定工作，对内容要求很熟悉，企业也早在做准备，标准实施不会导致市场明显波动。</p><p>　　7月21日，吉利汽车（00175.HK）、比亚迪（002594.SZ）先后宣布获得辅助驾驶强标安全管理体系认证。</p><p>　　刘辉认为，辅助驾驶强标确实会增加企业的技术研发和安全验证成本，但标准实施后，企业可以摒弃一些无法达到要求的技术方案，技术路线、系统算力和传感器配置都可重新回到追求先进的方向，而不是一味比拼价格。</p><p>　　压力可能会集中到检测认证机构。张瀛介绍，搭载辅助驾驶的新车型越来越多，这意味着2027年上市的大部分新产品都要提前完成辅助驾驶检测认证。</p><p>　　目前国内能够进行相关检测认证的机构约有五家，它们分别是中国汽车技术研究中心有限公司、中国汽车工程研究院股份有限公司、襄阳达安汽车检测中心、招商局检测车辆技术研究院有限公司和上海机动车检测认证技术研究中心。</p><p>　　不愿具名的车企技术人士称，检测认证机构已经开始为车企提供辅助驾驶强标达标指导。他同时指出，国内检测认证机构可以承接体系建设咨询以及后续车型准入申报业务。而欧盟要求体系建设咨询和车型准入申报业务需由不同具有资质的检测认证机构分别承担，避免角色冲突，这种安排值得借鉴。</p><p>　　8月4日，工信部装备工业一司组织道路机动车辆检验检测认证机构座谈，要求检验检测认证机构守牢产品安全底线，加强对产品“激进式”创新设计风险隐患的甄别和测试验证，加强辅助驾驶和自动驾驶功能的安全评估。</p><h2 class=\"cx-app-content-subheads\">自动驾驶迎来曙光</h2><p>　　投身辅助驾驶技术研发的企业，基本都是以实现自动驾驶为最终目的，技术发展已经让人看到了可能性。不愿具名的初创车企技术负责人称，在端到端技术落地后，行业对自动驾驶商业化的态度转向乐观。</p><p>　　自动驾驶强标为技术应用给出了清晰指引。强标要求，自动驾驶系统安全水平应至少达到“一个合格且专注的人类司机”的水平，不得对用户及其他道路使用者造成不合理安全风险。遇到无法应对的场景情况，系统还需采取“最小风险策略”。</p><p>　　潘屹峰介绍，最小风险策略意味着系统应包含一套安全兜底措施，当车辆遇到无法识别处理的情况，L3级自动驾驶系统应将车辆转移至不妨碍交通的道路边侧安全静止。L4级自动驾驶要求更高，系统在设计运行范围（Operational Design Domain，下称ODD）内，采用更合理的应对措施将车辆安全转移，并且不依赖于车内安全员兜底。</p><p>　　车企须通过官网、车载屏幕等渠道，告知用户车辆能干什么、不能干什么。在车辆“准备好了”“激活了”“退出了”等不同状态下，系统都得向用户发出明确信号。L3级自动驾驶系统还必须能监测驾驶员状态，确保当难以处理的情况出现时，驾驶员能够及时接管。</p><p>　　自动驾驶强标要求，系统要经过仿真、场地和道路试验，最后经第三方检测认证机构综合检测才获得量产资格。</p><p>　　行业曾围绕“L3级自动驾驶是不是必经阶段”发生过争论。前述不愿具名的行业人士认为，相关标准发布后，企业可以自行对照要求，根据市场需求、结合自身能力推出L3级或L4级系统，以实际的市场结果为导向，不必陷在无谓争论之中。</p><p>　　在实际操作中，L3级可能很难跨过。前述车企技术人员称，从硬件角度看，L3级和L4级的差别并不大，主要区别在于应用范围和安全冗余。他认为，行业不敢冒险在大范围场景迅速铺开L4级自动驾驶，没有人可以保证自动驾驶系统绝对不会出问题，若直接跨越至最高难度，不可控风险太多。</p><p>　　即便只是实现L3级自动驾驶，难度也远超想象。潘屹峰称，消费者高度期待自动驾驶系统应用落地和ODD范围扩大，车企为了达到要求，技术研发和检测验证方面的投入将水涨船高。</p><p>　　2025年12月，长安汽车和北汽蓝谷（600733.SH）两款车型获得L3级自动驾驶产品准入。这两款车型还不能上市销售，并且仅能在重庆和北京的特殊路段开启L3级自动驾驶。有行业人士认为，这样小范围的应用很难激起用户兴趣。</p><p>　　自动驾驶强标是产品量产准入面向消费者出售的必要条件之一，在真正量产之前，企业还需申报主管部门安排的上路通行试点，开展大量的实车开放道路测试工作。2023年，工信部联合多部委发布《关于开展智能网联汽车准入和上路通行试点工作的通知》，旨在为自动驾驶汽车真正大规模量产应用积累经验，立法机构同时完成《道路交通安全法》等一系列法律法规修订。</p><p>　　张瀛透露，2023年主管部门开展L3级准入工作时，端到端技术潜力还没有显现出来。他告诉财新，2026年5月，工信部召集车企宣贯了最新的L3级自动驾驶汽车准入试点指南。新版本指南基于自动驾驶强标制定，第二批L3级自动驾驶汽车准入试点申报工作正式拉开帷幕。企业可以按照新版本指南要求开展准入申报。</p><p>　　前述行业人士认为，自动驾驶量产前先行试点应当是过渡安排，在试点期间，车企产品不能直接出售给个人用户，未来自动驾驶汽车大规模落地进程可能取决于试点数据和结果。据这名人士了解，一些在公开场合呼吁跨过L3级自动驾驶的企业，已经着手申报L3级自动驾驶产品准入。</p><p>　　行业内对于自动驾驶系统是否需要激光雷达也有不同判断。刘辉介绍，自动驾驶强标不会限定技术路线或传感器类型，各种方案只要能达到安全要求即可。</p><p>　　部分行业企业认为，仅使用摄像头的纯视觉方案无法达到要求。潘屹峰即认为，摄像头加芯片的感知技术系统的理解效率还无法与人眼与大脑的组合相比，可在预见的时间内，包含激光雷达和毫米波雷达在内的传感器冗余方案仍然是必选项。而另一名自动驾驶供应商人士称，纯视觉才是终局方案，现在部分企业选用激光雷达，是因为算法能力还不够高。</p><p>　　自动驾驶强标提供了一把尺子，可以用来衡量不同技术方案能力，给出现阶段答案。</p><h2 class=\"cx-app-content-subheads\">行业竞争分水岭</h2><p>　　头部企业跃跃欲试，希望能够率先“撞线”，实现L3级自动驾驶商业化量产。</p><p>　　2026年7月，华为高级副总裁靳玉志在接受媒体采访时称，2026年新一批企业将获批进行L3级自动驾驶通行试点，到2027年，L3级自动驾驶将实现规模化应用。靳玉志同时担任引望智能技术有限公司CEO，引望是华为智能汽车解决方案业务实体。</p><p>　　靳玉志对L4级自动驾驶进展同样持乐观态度。国内很多城市已经开展无人驾驶出租车（Robotaxi）示范运营，但国内还没有量产Robotaxi产品完成自动驾驶强标检测认证。当前示范运营Robotaxi使用的是临时测试牌照，获得量产准入的产品可取得公安部认可的正式牌照。靳玉志预计，2026年内就会有L4级Robotaxi取得上路通行试点资格，到2028年，Robotaxi有望真正量产商用。</p><p>　　其他领先企业对自动驾驶技术落地时间点有不同判断。前述初创车企技术负责人称，自动驾驶强标要求的检测认证多达四轮，在申报检测前，车企需要针对每一轮检测投入时间进行研发，并通过试点工作积累数据。他判断，2028年落地可能更加现实。</p><p>　　前述车企技术人士称，前几年辅助驾驶进步飞速，行业内外都认为自动驾驶不再遥远。假设走100步可以抵达自动驾驶量产，前一阶段走完了90步，但最后的10步并不好走，“是真正的硬骨头。”这名人士说，“总有新的问题出现。”</p><p>　　自动驾驶技术落地过程也是对企业资金水平和经营能力的检验。两名车企技术负责人告诉财新，自动驾驶技术达到强标要求实现量产，意味着企业投入资金达到数亿元级别，甚至高达几十亿元。</p><p>　　其中一名负责人指出，在机构正式检测认证前，车企自身先要搭建起相应的测试设施和能力，这就是一笔不小的投入。检测认证也并不是一次性的，车企可能要持续在这一领域坚定投资。</p><p>　　前述行业人士称，如果没有一定的技术和资金实力，企业贸然投入自动驾驶可能会血本无归。一些企业选择暂时观望，先观察一下领先企业的进展和效果。</p><p>　　不过，企业选择停留在辅助驾驶阶段可能并不明智，资本市场不愿为辅助驾驶提供过高溢价空间。2026年7月8日，行业头部企业Momenta在香港上市，发行价为295.6港元/股，上市当天盘中一度破发，当日勉强收平。后期Momenta股价还是未能稳定维持在发行价上方。8月2日，Momenta宣布承销商采取措施托举股价的股价稳定期结束，因股价低于发行价，Momenta上市时给予承销商的超额配售权未获行使。</p><p>　　Momenta已在国内部分城市开展Robotaxi示范运营，但和其他行业企业一样，自动驾驶业务在真正大规模商业化落地之前，难以贡献足够量级的营收和利润。</p><p>　　前述行业人士称，行业已经在辅助驾驶阶段停留了太长时间，这一赛道竞争激烈，辅助驾驶企业大部分还在持续亏损，资本市场不看好辅助驾驶企业盈利前景。</p><p>　　行业对自动驾驶未来有多种畅想。2025年3月，理想汽车（NASDAQ：LI）总裁马东晖曾称，在辅助驾驶阶段，车辆本质上还是由人来开。L4级自动驾驶落地时，系统将会成为个人专属司机，用户会愿意为此付费。届时新的商业模式会应运而生，软件变现将有更大想象空间。理想汽车预计，自身L4级自动驾驶有望在2028年或2029年落地。</p><p>　　自动驾驶还是企业走向具身智能等物理AI应用的技术底座。多家车企和自动驾驶技术企业都宣称要向具身智能或物理AI企业转型。前述车企技术负责人称，国内大多数车企都已经尝试过人形机器人产品研发，当下自动驾驶商业应用是更现实的突围方案。</p><p>　　他指出，特斯拉多次强调人形机器人业务，但在自动驾驶汽车和人形机器人之间也有优先级排序，特斯拉当前仍然把主要资源集中在无人驾驶出租车产品Cybercab量产运营上。他认为，没有办法跨越自动驾驶技术门槛的企业，可能会被动出清，更无法进入具身智能等新领域竞争。</p><p>　　理想汽车CEO李想曾在一次访谈中称，L4级自动驾驶是企业通往下一阶段的门票。潘屹峰亦称，自动驾驶技术与产品大规模落地能够为企业打开新的盈利空间，随着能力欠缺的企业逐渐出局，汽车行业将有望摆脱“内卷”，进入良性竞争阶段。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-22/102476725.html\" rel=\"nofollow\" title=\"【周刊提前读】自动驾驶冲刺L3 头部企业出啥招？\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>本文选自即将于08月24日出版的《财新周刊》，原标题《自动驾驶关键一跃》</b></p>",
-          "source": "财新"
-        },
-        {
-          "title": "【周刊提前读】全球数据中心聚焦东南亚 中企出海有何机会？",
-          "url": "https://database.caixin.com/2026-08-22/102476718.html",
-          "published": "Sat, 22 Aug 2026 08:43:12 +0800",
-          "summary": "<img alt=\"2026年5月6日，马来西亚柔佛州士年纳科技园，工人在 Bridge Data Centres（BDC）园区开展电缆铺设施工作业。图：Hasnoor Hussain/IC photo\" id=\"picture_178735956696488\" src=\"https://img.caixin.com/2026-08-22/178735956696488_840_560.jpg\" /><dl><dt>2026年5月6日，马来西亚柔佛州士年纳科技园，工人在 Bridge Data Centres（BDC）园区开展电缆铺设施工作业。图：Hasnoor Hussain/IC photo</dt></dl><p>　　盛夏的中国香港潮湿且闷热，在湾仔会展中心举办的第二届亚洲数据中心峰会暨产业展览会（DCA）人头攒动。穿梭其间的，既有来自中国的数据中心运营商、托管服务提供商及电力、能源与液冷基础设施供应商，也不乏众多东南亚业者，来自泰国、马来西亚、印尼的参展商占据了相当大比例的展位。作为当前全球算力外溢与数字基建的核心承接地，东盟各国的大批企业正来到中国探寻新机遇。</p><p>　　当下，人工智能（AI）成为拉动全球经济增长的新引擎。根据市场研究公司IDC的最新数据，2026年AI基础设施全年支出预测已被大幅上调至4970亿美元，同比增长近56%。东南亚被视为最具潜力的受益者之一。</p><p>　　咨询公司BCG联合IMDA与淡马锡发布的一份报告预测，到2027年，AI将为东盟六国（印度尼西亚、马来西亚、菲律宾、新加坡、泰国、越南）贡献约1200亿美元的国内生产总值（GDP）增量。</p><p>　　在数据中心投建热潮中，东南亚、澳大利亚和中东成为三大重点区域；而东南亚因为地缘政治稳定、土地和电力供给适配，且有稳定和快速的交付而成为重中之重。中国信通院2026年5月发布的《东南亚区域算力中心服务商分析报告》显示，2025年东南亚重点区域算力基础设施总容量已超过4.4吉瓦（GW），重点区域算力中心已超过2000座，预计到2030年总容量将突破10GW；其中新加坡以超1.4GW领跑，马来西亚、印尼、泰国分别以1063MW（兆瓦）、900MW、620MW紧随其后。</p><p>　　贝恩资本大中华区主席、合伙人竺稼向财新指出，布局数据中心有三大硬性条件：充足带电力的土地、完善的光纤与国际海缆配套、完整的产业供应链，东南亚恰好匹配这些条件。马来西亚多个算力产业集群均围绕新加坡国际海缆落地优势聚集，边境区域算力项目建设推进速度远快于澳大利亚；澳大利亚虽电力约束较轻，但监管政策存在诸多限制，绿电使用受限，算力项目交付周期漫长：“在北美或者澳大利亚，由于电力等限制，一个数据中心交付可能需要两年甚至三年的时间，但如果在东南亚，中国的基建团队次年就可以交付。”</p><p>　　贝恩资本是早期涉足东南亚数据中心业务的国际私募股权投资机构，早在2017年便成立了Bridge Data Centres（BDC），并且在2019年将其与秦淮数据合并，形成覆盖中国、印度和东南亚的泛亚洲平台。</p><p>　　中国云厂商也将目光投向东南亚，租用数据和智算中心的需求暴增。一位数据中心业内人士告诉财新，在泰国目前已批复的约1.5GW数据中心项目中，带有中资背景或主要服务中资大厂客户的项目占比高达60%至70%。而在马来西亚柔佛——这个东南亚最大的算力枢纽，中国云计算大厂与中资第三方数据中心巨头更是占据了绝对的主力阵容。字节跳动、阿里巴巴和腾讯均在东南亚地区租用数据中心。</p><p>　　“中国涌现出大量可以本地化部署的开源模型，让东盟国家能在上面搭建更高价值的模型。”在香港DCA论坛上，新加坡乐天资本（Rakuten Capital）管理合伙人Saemin Ahn直言不讳地指出。</p><p>　　目前，由于稳定的需求，东南亚数据中心的资本回报效率也吸引资本跟进。竺稼介绍，作为资金密集型基础设施资产，数据中心市场估值逻辑清晰，核心采用现金流折现模型测算，结合债务融资逻辑、资本化率判断，比如7.5%的资本化率基础上，资产可实现13倍估值溢价，供需格局向好时估值会进一步抬升。“东南亚算力需求旺盛，项目现金流持续走高，对应资产估值同步上行。”竺稼告诉财新。</p><p>　　蓬勃发展的同时，东南亚数据中心的投建也已出现风险。</p><p>　　短期，东南亚电力供给不足已是掣肘，包括电力设备在内的供应链被极限挤压。“不出两年，整个东南亚就会缺电。”拥有“出海”业务的某中国数据中心高管刘杰（化名）坦言。竺稼指出，东南亚各地电力供给不均衡，泰国、马来西亚电力储备逐渐饱和，已有企业计划转向印尼布局算力园区。一些区域出现有土地无配套电力的情况，因此数据中心公司不得不自建配套电厂，甚至配套长周期核电的规划。</p><p>　　Saemin Ahn的描述则更为具象：全球已出货约250万颗英伟达B200/B300芯片，但目前仅有5%被成功安装，核心症结在于数据中心基础设施严重短缺，变压器交货要等2年，涡轮机甚至要等4年。</p><p>　　中期，美国芯片出口限制有持续收紧的可能，非美国公司海外投建项目能否持续获得高算力芯片仍存不确定性风险。2026年5月底，美国商务部工业与安全局（BIS）发布执法澄清指引，将先进AI芯片出口管制穿透至总部位于中国的企业的全球海外子公司。该指引封堵了中资企业通过东南亚子公司采购英伟达Blackwell、Rubin等高端AI芯片的渠道，但暂未影响中国公司海外租用算力。</p><p>　　同时，中国云公司搭建或者租用海外算力和对外提供模型服务，也需满足中国合规要求。近期，多家大模型厂商已经和监管讨论如何规范核心训练数据、模型权重的“出海”问题。这意味着，中国大模型厂商如果要利用海外算力训练大模型，须实现双重合规。</p><p>　　竺稼指出，数据中心的估值仍存在多重不确定因素，市场利率预期持续调整，美国大选后政策波动带来降息预期反复，通胀管控压力下降息计划搁置，利率上行会压制数据中心估值；同时行业长期需求存在两大变量，一是AI赛道是否存在泡沫、算力需求能否维持爆发式增长；二是新一代大模型算力效率提升后，同等业务规模所需算力会大幅缩减，两种变量都会改变长期估值逻辑。</p><h2 class=\"cx-app-content-subheads\">排队等审批</h2><p>　　近年来，东南亚数据中心建设需求旺盛。有市场人士透露，目前泰国至少有10GW的数据中心正在排队等待获取电力指标。所谓“排队”，并非指机房已建成待通电，而是投资方手握数十亿美元资金，等待关键的电力指标获批。据财新了解，目前电力指标审批需时已接近两年。</p><p>　　作为东南亚数据中心的新兴阵地之一，泰国的数字基础设施建设近年快速发展。凭借与中国稳定的政治和经济关系、相对成熟的工业园区配套，以及可辐射中南半岛五国的地理位置优势，泰国成为算力巨头竞相落户的“必争之地”。戴德梁行最新数据显示，截至2026年上半年，曼谷及周边地区的数据中心在运容量已达134MW，在建与规划管线总量一举冲破2GW。</p><p>　　2026年5月，泰国投资促进委员会（BOI）一次性批准三项大型数据中心项目。其中，字节跳动旗下TikTok System Thailand获批投资8423.5亿泰铢（约合1734.5亿元人民币），用于在曼谷、北榄府和北柳府新增服务器，并扩建数据存储及处理设施。同期获批的，还有阿联酋DAMAC集团旗下Skyline Data Center and Cloud Services的468.69亿泰铢（约合14.32亿美元）项目，以及新加坡Bridge Data Centres IIO在春武里府的246.19亿泰铢（约合7.52亿美元）项目。此外，微软、谷歌、亚马逊等美资科技巨头，也纷纷宣布在泰国投入数十亿美元级别，建设数据中心。目前，据行业机构统计，泰国在审及已获批的数据中心项目总投资已超过1.3万亿泰铢（约合397.23亿美元）。</p><p>　　然而，“在数据中心的发展上，马来西亚明显比泰国起步更早。”一位长期追踪东南亚数字基础设施的业内人士告诉财新。事实上，尽管泰国近期吸引了大量巨额投资，但从产业成熟度与体量来看，它并非东南亚数据中心的核心枢纽。</p><p>　　从新加坡驱车40分钟，便可抵达马来西亚柔佛州依斯干达公主城。这座城市与古来、巴西古当一道，构成了柔佛数据中心集群的核心三角，如今柔佛已成为东南亚最大的算力枢纽之一。据仲量联行马来西亚2026年二季度报告，柔佛目前约有850MW的数据中心已建成运营，1800MW正在建设，2700MW处于开发阶段。</p><p>　　在依斯干达公主城这片面积超过300平方公里的区域里，银灰色的钢构厂房鳞次栉比，冷却塔的低鸣昼夜不息。在密集的吊臂与施工围挡之下，更多超大规模数据中心正拔地而起，许多刚封顶的建筑正在进入机电安装阶段。戴德梁行的监测显示，柔佛数据中心的托管空置率仅为0.7%，为亚太主要市场中最低。这意味着每一寸新投产的容量，几乎都被瞬间填满。</p><p>　　“如果你到柔佛就会发现，马来西亚政府已经把这里变成了保税区，数据中心产业的配套供应链相当完善。”服务于数据中心液冷业务的嘉实多全球热管理与数据中心事业部总裁黄建棠对财新介绍，在柔佛，走过一条街，可能会看到服务器厂，下一条街是电器厂，再下一条街就是液冷能源相关企业，大片的数据中心园区需要乘坐摆渡车在其中穿梭。</p><p>　　在这片版图上，中资背景的“玩家”成为柔佛最重要的算力供给者和需求者之一。</p><p>　　由万国数据海外业务分拆独立而来的DayOne，早年在努沙再也科技园（Nusajaya Tech Park）和肯帕斯科技园（Kempas Tech Park）双园区布局，截至2026年1月“已服务”容量达390MW。背靠贝恩资本旗下秦淮数据体系的Bridge Data Centres，在柔佛士年纳科技园（Sedenak Tech Park）落子MY06园区，合计容量达110MW，字节跳动为锚定租户。与此同时，字节跳动自身也在柔佛投资自建数据中心基础设施。阿里云也于2026年6月在柔佛启用了两座全新数据中心，使其在马来西亚的数据中心总数达到五座。</p><p>　　国际数据中心巨头也同样深度布局。澳大利亚起家的AirTrunk在柔佛拥有四个园区，满建总IT负载超700MW，总投资约270亿林吉特（约合66.77亿美元）。微软在柔佛新山布局其第二个马来西亚云区域“Southeast Asia 3”；亚马逊云科技（AWS）则承诺截至2038年将投入超62亿美元建设AWS亚太马来西亚区域，该投资是马来西亚迄今最大的国际科技企业单笔投资。</p><p>　　然而，柔佛的爆发式增长正遭遇资源瓶颈。2026年2月，马来西亚开始限制新的非AI数据中心项目审批。与此同时，泰国投资促进委员会近期也成立专门工作组，对数据中心项目开展能源、水资源与环境影响的前置审查。“目前的审批速度明显放慢下来。”一名在泰国的数据中心业者告诉财新。</p><p>　　受电力等基础资源匹配约束，马来西亚、泰国针对数据中心新建项目的审批态度显著趋严，另一东盟大国印尼看准机会抢跑。7月7日，印尼总统普拉博沃将巴淡岛定位为“数字经济与数据中心重点发展地带”，并通过数字化审批大幅压缩拿证周期。7月下旬，在雅加达举行的印尼—中国伙伴关系论坛上，印尼投资与下游产业部向中国企业重点推介了当地的数据中心投资机遇。</p><p>　　为吸引外资，印尼不仅在25个经济特区提供最长20年的企业所得税免税期，还将数据中心列为享受“5至20年100%所得税免税”的先锋产业，并辅以“直接建设投资便利化”及机械原料进口关税豁免政策。</p><p>　　政策的鼓励立竿见影。2026年5月，印尼巴淡自贸区管理局（BP Batam）敲定一项总投资50亿美元、占地30公顷的高密度AI数据中心项目，该项目由印尼Equator Gate System Batam（EGSB）主导开发，中资的润泽科技（RangeIDC）提供支持。紧随其后，澳大利亚Firmus Technologies与英伟达达成八年合作，联合DayOne在巴淡建设360MW、部署最多17万颗英伟达AI加速器的AI工厂园区。</p><h2 class=\"cx-app-content-subheads\">受益于需求外溢</h2><p>　　“中美算力需求外溢下，东南亚是兵家必争之地。”多位受访者指出。</p><p>　　这一轮东南亚数据中心热潮的真正引爆点，是从2024年开始的。这一年，ChatGPT引发的AI狂潮席卷全球，为AI大模型提供算力的数据中心进入疯狂投建期。在AI大模型时代，数据中心早已不再是传统意义上“放服务器的机房”。</p><p>　　英伟达首席执行官（CEO）黄仁勋曾指出：“当前的数据中心是为通用计算构建的，其性能和效率均不足以支持AI，针对这些数据中心的升级改造正全面展开。这场变革的核心是AI工厂。这些工厂将输入的电力转换成Token（词元），将数据转换成智能，智能则驱动着新经济的发展。”</p><p>　　然而，这股全球AI浪潮在中国企业面前竖起了一道特殊的壁垒。2023年11月，美国第一轮先进计算芯片管制落地，高端GPU（图形处理器）对华直接出口实质性中断。这成为中国算力企业“出海”最直接的推动力——通过在东南亚设立外资实体，在海外获取算力。</p><p>　　与此同时，国内市场结构也促使企业向外寻找出路。“中国基建能力太强、建造速度太快，不到半年一个数据中心就能交付。”一位业内人士表示，“短短两年左右，国内数据中心就形成了阶段性过剩，这也让我们不得不‘出海’找机会。”</p><p>　　2024年同样是中国互联网大厂海外扩张的高峰期，作为数据中心的主要客户，这些企业在东南亚的业务实现自然增长，电商、直播、支付等业态均在当地落地生根。更可观的利润空间也吸引资本入场，海外数据中心的租金可能是国内的2倍到3倍，而建设和运维成本只是国内的1.5倍。</p><p>　　除了商业逻辑，数据本地化的合规是另一重推力。印尼法律明确要求公共部门及金融等关键行业数据实施强制本地化存储与处理；泰国2022年生效的《个人数据保护法》虽未实施普遍的数据本地化要求，但对数据的跨境传输提出诸多要求，企业合规门槛明显提高。这意味着，TikTok、Shopee、Lazada在东南亚产生的海量数据，必须本地存储处理。</p><p>　　竺稼向财新回忆道，贝恩资本当年布局东南亚数据中心，主要原因包括市场明显供不应求，而且缺少达到国际标准的超大规模的数据中心设施；其二是东南亚的互联网渗透率提升、直播和短视频兴起、云计算迁移、金融和电商数字化，叠加政府对智慧城市、人工智能等产业的推动，东南亚对数据中心的需求将大幅增长；其三是全球云服务商及亚洲互联网企业进入新市场时，需要能跟随其跨国扩张，提供选址、设计、建设、供电、连接和运营的一体化平台。</p><p>　　同样瞄准东南亚机会的，还有中国的第三方数据中心民企。2021年7月，万国数据董事长兼CEO黄伟在宣布落子柔佛努沙再也科技园时表示：“马来西亚柔佛州具有战略性区位优势，我们许多客户都看好马来西亚乃至整个东南亚地区数字化转型的巨大潜力。未来，我们的服务能力将辐射更广泛的地区，以支持客户的全球化发展。”</p><p>　　2022年4月，万国数据再与杨忠礼电力达成合作，在柔佛杨忠礼绿色数据中心园区内共同开发8座独立数据中心，总电力容量168MW。同年，万国数据正式成立总部位于新加坡的国际业务主体GDS International。（参见本刊2022年第24期《<a href=\"https://weekly.caixin.com/2022-06-18/101900709.html\" target=\"_blank\">亚洲数据中心投资潮涌</a>》）</p><p>　　与此同时，Bridge Data Centres在柔佛士年纳科技园动工建设110MW的MY06超大规模园区，2022年10月该园区一期正式交付，从动工到交付仅用了314天。</p><p>　　“秦淮、万国作为民营企业，比较灵活快速。”刘杰告诉财新。</p><p>　　本地化是大多数中资背景数据中心“出海”后的重要一步。GDS International在2022年成立后，经过A、B两轮融资，万国数据从全资持有稀释至持股52.7%、35.6%。2025年1月，GDS International正式更名为DayOne，成为独立运营实体。DayOne首席执行官Jamie Khoo在2025年7月表示，公司一直计划与中国母公司分拆，以适应不同的监管体系。</p><p>　　到2026年4月，万国数据创始人黄伟卸任DayOne执行董事长一职。同年6月，DayOne宣布完成45亿美元的C轮融资，万国数据不再是DayOne的大股东。这家总部位于新加坡的全球化数字基础设施平台，已成为一家由国际资本主导、深耕亚太与欧洲市场的独立实体。</p><p>　　秦淮数据的切割路径更为复杂。2023年贝恩资本以31.6亿美元估值完成秦淮数据私有化，随后将国内业务与海外Bridge Data Centres分拆运营。2025年9月，贝恩资本以40亿美元将秦淮数据中国业务出售给以深圳东阳光实业为首的财团；2026年7月，彭博社援引知情人士消息，贝恩资本计划将Bridge Data Centres约50%股权出售，整体估值超过40亿美元，韩国SK电讯、新加坡GIC等参与竞购。</p><p>　　这意味着，在东南亚数据中心市场上，这些“中资基因、外资身份”的数据中心运营商，在中国建造成本优势和国内客户关系上拥有先天优势，又完成了本地化或者国际化。“管制是一部分原因，另一重要考虑是客户多元化。”刘杰解释，这样便能作为国际化的算力供给方，服务于国际化的算力需求。</p><p>　　为了在AI时代打赢“军备竞赛”，微软、亚马逊、谷歌、Meta四大科技巨头公开承诺，未来数年在AI基础设施建设上投入近2.4万亿美元，其中相当大一部分流向数据中心。其中，微软仅2025财年就计划投入800亿美元建设AI数据中心，亚马逊则分别在菲律宾、泰国、印尼承诺，未来15年内在当地单一市场投入50亿美元加强数字基础设施。</p><p>　　对欧美互联网大厂而言，布局东南亚算力，与其独特的网络枢纽地位密不可分。南海至马六甲海峡廊道是全球海底光缆最为密集的通道，大量跨太平洋、跨印度洋的国际海缆在此交汇，聚集了数十套在建及运营的国际海底光缆系统，造就了东南亚作为亚太核心海缆登陆与数据中转枢纽的区位优势。</p><p>　　2026年7月，由中国移动主导投资建设的SEA-H2X国际海缆正式商用。这条全长5746公里、系统设计容量超过200Tbps的海缆，连接中国海南、中国香港、菲律宾、泰国和新加坡，与既有的多条海缆系统一同将东南亚打造成连接中国、东盟、南亚、中东乃至欧洲网络的中继站。东南亚作为跨国数据传输与流量分发核心中继站的战略价值进一步凸显，成为全球算力网络中不可或缺的关键节点。</p><h2 class=\"cx-app-content-subheads\">如何满足“电老虎”</h2><p>　　东南亚平均气温大约在27℃至35℃，相比北欧、东北亚等气温较低地区，湿热的气候条件对数据中心的散热和能效要求更高。黄建棠介绍，更高的机房环境温度，意味着东南亚数据中心在相同算力负荷下，需要投入更多电力用于冷却，这也对数据中心的PUE（电能使用效率）产生影响。除了能耗，湿热气候对设备本身的稳定性、运行长期可靠性都提出更高要求。</p><p>　　目前，东南亚多数国家电力系统规模较小，数据中心这一类高负荷产业快速进入后，很快触及当地电网承载能力。由于电网扩容周期较长，越来越多数据中心开始考虑自建电源，包括燃气轮机、燃料电池以及储能等方案。</p><p>　　新加坡长期以来是数据中心运营商进入东南亚的首选地点，但随着数据中心规模快速扩大，新加坡有限的土地和电力接入成为约束。新加坡政府近年来对数据中心新增审批也更加关注能源效率和可持续发展。2025年10月，新加坡宣布将在裕廊岛建设本地最大的低碳数据中心园区，规划最大电力容量达到700MW，并依托岛上的能源基础设施，包括共享储能和低碳能源供应体系。</p><p>　　随着新加坡资源趋紧，更多企业转向马来西亚。“但以马来西亚为例，两年前中国及国际科技企业大规模布局数据中心，累计排队接入规模超过3GW，但实际投运规模只有约700MW，电网消纳能力明显低于需求增长速度。”算力基础设施投资机构恒盈电投总裁田通在3月的一场研讨会上表示。</p><p>　　竺稼介绍，马来西亚天然气资源充足，水电储量可观，但整体电力供给依旧跟不上算力扩张需求，当前已经在马来西亚吉隆坡推进大型算力园区，正在和当地电力企业洽谈配套电厂合作：“自建电厂建设难度不高，核心瓶颈是发电设备全球紧俏，近两个季度国内发电设备出口量暴涨，设备采购周期被大幅拉长。”</p><p>　　马来西亚之外，大厂也在泰国寻找机会。但相比中国和美国，泰国整体电力系统规模仍然有限。中国全年用电量超过10万亿千瓦时，占全球约三分之一；美国年用电量约4.5万亿千瓦时。而泰国全年用电量约2100亿千瓦时，马来西亚约1700亿千瓦时，低于中国部分省级电网规模。</p><p>　　当前，数据中心规划已经进入GW级时代，一个大型AI数据中心项目的用电需求，可能迅速接近当地电网承载能力。“泰国过去工业增长没有那么快，电力需求增长相对稳定。但数据中心突然进入以后，电力需求快速增加，当地电网承受能力没有那么高。”一家在泰国布局数据中心项目的基础设施企业零碳业务负责人表示。</p><p>　　泰国数据中心投资从2025年开始呈明显加速态势，2024年获泰国投资促进委员会批准的投资额仅有980亿泰铢（约合30亿美元），而2025年前九个月的投资额已经达到3350亿泰铢（约合102.36亿美元）。据泰国开泰研究中心7月8日报告数据，预计2026—2028年泰国数据中心容量将以约59%的年均增速持续扩张。</p><p>　　目前，泰国数据中心产业主要分布在其经济中心曼谷及周边地区，容量占比约52%；东部经济走廊则占约41%。东部经济走廊提供多项专项优惠政策，如长期土地租赁权等。预计到2028年，东部经济走廊地区在建并计划投入运营的数据中心总容量将达到149.9MW，约为曼谷及周边地区的2倍。</p><p>　　不过，随着投资快速增长，东部经济走廊的电力供应能力也面临挑战。泰国政府正在推进区域电网升级，规划新增容量1150MW，其中400MW已经投入运行，其余750MW仍在建设中。</p><p>　　面对公共电网扩容速度难以匹配数据中心需求增长的问题，自建能源设施正在成为行业探索方向。通过自建燃气发电设施，为大型AI算力集群提供稳定电力，正在成为部分数据中心企业的选择。</p><p>　　“燃气轮机现在非常紧张，GE、西门子、三菱等企业的燃气轮机订单排期已经延伸至2030年前后。”前述负责人表示。</p><p>　　全球最大燃气发电设备制造商之一GE Vernova在泰国、马来西亚和印度尼西亚的燃气轮机业务快速增长。该公司首席执行官Scott Strazik今年5月公开表示，随着AI数据中心增长，这些东南亚国家都需要增加稳定电源，其中天然气发电被认为是较现实的选择之一。此外，GE Vernova还与日立签署了合作备忘录，将探索在东南亚部署小型模块化核反应堆（SMR）的可能性。</p><p>　　“未来两年，东南亚可能普遍面临电力供应不足的问题，数据中心企业需要考虑自带能源解决方案，包括自建燃气电厂。”前述负责人表示。但这一模式面临政策和基础设施约束。由于能源涉及国家安全，部分东南亚国家对企业自建电源保持审慎态度，项目审批存在不确定性。同时，燃气管道等配套基础设施建设周期较长，难以快速满足数据中心快速增长的用电需求。</p><p>　　随着AWS、谷歌、微软等全球云计算企业加快布局泰国，当地政府也在探索新的电力供应机制，以降低数据中心对公共电网的压力，并吸引更多数据中心落户。</p><p>　　泰国能源主管部门正加紧完成试点“直接购电协议”（PPA）相关方案研究，通过扩大绿色电力交易机制，为数据中心等大型用电企业提供更多可再生能源选择。</p><p>　　泰国能源政策与规划办公室（EPPO）总干事Wattanapong Kurovat今年7月在一场峰会上表示，随着泰国电力行业的不断发展，泰国正在推动更加开放和竞争性的电力市场。一个重要的政策变化是，PPA机制将为数据中心等大型能源用户和发电企业提供第三方电网接入权，并拓宽能源投资渠道。</p><p>　　此外，泰国政府也计划调整长期计入居民电费中的部分公共服务成本，以降低居民用电负担。为应对数据中心快速扩张带来的电网压力，泰国国家能源政策委员会（NEPC）于7月15日批准电价改革措施，包括新增数据中心专属用电类别，并考虑采用更能反映实际供电成本的电价机制，避免新增电力需求成本转嫁给居民用户。</p><p>　　但AI数据中心的电力问题，并不只是电网和发电能力本身，还有供应链的配合。黄建棠说，即便一个地区有充足的发电能力，如果数据中心距离电源较远，仍需要建设变电站、变压器和输配电线路，整个基础设施建设还涉及土地、审批和投资等问题。“很多时候不是电网没有电，而是配电和变电站跟不上。”另外，与中国拥有覆盖全国的大型电网体系不同，海外各地区的电网通常由不同电力公司分别运营，电网结构和审批机制更加复杂。</p><p>　　随着数据中心园区规模迈向500MW甚至GW级，仅依赖当地公共电网变得越来越困难。“到2028年以后，如果要建设这种至少500MW以上的项目，需要自己带一些on-site generation（本地发电项目）。”黄建棠说。</p><h2 class=\"cx-app-content-subheads\">下一个风险</h2><p>　　如果把数据中心兴建比喻成一场淘金潮，那么决定淘金客命运的不是芯片，而是电力。正如施耐德电气执行副总裁尹正在2026世界人工智能大会（WAIC）上表示：“算力的尽头是电力。AI产业的规模化发展，离不开强韧、稳定、低碳的能源底座。”</p><p>　　有市场人士认为，到2030年前，东南亚数据中心仍会处于快速增长期，其预测主要基于东南亚现有的电力资源供应，可以支持每年新增1GW到2GW的数据中心容量。数据中心是名副其实的“吞电巨兽”。为了应对庞大的新增建设需求，马来西亚政府紧急宣布，计划建设6GW到8GW的燃气发电机组来填补空缺。但是，建设如此规模的底层能源设施，周期可能需要4—5年。</p><p>　　泰国收到的数据中心意向申报用电规模接近30GW，远超泰国电力发展规划的预测值，现有电力配套难以承接全部需求，监管层面不得不转向审慎审批。</p><p>　　自2026年3月起，泰国投资促进委员会联合能源监管部门大幅收紧项目审核，一改过往只重投资规模的招商思路，新设智算中心需要通过能效、水资源、本土经济贡献等多维度评估。为遏制企业超额申报、囤积电力配额的投机行为，泰国能源监管委员会（ERC）出台规则，要求新项目按每兆瓦450万泰铢（约合90万元人民币）提供对应额度的银行担保，作为电网使用保证金（Power Commitment Guarantee，PCG）；若项目在一年内实际用电量达到规划负荷的50%和70%，可分别申请退还50%和100%的担保资金。</p><p>　　戴德梁行《2026年亚太地区数据中心建设成本指南》显示，东京、悉尼、新加坡等核心市场普遍出现电网饱和，新建100MW项目接入等待时间最高可达5至10年，“电力可用性和效率而非资本，正成为亚太数据中心可行性的首要瓶颈”。</p><p>　　当东南亚的数据中心核心区域遇到“电力上限”，庞大的国际算力资本与“出海”巨头们开始寻找下一个落脚点。其中，印尼的巴淡岛和菲律宾马尼拉正在迅速崛起。印尼拥有丰富的地热和煤电资源，距离新加坡仅咫尺之遥，极具成本优势；菲律宾庞大的年轻人口，则为其承载大量边缘计算和本地化实时AI推理提供土壤。</p><p>　　在更广阔的亚太版图上，具有庞大能源潜力的澳大利亚成为新的热土。</p><p>　　“澳大利亚有大片的土地和相对充足的电力。”黄建棠说。澳大利亚与欧美科技产业联系紧密，同时拥有大量土地和较丰富的可再生能源资源。过去十多年，澳大利亚风电和光伏发展较快，因此一些大型数据中心园区可以采用公共电网与可再生能源结合的方式。但澳大利亚同样存在区域性的电力和电网约束，维多利亚州的数据中心电力资源已经趋于紧张，部分项目正在向新南威尔士州以及更偏远地区转移。</p><p>　　澳大利亚已经出现500MW甚至更大规模的数据中心园区。澳大利亚数据中心运营商NextDC规划建设悉尼S7超大规模智算园区，园区满建IT容量上限612MW。2025年12月，OpenAI与NextDC签署谅解备忘录，拟成为S7园区的初始租户，并享有未来优先扩容权。项目尚未完成审批，一期目标投产窗口为2027年下半年。2026年5月，澳大利亚CDC Data Centres宣布获得一笔555MW的数据中心合同，这将是澳大利亚历史上最大的数据中心，已签约容量超过1GW。</p><p>　　印度的市场定位则是承接欧美企业外移。过去多年，大量欧美企业在印度设立研发、运营和技术支持团队，形成了庞大的IT人才和企业服务生态。“很多欧美尤其是美国企业，过去已经在印度有几百人、几千人的运营团队。”黄建棠说，因此当企业开始从传统云服务向AI算力服务转型时，印度自然成为重要的算力部署地。</p><p>　　印度数据中心市场正在快速扩张。印度电子和信息技术部今年3月披露，印度数据中心容量从2020年的约375MW增长至2025年的约1.5GW；政府预计，到2031—2032年，数据中心相关电力需求将达到13.56GW。</p><p>　　研究机构Wood Mackenzie今年7月预计，印度运营中的数据中心容量将从2025年的2.2GW增长至2030年的12GW，年均增速约40%；AI专用数据中心容量同期预计增长近24倍。“对开发商和投资者而言，问题不再是是否进入印度市场，而是应该在哪里以及如何进入。”Wood Mackenzie说。</p><p>　　不过，印度的电网和数据中心基础设施短板待补齐。黄建棠认为，相较于东南亚和澳大利亚，印度目前更依赖外部合作伙伴进入市场。“印度的基础建设跟供电还没有完全成熟，所以目前会更加依赖欧美的供应链，或者合作伙伴的模式进入市场。”</p><p>　　与此同时，中东地区凭借极其雄厚的资金实力和充沛的能源，一度被视为下一个算力爆发点，但战火阴霾让重资产投资方犹豫不前。刘杰表示：“动辄10亿美元、装满昂贵GPU的智算中心一旦遭遇物理打击，损失将是不可挽回的。”</p><p>　　东北亚地区同样受到关注。不过，相比之下，东南亚的优势在于已形成成熟的供应链与人口红利。黄建棠介绍，在东北亚区域，日本、韩国市场数据中心发展更倾向本土企业主导。但当地系统化整合能力较弱，供应链还不如东南亚完善。同时，东北亚市场更强调国家主权和本土财团控制，外来企业需与本地强力伙伴合作才能生根。</p><p>　　另一方面，数据中心行业的商业模式未来恐怕面临深刻转变。微软、亚马逊、谷歌、Meta等超大规模企业正以空前规模直接投资AI基础设施，第三方数据中心运营商未来会不会被绕开？</p><p>　　据市场研究机构Synergy Research Group的报告，截至2025年一季度末，Hyperscalers运营的大型数据中心已占据全球数据中心总容量的44%，其中超过一半位于这些运营商自建且自持的设施内，其余部分则位于租赁的第三方托管数据中心中。</p><p>　　美国科技巨头之所以越来越倾向于自建数据中心，深层原因在于AI时代对技术主权和算力自主权的争夺。数据分析巨头Palantir首席执行官亚历克斯·卡普（Alex Karp）今年7月在CNBC节目中指出，大模型巨头们在提供不够确切的价值的同时，正在“偷窃”客户最具价值的专有工作流、数据关系与商业机密。</p><p>　　出于对数据主权与硬件供应绝对安全的焦虑，再加上AI大模型对新型液冷系统、超高密度机柜配电的特别需求，微软、谷歌、亚马逊等巨头纷纷选择自建数据中心，既契合自身算力架构的定制化需求，也能在对外提供云服务时，满足政府、金融机构等核心客户对数据驻留与合规的刚性要求。</p><p>　　不过，在东南亚，第三方托管模式依然是主流。一位行业人士告诉财新，在东南亚国家，需应对繁琐的环评与审批程序、与国家电网博弈争取电力指标，需应对文化差异与陌生的劳工法律，这些因素都极大地增加了巨头自建的隐性成本和时间成本。相比之下，第三方专业数据中心运营商凭借积累的极强供应链优势和工程交付效率，能够为大厂提供更高性价比的选择。</p><p>　　尽管电力与算力成本决定了东南亚数据中心的当下，但另一大影响业务需求的，是全球地缘政治与数据合规政策的走向。</p><p>　　AI时代对数据中心的需求分为两类：推理（Inference）与训练（Training）。推理是将训练好的模型用于服务终端用户，无论是刷短视频、生成对话还是实时翻译，都对网络延迟高度敏感，算力需要下沉到离用户尽可能近的地方。东南亚庞大的人口基数与快速扩张的数字化场景，天然能够支撑起巨量的本地推理需求。但是，真正消耗海量高端算力、对芯片规格要求最高的是“大模型训练”。这类训练是在海量数据中寻找规律，对网络延迟相对不敏感，但对高端芯片、稳定电力、高速互联等基础设施要求极高。</p><p>　　东南亚规划中的数百兆瓦级训练智算集群，如今正遭遇新的风险，美国对芯片的监管从“管实物”延伸到“管算力使用权”。8月7日，据彭博社报道，美国商务部工业与安全局（BIS）负责出口管制执法的部门正系统梳理受限国家的AI企业获取先进芯片的渠道，其中包括相关企业通过海外数据中心远程使用英伟达芯片。美国国会正在推进的《远程访问安全法案》（RASA）已在众议院获得两党支持通过，目前交由参议院审议。外界普遍预计RASA可能搭载2027财年《国防授权法案》于2026年下半年最终通过。该法案一旦生效，将把“远程访问受美国管辖的AI芯片等受控物项”正式纳入出口管制范畴，则东南亚数据中心远程调用美系高端芯片训练或推理模型将被视为受控的“出口行为”。这也意味着东南亚大量规划中的数百兆瓦级大模型训练智算集群，或将面临需求萎缩风险。</p><p>　　竺稼则总结了布局海外数据中心项目的几个关键考量因素。首先要担忧政策稳定性，这是长期存在的风险点。“一旦客户签订十年长期机房租赁协议，地缘政治波动会带来巨大不确定性。比如，阿联酋原本被市场普遍看好，却因今年的中东战事打破了稳定预期”；其次是区域电力供给问题；第三是高端芯片供给受限。这三大因素共同制约海外数据中心落地。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-22/102476718.html\" rel=\"nofollow\" title=\"【周刊提前读】全球数据中心聚焦东南亚 中企出海有何机会？\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>屈运栩对此文亦有贡献</b></p><p>　　<b>本文选自即将于08月24日出版的《财新周刊》，原标题《AI基建：得东南亚者得天下》</b></p>",
           "source": "财新"
         }
       ]
@@ -353,52 +269,52 @@
           "source": "同花顺"
         },
         {
-          "title": "宁德时代盯上储能“小单”华尔街见闻1小时前",
+          "title": "宁德时代盯上储能“小单”华尔街见闻4小时前",
           "url": "https://t.10jqka.com.cn/pid_681014911.shtml",
           "published": "2026-08-22",
-          "summary": "宁德时代盯上储能“小单”华尔街见闻1小时前",
+          "summary": "宁德时代盯上储能“小单”华尔街见闻4小时前",
           "source": "同花顺"
         },
         {
-          "title": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网12分钟前",
+          "title": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网3小时前",
           "url": "https://news.10jqka.com.cn/20260822/c679193135.shtml",
           "published": "2026-08-22",
-          "summary": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网12分钟前",
+          "summary": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网3小时前",
           "source": "同花顺"
         },
         {
-          "title": "金融监管总局发新规！非车险市场迎综合治理方案券商中国4小时前",
+          "title": "金融监管总局发新规！非车险市场迎综合治理方案券商中国7小时前",
           "url": "https://t.10jqka.com.cn/pid_680988984.shtml",
           "published": "2026-08-22",
-          "summary": "金融监管总局发新规！非车险市场迎综合治理方案券商中国4小时前",
+          "summary": "金融监管总局发新规！非车险市场迎综合治理方案券商中国7小时前",
           "source": "同花顺"
         },
         {
-          "title": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网2小时前",
+          "title": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网5小时前",
           "url": "https://news.10jqka.com.cn/20260822/c679192553.shtml",
           "published": "2026-08-22",
-          "summary": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网2小时前",
+          "summary": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网5小时前",
           "source": "同花顺"
         },
         {
-          "title": "AI改写创新药产业逻辑21世纪经济报道5小时前",
+          "title": "AI改写创新药产业逻辑21世纪经济报道8小时前",
           "url": "https://news.10jqka.com.cn/20260822/c679191585.shtml",
           "published": "2026-08-22",
-          "summary": "AI改写创新药产业逻辑21世纪经济报道5小时前",
+          "summary": "AI改写创新药产业逻辑21世纪经济报道8小时前",
           "source": "同花顺"
         },
         {
-          "title": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元华尔街见闻4小时前",
+          "title": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元华尔街见闻7小时前",
           "url": "https://t.10jqka.com.cn/pid_680988233.shtml",
           "published": "2026-08-22",
-          "summary": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元华尔街见闻4小时前",
+          "summary": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元华尔街见闻7小时前",
           "source": "同花顺"
         },
         {
-          "title": "东山精密：追加5亿美元投资光芯片及光模块扩建项目每日经济新闻6小时前",
+          "title": "东山精密：追加5亿美元投资光芯片及光模块扩建项目每日经济新闻9小时前",
           "url": "https://news.10jqka.com.cn/20260822/c679191218.shtml",
           "published": "2026-08-22",
-          "summary": "东山精密：追加5亿美元投资光芯片及光模块扩建项目每日经济新闻6小时前",
+          "summary": "东山精密：追加5亿美元投资光芯片及光模块扩建项目每日经济新闻9小时前",
           "source": "同花顺"
         },
         {
@@ -598,6 +514,27 @@
           "source": "联合早报"
         },
         {
+          "title": "������ٱ�����ҵ������֤\n���й�����Ŵ�ʼ������ӡ�����̸��죬���ݷ�Ժ��������ӹ�˾���ز��Ʋ����㰸���������ҵ������֤Ҳ�������� �ۺ��»��硢�й��������ź�֤ȯʱ���������й����ҽ��ڼල�����ܾ������壨8��21�գ��ڹ�������������������Ϣ��ʾ��������ٱ������޹�...\n2026-08-22 16:35:40",
+          "url": "https://www.kuzaobao.com/news/china/202608/2279360.html",
+          "published": "2026-08-22",
+          "summary": "������ٱ�����ҵ������֤\n���й�����Ŵ�ʼ������ӡ�����̸��죬���ݷ�Ժ��������ӹ�˾���ز��Ʋ����㰸���������ҵ������֤Ҳ�������� �ۺ��»��硢�й��������ź�֤ȯʱ���������й����ҽ��ڼල�����ܾ������壨8��21�գ��ڹ�������������������Ϣ��ʾ��������ٱ������޹�...\n2026-08-22 16:35:40",
+          "source": "联合早报"
+        },
+        {
+          "title": "�й���ýָ���ɱ���£������������й�������Ѳ��\n���з�Χ�����й����������ϵ��������֮�ʣ��й���ý�ƣ����ɱ���������8��22�գ���£��������ҡ������й�����֯����Ѳ������ž�ȫ�̸��ټ��Ӳ����־��䡣 ������ʱ���������й�������Ϣ��ʿ���������ɱ����조��£������ҽ����Ϻ�����֯��ν������Ѳ��...\n2026-08-22 16:35:37",
+          "url": "https://www.kuzaobao.com/news/china/202608/2279359.html",
+          "published": "2026-08-22",
+          "summary": "�й���ýָ���ɱ���£������������й�������Ѳ��\n���з�Χ�����й����������ϵ��������֮�ʣ��й���ý�ƣ����ɱ���������8��22�գ���£��������ҡ������й�����֯����Ѳ������ž�ȫ�̸��ټ��Ӳ����־��䡣 ������ʱ���������й�������Ϣ��ʿ���������ɱ����조��£������ҽ����Ϻ�����֯��ν������Ѳ��...\n2026-08-22 16:35:37",
+          "source": "联合早报"
+        },
+        {
+          "title": "�м�ίȫ�ṫ��Ҫ���ǿ���μල �����������\n�й�������ɼ��ίԱ�������ȫ����鹫�������Ҫ��ǿ���μල������������ɣ��ᶨ����������ͷ����� ���������ű������й������ڶ�ʮ��������ɼ��ίԱ�������ȫ�������������8��22�գ��ڱ������У�����116�������ίίԱ��ϯ���й����ξֳ�ί������...\n2026-08-22 16:35:24",
+          "url": "https://www.kuzaobao.com/news/china/202608/2279355.html",
+          "published": "2026-08-22",
+          "summary": "�м�ίȫ�ṫ��Ҫ���ǿ���μල �����������\n�й�������ɼ��ίԱ�������ȫ����鹫�������Ҫ��ǿ���μල������������ɣ��ᶨ����������ͷ����� ���������ű������й������ڶ�ʮ��������ɼ��ίԱ�������ȫ�������������8��22�գ��ڱ������У�����116�������ίίԱ��ϯ���й����ξֳ�ί������...\n2026-08-22 16:35:24",
+          "source": "联合早报"
+        },
+        {
           "title": "���ӡ����ͳ ���㣺�й�ӡ���ǿ�Ž�Ӧ���ⲿ�Ͼ���ս\n�й��⽻������������ӡ����������ͳ�������ֻ���ʱ˵����Զ������������磬�й���ӡ��ԽҪ��ǿ�ŽᣬӦ���ⲿ�Ͼ���ս�� ���й��⽻��������Ϣ���������������壨8��21�գ����żӴ��ۡ���������й�����������һ�С� �з��ĸ�ָ�������������ڻ���л���...\n2026-08-22 14:15:35",
           "url": "https://www.kuzaobao.com/news/china/202608/2279346.html",
           "published": "2026-08-22",
@@ -624,27 +561,6 @@
           "published": "2026-08-22",
           "summary": "�Ϻ����м�����񵮳�������̸��\n�й��Ϻ��������壨8��21�գ����м�����񵮳�������̸�ᡣ�й��Ϻ���ί��ǳ¼���ǿ�����������Ҫ���ξ����ҳϣ�ҲҪ��һ��ȫ����ĸ���øĸ￪����ͷ����������������ԭ���߹�����Ա�����ȳ�ϯ����̸�ᡣ ���й��Ϻ���ί���ر�������ձ�����...\n2026-08-22 14:15:26",
           "source": "联合早报"
-        },
-        {
-          "title": "�й����������δ���ҵ��Ƿ��С��ҵ�˿�����\n�й��ٷ������һ��������ҵ��Ƿ�˿Ҫ��������δ���ҵ��Ƿ��С��ҵ�˿��ǿ�Դ���ҵ֧����Ϊ��ܣ����淶�������ֽ�֧�����ߡ� ���»��籨�����й�����Ժ������ǿ�����壨8��21�գ������ٿ�����Ժ������飬��ȡ��һ��ͨ������������㱨�������һ��...\n2026-08-22 14:15:22",
-          "url": "https://www.kuzaobao.com/news/china/202608/2279342.html",
-          "published": "2026-08-22",
-          "summary": "�й����������δ���ҵ��Ƿ��С��ҵ�˿�����\n�й��ٷ������һ��������ҵ��Ƿ�˿Ҫ��������δ���ҵ��Ƿ��С��ҵ�˿��ǿ�Դ���ҵ֧����Ϊ��ܣ����淶�������ֽ�֧�����ߡ� ���»��籨�����й�����Ժ������ǿ�����壨8��21�գ������ٿ�����Ժ������飬��ȡ��һ��ͨ������������㱨�������һ��...\n2026-08-22 14:15:22",
-          "source": "联合早报"
-        },
-        {
-          "title": "�ձ�����������׹رմ���������\n���չ�ϵ��������֮�ʣ��ձ������������ѻ�������������׹ر������й�����ʡ�����е�������������2027��3����ʽ������ ���ձ���ͬ�籨���������سƣ��ر���������Ҫ����Ϊҵ�������ٺ���Ӫ�ɱ����ǣ������չ�ϵ���޹أ���ָ�������ѡ�������һ�����á���...\n2026-08-22 14:15:19",
-          "url": "https://www.kuzaobao.com/news/china/202608/2279341.html",
-          "published": "2026-08-22",
-          "summary": "�ձ�����������׹رմ���������\n���չ�ϵ��������֮�ʣ��ձ������������ѻ�������������׹ر������й�����ʡ�����е�������������2027��3����ʽ������ ���ձ���ͬ�籨���������سƣ��ر���������Ҫ����Ϊҵ�������ٺ���Ӫ�ɱ����ǣ������չ�ϵ���޹أ���ָ�������ѡ�������һ�����á���...\n2026-08-22 14:15:19",
-          "source": "联合早报"
-        },
-        {
-          "title": "�ձ�������7���ڻ��³��������»� �ղ���������������\n�ձ�������7���ڻ��³��������»��������ղ��������������������ɡ� ���ձ���ͬ�籨�����ձ�������7���ڻ��³����������ģ�8��20�գ�ȫ����¯���ղ���������ͬ�ȱ���58.7%��Ϊ2��3677���� ��ȼ�ͳ��г�ή���Լ����й��������̾����Ӿ�ı����£���������...\n2026-08-22 12:00:29",
-          "url": "https://www.kuzaobao.com/news/china/202608/2279340.html",
-          "published": "2026-08-22",
-          "summary": "�ձ�������7���ڻ��³��������»� �ղ���������������\n�ձ�������7���ڻ��³��������»��������ղ��������������������ɡ� ���ձ���ͬ�籨�����ձ�������7���ڻ��³����������ģ�8��20�գ�ȫ����¯���ղ���������ͬ�ȱ���58.7%��Ϊ2��3677���� ��ȼ�ͳ��г�ή���Լ����й��������̾����Ӿ�ı����£���������...\n2026-08-22 12:00:29",
-          "source": "联合早报"
         }
       ]
     },
@@ -658,6 +574,13 @@
           "url": "https://wallstreetcn.com/articles/3780048",
           "published": "",
           "summary": "沃什将于美东时间8月28日在杰克逊霍尔首次发表主旨演讲，但尚未决定是谈宏观经济“大局观”，还是直接为9月至12月政策路径提供指引。这种不确定性意味着，市场对措辞变化的敏感度可能明显提高。会议期间预计约有5名美联储官员接受媒体采访，需重点关注这些官员的连续表态。高盛认为，杰克逊霍尔历来会放大外汇波动，但美元并无稳定的单边方向。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
+          "url": "https://wallstreetcn.com/articles/3780061",
+          "published": "",
+          "summary": "美加贸易谈判最终破裂，美国将对约200亿美元加拿大商品加征50%关税，加拿大宣布暂停谈判并准备对等反制。新关税依据罕用法律条款，或面临法律挑战。分析认为，关税将进一步冲击加拿大钢铝、汽车、木材等行业，并增加两国续签《美墨加协定》的难度，美加关系持续承压。",
           "source": "华尔街见闻头条"
         },
         {
@@ -696,31 +619,24 @@
           "source": "华尔街见闻头条"
         },
         {
-          "title": "宁德时代盯上储能“小单”",
-          "url": "https://wallstreetcn.com/articles/3780057",
-          "published": "2026-08-22 14:02:39",
-          "summary": "大储龙头开始争夺中小集成商。",
+          "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
+          "url": "https://wallstreetcn.com/articles/3780055",
+          "published": "2026-08-22 17:54:17",
+          "summary": "高盛报告指出，AI正从“回答”迈向“执行”，产业竞争转向工作流掌控。Agent落地关键在可控性与责任划分，具备清晰边界与可验证结果的工作流将优先自动化。模型市场走向分工：前沿模型主导高价值任务，开源模型承担规模化推理。同时，世界模型驱动AI进入物理世界，有望催生算力新增长曲线，未来5年需求或增长24倍。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "东财发布半年报：非货基金规模首破万亿，中期不分红",
-          "url": "https://wallstreetcn.com/articles/3780059",
-          "published": "2026-08-22 13:48:01",
-          "summary": "证券收入也大幅提升",
+          "title": "恒生科技指数拟扩至50只，宁德时代等20家公司有望入选",
+          "url": "https://wallstreetcn.com/articles/3780063",
+          "published": "2026-08-22 17:51:14",
+          "summary": "恒生科技指数拟迎大扩容，成分股将从30增至50只并首设“收入增长”门槛。新规虽注入成长新血，但头部“二八分化”格局难撼。宁德时代、优必选等20家新贵有望火线入围。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
-          "url": "https://wallstreetcn.com/articles/3780052",
-          "published": "2026-08-22 12:09:07",
-          "summary": "野村报告认为，“贝森特看跌期权”正在失效，美国财政部试图通过债券回购压低长端收益率，不仅未能持续稳定债市，反而加大美元下行压力。报告警告，日本若效仿美国压低长期融资成本，可能将压力转移至汇市，在日元本就偏弱的背景下，一旦政策失误引发资本外流，日本甚至存在重蹈1997年亚洲金融危机风险。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "LABUBU退潮，泡泡玛特的验真深水区",
-          "url": "https://wallstreetcn.com/articles/3780051",
-          "published": "2026-08-22 12:07:02",
-          "summary": "业绩不及预期",
+          "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
+          "url": "https://wallstreetcn.com/articles/3780060",
+          "published": "2026-08-22 15:10:59",
+          "summary": "特斯拉将于当地时间9月3日在奥斯汀发布无方向盘、无踏板的无人驾驶车型Cybercab。此前报道称该车已完成道路测试和员工试乘，计划先向员工、后对公众开放。目前奥斯汀Robotaxi以186辆改装Model Y为主，Cybercab将逐步加入，但年内量产有限，商业化许可尚待明确。",
           "source": "华尔街见闻头条"
         }
       ]
@@ -730,6 +646,48 @@
       "name_cn": "华尔街见闻最新",
       "count": 10,
       "articles": [
+        {
+          "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
+          "url": "https://wallstreetcn.com/articles/3780055",
+          "published": "2026-08-22 17:54:17",
+          "summary": "高盛报告指出，AI正从“回答”迈向“执行”，产业竞争转向工作流掌控。Agent落地关键在可控性与责任划分，具备清晰边界与可验证结果的工作流将优先自动化。模型市场走向分工：前沿模型主导高价值任务，开源模型承担规模化推理。同时，世界模型驱动AI进入物理世界，有望催生算力新增长曲线，未来5年需求或增长24倍。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "恒生科技指数拟扩至50只，宁德时代等20家公司有望入选",
+          "url": "https://wallstreetcn.com/articles/3780063",
+          "published": "2026-08-22 17:51:14",
+          "summary": "恒生科技指数拟迎大扩容，成分股将从30增至50只并首设“收入增长”门槛。新规虽注入成长新血，但头部“二八分化”格局难撼。宁德时代、优必选等20家新贵有望火线入围。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
+          "url": "https://wallstreetcn.com/articles/3780061",
+          "published": "2026-08-22 17:46:14",
+          "summary": "美加贸易谈判最终破裂，美国将对约200亿美元加拿大商品加征50%关税，加拿大宣布暂停谈判并准备对等反制。新关税依据罕用法律条款，或面临法律挑战。分析认为，关税将进一步冲击加拿大钢铝、汽车、木材等行业，并增加两国续签《美墨加协定》的难度，美加关系持续承压。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "晶圆代工Q2业绩复盘：华虹高弹性、中芯规模释放，国产替代高景气延续",
+          "url": "https://wallstreetcn.com/member/articles/3779793",
+          "published": "2026-08-22 17:45:46",
+          "summary": "AI外溢订单+成熟制程涨价双轮驱动，国产代工从底部修复进入持续景气阶段。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "美债没救成却坑了美元，黄金暴涨！贝森特“偷鸡不成蚀把米”？",
+          "url": "https://wallstreetcn.com/charts/41959658",
+          "published": "2026-08-22 16:35:22",
+          "summary": "美债没救成却坑了美元，黄金暴涨！贝森特“偷鸡不成蚀把米”？",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
+          "url": "https://wallstreetcn.com/articles/3780060",
+          "published": "2026-08-22 15:10:59",
+          "summary": "特斯拉将于当地时间9月3日在奥斯汀发布无方向盘、无踏板的无人驾驶车型Cybercab。此前报道称该车已完成道路测试和员工试乘，计划先向员工、后对公众开放。目前奥斯汀Robotaxi以186辆改装Model Y为主，Cybercab将逐步加入，但年内量产有限，商业化许可尚待明确。",
+          "source": "华尔街见闻最新"
+        },
         {
           "title": "宁德时代盯上储能“小单”",
           "url": "https://wallstreetcn.com/articles/3780057",
@@ -757,48 +715,6 @@
           "published": "2026-08-22 12:09:07",
           "summary": "野村报告认为，“贝森特看跌期权”正在失效，美国财政部试图通过债券回购压低长端收益率，不仅未能持续稳定债市，反而加大美元下行压力。报告警告，日本若效仿美国压低长期融资成本，可能将压力转移至汇市，在日元本就偏弱的背景下，一旦政策失误引发资本外流，日本甚至存在重蹈1997年亚洲金融危机风险。",
           "source": "华尔街见闻最新"
-        },
-        {
-          "title": "粮价还没起飞，化肥为何先涨了？不只是“粮食安全”，厄尔尼诺正在打开农资周期的“第二段行情”",
-          "url": "https://wallstreetcn.com/member/articles/3779774",
-          "published": "2026-08-22 12:08:17",
-          "summary": "2026年超强厄尔尼诺预期持续升温，天气扰动已开始影响东南亚、印度等农业主产区，但历史经验显示，强厄尔尼诺并不必然带来主粮全面减产。真正值得关注的是，化肥景气已先于粮价启动：尿素受出口与海外高价支撑，磷肥受资源、硫磺与航运约束，钾肥供给趋紧。若天气冲击在2027年进一步推升粮价和种植收益，当前由供给推动的化肥行情，会不会进入供需共振的第二阶段？",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "LABUBU退潮，泡泡玛特的验真深水区",
-          "url": "https://wallstreetcn.com/articles/3780051",
-          "published": "2026-08-22 12:07:02",
-          "summary": "业绩不及预期",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "Anthropic自研芯片落子：挖来谷歌TPU业务创始人，2万亿IPO前夜的\"去英伟达\"豪赌",
-          "url": "https://wallstreetcn.com/articles/3780053",
-          "published": "2026-08-22 12:06:21",
-          "summary": "Anthropic正将战略重心从\"抢算力\"转向\"造算力\"。公司聘请谷歌定制芯片业务创始人Amir Salek组建自研芯片团队，同时与Fractile、谷歌、博通、三星等多方合作，锁定2027年约3.5GW的TPU容量。这一\"自研+多元采购\"双轨战略旨在摆脱对英伟达的依赖，压缩推理成本。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "长存控股闯关IPO：业绩高增长与三道必过坎",
-          "url": "https://wallstreetcn.com/articles/3780054",
-          "published": "2026-08-22 12:03:55",
-          "summary": "长存控股冲刺科创板，拟募资330亿元。乘AI东风，公司一季度“日赚3.7亿”，跻身全球第三。但高光背后，重资产折旧、周期波动与供应链博弈依旧悬剑。这家国产存储巨头，能否跑赢这场没有终点的长跑？",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位",
-          "url": "https://wallstreetcn.com/articles/3780044",
-          "published": "2026-08-22 11:03:33",
-          "summary": "苹果公司裁减职位涉及约100个Vision Pro相关岗位及约100个Siri与软件工程岗位。Vision Pro方面，游戏团队近乎解散，沉浸式视频部门缩减，因高昂制作成本与有限用户规模难以为继。Siri方面，裁员源于技术架构全面切换，新版Siri将基于全新底层重建，带动人才结构重组。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "韩国半导体专家：英伟达想要减少HBM需求，却增加了闪存需求",
-          "url": "https://wallstreetcn.com/charts/41959656",
-          "published": "2026-08-22 11:01:55",
-          "summary": "韩国半导体专家：英伟达想要减少HBM需求，却增加了闪存需求",
-          "source": "华尔街见闻最新"
         }
       ]
     },
@@ -808,24 +724,24 @@
       "count": 3,
       "articles": [
         {
-          "title": "中东航线海运费突破1万美元",
-          "url": "https://www.gelonghui.com/live/2626639",
-          "published": "2026-08-22 14:54:45",
-          "summary": "据每经，“我货值才8000美元，运费要12000美元。”佩佩（化名）这两天接到一笔出口订单，但迟迟没能成交，“工厂有现货随时可发，但客户就卡在运费这里，现在贵得离谱。”8月20日，专做近洋航线的货代智经理给出了最新报价，从上海港到吉达港（经巴生港中转）的海运费为小柜6500美元、大柜10200美元，他表示，这并不是锁舱价，到9月1日开船还可能接到新的涨价通知。短短半个月，中东航线的海运费从此前7000美元左右一路冲上10000美元高位，业内预计8月下旬还将继续攀升。高涨的运费不仅动摇了海外客户的下单意愿，也推高了商品库存。",
+          "title": "榴莲价格下降近3成",
+          "url": "https://www.gelonghui.com/live/2626723",
+          "published": "2026-08-22 17:40:47",
+          "summary": "据央视，榴莲是我国第一大进口水果品类。近期，进口榴莲大量上市，一些品种的鲜榴莲降价近三成。 近期，猫山王榴莲、黑刺榴莲、干尧榴莲有明显降价，环比4月，降价幅度在10%-30%之间不等。近期进口榴莲大量上市、供应量大增是目前榴莲降价的主要原因。随着近期更多越南榴莲上市，市场内榴莲批发价格进一步下降，如干尧榴莲批发均价已下降至15-18元/斤。",
           "source": "格隆汇快讯"
         },
         {
-          "title": "行业指数90天跌超21%，业内人士：葡萄酒行业寒冬尚未结束",
-          "url": "https://www.gelonghui.com/live/2626638",
-          "published": "2026-08-22 14:54:16",
-          "summary": "截至8月21日收盘，Wind数据显示，葡萄酒指数（8841124.WI）报589.4点，较3个月前下跌21.18%，较2024年11月阶段性高点累计下跌29.79%。成分股方面，威龙股份（603779.SH）、ST通葡（600365.SH）、*ST莫高（600543.SH）等多只个股预计2026年上半年业绩亏损。酒类分析师蔡学飞认为，这是行业系统性收缩与企业自身转型滞后共同作用的结果。南开大学金融学教授田利辉表示，国产葡萄酒产量已从峰值大幅萎缩，威龙股份、ST通葡、*ST莫高等预亏公告印证市场持续低迷，进口酒恢复亦远未及昔日规模。酒业分析师肖竹青认为，葡萄酒大盘持续收缩，行业赚钱效应减弱，品牌与消费者之间的连接随之弱化，陷入恶性循环。葡萄酒行业尚未完成深度出清、真正触底，行业寒冬尚未结束。\n[关联股票] 威龙股份 ST通葡",
+          "title": "伊拉克总统：已有部分装载伊拉克石油船只获准通过霍尔木兹海峡",
+          "url": "https://www.gelonghui.com/live/2626701",
+          "published": "2026-08-22 17:11:52",
+          "summary": "据央视，当地时间22日，伊拉克总统阿米迪表示，伊拉克方面此前已与到访的伊朗伊斯兰议会议长卡利巴夫进行了沟通，并向伊朗方面转达了关于重新审视两伊关系的讯息。阿米迪还表示，已有部分装载伊拉克石油的船只获准通过霍尔木兹海峡。阿米迪强调，伊拉克政府必须与民兵组织进行对话、实现互谅，通过符合伊拉克国家和民族利益的方案解决武器管控问题。他表示，伊朗方面没有要求伊拉克推迟国家武器管控进程。",
           "source": "格隆汇快讯"
         },
         {
-          "title": "工商银行：优化完善贴息配套政策，贴息上限由每年3000元提高至5000元",
-          "url": "https://www.gelonghui.com/live/2626621",
-          "published": "2026-08-22 14:06:58",
-          "summary": "“中国工商银行”微信公众号消息，日前财政部、中国人民银行、金融监管总局联合印发《关于进一步做好财政金融协同促内需政策有关工作的通知》。工商银行积极落实《通知》要求，优化完善贴息配套政策。本次贴息优化政策自2026年8月1日起施行。此次贴息政策做了哪些优化？一是扩大贴息范围。将新发生的信用卡专项分期、消费分期、预借现金分期等各类信用卡分期业务纳入个人消费贷款财政贴息政策支持范围。二是适当提高额度。每名借款人在该行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。\n[关联股票] 工商银行 工商银行",
+          "title": "多家银行发布公告 单人在同家银行贴息上限提升到5000元",
+          "url": "https://www.gelonghui.com/live/2626652",
+          "published": "2026-08-22 15:34:13",
+          "summary": "据央视，从工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行等六大银行了解到，各家银行已经根据财政部、中国人民银行、金融监管总局《关于进一步做好财政金融协同促内需政策有关工作的通知》，陆续发布公告，明确了最新的信用卡分期贴息政策执行要点。多家银行明确，根据三部门通知要求，每名借款人在同一家银行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。这5000元的贴息额度既可以全部用于个人消费贷款，也可以全部用于信用卡分期业务，也可以根据个人需求分配二者的比例。\n[关联股票] 工商银行 农业银行 中国银行",
           "source": "格隆汇快讯"
         }
       ]
