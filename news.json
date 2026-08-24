@@ -1,104 +1,188 @@
 {
-  "updated": "2026-08-23T22:05:49.954624+00:00",
-  "updated_beijing": "2026-08-23 22:05 北京时间",
+  "updated": "2026-08-24T01:05:51.363532+00:00",
+  "updated_beijing": "2026-08-24 01:05 北京时间",
   "important": [
     {
-      "title": "湖北省委秘书长彭勇主政襄阳",
-      "url": "https://china.caixin.com/2026-08-23/102477204.html",
-      "summary": "湖北省委秘书长彭勇调任襄阳主政，地方人事调整持续。",
+      "title": "嫦娥七号任务推迟至2026年后实施",
+      "url": "https://www.caixin.com/2026-08-24/102477226.html",
+      "summary": "嫦娥七号无法按原计划窗口发射，航天计划调整。",
       "source": "财新"
     },
     {
-      "title": "中国外长与俄外长会谈，呼吁和平解决乌克兰危机",
-      "url": "https://www.kuzaobao.com/news/china/202608/2379445.html",
-      "summary": "中俄外长会谈，中方愿劝和促谈，推动局势缓和。",
-      "source": "联合早报"
+      "title": "TikTok支付4亿美元和解美国儿童隐私诉讼",
+      "url": "https://www.caixin.com/2026-08-24/102477226.html",
+      "summary": "TikTok巨额和解，应对美国监管压力。",
+      "source": "财新"
     },
     {
-      "title": "嫦娥七号发射延期，预计无法按计划实施",
-      "url": "https://www.kuzaobao.com/news/china/202608/2379442.html",
-      "summary": "嫦娥七号因技术原因推迟发射，航天计划面临调整。",
-      "source": "联合早报"
+      "title": "阿里巴巴拟配售800亿港元新股加码AI",
+      "url": "https://news.10jqka.com.cn/20260824/c679199849.shtml",
+      "summary": "阿里大规模融资投入AI领域。",
+      "source": "同花顺"
     },
     {
-      "title": "中国要求从快处理河北甲醛事件",
-      "url": "https://www.kuzaobao.com/news/china/202608/2379435.html",
-      "summary": "河北甲醛事件引发关注，官方要求严查并追责。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国足协辟谣：无证据显示向协会人员提供贷款",
-      "url": "https://www.kuzaobao.com/news/china/202608/2379433.html",
-      "summary": "足协否认向内部人员提供贷款，已展开调查。",
-      "source": "联合早报"
-    },
-    {
-      "title": "航天自然气采购被举报，供应商被调查",
-      "url": "https://www.kuzaobao.com/news/china/202608/2379432.html",
-      "summary": "航天自然气采购遭举报，市场监管部门介入调查。",
-      "source": "联合早报"
-    },
-    {
-      "title": "机器人缺数据，奥比中光当上“卖铲人”",
-      "url": "https://wallstreetcn.com/articles/3780096",
-      "summary": "奥比中光为机器人提供数据，成为产业链关键环节。",
+      "title": "伊朗威胁封锁霍尔木兹海峡，国际油价下挫",
+      "url": "https://wallstreetcn.com/articles/3780102",
+      "summary": "中东局势紧张，油价波动加剧。",
       "source": "华尔街见闻"
     },
     {
-      "title": "银河通用实现全球首次机器人自主网球赛",
-      "url": "https://wallstreetcn.com/articles/3780094",
-      "summary": "机器人自主网球赛成功举办，标志技术新突破。",
+      "title": "人民日报：宏观政策工具箱充足，逆周期调节空间大",
+      "url": "https://wallstreetcn.com/articles/3780104",
+      "summary": "官方释放增量政策信号。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "Shein敲定IPO价格，募资最高139亿港元",
+      "url": "https://wallstreetcn.com/articles/3780105",
+      "summary": "快时尚巨头Shein赴港上市。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "中国石化上半年净利大增两成",
+      "url": "https://www.caixin.com/2026-08-24/102477217.html",
+      "summary": "中东战争重构供需，石化业绩提升。",
+      "source": "财新"
+    },
+    {
+      "title": "中央纪委高层调整，强调严明换届纪律",
+      "url": "https://china.caixin.com/2026-08-24/102477211.html",
+      "summary": "纪检系统人事变动，强化纪律。",
+      "source": "财新"
+    },
+    {
+      "title": "国常会：大力整治大企业拖欠中小企业账款",
+      "url": "https://finance.caixin.com/2026-08-24/102477209.html",
+      "summary": "政策关注中小企业资金链。",
+      "source": "财新"
+    },
+    {
+      "title": "合肥换帅：安徽省委政法委书记覃卫国履新",
+      "url": "https://china.caixin.com/2026-08-24/102477222.html",
+      "summary": "地方人事调整，合肥新任领导。",
+      "source": "财新"
+    },
+    {
+      "title": "陈东升卸任泰康CEO，刘挺军接任",
+      "url": "https://finance.caixin.com/2026-08-23/102477188.html",
+      "summary": "泰康保险高层更迭。",
+      "source": "财新"
+    },
+    {
+      "title": "新一代通信网建设提速，产业链机遇凸显",
+      "url": "https://news.10jqka.com.cn/20260824/c679199762.shtml",
+      "summary": "通信基建加速，相关产业受益。",
+      "source": "同花顺"
+    },
+    {
+      "title": "新加坡打击“洗产地”，不允许接转口避税",
+      "url": "https://www.gelonghui.com/live/2627874",
+      "summary": "新加坡加强贸易监管。",
+      "source": "格隆汇"
+    },
+    {
+      "title": "美加进入“战争状态”但谁也不敢真“开枪”",
+      "url": "https://wallstreetcn.com/member/articles/3780101",
+      "summary": "美加贸易战升级但克制。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "AI商业模式遭冲击？Anthropic最贵模型仅占企业支出11%",
+      "url": "https://wallstreetcn.com/articles/3780103",
+      "summary": "AI商业化面临挑战。",
       "source": "华尔街见闻"
     }
   ],
   "interest": [
     {
-      "title": "特变电工半年报：看破虚妄，抓主要矛盾",
-      "url": "http://xueqiu.com/9941162276/406209685",
-      "summary": "特变电工半年报分析，聚焦核心矛盾。",
-      "source": "雪球"
-    },
-    {
-      "title": "阿里巴巴配售是重大利空？",
-      "url": "http://xueqiu.com/5068022281/406218626",
-      "summary": "阿里配售引发市场担忧，是否利空待观察。",
-      "source": "雪球"
-    },
-    {
-      "title": "煤炭股启示：当前存储股位置如何？",
-      "url": "http://xueqiu.com/4851333020/406215421",
-      "summary": "借鉴煤炭周期，分析存储股投资价值。",
-      "source": "雪球"
-    },
-    {
-      "title": "市净率创新低，为何可能不是便宜？",
-      "url": "http://xueqiu.com/1006269237/406234386",
-      "summary": "低市净率未必便宜，需警惕价值陷阱。",
-      "source": "雪球"
-    },
-    {
-      "title": "对AI大模型竞争下半场的思考",
-      "url": "http://xueqiu.com/5332385101/406200184",
-      "summary": "AI大模型竞争进入下半场，格局将变。",
-      "source": "雪球"
-    },
-    {
-      "title": "白酒的当下及未来",
-      "url": "http://xueqiu.com/7913104177/406205392",
-      "summary": "白酒行业现状与未来趋势分析。",
-      "source": "雪球"
-    },
-    {
-      "title": "金融监管总局发新规！非车险市场迎综合治理方案",
-      "url": "https://t.10jqka.com.cn/pid_680988984.shtml",
-      "summary": "非车险市场新规出台，综合治理启动。",
+      "title": "韩国KOSPI指数跌超1.5%，三星电子跌超6%",
+      "url": "https://news.10jqka.com.cn/20260824/c679205417.shtml",
+      "summary": "亚太股市下挫，半导体股领跌。",
       "source": "同花顺"
     },
     {
-      "title": "平安2026中期业绩发布会",
-      "url": "http://same.eastmoney.com/c?z=eastmoney&la=0&si=1&ci=192&cg=3&c=9&or=5555&l=18584&bg=18586&b=21318&u=https%3A%2F%2Froadshow.eastmoney.com%2Fluyan%2F5446222",
-      "summary": "平安中期业绩发布会，关注财务表现。",
-      "source": "东方财富"
+      "title": "十大券商：中线反弹尚未结束，行情结构性轮动",
+      "url": "https://news.10jqka.com.cn/20260824/c679199806.shtml",
+      "summary": "券商看好后市，关注科技窗口。",
+      "source": "同花顺"
+    },
+    {
+      "title": "社保基金二季度持仓浮现，重仓182只个股",
+      "url": "https://news.10jqka.com.cn/20260824/c679200215.shtml",
+      "summary": "社保基金调仓动向披露。",
+      "source": "同花顺"
+    },
+    {
+      "title": "公募抱团科技股不再，基金经理寻高赔率洼地",
+      "url": "https://news.10jqka.com.cn/20260824/c679199825.shtml",
+      "summary": "公募调仓，寻找新机会。",
+      "source": "同花顺"
+    },
+    {
+      "title": "新基金择时策略升温，轻仓试探逢低出手",
+      "url": "https://news.10jqka.com.cn/20260824/c679199829.shtml",
+      "summary": "新基金建仓谨慎。",
+      "source": "同花顺"
+    },
+    {
+      "title": "“创系列”指数ETF矩阵扩容，引导资金配置成长",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipiueh2260064.shtml",
+      "summary": "ETF产品丰富，助力成长股。",
+      "source": "新浪"
+    },
+    {
+      "title": "港股ETF密集成立，互联网主题产品“留量”突出",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipiuef0320540.shtml",
+      "summary": "港股ETF受青睐，互联网主题活跃。",
+      "source": "新浪"
+    },
+    {
+      "title": "中国平安业绩会：AI价值创造，寿险进入“黄金时代”",
+      "url": "https://wallstreetcn.com/articles/3780107",
+      "summary": "平安看好AI与寿险前景。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "国际油价走低，布油跌2%失守91美元",
+      "url": "https://www.gelonghui.com/live/2627880",
+      "summary": "油价下跌，市场担忧需求。",
+      "source": "格隆汇"
+    },
+    {
+      "title": "新加坡派钱鼓励生育，17岁前资助37万元",
+      "url": "https://www.gelonghui.com/live/2627864",
+      "summary": "新加坡生育激励政策。",
+      "source": "格隆汇"
+    },
+    {
+      "title": "匿名模型“牛来”引爆全球开发者圈",
+      "url": "https://www.gelonghui.com/live/2627859",
+      "summary": "神秘AI模型引发关注。",
+      "source": "格隆汇"
+    },
+    {
+      "title": "中国7月财政收入同比增长11.7%",
+      "url": "https://www.kuzaobao.com/news/china/202608/2479448.html",
+      "summary": "财政收入增速回升。",
+      "source": "联合早报"
+    },
+    {
+      "title": "红海港口遭胡塞武装威胁，沙特被迫再换原油出口路线",
+      "url": "https://wallstreetcn.com/articles/3780108",
+      "summary": "红海局势影响原油运输。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "“拯救美债”接力棒：贝森特搞砸了，本周看沃什",
+      "url": "https://wallstreetcn.com/articles/3780106",
+      "summary": "美债市场波动，政策受关注。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+      "url": "https://wallstreetcn.com/articles/3780045",
+      "summary": "全球市场早间综述。",
+      "source": "华尔街见闻"
     }
   ],
   "sources": {
@@ -107,6 +191,41 @@
       "name_cn": "财新",
       "count": 10,
       "articles": [
+        {
+          "title": "T早报｜嫦娥七号任务不能在今年预定窗口实施；TikTok支付4亿美元和解美国儿童隐私保护诉讼；阿里拟配售800亿港元新股",
+          "url": "https://www.caixin.com/2026-08-24/102477226.html",
+          "published": "Mon, 24 Aug 2026 08:18:09 +0800",
+          "summary": "<img alt=\"资料图：2026年8月19日，海南文昌航天发射场，嫦娥七号探测器和长征五号遥十四运载火箭器箭组合体完成垂直转运。图：视觉中国\" id=\"picture_178753059621214\" src=\"https://img.caixin.com/2026-08-24/178753059621214_840_560.jpg\" /><dl><dt>资料图：2026年8月19日，海南文昌航天发射场，嫦娥七号探测器和长征五号遥十四运载火箭器箭组合体完成垂直转运。图：视觉中国</dt></dl><p>　　<b>【财新网】</b></p><p>　　<b>嫦娥七号任务不能在今年预定窗口实施</b></p><p>　　新华社消息，记者23日从中国载人航天工程办公室了解到，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。</p><p>　　<b><a href=\"https://www.caixin.com/2026-08-23/102477163.html\" target=\"_blank\">TikTok支付4亿美元和解美国儿童隐私保护诉讼</a></b></p><p>　　8月22日，美国司法部宣布与TikTok、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202030453&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">字节跳动</a>及其关联实体（以下统称“TikTok”）达成4亿美元（约合人民币27亿元）的和解协议，了结一起涉及美国《儿童在线隐私保护法》（COPPA）的诉讼。根据该和解协议，TikTok将立即支付3亿美元；在法院作出裁定、撤销此前针对TikTok前身Musical.ly下达的同意令（consent decree）之后，再另行支付1亿美元。</p><p>　　<b>阿里拟配售800亿港元新股</b></p><p>　　8月23日，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200230039&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">阿里巴巴</a>（NYSE：BABA/ 09988.HK）宣布，拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这是阿里巴巴2019年港股上市以来首次启动新股配售。阿里巴巴称，拟将配售所得款项净额全部用于投资其全栈AI能力，加强AI基础设施建设。</p><p>　　<b><a href=\"https://www.caixin.com/2026-08-22/102476773.html\" target=\"_blank\">国产闪存龙头长存控股科创板IPO获受理</a></b></p><p>　　8月21日晚，上交所网站显示，国产闪存龙头企业<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=203694519&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">长江存储控股股份有限公司</a>（公司简称“长存控股”）科创板IPO获受理，招股书显示，长存控股计划募集330亿元，打破由另一国产存储龙头企业<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20041601732&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">长鑫科技</a>（688825.SH）保持的拟募资额记录。其中，208亿元将用于量产线技术升级项目，122亿元将用于研发相关募投项目。公司本次公开发行股份不低于19.8亿股且不高于24.3亿股，占发行后总股本比例不低于10%且不高于12%，据此估算，发行估值可达3300亿元。</p><p>　　<b>中际旭创上半年营收、净利润均同比大增</b></p><p>　　8月21日晚，光模块龙头<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200087396&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中际旭创</a>（300308.SZ/03308.HK）发布2026年上半年财报，上半年中际旭创实现营收417.78亿元，同比大增182.49%；归属于上市公司股东的净利润为136.51亿元，同比大增241.7%。中际旭创称，营收和净利润同比大增，受益于AI大客户对算力基础设施的强劲投入，公司800G、1.6T产品出货较快增长，占比也持续提高，以及产品方案优化、运营效率提升。同日，中际旭创宣布，拟向全体股东每10股派发现金红利12元(含税)。</p><p>　　<b>同程旅行完成对嘀嗒出行的要约收购</b></p><p>　　8月21日晚，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200180839&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">同程旅行</a>（00780.HK）发布公告称，已完成对<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202064457&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">嘀嗒出行</a>（02559.HK）的要约收购。当日，同程旅行共收到有效接纳股份9.11万股，占嘀嗒出行已发行总股本约88.74%。收购完成后，嘀嗒出行将保持品牌及运营独立。同程旅行表示，计划寻求保持嘀嗒出行港股上市地位不变。不过要约截止后，嘀嗒出行公众持股量降至 11.26%，低于港交所上市规则所要求的25%最低公众持股量规定。嘀嗒出行需在2028年2月20日前恢复合规，否则将面临退市风险。</p><p>　　<b>中央网络安全和信息化委员会：加快推进人工智能、反网络暴力、数字经济等新兴领域立法</b></p><p>　　8月21日，中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》，提出要加强网络法治建设，积极开展网信领域立法前瞻性研究。加快推进人工智能、反网络暴力、数字经济、网络平台、区块链等新兴领域立法。推进修订《互联网信息服务管理办法》，完善互联网信息服务管理、“自媒体”管理、算法治理等法律制度。推进制定电信法、网络犯罪防治法、网络安全等级保护条例，完善《未成年人网络保护条例》《网络数据安全管理条例》配套规定。规范涉网信企业行政检查，最大限度减少对网信企业正常生产经营活动的干扰。健全适应互联网发展治理新特点的监督管理执法措施，严厉打击网络违法违规行为。</p><p>　　<b>特斯拉、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200121078&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">小米</a>等9家车企公布召回计划</b></p><p>　　8月21日，据市场监管总局官网，特斯拉、小米、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=203689167&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">小鹏</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200026619&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">吉利</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=203690988&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">零跑</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034540&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">奇瑞</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000558&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">东风</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200001180&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">北汽蓝谷</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200040026&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">一汽</a>等多家车企向国家市场监督管理总局备案了召回计划，均涉及车内应急机械拉手。上述车企表示，由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。</p><p>　　<b>2026年暑期档总票房破115亿</b></p><p>　　据<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=201608862&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">灯塔</a>专业版实时数据，截至8月23日，2026年暑期档（6月1日—8月31日）档期总票房（含预售）突破115亿，连续44天单日票房过亿。《功夫女足》《八仙！》《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《给阿嬷的情书》暂列档期票房前5名。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-24/102477226.html\" rel=\"nofollow\" title=\"T早报｜嫦娥七号任务不能在今年预定窗口实施；TikTok支付4亿美元和解美国儿童隐私保护诉讼；阿里拟配售800亿港元新股\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>（财新 包云红 整理）</b></p>",
+          "source": "财新"
+        },
+        {
+          "title": "人事观察｜“风投之城”合肥换帅 安徽省委政法委书记覃卫国履新",
+          "url": "https://china.caixin.com/2026-08-24/102477222.html",
+          "published": "Mon, 24 Aug 2026 08:13:56 +0800",
+          "summary": "<img alt=\"资料图：覃卫国。图：视觉中国\" id=\"picture_178753039237012\" src=\"https://img.caixin.com/2026-08-24/178753039237012_840_560.jpg\" /><dl><dt>资料图：覃卫国。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>被外界称为“最牛风投之城”的安徽省会合肥，过去两年半内三度换帅。近日，安徽省委常委、政法委书记覃卫国履新合肥市委书记，其前任<a href=\"https://china.caixin.com/2026-05-06/102440971.html\" target=\"_blank\">费高云</a>已落马。</p><p>　　据中安在线微信公众号消息，8月23日，合肥市召开领导干部会议，宣布省委关于合肥市委主要负责同志职务调整的决定。安徽省委书记梁言顺出席并讲话。安徽省委常委、组织部部长孙红梅宣读省委决定，覃卫国任合肥市委书记。</p><p>　　梁言顺指出，这次合肥市委主要负责同志的调整，是省委贯彻党中央意图，从全省大局出发，着眼长远、慎重研究决定的，充分体现了党中央对合肥市委领导班子建设的高度重视和关心厚爱。</p><p>　　梁言顺表示，近年来，合肥市科技创新和产业创新实现新突破，城市综合实力、位势能级、形象品质得到显著提升。合肥要在进一步发展新质生产力上走在前列，增强创新策源功能，做好科技成果转化；要在进一步优化政治生态上担当尽责，一体推进正风肃纪反腐。</p><p>　　合肥一把手此前空缺三个多月。2026年5月6日，中央纪委国家监委通报，“70后”二十届中央候补委员、时任安徽省委常委、合肥市委书记费高云涉嫌严重违纪违法被查。</p><p>　　覃卫国仕途成长于广西，曾在企业工作多年，2019年底参与中组部统筹的异地交流，由广西转岗安徽。</p><p>　　覃卫国现年56岁（1970年6月出生），壮族，广西贵港人，1992年毕业于西安交通大学经济管理系工业外贸专业，获管理学学士学位。</p><p>　　本科毕业后，覃卫国在广西柳工机械股份有限公司（下称“柳工机械公司”）工作17年，曾任柳工机械公司进出口分公司总经理、国际业务事业部总经理、国际营销事业部总经理，柳工机械公司总裁助理、海外投资部部长，并曾兼任柳工澳洲有限公司董事长、柳工香港投资有限公司总经理。</p><p>　　2009年起，覃卫国“由企转政”，先后出任柳江县长（现柳州柳江区）、县委书记；2012年转任广西国资委副主任，2013年挂职国务院国资委综合局副局长。2014年，覃卫国出任广西首府南宁副市长，负责工业、交通、安全生产、质量技术监督、开发区等方面工作。</p><p>　　2017年，覃卫国重返国企，出任广西西江开发投资集团有限公司董事长，2018年出任广西交通投资集团有限公司总经理。在广西工作期间，覃卫国先后在华中科技大学获工商管理硕士学位、在同济大学获管理学博士学位。</p><p>　　2019年12月，覃卫国参与中组部统筹的全国厅官大规模异地交流。他首次跨省份履新，并再次“由企转政”出任安徽省政府副秘书长（正厅级）。</p><p>　　此后，覃卫国在煤炭资源型城市淮北工作四年。2020年8月，覃卫国接替戴启远（现任安徽省政府副秘书长）出任淮北市长；2022年5月，覃卫国接替张永（现任安徽省委统战部常务副部长）出任淮北市委书记。</p><p>　　2024年5月，覃卫国升任安徽副省长，同年7月接替钱三雄兼任安徽公安厅长，这是覃卫国首次任职公安系统。钱三雄现任安徽省委常委、宣传部长，他与覃卫国都参与了2019年底中组部统筹的异地交流。</p><p>　　2025年7月，覃卫国“进步”为安徽省委常委、政法委书记，填补虞爱华转任安徽省政协党组副书记、副主席后的空缺。</p><p>　　此次主政合肥，是56岁的覃卫国担任的第三个副省级职务。合肥自2024年3月以来三度换帅，覃卫国比前两任合肥市委书记张红文（1975年4月生）‌、‌费高云（1971年8月生）都年长。</p><p>　　中共十八大以来，吴存荣、‌宋国权、‌虞爱华‌、‌张红文‌、‌费高云、覃卫国先后担任合肥市委书记。‌宋国权、‌虞爱华此后分别任职安徽省人大、政协；吴存荣于2024年12月担任山西政协主席时落马；费高云2026年5月在合肥市委书记任上落马。此外，航天系统“75后”高官张红文，至迟于2025年3月已卸任安徽省委常委、合肥市委书记，此后未见于公开报道。</p><p>　　合肥近期经济表现亮眼，且因长鑫科技（688825.SH）上市而备受关注。据官方公布，2026年上半年，<a href=\"https://database.caixin.com/2026-07-31/102470139.html\" target=\"_blank\">合肥市地区生产总值（GDP）7073亿元</a>，同比增长6.8%，增速大幅领先GDP前十强城市。其中，合肥市规模以上高技术制造业增加值增长79.0%。主要产品中，锂离子电池、工业机器人、液晶显示屏产量分别增长95.1%、24.4%和17.6%。</p><p>　　安徽省委高层将于两个月后换届。据2026年8月7日安徽省委十一届十二次全会通过的决议，安徽省第十二次党代会将于2026年10月在合肥召开。目前，安徽省委专职副书记空缺，覃卫国主政合肥后，安徽省委政法委书记料将由新人接任。<a class=\"end_ico\" href=\"https://china.caixin.com/2026-08-24/102477222.html\" rel=\"nofollow\" title=\"人事观察｜“风投之城”合肥换帅 安徽省委政法委书记覃卫国履新\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>附：覃卫国简历</b></p><p>　　覃卫国，男，壮族，1970年6月出生，广西贵港人，1998年12月加入中共，1992年7月参加工作，同济大学经济与管理学院企业管理专业毕业，在职研究生学历，管理学博士学位。</p><p>　　1988.09-1992.07 西安交通大学经济管理系工业外贸专业学习</p><p>　　1992.07-1993.06 广西柳工机械股份有限公司总装厂职工</p><p>　　1993.06-1994.01 广西柳工机械股份有限公司销售处业务员</p><p>　　1994.01-1996.08 广西柳工机械股份有限公司进出口分公司业务员、业务部经理</p><p>　　1996.08-1997.09 广西柳工机械股份有限公司销售总公司副总经理</p><p>　　1997.09-2004.02 广西柳工机械股份有限公司进出口分公司代经理</p><p>　　2004.02-2005.09 广西柳工机械股份有限公司进出口分公司总经理（2001.08-2004.06华中科技大学管理学院工商管理专业学习，获工商管理硕士学位）</p><p>　　2005.09-2007.03 广西柳工机械股份有限公司国际事业部副总经理</p><p>　　2007.03-2008.02 广西柳工机械股份有限公司国际业务事业部总经理、柳工澳洲有限公司董事长</p><p>　　2008.02-2008.10 广西柳工机械股份有限公司国际营销事业部总经理、柳工澳洲有限公司董事长</p><p>　　2008.10-2009.12 广西柳工机械股份有限公司总裁助理、海外投资部部长、柳工香港投资有限公司总经理、柳工澳洲有限公司董事长</p><p>　　2009.12-2011.05 广西壮族自治区柳江县委副书记、县长</p><p>　　2011.05-2012.05 广西壮族自治区柳江县委书记</p><p>　　2012.05-2014.09 广西壮族自治区政府国有资产监督管理委员会副主任、党委委员（其间：2013.03-2014.01挂职任国务院国资委综合局副局长）</p><p>　　2014.09-2017.01 广西壮族自治区南宁市政府副市长、党组成员</p><p>　　2017.01-2018.09 广西西江开发投资集团有限公司董事长、党委书记</p><p>　　2018.09-2019.12 广西交通投资集团有限公司副董事长、总经理、党委副书记（其间：2012.09-2019.06 同济大学经济与管理学院企业管理专业学习，获管理学博士学位）</p><p>　　2019.12-2020.06 安徽省政府副秘书长（正厅级）、办公厅党组成员</p><p>　　2020.06-2020.07 安徽省淮北市委副书记，市政府党组书记</p><p>　　2020.07-2020.08 安徽省淮北市委副书记，市政府党组书记、副市长、代理市长</p><p>　　2020.08-2022.05 安徽省淮北市委副书记，市政府党组书记、市长（2022.08辞去）</p><p>　　2022.05-2024.05 安徽省淮北市委书记（2022.06兼任淮北军分区党委第一书记）</p><p>　　2024.05-2024.06 安徽省政府副省长、党组成员，淮北市委书记</p><p>　　2024.06-2024.07 安徽省政府副省长、党组成员，省公安厅党委书记、厅长提名人选、督察长（兼）、省委政法委副书记（兼），淮北市委书记</p><p>　　2024.07-2024.09 安徽省政府副省长、党组成员，省公安厅党委书记、厅长、督察长（兼）、省委政法委副书记（兼），淮北市委书记</p><p>　　2024.09-2025.07 安徽省政府副省长、党组成员，省公安厅党委书记、厅长、督察长（兼）、省委政法委副书记（兼）</p><p>　　2025.07-2025.09 安徽省委常委、政法委书记，省政府副省长、党组成员，省公安厅党委书记、厅长、督察长（兼）</p><p>　　2025.09-2026.03 安徽省委常委、政法委书记，省公安厅党委书记、厅长、督察长（兼）</p><p>　　2026.03-2026.08 安徽省委常委、政法委书记</p><p>　　2026.08- 安徽省委常委、政法委书记，合肥市委书记</p><p>　　中共二十大代表</p>",
+          "source": "财新"
+        },
+        {
+          "title": "中东战争重构供需 中国石化上半年净利大增两成",
+          "url": "https://www.caixin.com/2026-08-24/102477217.html",
+          "published": "Mon, 24 Aug 2026 07:51:23 +0800",
+          "summary": "<img alt=\"中国石化8月23日发布半年业绩：期内实现营业收入1.4366万亿元，同比增长2%；归属于母公司股东净利润256亿元，同比增长19.3%。图：视觉中国\" id=\"picture_178752970873050\" src=\"https://img.caixin.com/2026-08-24/178752970873050_840_560.jpg\" /><dl><dt>中国石化8月23日发布半年业绩：期内实现营业收入1.4366万亿元，同比增长2%；归属于母公司股东净利润256亿元，同比增长19.3%。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>中东危机重构石油化工领域供需格局之时，石油产品价格走高刺激全国最大的炼化企业中国石化（600028.SH/00386.HK）业绩走好。</p><p>　　中国石化8月23日发布半年业绩：期内实现营业收入1.4366万亿元，同比增长2%；归属于母公司股东净利润256亿元，同比增长19.3%。</p><p>　　中国石化解释，业绩走好主要因石油石化产品销售价格随原油价格上涨。上半年，公司加大上游开发力度，尽力增产航煤、炼油副产品等高附加值产品。同时，随着油价上涨，原油、成品油等价格走高也带来库存增利。</p><p>　　中国石化业务主要分在勘探及开发事业部、炼油事业部、营销及分销事业部、化工事业部。</p><p>　　贡献收益最大的是勘探及开发事业部。中国石化该板块在上半年实现经营收入1546亿元，同比增长6.9%；实现经营收益287亿元，同比增长21.5%。</p><p>　　期内，中国石化油气当量产量263.47百万桶，同比微增0.3%。国际原油价格在上半年波动剧烈，普氏布伦特原油现货均价92.6美元/桶，同比上涨29.1%。</p><p>　　收益增幅最高的是炼油事业部。主要因成品油等主要产品价格上升，中国石化该板块上半年实现经营收入7022亿元，同比增长6.7%；实现经营收益170亿元，同比大幅增长381.5%。</p><p>　　期内，中国石化炼油毛利为453元/吨，同比大幅增长44.1%。中国石化表示，这主要因航空煤油、石脑油、炼油副产品等产品毛利大幅好转，抵消了进口原油采购贴水和运费上涨影响。</p><p>　　上半年，中国石化汽油、柴油、航空煤油销售收入分别为2479亿元、1524亿元、717亿元，同比分别增长3.1%、2.1%、21%。此外，化工原料类产品销售收入为1000亿元，同比增长10.8%；其他精炼石油产品（润滑油、石脑油等）销售收入为1286亿元，同比增长9.4%。</p><p>　　由于霍尔木兹海峡受阻，国内非一体化炼厂普遍缺少上游原料，石脑油、LPG（液化石油气）等原料供应趋紧、价格攀高。</p><p>　　但也受高油价抑制，国内成品油需求持续低迷。此外，中国也曾于3月下令暂停成品油出口，并于7月将之取消。</p><p>　　上半年，中国石化加工原油1.13亿吨，同比降低5.6%。成品油总销量1亿吨，同比下降9.9%；其中境内成品油销量7900万吨，同比下降9.2%。中国石化进一步介绍，上半年，境内成品油消费量同比下降8.6%，其中汽油、柴油分别下降7.9%与11.5%，而航煤受假期出行与国际航线恢复拉动同比增长1.3%。</p><p>　　在营销及分销事业部，受高油价抑制成品油消费以及国内新能源替代加速等影响，2026年上半年，中国石化该板块实现经营收益57亿元，同比降低28.6%。</p><p>　　在化工事业部，上半年，境内主要化工产品需求疲弱，如乙烯当量消费量同比下降9.9%。不过期内，中国石化扩大产品出口规模，最终该板块经营亏损2亿元，但同比减亏40亿元。上半年，中国石化的化工产品销售总量同比下降5.5%至3786万吨；其中的出口同比增长70%，创历史新高。</p><p>　　上半年，中东局势扰动石化供应链，东南亚、东北亚乃至澳大利亚等地客户开始增加对中国化工品的询盘，带动国内多数化工产品出口量显著上升。（详见财新周刊报道《<a href=\"https://weekly.caixin.com/2026-04-04/102430891.html\" target=\"_blank\">巴斯夫继续下注中国 化工产品出口现机会窗口</a>》）</p><p>　　尽管油价走高带来库存增利，不过中国石化表示，2026年上半年因油价冲高回落，部分原油及炼化产成品库存出现减值迹象，计提减值准备合计人民币160.30亿元，主要为存货跌价准备159.43亿元。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-24/102477217.html\" rel=\"nofollow\" title=\"中东战争重构供需 中国石化上半年净利大增两成\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "反腐记｜中央纪委高层调整 强调“严明换届纪律”",
+          "url": "https://china.caixin.com/2026-08-24/102477211.html",
+          "published": "Mon, 24 Aug 2026 07:21:17 +0800",
+          "summary": "<img alt=\"上周（8月17日至23日），中国农业发展银行原副行长徐一丁被“双开”并移送司法，官方通报指其将扶贫助农信贷权力异化为谋取个人私利的工具；宁夏自治区政府原主席刘慧、交通银行原副行长侯维栋、重庆原副市长江敦涛被公诉，将分别于山东菏泽、重庆、四川乐山受审；国家中医药管理局原局长于文明因受贿6344万余元一审被判处有期徒刑15年。图：IC photo\" id=\"picture_175789425029612\" src=\"https://img.caixin.com/2025-09-15/175789425029612_840_560.jpg\" /><dl><dt>上周（8月17日至23日），中国农业发展银行原副行长徐一丁被“双开”并移送司法，官方通报指其将扶贫助农信贷权力异化为谋取个人私利的工具；宁夏自治区政府原主席刘慧、交通银行原副行长侯维栋、重庆原副市长江敦涛被公诉，将分别于山东菏泽、重庆、四川乐山受审；国家中医药管理局原局长于文明因受贿6344万余元一审被判处有期徒刑15年。图：IC photo</dt></dl><p>　　<b>【财新网】</b>上周（8月17日至23日），二十届中央纪委六次全会增选<a href=\"https://china.caixin.com/2026-08-23/102477079.html\" target=\"_blank\">赵世勇</a>为中央纪委副书记，<a href=\"https://china.caixin.com/2026-08-23/102477079.html\" target=\"_blank\">张忠</a>为中央纪委常委、副书记。据<a href=\"https://china.caixin.com/2026-08-22/102476904.html\" target=\"_blank\">会议公报</a>披露，会议总结了上半年纪检监察工作，对做好下阶段工作提出要求。会议强调，要进一步强化工作落实，牢固树立和践行正确政绩观，加强政治监督，深化政治巡视，严明换届纪律，坚定不移正风肃纪反腐，持续深化群众身边不正之风和腐败问题集中整治，确保高质量完成全年任务。</p><p>　　此外，中国农业发展银行（简称“农发行”）原副行长徐一丁被“双开”并移送司法，官方通报指其将扶贫助农信贷权力异化为谋取个人私利的工具；宁夏自治区政府原主席<a href=\"https://china.caixin.com/2026-08-18/102475267.html\" target=\"_blank\">刘慧</a>、交通银行原副行长侯维栋、重庆原副市长<a href=\"https://china.caixin.com/2026-08-21/102476599.html\" target=\"_blank\">江敦涛</a>被公诉，将分别于山东菏泽、重庆、四川乐山受审；国家中医药管理局原局长<a href=\"https://china.caixin.com/2026-08-21/102476508.html\" target=\"_blank\">于文明</a>因受贿6344万余元一审被判处有期徒刑15年。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-24/178752740958260.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-24/178752740958260.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div>  <h2 class=\"cx-app-content-subheads\">以扶贫助农信贷权力敛财&nbsp;&nbsp;徐一丁被移送司法</h2><p>　　8月17日，中央纪委国家监委发布消息称，农发行原副行长徐一丁被“双开”并移送司法。当天，农发行官网发布消息称，近日，农发行党委召开会议，传达并拥护对徐一丁开除党籍、开除公职处分的决定。会议指全行各级党组织和党员干部要深刻认识徐一丁案件的严重危害和恶劣影响，以案为鉴，警钟长鸣；要强化对权力运行的监督制约，堵塞制度漏洞，强化刚性约束，最大限度减少权力寻租空间等。</p><p>　　官方通报指徐一丁的问题包括：</p><p>　　丧失理想信念，背弃初心使命，违反中央八项规定精神，违规收受礼品，接受可能影响公正执行公务的宴请；</p><p>　　在职工录用、岗位调整工作中为他人谋取利益；</p><p>　　违规占用原任职单位财物；</p><p>　　毫无纪法底线，将扶贫助农信贷权力异化为谋取个人私利的工具，大搞权钱交易，利用职务便利为他人在项目贷款审批、发放等方面谋利，并非法收受巨额财物。</p><p>　　通报称徐一丁构成严重职务违法并涉嫌受贿犯罪，决定给予徐一丁开除党籍、开除公职处分；收缴其违纪违法所得，并将其涉嫌犯罪问题移送检方审查起诉，所涉财物一并移送。</p><p>　　今年2月7日，徐一丁在任上被查，成为中共十八大以来农发行第一个被查的行领导。据财新了解，徐一丁于2月3日上午被有关部门带走，2月6日晚农发行党委做了一定范围的通报。</p><p>　　据农发行内部人士透露，徐一丁与农业农村部原部长<a href=\"https://china.caixin.com/2025-09-28/102367127.html\" target=\"_blank\">唐仁健</a>是西南财经大学在职同学，都获得了博士学位，唐仁健于2025年9月28日因受贿2.68亿余元一审被判死缓。徐一丁被查除了和唐仁健的这层关系，线索或指向了扶贫贷款。而此次官方通报指出徐一丁“将扶贫助农信贷权力异化为谋取个人私利的工具”。</p><p>　　徐一丁的仕途从农业部起步，后在农发行深耕近27年。2014年12月起，徐一丁先后担任农发行营业部总经理、扶贫开发事业部总经理、扶贫综合业务部（易地扶贫搬迁部）总经理、扶贫金融事业部副总裁兼扶贫综合业务部（易地扶贫搬迁部、产业发展扶贫部）总经理。</p><p>　　在扶贫金融部工作时期，徐一丁取得的成就颇为显著，包括筹建金融业第一家扶贫开发事业部、创新金融扶贫体制机制、推出多项扶贫贷款产品等，还于2017年9月荣获“2017年全国脱贫攻坚奖创新奖”。2019年9月，54岁的徐一丁升任农发行副行长，直至落马。</p><p>　　至此，2026年已有41名落马中管干部被处分并移送司法，此前40人为：<a href=\"https://www.caixin.com/2025-07-04/102338302.html\" target=\"_blank\">冯志斌</a>、<a href=\"https://companies.caixin.com/2026-01-04/102400035.html\" target=\"_blank\">刘绍勇</a>、<a href=\"https://china.caixin.com/2026-01-04/102399986.html\" target=\"_blank\">许传智</a>、<a href=\"https://china.caixin.com/2026-01-04/102399981.html\" target=\"_blank\">周先旺</a>、<a href=\"https://china.caixin.com/2026-01-07/102401324.html\" target=\"_blank\">吴胜华</a>、<a href=\"https://china.caixin.com/2026-01-20/102405854.html\" target=\"_blank\">高以忱</a>、<a href=\"https://china.caixin.com/2026-02-06/102412046.html\" target=\"_blank\">倪强</a>、<a href=\"https://china.caixin.com/2026-02-06/102412055.html\" target=\"_blank\">韩松</a>、<a href=\"https://china.caixin.com/2026-02-06/102412065.html\" target=\"_blank\">高兴夫</a>、<a href=\"https://finance.caixin.com/2026-02-06/102412417.html\" target=\"_blank\">林景臻</a>、<a href=\"https://china.caixin.com/2026-02-12/102413915.html\" target=\"_blank\">王莉霞</a>、<a href=\"https://china.caixin.com/2026-03-02/102418639.html\" target=\"_blank\">唐德智</a>、<a href=\"https://china.caixin.com/2026-03-02/102418625.html\" target=\"_blank\">姜德果</a>、<a href=\"https://china.caixin.com/2026-03-26/102427731.html\" target=\"_blank\">刘慧</a>、<a href=\"https://china.caixin.com/2026-04-13/102433436.html\" target=\"_blank\">乌兰</a>、<a href=\"https://china.caixin.com/2026-04-13/102433463.html\" target=\"_blank\">江敦涛</a>、<a href=\"https://china.caixin.com/2026-04-13/102433440.html\" target=\"_blank\">韩占武</a>、<a href=\"https://finance.caixin.com/2026-04-30/102439822.html\" target=\"_blank\">易会满</a>、<a href=\"https://china.caixin.com/2026-05-07/102441344.html\" target=\"_blank\">金之镇</a>、<a href=\"https://finance.caixin.com/2026-05-07/102441533.html\" target=\"_blank\">侯维栋</a>、<a href=\"https://china.caixin.com/2026-05-21/102446209.html\" target=\"_blank\">张尧学</a>、<a href=\"https://china.caixin.com/2026-05-21/102446199.html\" target=\"_blank\">毕宝文</a>、<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=301018548&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">李百安</a>、<a href=\"https://china.caixin.com/2026-06-05/102451426.html\" target=\"_blank\">王凤朝</a>、<a href=\"https://china.caixin.com/2026-06-05/102451404.html\" target=\"_blank\">叶红专</a>、<a href=\"https://finance.caixin.com/2026-06-05/102451411.html\" target=\"_blank\">于泽</a>、<a href=\"https://china.caixin.com/2026-06-08/102452040.html\" target=\"_blank\">潘良</a>、<a href=\"https://china.caixin.com/2026-06-08/102452097.html\" target=\"_blank\">陈伟俊</a>、<a href=\"https://china.caixin.com/2026-06-22/102456153.html\" target=\"_blank\">戴北方</a>、<a href=\"https://china.caixin.com/2026-06-22/102456168.html\" target=\"_blank\">尹建业</a>、<a href=\"https://china.caixin.com/2026-07-07/102461594.html\" target=\"_blank\">方红卫</a>、<a href=\"https://china.caixin.com/2026-07-14/102464029.html\" target=\"_blank\">马兴瑞</a>、<a href=\"https://china.caixin.com/2026-07-23/102467280.html\" target=\"_blank\">田学斌</a>、<a href=\"https://china.caixin.com/2026-07-23/102467316.html\" target=\"_blank\">王峻</a>、<a href=\"https://china.caixin.com/2026-07-23/102467277.html\" target=\"_blank\">郭学益</a>、<a href=\"https://china.caixin.com/2026-07-25/102468077.html\" target=\"_blank\">肖杰</a>、顾军、韩嵩、<a href=\"https://china.caixin.com/2026-07-27/102468498.html\" target=\"_blank\">张世平</a>、杨宏勇。</p><h2 class=\"cx-app-content-subheads\">三“虎”被公诉</h2><p>　　上周，宁夏自治区政府原主席刘慧、交通银行原副行长侯维栋、重庆原副市长江敦涛先后被公诉，三人将分别于山东菏泽、重庆、四川乐山受审。</p><p>　　8月18日，刘慧涉嫌受贿一案由山东菏泽检察院向菏泽中院提起公诉。检方指控：刘慧利用担任宁夏副主席，党委常委、自治区政府副主席，党委副书记、自治区政府主席，国家民委党组副书记、副主任等职务上的便利，以及职权或者地位形成的便利条件，为他人谋取利益，非法收受他人财物，数额特别巨大，应当以受贿罪追究其刑责。</p><p>　　曾深耕宁夏39年的刘慧于2025年7月18日官宣被查，彼时中央第十一巡视组刚结束对宁夏的巡视。今年3月26日，刘慧被开除党籍并移送司法。官方通报指其贯彻落实中共中央重大决策部署打折扣、搞变通，结交政治骗子，匿名诬告他人，对抗组织审查，大搞迷信活动；接受可能影响公正执行公务的宴请，违规接受旅游活动安排，特权思想严重，在生活保障上谋求特殊待遇；不按规定报告个人有关事项，违规为他人在干部选拔任用方面谋取利益并收受财物；违规收受礼品，利用职权长期无偿接受劳务服务；违规干预插手执纪执法活动；毫无纪法底线，将公权力异化为谋取私利的工具，大肆收钱敛财，利用职务便利为他人在企业经营、工作安排等方面谋利，并非法收受巨额财物。</p><p>　　8月20日，侯维栋涉嫌受贿一案，由重庆市检察院第五分院向重庆五中院提起公诉。检方指控：侯维栋利用担任交行首席信息官、信息技术管理部总经理，首席信息官，党委委员、首席信息官，党委委员、副行长、首席信息官，党委委员、副行长兼交银康联人寿保险有限公司董事长，党委委员、副行长等职务上的便利，为他人谋取利益，非法收受他人财物，数额特别巨大，应当以受贿罪追究其刑责。</p><p>　　2025年10月28日，曾是中国银行业第一个CIO（首席信息官）的侯维栋官宣被查，他曾长期在工行、交行负责和分管信息科技方面工作。财新此前报道，侯维栋被查或与已落马的<a href=\"https://database.caixin.com/2026-01-20/102405653.html\" target=\"_blank\">蒋超良</a>相关。从履历看，蒋超良于2004年5月至2008年9月任交行董事长、党委书记，侯维栋在2004年8月至2010年12月是交行首席信息官。今年5月7日，官方通报称侯维栋的问题包括：搞迷信活动；借用管理和服务对象大额钱款，将应当由本人支付的费用由他人支付；将金融科技资源配置权力异化为谋取个人私利的工具，大搞权钱交易，利用职务便利为他人在项目承揽、贷款融资等方面谋利，并非法收受巨额财物。</p><p>　　8月21日，江敦涛涉嫌受贿一案，由四川乐山检察院向乐山中院提起公诉。检方指控：江敦涛利用担任共青团青岛市委常委、组织部长，青岛城阳区委常委、副区长，青岛市委组织部副部长，青岛崂山区长、青岛高科技工业园管委会主任，青岛崂山区委书记，淄博市委书记，潍坊市委书记，重庆市政府党组成员、副市长等职务上的便利以及职权或者地位形成的便利条件，为他人谋取利益，非法收受他人财物，数额特别巨大，应当以受贿罪追究其刑责。</p><p>　　对比履历，江敦涛自2000年8月起任共青团青岛市委常委、宣传部长、组织部长，2023年1月当选重庆副市长，2025年10月25日官宣被查，涉嫌受贿时长达20余年。今年4月24日，中央纪委国家监委网站曾通报，2019年至2022年，江敦涛担任淄博市委书记期间，为早出政绩、快出政绩，强势推进“金融招商”，未经评估论证和集体研究，违规引入私营企业，安排国有企业融资并设立政府引导基金，由私营企业主导使用，因疏于监督管理，造成巨额国有资金损失风险；鼓吹“政府不举债就是不作为”，明知财政可支配收入不足，强推硬上多个项目建设，导致新增巨额地方债务。</p><p>　　至此，2026年已有38名落马中管干部被公诉，此前35人为：<a href=\"https://china.caixin.com/2026-01-07/102400964.html\" target=\"_blank\">李文荣</a>、<a href=\"https://china.caixin.com/2026-01-13/102403274.html\" target=\"_blank\">龙翔</a>、<a href=\"https://china.caixin.com/2026-02-06/102412085.html\" target=\"_blank\">段成刚</a>、<a href=\"https://china.caixin.com/2026-02-10/102413245.html\" target=\"_blank\">张建华</a>、<a href=\"https://china.caixin.com/2026-03-16/102423338.html\" target=\"_blank\">李春良</a>、<a href=\"https://china.caixin.com/2026-03-17/102423873.html\" target=\"_blank\">蒋超良</a>、<a href=\"https://www.caixin.com/2026-03-18/102424169.html\" target=\"_blank\">徐宪平</a>、<a href=\"https://china.caixin.com/2026-03-23/102426203.html\" target=\"_blank\">金湘军</a>、<a href=\"https://china.caixin.com/2026-03-24/102426712.html\" target=\"_blank\">宋朝华</a>、<a href=\"https://china.caixin.com/2026-03-25/102427060.html\" target=\"_blank\">任羽中</a>、<a href=\"https://china.caixin.com/2026-03-31/102429377.html\" target=\"_blank\">王建军</a>、<a href=\"https://china.caixin.com/2026-04-01/102429787.html\" target=\"_blank\">刘宽忍</a>、<a href=\"https://www.caixin.com/2026-04-02/102430169.html\" target=\"_blank\">杨小伟</a>、<a href=\"https://china.caixin.com/2026-04-07/102431359.html\" target=\"_blank\">叶寒冰</a>、<a href=\"https://www.caixin.com/2025-07-04/102338302.html\" target=\"_blank\">冯志斌</a>、<a href=\"https://china.caixin.com/2026-04-14/102433797.html\" target=\"_blank\">毕井泉</a>、<a href=\"https://china.caixin.com/2026-04-16/102434512.html\" target=\"_blank\">周先旺</a>、<a href=\"https://china.caixin.com/2026-04-17/102434966.html\" target=\"_blank\">于文明</a>、<a href=\"https://finance.caixin.com/2026-04-23/102436948.html\" target=\"_blank\">王会民</a>、<a href=\"https://china.caixin.com/2026-04-27/102438225.html\" target=\"_blank\">费东斌</a>、<a href=\"https://china.caixin.com/2026-04-28/102438660.html\" target=\"_blank\">彭晓春</a>、<a href=\"https://china.caixin.com/2026-04-29/102439054.html\" target=\"_blank\">蓝天立</a>、<a href=\"https://companies.caixin.com/2026-05-08/102441905.html\" target=\"_blank\">刘绍勇</a>、<a href=\"https://china.caixin.com/2026-05-09/102442327.html\" target=\"_blank\">胡幼桃</a>、<a href=\"https://china.caixin.com/2026-05-11/102442885.html\" target=\"_blank\">许传智</a>、<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=304197328&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">林景臻</a>、<a href=\"https://china.caixin.com/2026-05-15/102444185.html\" target=\"_blank\">高以忱</a>、<a href=\"https://china.caixin.com/2026-06-03/102450395.html\" target=\"_blank\">王莉霞</a>、<a href=\"https://china.caixin.com/2026-06-04/102450890.html\" target=\"_blank\">高兴夫</a>、<a href=\"https://china.caixin.com/2026-06-09/102452337.html\" target=\"_blank\">韩松</a>、<a href=\"https://china.caixin.com/2026-06-15/102454185.html\" target=\"_blank\">倪强</a>、<a href=\"https://china.caixin.com/2026-06-30/102459218.html\" target=\"_blank\">姜德果</a>、<a href=\"https://china.caixin.com/2026-07-10/102462614.html\" target=\"_blank\">唐德智</a>、<a href=\"https://china.caixin.com/2026-07-14/102463995.html\" target=\"_blank\">韩占武</a>、<a href=\"https://china.caixin.com/2026-07-15/102464343.html\" target=\"_blank\">乌兰</a>。</p><h2 class=\"cx-app-content-subheads\">于文明领刑15年</h2><p>　　官宣被查14个月后，国家中医药管理局原局长于文明受贿案一审落槌。8月21日，天津一中院对于文明以受贿罪判处有期徒刑15年。</p><p>　　法院经审理查明：2009年至2021年2月，于文明利用担任国家中医药管理局副局长职务上的便利以及职权或者地位形成的便利条件，为他人在药品注册审批、产品注册证书延期等事项上提供帮助，直接或者通过他人非法收受财物共计折合6344万余元。</p><p>　　据其履历，于文明于2004年4月任国家中医药管理局副局长，2018年6月升任局长，2023年7月到龄退休。</p><p>　　据天津一中院消息，该院于2026年6月17日开庭审理了该案，于文明当庭表示认罪悔罪。法院认为，于文明的行为构成受贿罪，受贿数额特别巨大，应依法惩处。鉴于其到案后如实供述罪行，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪，积极退赃，受贿所得财物已全部追缴，具有法定、酌定从轻处罚情节，依法可对其从轻处罚。法庭遂作出上述判决。</p><p>　　2025年6月22日，于文明官宣被查，成为中医药领域落马的最高级别官员，还是继<a href=\"https://china.caixin.com/2024-10-11/102244225.html\" target=\"_blank\">李钺锋</a>、<a href=\"https://china.caixin.com/2024-10-25/102249415.html\" target=\"_blank\">赵金云</a>、<a href=\"https://china.caixin.com/2025-05-25/102323180.html\" target=\"_blank\">刘宽忍</a>之后又一名落马的民主党派高官。</p><p>　　于文明是2025年以来继国家药监局原副局长<a href=\"https://china.caixin.com/2026-04-29/102439217.html\" target=\"_blank\">陈时飞</a>后又一名被查的医药领域高官，此前，“着重抓好金融、国企、能源、消防、烟草、医药、高校、体育、开发区、工程建设和招投标等领域系统整治”被写入二十届中央纪委四次全会公报。</p><p>　　至此，2026年已有33名落马中管干部领刑，此前32人为：<a href=\"https://china.caixin.com/2026-01-06/102400765.html\" target=\"_blank\">赵金云</a>、<a href=\"https://china.caixin.com/2026-01-07/102401339.html\" target=\"_blank\">王昊</a>、<a href=\"https://china.caixin.com/2026-01-20/102405964.html\" target=\"_blank\">陈笑波</a>、<a href=\"https://finance.caixin.com/2026-01-21/102406466.html\" target=\"_blank\">章更生</a>、<a href=\"https://china.caixin.com/2026-01-28/102408970.html\" target=\"_blank\">张效廉</a>、<a href=\"https://china.caixin.com/2026-02-02/102410632.html\" target=\"_blank\">唐一军</a>、<a href=\"https://china.caixin.com/2026-02-03/102410998.html\" target=\"_blank\">李微微</a>、<a href=\"https://china.caixin.com/2026-02-26/102417227.html\" target=\"_blank\">张天峰</a>、<a href=\"https://china.caixin.com/2026-02-28/102418000.html\" target=\"_blank\">罗增斌</a>、<a href=\"https://china.caixin.com/2026-03-17/102423972.html\" target=\"_blank\">李海涛</a>、<a href=\"https://china.caixin.com/2026-03-18/102424298.html\" target=\"_blank\">马丰胜</a>、<a href=\"https://china.caixin.com/2026-03-20/102425276.html\" target=\"_blank\">吴存荣</a>、<a href=\"https://china.caixin.com/2026-03-25/102427331.html\" target=\"_blank\">谭瑞松</a>、<a href=\"https://www.caixin.com/2026-04-01/102429997.html\" target=\"_blank\">寇伟</a>、<a href=\"https://www.caixin.com/2025-02-12/102287585.html\" target=\"_blank\">刘卫东</a>、<a href=\"https://china.caixin.com/2026-04-27/102438444.html\" target=\"_blank\">王中和</a>、<a href=\"https://china.caixin.com/2026-04-28/102438883.html\" target=\"_blank\">洪礼和</a>、<a href=\"https://china.caixin.com/2026-04-29/102439217.html\" target=\"_blank\">陈时飞</a>、<a href=\"https://china.caixin.com/2026-05-07/102441640.html\" target=\"_blank\">周喜安</a>、<a href=\"https://china.caixin.com/2026-05-08/102442112.html\" target=\"_blank\">陆克华</a>、<a href=\"https://china.caixin.com/2026-06-05/102451480.html\" target=\"_blank\">齐扎拉</a>、<a href=\"https://www.caixin.com/2025-03-01/102293635.html\" target=\"_blank\">袁光宇</a>、<a href=\"https://china.caixin.com/2026-06-23/102456732.html\" target=\"_blank\">朱芝松</a>、<a href=\"https://china.caixin.com/2026-06-29/102458909.html\" target=\"_blank\">周家斌</a>、<a href=\"https://china.caixin.com/2026-06-30/102459355.html\" target=\"_blank\">刘满仓</a>、<a href=\"https://china.caixin.com/2026-07-13/102463826.html\" target=\"_blank\">周德睿</a>、<a href=\"https://china.caixin.com/2026-07-22/102467040.html\" target=\"_blank\">李春良</a>、<a href=\"https://china.caixin.com/2026-07-28/102468841.html\" target=\"_blank\">段成刚</a>、<a href=\"https://www.caixin.com/2026-07-29/102469282.html\" target=\"_blank\">徐宪平</a>、<a href=\"https://china.caixin.com/2026-08-05/102471522.html\" target=\"_blank\">张建华</a>、<a href=\"https://china.caixin.com/2026-08-10/102472945.html\" target=\"_blank\">陆文俊</a>、<a href=\"https://china.caixin.com/2026-08-11/102473219.html\" target=\"_blank\">龙翔</a>。此外，两任国防部长<a href=\"https://china.caixin.com/2026-05-07/102441639.html\" target=\"_blank\">魏凤和</a>、<a href=\"https://china.caixin.com/2026-05-07/102441639.html\" target=\"_blank\">李尚福</a>亦一审获刑死缓终身监禁。<a class=\"end_ico\" href=\"https://china.caixin.com/2026-08-24/102477211.html\" rel=\"nofollow\" title=\"反腐记｜中央纪委高层调整 强调“严明换届纪律”\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "财经早知道｜国常会：要大力整治大企业拖欠中小企业账款问题",
+          "url": "https://finance.caixin.com/2026-08-24/102477209.html",
+          "published": "Mon, 24 Aug 2026 06:55:48 +0800",
+          "summary": "<img />     <div class=\"article_img_container\">    <div class=\"article_img_box article_img_click \"><a href=\"https://deepview.caixin.com/topic/BQ02.000007557.html?cxapp_link=true\" target=\"_blank\"><img src=\"https://img.caixin.com/2024-11-22/173226215793486.jpg\" /></a></div>    <div class=\"article_img_talk\"> </div>    </div> 早上好，今天是8月24日星期一。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。 <strong>24小时热点</strong> <p>8月21日，<a href=\"https://china.caixin.com/2026-08-21/102476633.html?originReferrer=zaozhidao\">国务院总理李强主持召开国常会</a>，听取新一代通信网建设情况汇报，<strong>部署进一步清理拖欠企业账款工作，明确要大力整治大企业拖欠中小企业账款问题，压实主体责任，用好政策工具打通“连环清”链条，健全行业账期规则，强化大企业支付行为监管，严防新增拖欠</strong>；会议还研究持续改善空气质量、深入打好蓝天保卫战相关工作。</p><p>据财联社，多家“英伟达最大客户”已被告知，<strong>搭载英伟达人工智能芯片的服务器价格将会上涨，很多情况下涨幅将超过15%</strong>；英伟达将于本周发布财报，市场关注存储涨价是否会侵蚀算力芯片龙头的利润率。</p><p>财政部副部长廖岷表示，<a href=\"https://economy.caixin.com/2026-08-21/102476355.html?originReferrer=zaozhidao\"><strong>8月1日起个人消费贷贴息政策扩围，买车、装修等信用卡分期消费均可享受</strong></a>，享受政策的个人消费贷贴息上限由3000元提高至5000元；中小微企业贷款贴息政策将新发放流动资金贷款纳入，更好满足民间投资和个人消费需求。</p><p>据证券时报，<strong>近期蛋价持续上涨引关注</strong>，二季度以来多地产区价格突破5元/斤关口，终端零售价格同步上调。<strong>本轮蛋价上涨并非单一因素驱动，而是</strong><strong>夏季供给收缩、渠道低库存、节日刚需释放等多重利好叠加所致。</strong></p><p><strong>7月全社会用电量达10400亿千瓦时，同比增长1.7%，创月度用电量历史新高</strong>。其中，充换电服务业、互联网数据服务用电量分别为164亿千瓦时、99亿千瓦时，增速分别达到50.3%、40.1%。城乡居民生活用电量1935亿千瓦时，同比下降5.1%。</p><p><a href=\"https://www.caixin.com/2026-08-22/102476773.html?originReferrer=zaozhidao\">国产闪存龙头长存控股科创板IPO获受理</a>，拟募资330亿元，按募资规模测算，发行阶段估值约3300亿元。受益于AI带动存储行业景气上行，其二季度NAND闪存出货份额跃居全球第三。<strong>市场预期长存上市后估值或迈向2至3万亿元，进一步试探A股市值天花板</strong>。</p><p><strong>南部战区回应菲方飞机非法侵入中国黄岩岛领空</strong>表示，中方依法依规跟踪监视、喊话警告。菲方行为严重侵犯中国主权，极易引发误解误判，正告菲方立即停止侵权挑衅。</p><p><strong>7月国内乘用车销售147.6万辆，环比下降12.8%，同比下降20.2%</strong>。其中，SUV依然是市场主力，市场份额达55.5%；轿车、MPV分别占比39.3%和5.2%。特斯拉、吉利、智界“各领风骚”，<strong>合资燃油车加速退场</strong>。</p><p><a href=\"https://www.caixin.com/2026-08-21/102476619.html?originReferrer=zaozhidao\"><strong>贵州茅台召开2026年半年度业绩说明会</strong></a>，集团高层针对<strong>白酒行业周期、集团业绩承压、市场化调整等</strong>投资者问题进行了回复。公司董事长称，此番市场化改革的背景在于，白酒消费需求疲软叠加此前数年贵州茅台酒的高速增长，在需求侧、渠道侧积累了大量结构性矛盾。</p><p>金融监管总局、民政部、司法部联合发文，在全国范围内推广浙江省、青岛市在已故人士金融账户查询服务方面的试点经验，持续优化个人身后金融事服务。<strong>依托政务平台实现已故人员金融账户“一站式”查询，优化身后金融服务</strong>。</p><strong>【今日关注】</strong> <p>美国财长贝森特就加大对伊朗经济制裁具体行动举行新闻发布会</p><strong>要闻速递</strong> <p><strong>#国内</strong></p><p>嫦娥七号任务不满足发射条件 不能在今年预定窗口实施</p><p><a href=\"https://economy.caixin.com/2026-08-21/102476687.html?originReferrer=zaozhidao\">7月财政收入增幅提升至11.7% 个税同比增长25.9%</a></p><p>三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题</p><p><a href=\"https://www.caixin.com/2026-08-22/102477014.html?originReferrer=zaozhidao\">上半年二手房成交单量增长近两成 贝壳平台经纪人规模未同步扩大</a></p><p>38.15秒，天工队夺得本届人形机器人运动会首金</p><p>中国牵头固态电池首项国际标准正式立项 推动新能源产业快速发展</p><p><a href=\"https://www.caixin.com/2026-08-21/102476450.html?originReferrer=zaozhidao\">北京知识产权法院驳回LV诉讼请求？法院、LV再度辟谣假消息</a></p><p>海南两部门联合发布地质灾害气象风险预警</p><p>金融监管总局发文着力提升保险业资产负债管理水平</p><p><a href=\"https://finance.caixin.com/2026-08-21/102476691.html?originReferrer=zaozhidao\">两部委发文规范人民币买卖 允许和禁止的情形有哪些？</a> </p><p><a href=\"https://www.caixin.com/2026-08-21/102476675.html?originReferrer=zaozhidao\">国家能源集团一年半逾17名中高管被查 涉煤炭化工电力港口等领域</a></p><p>上限36348元下限7270元 北京发布2026年社保缴费工资基数</p><p>2026年度电影总票房超270亿</p><p><a href=\"https://china.caixin.com/2026-08-21/102476512.html?originReferrer=zaozhidao\">著作权新司法解释：网络转载不再先转载后付酬</a></p><p><strong>#公司</strong></p><p><a href=\"https://www.caixin.com/2026-08-23/102477163.html?originReferrer=zaozhidao\">TikTok支付4亿美元和解美国儿童隐私保护诉讼</a></p><p><a href=\"https://www.caixin.com/2026-08-22/102476786.html?originReferrer=zaozhidao\">车内应急机械拉手不易识别 特斯拉等九家企业召回汽车近430万辆</a></p><p>i茅台官宣：24日起增加茅台酒上午投放时段</p><p><a href=\"https://www.caixin.com/2026-08-21/102476537.html?originReferrer=zaozhidao\">恒大地产启动破产清算 近两万亿债务如何处置？</a></p><p>阿里拟配售800亿港元新股 全部投入AI建设</p><p><a href=\"https://finance.caixin.com/2026-08-22/102477009.html?originReferrer=zaozhidao\">南京银行2026年上半年利息净收入高增40% 原因何在？</a></p><p><a href=\"https://finance.caixin.com/2026-08-21/102476608.html?originReferrer=zaozhidao\">星桥资本黄金交易异常爆仓 香港办公室人去楼空</a></p><p>DeepSeek调整峰谷计费规则 周末全天按低谷时段价格计费</p><p>上纬新材消费级机器人正式开启预订，预计首批发货最早9月</p><p><a href=\"https://finance.caixin.com/2026-08-21/102476531.html?originReferrer=zaozhidao\">资金运用严重不合规、向关联方输送利益 恒大人寿被吊销保险牌照</a></p><p>中际旭创：上半年归母净利润136.51亿元，同比增长241.70%</p><p><a href=\"https://finance.caixin.com/2026-08-21/102476700.html?originReferrer=zaozhidao\">葛小波辞任国联民生证券总裁 7年间完成上市及民生证券并购</a></p><p><a href=\"https://www.caixin.com/2026-08-21/102476441.html?originReferrer=zaozhidao\">华为东风全栈合作车型启动预售 “境”“界”之争无法避免？</a></p><p>苹果裁撤60名VR团队员工 战略重心或转向AI眼镜</p><p><strong>#国际</strong></p><p><a href=\"https://international.caixin.com/2026-08-22/102477026.html?originReferrer=zaozhidao\">美加关税磋商最后关头流局 美国新关税即时生效</a></p><p>伊朗称参与美对伊“经济战”的周边国家将被视为敌人</p><p>中国足协：没有证据表明韩国足协对中国足协相关人士提供过“不当招待”行为</p><p>美国计划偿还联合国部分欠款</p><p>普京：俄军加大力度打击乌方企业</p><p>美官员：约40艘油轮21日晚通过霍尔木兹海峡</p><p><a href=\"https://international.caixin.com/2026-08-21/102476469.html?originReferrer=zaozhidao\">中国瑞士完成自贸协定升级谈判 99.8%瑞士出口中国产品将享零关税</a></p><p><a href=\"https://finance.caixin.com/2026-08-21/102476589.html?originReferrer=zaozhidao\">外资公募水土不服？富达基金回应退出中国：战略无变化</a></p><p>韩国财长表示，单只股票杠杆ETF交易量已缩减至十分之一</p><p><a href=\"https://international.caixin.com/2026-08-21/102476605.html?originReferrer=zaozhidao\">特朗普政府再度施压国际刑事法院 日籍院长赤根智子遭美制裁</a></p><p><a href=\"https://www.caixin.com/2026-08-21/102476486.html?originReferrer=zaozhidao\">美国对中国第五大电池生产商亿纬锂能及其下游客户发起337调查｜出海·能源</a></p>",
+          "source": "财新"
+        },
         {
           "title": "人事观察｜省委书记调整后 湖北省委秘书长彭勇主政襄阳",
           "url": "https://china.caixin.com/2026-08-23/102477204.html",
@@ -140,41 +259,6 @@
           "url": "https://finance.caixin.com/2026-08-23/102477188.html",
           "published": "Sun, 23 Aug 2026 13:58:37 +0800",
           "summary": "<img alt=\"刘挺军。图：视觉中国\" id=\"picture_178746590597915\" src=\"https://img.caixin.com/2026-08-23/178746590597915_840_560.jpg\" /><dl><dt>刘挺军。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>8月22日，在成立30周年之际，泰康保险集团宣布治理结构调整。集团创始人、董事长陈东升不再兼任首席执行官，回归并专注公司战略、团队、风险、文化以及重大事项决策，继续发挥核心领导作用；聘任公司总裁刘挺军出任公司首席执行官。</p><p>　　泰康保险称，这是集团推进新寿险战略，持续加强经营管理团队的专业化、年轻化的主动调整。此决定已于8月20日获第四届七次董事会审议通过。</p><p>　　陈东升于1957年12月出生于湖北天门。1983年，他从武汉大学经济系毕业后，任职于对外经济贸易合作部国际贸易研究所发达国家研究室；1988年起任《管理世界》杂志社副总编。1992年，陈东升在其35岁之际决定下海经商，并于1993年、1994年、1996年分别创立了嘉德拍卖、宅急送和泰康保险，是著名的“92派”企业家代表。</p><p>　　发展至今，泰康保险集团已成为一家涵盖保险、资管、医养三大核心业务的大健康产业头部企业。截至2025年末，泰康保险集团总资产规模达2.29万亿元，当年净利润实现326亿元，是盈利能力最强的非上市险企。</p><p>　　董事会表示，在创始人陈东升的带领下，泰康历经30年，从无到有、由小变大、由弱变强、向善而新，实现了从一家单一寿险公司到综合保险金融服务集团，再到大健康产业头部企业的进化。董事会认为，泰康所开创的长寿时代新寿险模式，正在实践中得到验证；当前公司战略方向明确、落地路径清晰、治理结构高效、业务经营稳健、人才梯队完备，奠定了未来发展的坚实基础。</p><p>　　刘挺军则出生于1972年8月，本硕博均毕业于武汉大学经济学院，获保险专业学士学位，宏观经济学专业博士学位。他于1999年正式加入泰康，是该公司长期培养成长起来的核心高管，历任泰康人寿企划部负责人、泰康资产首席运营官、泰康人寿副总裁、泰康之家首席执行官、泰康健投首席执行官、泰康在线董事长等管理职务，在保险、资管、医养三端都具备多年经营管理经验。自2019年12月起，刘挺军接替1959年出生的刘经纶，担任泰康保险集团总裁兼首席运营官。</p><p>　　泰康保险在公告中称，刘挺军是泰康医养战略和医养事业从零到一的坚定践行者和建设者。本次调整后，集团经营管理团队保持稳定，各项业务持续推进。<a class=\"end_ico\" href=\"https://finance.caixin.com/2026-08-23/102477188.html\" rel=\"nofollow\" title=\"陈东升卸任泰康CEO 总裁刘挺军接任\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "TikTok支付4亿美元和解美国儿童隐私保护诉讼(含视频)",
-          "url": "https://www.caixin.com/2026-08-23/102477163.html",
-          "published": "Sun, 23 Aug 2026 11:41:41 +0800",
-          "summary": "<img alt=\"8月22日，美国司法部宣布与TikTok、字节跳动及其关联实体达成4亿美元（约合人民币27亿元）的和解协议，了结一起涉及美国《儿童在线隐私保护法》（COPPA）的诉讼。图：视觉中国\" id=\"picture_178745787442286\" src=\"https://img.caixin.com/2026-08-23/178745787442286_840_560.jpg\" /><dl><dt>8月22日，美国司法部宣布与TikTok、字节跳动及其关联实体达成4亿美元（约合人民币27亿元）的和解协议，了结一起涉及美国《儿童在线隐私保护法》（COPPA）的诉讼。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>8月22日，美国司法部宣布与TikTok、字节跳动及其关联实体（以下统称“TikTok”）达成4亿美元（约合人民币27亿元）的和解协议，了结一起涉及美国《儿童在线隐私保护法》（COPPA）的诉讼。</p><p>　　根据该和解协议，TikTok将立即支付3亿美元；在法院作出裁定、撤销此前针对TikTok前身Musical.ly下达的同意令（consent decree）之后，再另行支付1亿美元。</p><p>　　这起诉讼始于两年前。2024年8月2日，美国司法部在加利福尼亚州中区联邦地区法院起诉字节跳动和TikTok，指控其违反《儿童在线隐私保护法》及其实施条例，原因是TikTok一直在收集和保留儿童的个人信息。</p><p>　　美国司法部当时指控TikTok允许儿童在未经父母知情或同意的情况下注册账号，并在未经家长同意的情况下收集包括电子邮件、手机号码在内的隐私数据，对于家长要求删除其子女发布内容的要求，TikTok落实也不到位。</p><p>　　这起诉讼之所以会牵扯到Musical.ly，是因为美国联邦通信委员会（FTC）曾因类似问题调查这起并购：2017年12月，字节跳动收购音乐短视频平台Musical.ly，并在2018年8月将TikTok与之合并，曾有大量家长投诉平台不当收集13岁以下儿童信息。</p><p>　　2019年2月，TikTok与FTC达成和解，支付570万美元罚款，承诺遵守COPPA的规定，并下线所有13岁以下儿童发布的视频。这一罚款金额，是当时FTC针对儿童隐私类案件开出的最高金额罚单。（详见：《<a href=\"https://companies.caixin.com/2019-02-28/101385254.html\" target=\"_blank\">因违法搜集儿童隐私信息 字节跳动在美被罚570万美元</a>》）</p><p>　　当时，TikTok认罚后，美国司法部批准了针对该和解拟议的同意令。但由于多年后企业主体已发生变化，将存在两套法院命令并行、义务冲突的局面，法院需要先撤销这一时间在先的同意令。</p><p>　　美国司法部称，8月22日达成的和解金额也是《儿童在线隐私保护法》相关案件史上最高的赔付结果之一，并称自其2024年提起诉讼以来，TikTok在所有权、管理层、合规职能以及隐私实践方面均发生重大调整。</p><p>　　在美国司法部2024年8月发起这项诉讼时，TikTok正处于关停美国业务的边缘。（详见：《<a href=\"https://www.caixin.com/2024-11-13/102256821.html\" target=\"_blank\">分析｜特朗普胜选后TikTok账号涨粉百万，他会放过TikTok吗？</a>》）</p><p>　　TikTok在2025年12月解决了在美国的合规运营问题。字节跳动、TikTok与三家投资者签署协议，成立USDS合资公司，由该合资公司负责TikTok美国的数据保护、算法安全、内容审核及软件保障；而由字节跳动全资控股的、TikTok在美国的其他实体将继续负责电商、广告、市场运营等商业活动，以及TikTok产品的全球互联互通。（详见：《<a href=\"https://www.caixin.com/2025-12-19/102394773.html\" target=\"_blank\">TikTok与投资者签约成立新的美国合资公司 字节保留电商、广告业务</a>》）</p><p>　　美国司法部称，TikTok落实了强化未成年用户保护机制、完善年龄相关管控、加强家长监督权限等举措，“这切实推进了司法部提起诉讼所追求的公共利益，也帮数百万美国家庭提升了保护（其子女的）水平。”</p><p>　　因此，美国司法部认为，这一和解方案达成了司法部保护公众的结果，和解协议既争取到了高额赔付，同时也认可企业已完成的大规模合规整改，符合公众利益，且使其免于冗长诉讼带来的时间消耗与不确定性。</p><p>　　近期，关于未成年人保护问题，TikTok在欧洲又面临潜在处罚。7月24日，欧盟委员会公告称，已向TikTok出具初步调查结论，称其未达到《数字服务法》（DSA）对未成年人账户规定的安全标准。欧盟此次认为TikTok违规和其未成年人账号设置以及推荐机制有关。（详见：《<a href=\"https://www.caixin.com/2026-07-27/102468458.html\" target=\"_blank\">欧盟认定TikTok保护未成年人账户不到位 或将对其处以高额罚款</a>》）</p><p>　　TikTok在欧洲也因合规问题遭遇过多次罚款，比如爱尔兰数据保护委员会（DPC）曾分别于2023年9月、2025年7月对TikTok罚款3.45亿欧元、5.3亿欧元，但这些罚款并未落实，TikTok表示反对且正在上诉。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-23/102477163.html\" rel=\"nofollow\" title=\"TikTok支付4亿美元和解美国儿童隐私保护诉讼\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"http://m.app.caixin.com/m_topic_detail/1542.html?cxapp_topic=1542\" target=\"_blank\">【专题】TikTok在美遇阻始末</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000262.html?cxapp_link=true\" target=\"_blank\">特朗普2.0时代：影响与变局</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "视线｜塔利班重掌政权5年后：贫困、饥饿与女性权利的系统性丧失",
-          "url": "https://photos.caixin.com/2026-08-23/102477107.html",
-          "published": "Sun, 23 Aug 2026 11:21:04 +0800",
-          "summary": "<img alt=\"当地时间2026年8月15日，阿富汗喀布尔，一名男孩手持AK式步枪坐在装饰有塔利班旗帜的车辆中，参加美国从阿富汗撤军及塔利班重新掌权五周年的庆祝活动。图：Nava Jamshidi/视觉中国\" id=\"picture_178745422403442\" src=\"https://img.caixin.com/2026-08-23/178745422403442_840_560.jpg\" /><dl><dt>当地时间2026年8月15日，阿富汗喀布尔，一名男孩手持AK式步枪坐在装饰有塔利班旗帜的车辆中，参加美国从阿富汗撤军及塔利班重新掌权五周年的庆祝活动。图：Nava Jamshidi/视觉中国</dt></dl><p>　　<b>【财新网】</b>当地时间2026年8月15日，塔利班领导人齐聚喀布尔传统的支尔格大厅，庆祝重新掌权5周年。据美联社现场报道，塔利班领导人宣称其带来了稳定并终结了数十年的冲突，副总理阿卜杜勒·萨拉姆·哈纳菲称过去每天有300名阿富汗青年死于冲突，而“伊斯兰酋长国”统治终结了这一悲剧。</p><p>　　2026年8月14日，在联合国安理会媒体站访简报会上，安理会当月轮值主席国代表、丹麦常驻联合国大使拉森（Christina Lassen）代表包括英国、法国、德国、日本、黎巴嫩、美国和阿联酋在内的56个国家在联合国发表联合声明，声明称对妇女女童的系统性压制已成为塔利班统治的决定性特征，呼吁阿富汗停止所有歧视性的政策和法律，恢复女性受教育权，并表达对收缩的公民空间的担忧。</p><p>　　国际组织与媒体陆续发表5周年报道或报告，聚焦阿富汗5年后普遍的社会经济危机和人道主义灾难。</p><p>　　“阿富汗的每个人都在挣扎。沉重的贫困摧残着人们的精神，许多家庭甚至开始担心孩子能否活下去。喀布尔已经沦为一座乞丐之城。”2025年5月，阿富汗在线新闻媒体《八点早报》（Hasht-e Subh Daily）记者Amin Kawa采访的前政府公职人员法尔努什（Farnoush）时，法尔努什感慨道。在塔利班重新接管阿富汗喀布尔五周年之际，对于数百万阿富汗人而言，生存压力与心理危机只增不减。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745422539927.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745422539927.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月13日，阿富汗加兹尼省，一名身着罩袍的阿富汗女性走过纪念塔利班掌权五周年的壁画。图：Mohammad Faisal NAWEED/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745422675661.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745422675661.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月15日，阿富汗喀布尔，儿童乘坐车辆并挥舞塔利班旗帜，庆祝美军撤离阿富汗及塔利班重新掌权五周年。图：Nava Jamshidi/视觉中国             </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745422815698.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745422815698.jpg\" /></a></div><div class=\"article_img_talk\">                2026年8月14日，拉森大使在联合国安理会媒体站访简报会宣读56国联合声明。图：联合国官网截图            </div></div>  <p>　　2026年6月22日，欧盟官员首次在布鲁塞尔接待了塔利班代表团讨论移民问题。而在当前的形势下，没有证据表明被遣返的阿富汗人能免于人道主义灾难。</p><p>　　联合国数据显示，2025年，有74%的阿富汗人处于“生存不安全”状态，约2800万人（约占总人口四分之三）陷入贫困，失业现象普遍存在。城市地区的贫困部分源于就业机会匮乏，阿富汗城市的劳动力市场已严重饱和，失业劳工甚至难以找到低薪的日结零工。《八点早报》援引世界银行2024年报告指出，阿富汗近70%的人口面临失业，四分之一的青年处于无业状态，仅有五分之一的家庭拥有稳定收入来源。2025年，人口快速增长，投资疲弱以及不断加深的经济结构性制约，导致人均GDP下降5.6%。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745422941744.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745422941744.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2022年12月16日，阿富汗喀布尔，在拥挤的街道上，阿富汗兄弟瓦哈布和塞卡德为他们的7口之家擦鞋。由于工作需要，兄弟俩每天只能在志愿者建立的学校接受1-2小时的教育。 图：Sayed Khodaiberdi Sadat/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423091173.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423091173.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2025年8月5日，阿富汗喀布尔，阿富汗民众向当局登记，申请前往卡塔尔务工。超过1.5万名阿富汗人登记了前往卡塔尔务工的劳务项目，远超塔利班政府与卡塔尔多哈之间商定的3100个劳工配额。喀布尔各登记中心的大量登记人员凸显了阿富汗日益严重的失业危机，全国各地的公民在经济困难时期寻求难得的海外就业机会。图：SAMIULLAH POPAL/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423227768.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423227768.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月14日，阿富汗坎大哈，学员在职业技能培训班上学习汽车电气系统相关操作。次日为世界青年技能日，阿富汗许多年轻人仍面临职业技能学习和就业机会有限的问题，凸显劳动力发展领域持续存在的挑战。图：QUDRATULLAH RAZWAN/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423383597.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423383597.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月14日，阿富汗喀布尔，一名男孩和一名女子乘坐汽车的开放式后备箱，当天是美国撤军及塔利班开始统治五周年的前夕。图：Nava Jamshidi/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423523570.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423523570.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月12日，阿富汗喀布尔，西蒙（sima）在6个月大的孙女墓前掩面哭泣。这是她女儿迪巴的孩子，于冬季去世。西蒙来自阿富汗北部的马扎里沙里夫，她认为自己大概60岁但不清楚具体年龄，靠乞讨和收集可重复使用或出售的物品来支撑大家庭。图：Nava Jamshidi/视觉中国            </div></div>  <p>　　受巴基斯坦的边境紧张局势以及伊朗遭受地区军事打击的影响，阿富汗的跨境贸易与过境通道功能被严重削弱。在农业产量下降、粮食需求上升和贸易中断的作用下，通胀率从此前平均3.6%攀升至2026年3月的7.6%。阿富汗新闻媒体Khaama Press援引联合国世界粮食计划署（WFP）数据指出，过去一年阿富汗基础食品价格大幅攀升，极低的用工需求与高企的物价严重削弱了民众的购买力，迫使绝大多数家庭只能依靠借债或削减餐次艰难度日。更极端的情况下，贫困家庭会诉诸童工与童婚来缓解经济上的燃眉之急。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423667318.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423667318.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2025年7月24日，阿富汗赫拉特省伊斯兰堡边境口岸，阿富汗志愿者阿卜杜勒·卡迪尔·萨利希（左）搬运救援物资，准备分发给从伊朗遣返的新抵达阿富汗移民。在与伊朗接壤的边境地区，志愿者们向被迫返回阿富汗的民众分发食物和卫生用品。自2025年初以来，已有超过160万阿富汗人（包括许多儿童）在被伊朗驱逐或遣返后越过边境，伊朗指责他们加剧了失业和犯罪问题。图：Mohsen KARIMI/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423799046.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423799046.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年6月24日，阿富汗楠格哈尔省托尔哈姆，从巴基斯坦返回的阿富汗返乡人员抵达阿巴边境零点口岸后登上巴士。他们在巴基斯坦收拾行李后拖着行李箱穿越边境，带着全部家当回国，但往往缺少重启生活所需的关键物品：身份证。图：Aimal ZAHIR/视觉中国             </div></div>  <p>　　难民回流潮更让本已脆弱的经济雪上加霜。挪威难民署（NRC）报告指出，自2023年9月以来，巴基斯坦和伊朗已强行遣返约600万阿富汗人，他们被迫回到没有能力吸收他们的经济体系和劳动力市场中。国际移民组织（IOM）与挪威难民署（NRC）的数据显示，大部分返乡者没有任何房产或土地，返乡者中高达73%仍处于失业状态，谋生机会极其有限。</p><p>　　<b>气候危机加剧的饥荒与贫困</b></p><p>　　2026年7月，国际助农组织（ActionAid）发布的案例研究指出，阿富汗被列为全球气候脆弱性最高的国家之一，近70%的人口依赖农牧业，持续性干旱已波及34个省份中的25个，导致作物绝收、牲畜死亡，超过1100万人受灾，67%的家庭报告受到旱灾冲击，58%的社区将干旱列为致使人口流离失所的关键驱动因素。联合国人道主义事务协调厅（OCHA）在走访巴米扬省等重灾区时也证实，在远离阿富汗主要城市的偏远地区农村，因多处水源枯竭，农作物干枯，有时整个村庄不得不因此搬离。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745423934526.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745423934526.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2025年6月18日，阿富汗巴米扬省希巴尔区，阿富汗哈扎拉族女孩在一个村庄的水渠中取水。国际组织警告称，阿富汗人正在经历水资源方面的气候危机，并强调女性面临的风险尤其高。女性和女孩传统上需要进行越来越长的路程来取水，而自塔利班政府上台并对女性的行动、教育和工作施加限制以来，取水变得更加困难。图：Mohammad Faisal NAWEED/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424087265.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424087265.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月3日，阿富汗坎大哈，阿富汗儿童从政府管理的社区水罐车中取水。联合国人道主义事务协调厅（OCHA）警告称，到2026年，阿富汗近1600万人可能面临清洁用水、卫生设施和医疗服务短缺问题，儿童是主要受影响群体。该机构表示，气候变化、水资源减少和长期干旱正在加剧人道主义需求，并呼吁国际捐助者继续支持该国脆弱社区用水和卫生项目。图：QUDRATULLAH RAZWAN/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424233551.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424233551.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2025年7月10日，阿富汗巴尔赫省查哈尔博拉克区，气候难民马鲁夫带着女儿，准备从遭受干旱的萨尔巴隆村庄迁走。图：Atif Aryan/视觉中国            </div></div>  <p>　　洪灾同样造成了广泛破坏。2025年5月，干旱季节过后，阿富汗多个省份遭遇强降雨导致的“毁灭性洪灾”，在楠格哈尔、库纳尔和巴格兰等受灾省份，超过5000个家庭流离失所，约315人死亡，近2.4万公顷农田被毁。</p><p>　　由阿富汗女性创立的非营利调查新闻机构Zan times，援引塔利班灾害管理机构宣布的数据声明，2026年自3月下旬以来，因自然灾害导致的死亡人数已达189人，250人受伤。7047栋房屋、9217英亩农田，以及数百公里的道路和供水网络已被摧毁，并进一步破坏已经非常薄弱的卫生系统、公共服务和社区基础设施。</p><p>　　作者Qayum Sabur指出，虽然塔利班在公布自然灾害受灾数据上非常配合，但这更多是出于吸引国际援助资金的目的，而非回应受灾普通民众的需求。塔利班迄今未能建立起有效的自然灾害应对体系，相关部门负责人多仅具备宗教教育背景，缺乏水资源管理与防灾治灾的专业知识，也没有制定战略来长期应对干旱和洪水的挑战。在去年干旱达到顶峰、冲击农牧业时，塔利班领导人海巴图拉·阿洪扎达选择的应对措施是“呼吁民众祈雨”。这导致阿富汗民众在应对洪旱灾害时极度脆弱。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424373658.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424373658.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月24日，阿富汗帕尔旺省戈尔班德区，阿富汗居民从废墟中抢救物品。7月21日，阿富汗东部一场大洪水冲毁一个省份，造成至少23人死亡，暴雨和进一步洪水的预警使数十名失踪居民的搜救工作受阻。图：视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424519562.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424519562.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年4月2日，阿富汗坎大哈，一名男子查看暴雨造成的损毁。据灾害应对部门称，坎大哈省的暴雨和洪水已损毁或冲毁约250所房屋，迫使约200个家庭撤离。当局表示，阿尔甘达卜、达曼和杰里地区数十个家庭受到影响，另有数百人因夜间降雨和山洪遭受经济损失。图：QUDRATULLAH RAZWAN/视觉中国            </div></div>  <p>　　在经济衰退、干旱与国际援助削减的多重打击下，阿富汗暴发严重粮食危机。世界粮食计划署（WFP） 发出警报称，阿富汗有1400万人面临严重饥饿，而其中仅有九分之一能够获得该组织的粮食援助。联合国新闻（UN News）指出，资金萎缩意味着数百万严重营养不良的阿富汗儿童在生命垂危之际被拒之门外，向5岁以下儿童分发的专门营养食品项目已于2025年5月完全停止，这将导致“原本可以预防的死亡”。即将到来的冬季或将成为饥荒真正的爆发点，目前WFP仍需要5亿美元来应对该国的紧急粮食需求。</p><p>　　世界粮食计划署阿富汗国家代表对美联社（AP）表示：“我们接到越来越多来自妇女的求助甚至绝望寻短见的电话，因为她们实在不知道该如何喂养孩子，也不知道能向谁求助。”</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424669614.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424669614.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月30日，阿富汗喀布尔，阿富汗难民领取由萨勒曼国王人道主义援助和救济中心（KSRelief）捐赠的食品配给。萨勒曼国王人道主义援助和救济中心（KSRelief）向喀布尔的返乡家庭分发食品篮，这是针对阿富汗全国3000个家庭的分阶段人道主义援助行动的一部分。图：SAMIULLAH POPAL/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424797072.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424797072.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年2月15日，阿富汗喀布尔，妇女在英迪拉·甘地儿童医院的营养不良病房照顾孩子。图：Siddiqullah Alizai/视觉中国            </div></div>  <p>　　在干旱绝境与经济压迫下，部分偏远地区的家庭被迫将未成年女儿嫁出换取聘礼，购买水和食物。</p><p>　　根据联合国儿童基金会（UNICEF）2023年发布的数据，阿富汗约有29%的女孩在18岁前结婚，近10%在15岁前结婚。塔利班2026年4月颁布的《配偶司法分离法》事实上进一步降低了对童婚的限制，因为它取消了16岁最低婚龄限制，规定女性的“沉默”可被视为对婚姻的同意，允许男性亲属在儿童任何年龄将其嫁出。这些儿童只有在进入青春期后，才可在极受限的情况下向法庭申请宣告婚姻无效。</p><p>　　由阿富汗流亡女记者创办、依靠境内地下女性记者网络运作的独立新闻机构Rukhshana Media 报道了居住在喀布尔贫民区的玛利卡（Malika）一家的遭遇。“我把女儿嫁出去，是为了不让我们全家饿死。”玛利卡说道。然而，在将长女以 20 万阿富汗尼（约合2,270英镑）的礼金嫁出后，她12岁和9岁的两个女儿仍然不得不在服装厂打工，争取薄弱的工资补贴家用，丈夫长期失业，靠推手推车谋生，彩礼钱几乎已经耗尽。另一位接受采访的13岁女孩尼洛法来自巴米扬，2025年完成了六年级学业后已无法继续接受教育。她的父母安排她与一位从未见过的年长亲戚订婚。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745424940561.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745424940561.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2025年6月22日，阿富汗马扎里沙里夫郊区，阿富汗女孩在一家砖窑工作。图：Wakil KOHSAR/视觉中国            </div></div>  <p>　　年轻的女孩结婚后，面临的是几乎没有任何保护的婚姻和家庭暴力的风险。Zan Times报道指出，塔利班执政后，由于普遍的贫困和家庭成员失业，家庭内部问题和摩擦增多，阿富汗女性变得更容易暴露在家庭暴力的风险中。而在塔利班治下，受害女性几乎失去了所有法律保护与避难渠道：塔利班执政后废除了原有的《消除对女性暴力法》（The Elimination of Violence Against Women(EVAW) Law），并关闭了全国所有的女性避难所，并将女性法官、检察官及独立律师驱逐出司法系统。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457070781.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457070781.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2023年2月1日，阿富汗，Marwa是一名离婚妇女，正在洗碗。为了保护她，她在阿富汗一处秘密地点接受采访。Marwa多年来一直受到前夫的虐待，连牙齿都被打掉了。塔利班指挥官撕毁了她的离婚协议后，她带着8个孩子躲了起来。图：Luana Sarmini-Buonaccors/视觉中国            </div></div>  <p>　　<b>性别隔离与心理健康危机</b></p><p>　　自2021年9月起，塔利班逐步禁止女孩接受中学及以上教育，并剥夺了女性绝大多数工作权利，至今已颁布近100项限制女性权益的法令。联合国教科文组织（UNESCO）在2026年8月发布的最新统计数据说明，5年来约240万女孩被剥夺了受教育权。</p><p>　　然而，多个地下秘密学校在阿富汗各地出现。地下学校隐秘地为年龄较大的女孩授课，往往依托伊斯兰课程作为掩护。它的存续依赖社区与家长的默许保护、教师承担的巨大个人风险，以及极其微薄的国际援助维持。部分学校不仅教授女童，也为被剥夺教育机会的成年女性提供课程。2026年1月，加拿大非政府组织“Right to Learn Afghanistan”的执行主任Lauryn Oates在接受CBC采访时，将这种现象形容为“一整套自发形成、自我组织，但资源极度匮乏的平行教育体系”。</p><p>　　Oates所在的组织一直在跟踪统计阿富汗继续教育女孩的机构数量。她们最新的数据显示，阿富汗共有201家教育机构，这些机构中近三分之二由阿富汗人领导，平均每家支持948名学生。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457200241.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457200241.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2022年7月28日，阿富汗首都喀布尔，一名女孩从一所地下学校的门口望出去。对于阿富汗的大多数少女来说，她们已经有一年没有踏进教室了。没有迹象表明执政的塔利班会允许她们重返学校，一些女孩和家长正试图找到方法，让教育不再阻碍一代年轻女性的发展。图：Ebrahim Noroozi/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457310375.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457310375.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2024年2月17日，阿富汗赫拉特，在塔利班统治下，女孩被禁止在六年级后上学。这所地下学校继续为年龄较大的女孩提供教育。图：Fariba Akbari/视觉中国            </div></div>  <p>　　总部位于多伦多的组织“达里查学校”（Daricha School）所支持的阿富汗地下教室网络是这类地下学校网络其中之一。该组织由阿富汗前大学讲师、2002至2013年间曾任阿富汗政府官员的哈兹拉特·瓦里兹（Hazrat Wahriz）创办。据CBC报道，“达里查学校”一共支持着175名教师和6,000多名学生，授课内容涵盖数学、科学和英语等课程；学校常常将隐秘的课堂设在教师家中，女孩们则盘腿坐在地板上、伏在作业本前学习。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457440984.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457440984.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月6日，阿富汗喀布尔，阿富汗女孩（左）在住所内由父亲授课。图：视觉中国            </div></div>  <p>　　2026年4月，关注女性权利的媒体The Meteor，报道了另一家阿富汗本地非政府组织秘密运营的地下学校网络。该组织一共运营着5所地下学校，聘用28名教师，为大约1000名13至45岁的女性提供免费教育。在校学生和老师都面临着极高的风险，因为如果被塔利班发现，教师可能直接面临监禁，学生也可能遭遇逮捕和殴打。因此，为了接受教育，学生们下课后必须错开时间、逐一离开，避免引人注意。如果怀疑被跟踪，就更换回家路线。书本一律留在家中，不能带出门。一旦被抓，学生需要谎称自己是去宗教学校。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457566532.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457566532.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年6月18日，阿富汗坎大哈，一名阿富汗男子看着女孩们走向一所伊斯兰学校。法新社采访的多位阿富汗父亲谈及禁止女儿接受小学以上教育的禁令时都绝望哽咽。法新社在全国范围内进行的采访显示，这一禁令在私下造成的痛苦和绝望显而易见，甚至虔诚的父亲也对该裁决提出质疑。图：Sanaullah SEIAM/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457682227.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457682227.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2022年7月25日，阿富汗某秘密地点，女孩们在秘密学校内学习。图：Daniel LEAL/视觉中国            </div></div>  <p>　　然而，地下学校的艰难维系无法掩盖系统性限制带来的长远毁灭性打击。禁止女性接受中等和高等教育，意味着女性专业人才的流失。UNICEF 警告称，照此趋势，到2030年阿富汗可能面临失去多达2万名女教师和5400名女性医疗卫生人员的风险。</p><p>　　因性别隔离造成的医疗资源危机已经初见端倪。自2024年塔利班进一步禁止女性从事助产和护理工作后，医疗体系遭受重创。资金削减、药品短缺与产科工作人员缺口，导致孕产妇及婴儿死亡率居高不下。2024年预估数据显示，阿富汗孕产妇死亡率为每十万名活产婴儿对应638例，位居亚洲最高、全球第七。此外，虽然塔利班从未正式公布堕胎禁令，但避孕服务的渠道亦逐步被大幅切断。多名女性向Zan Times表示，她们正被困在被迫怀孕、因家暴流产以及缺乏医疗照护的恶性循环中。</p><p>　　阿富汗前迈丹沙赫尔市（Maidan Shahr）首位女性市长扎里法·加法里（Zarifa Ghafari）在接受Rukhshana Media采访时总结道：阿富汗妇女和女孩正经历着“现代历史上最快、最系统性的女性权利倒退”。女性劳动力参与率已从塔利班执政前的约六分之一降至如今的约二十分之一。据联合国估计，对女性的全面限制预计导致阿富汗经济在 2024至2026年间损失近9.2亿美元。</p><p>　　UN Women阿富汗特别代表苏珊·弗格森（Susan Ferguson）在8月14日联合国的新闻发布会上表示，“我们调查的3200名女性中，超过一半的人表示她们如今每月只出门一到两次。近四分之三的人表示，若没有男性监护人陪同，她们不敢外出。超过一半的人表示会完全回避市场、医疗机构等公共场所……我们调查的女性中，十分之七将自己的心理健康状况描述为‘差’或‘非常差’。”</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178745457790636.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178745457790636.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月16日，阿富汗喀布尔，萨米拉·纳兹创办的裁缝工坊内，阿富汗女性正在参加培训。萨米拉·纳兹是一名无法接受教育的阿富汗女孩，她开设的免费裁缝工坊为无法继续学业的女孩和年轻女性提供职业培训。18岁的萨米拉·纳兹表示，她创办工坊是为了“支持那些学校被关闭的女孩”。在阿富汗对女孩中等教育的限制持续存在的情况下，已有数十名女性报名参加。图：SAMIULLAH POPAL/视觉中国            </div></div>  <p>　　外部安全环境的恶化进一步加剧了阿富汗民众的生存危机，地区不稳定性持续削弱阿富汗经济与民生前景。巴基斯坦在跨境军事打击不断升级后，宣布自己与阿富汗处于“公开战争”状态，两国的对抗已演变为近年来最严峻的军事冲突。</p><p>　　因据称受到跨境恐怖袭击的持续威胁，近年来，巴基斯坦在阿富汗境内发动多轮跨境空袭。2026年3月16日，巴基斯坦空袭击中喀布尔一家戒毒康复中心，联合国阿富汗援助团（UNAMA）认为该事件造成至少269人死亡、122人受伤。巴方否认打击平民设施，称袭击目标是“喀布尔的军事设施”。</p><p>　　与日益严峻的人道需求形成鲜明对比的，是国际社会援助资金的急剧萎缩，联合国人道协调厅（OCHA）公布的数据显示，阿富汗2026年度人道主义响应计划（HNRP）所需的17亿美元资金中，截至8月中旬仅到位26%（缺口约13亿美元）。 联合国妇女署已经发出警示：目前仍在阿富汗运作的妇女组织中，超过半数可能将因为资金问题面临暂停或关闭。</p><p>　　国际救援委员会（IRC）阿富汗项目负责人 Bostan Fahim 直言，在阿富汗饥荒危机达到有记录以来最严重的时刻，“世界却撤回了应对危机所需的资金。IRC在阿富汗工作了近四十年，我们从未像现在这样无力应对眼前的需求。”</p>",
-          "source": "财新"
-        },
-        {
-          "title": "《欢迎来龙餐馆》：战事之下安有完卵，好好吃饭已成奢侈｜影视",
-          "url": "https://mini.caixin.com/2026-08-23/102477106.html",
-          "published": "Sun, 23 Aug 2026 10:39:09 +0800",
-          "summary": "<p>　　<b>【财新网】</b>《欢迎来龙餐馆》是今年暑期档第二部在零宣发前提下“空降”定档的新片（详见<a href=\"https://www.caixin.com/2026-08-17/102474710.html\" target=\"_blank\">《票房｜《欢迎来龙餐馆》大幅领先《奥德赛》 《牛来》票房破900万元(含视频)》</a>），上映13天，票房近15亿元，预测票房25.17亿元，超目前所有热映影片。</p><h2 class=\"cx-app-content-subheads\">战事之下安有完卵</h2><p>　　民间流传一句话，“有什么别有病，没什么别没钱”，故事的开篇就是从欠债讲起。徐福（沈腾 饰）为了还债远赴中东，成为当地一家中国味餐馆龙餐馆的厨师，小半年后虽亲历战事爆发，龙餐馆却一度成为“永远有水、有电、有热汤，只有和平和美食”的“世外桃源”，甚至夜夜笙歌。</p><p>　　战事之下，不论前期的美好能持续多久，但注定最终是一场泡影，死亡才是战争无法绕开的主题词。</p><p>　　美军攻打、党派纷争、武装夺权接踵而来时，龙餐馆老板扎伊德（谢里夫·萨比 饰）虽为水利部官员，但也毫无特殊庇佑，反倒成为影片中第一个以长时间篇幅详细描绘其悲惨境遇的人。上一刻还是温馨的一家三口，下一刻妻女就在其身侧中枪而亡，为突出悲情色彩，此前还特别强调了扎伊德女儿患病，这也为此次遇害埋下伏笔。</p><p>　　华裔美军士兵托尼（李治廷 饰）是龙餐馆的常客，他虽未前往交火前线，但仍命丧异国。尽管此前他气势汹汹地说自己是一等兵，看似无所畏惧，但还是会因好友的离去产生应激反应，远方的家更成为其不可触碰的逆鳞。此前，或在酒精的刺激下，或因最好的朋友被打死，再或者因为龙餐馆里有半个老乡的情愫，托尼就在龙餐馆里喊出过“去他的战争”的心声。</p><p>　　龙餐馆经理马俊生（蒋奇明 饰）和徐福同为中国人，不同的是马俊生欲扎根于此，自幼在福利院长大的经历，让他对处于战事中的孤儿多了一份偏爱，后为拯救这些被利用的孩童而毙命，徐福也险些被杀。</p><p>　　在战火纷飞的土地上，任何人的生存都成了一件侥幸的事情。放眼世界，战事其实从未停止，奥斯陆和平研究所（Peace Research Institute Oslo，PRIO）的数据显示，2025年有24.5万人死于战事相关暴力事件，当年国家间冲突数量达到二战结束以来最高水平。</p><p>　　另据联合国数据，2025年全球有907名人道主义援助人员遇害、受伤或被绑架，创历史最高记录，其中遇害者有350人，遇难人数最多的地区是加沙地带。此外还有维和人员，目前殉职总人数近4500人，21世纪以来，每年为建设与维持和平事业而牺牲的维和人员都超百人。</p><h2 class=\"cx-app-content-subheads\">身处战事的孩子</h2><p>　　战事地区的孩童活着就已拼尽全力，战乱随时可能夺走他们的生命，活着又要面对饥饿这种基础性生存问题。</p><p>　　《欢迎来龙餐馆》反复强调要“好好吃饭”，对于这些孩童虽属不易，但他们却又是这句话最强执行者。他们与主角徐福初次相遇就因偷拿食物，当徐福能为他们提供有吃有住的庇佑之所时，他们自然也成为龙餐馆的好帮手。</p><p>　　同样，这些孩童也可能成为武装冲突中被利用牺牲的对象。影片中的一些孩子为不再挨饿，成为极端分子手中的人肉炸弹。联合国2026年报告显示，2025年，发生在各类武装冲突中的侵害儿童事件达近4万起，其中杀害和重伤是最频发的侵害行为，招募儿童入伍也包含在内。影片中也特别注明，2005年—2022年，全球遭冲突方招募并使用的儿童超10万人，每天约有20名儿童因战争而亡。</p><p>　　赛夫（奥马尔·谢里夫 饰）是影片中战争孤儿这个群体的代表性人物，艺术处理上，将徐福和马俊生对这些孤儿的关注放大聚焦在了赛夫身上。</p><p>　　不难看出，徐福对赛夫完全是中国家长的含蓄表达，嘴上“嫌弃”，却依然收他为徒，赛夫犯错，徐福看似絮叨，实则更关心他受伤与否。虽然没有暖心的言语表达，徐福和马俊生对赛夫的情更多藏于行动中，比如会第一时间反驳外界对赛夫粗言秽语，对于在特殊环境中成长的赛夫，二人做的更多的是在他即将陷入歧途时将其拉回。</p><p>　　在孩童成长期，朝夕相伴的父母作为引路人，言行举止对孩子有深远影响。以赛夫为主的这些孩童成长后的故事虽然留有半开放式的遐想空间，但不难感受到，徐福和马俊生作为长期亲密接触的人，对其成年后的影响都是显现的。</p><h2 class=\"cx-app-content-subheads\">简单的幸福</h2><p>　　徐福后续遭遇的一连串苦难本质是贪性作祟，不过只有痛彻心腑的经历，乃至生死浩劫后，才能促使他产生他人看起来难以理解的大彻大悟。回国后的徐福再没出远门，此刻他才意识到，没有比陪在家人身边和好好吃饭更重要的事了。</p><p>　　影片最终定格的画面不是徐福回国后幸福半生，是他看着龙餐馆收留的诸多孤儿们在一场婚宴上享受美食，他从内心流露出的笑容，幻想也好、回忆也罢，无惧当下，好好吃饭成为此刻最幸福不过的事。</p><p>　　婚宴新郎的饰演者王立轩是伊拉克演员，他被中国观众熟知是2024年春节，视频中他正在吃饭，鞭炮声响传来时，让他惊悚地愣神几秒，随后是一种略带自嘲无奈的苦笑。9岁时，王立轩一只耳朵的耳膜被空中砸下的导弹震破。初到中国，他听到汽车鸣笛都感害怕，至今，已经是他在中国的第12年，王立轩近日接受媒体采访时称，“好好吃饭”这种日常依然“是一件很伟大的事情”。</p><p>　　伊拉克籍的迪拜中阿卫视驻华记者方浩明也在影片中客串出演餐馆服务员，他称影片中的很多情节小时候经历过，“当时唯一的梦想就是能够好好吃一顿饭”。</p><p>　　三餐四季，只道是烟火寻常，在炮火连天的地区，微不足道的日常已是难觅的幸福。<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-08-23/102477106.html\" rel=\"nofollow\" title=\"《欢迎来龙餐馆》：战事之下安有完卵，好好吃饭已成奢侈｜影视\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "狩猎的余韵：唐三彩褐釉野猪｜收藏",
-          "url": "https://mini.caixin.com/2026-08-23/102477087.html",
-          "published": "Sun, 23 Aug 2026 10:03:16 +0800",
-          "summary": "<img alt=\"唐三彩褐釉野猪，长22cm，来源：浦上苍穹堂，东京。笔者购藏当天拍摄于浦上苍穹堂。\" id=\"picture_178744995865417\" src=\"https://img.caixin.com/2026-08-23/178744995865417_840_560.jpg\" /><dl><dt>唐三彩褐釉野猪，长22cm，来源：浦上苍穹堂，东京。笔者购藏当天拍摄于浦上苍穹堂。</dt></dl><p>　　这尊唐三彩褐釉野猪，初见于浦上满的书架。豕之母题，历代演进皆有殊相。昔日闲谈间一瞥，其古拙浑厚，竟令我误作汉代遗存。实则，此乃一尊体量硕大、存世颇为罕见的唐代重器。釉面肆意漫流，定格了其如在暴雨中前行的张力，隐现唐代“绞胎”之神韵。那几近失控的横向流淌，令人想起波洛克的笔墨滴洒，有着当代的力量和美感。令人费解的是，陶塑既是直立入窑烧制，缘何会凝结出如此反重力的流动感？这个疑问与强烈的视觉余像，在脑海中反复激荡。藏家往往容易因一处细微触动而生执念；既已入眼入心，何不顺势而为，纳为己藏。</p><p>　　浦上苍穹堂由东京著名古董商浦上满所创，其底蕴深植于家学。其父浦上敏朗乃山口县萩市的著名藏家，其收藏以越窑青瓷见长，数量蔚为大观，其中青蛙水盂系列与越窑青瓷羊等动物形制器物更堪称绝品。日本经济腾飞之际，浦上满常随父亲游历四方，甚至带队远赴欧洲，将西方旧藏整批接回。早年在茧山龙泉堂的修业经历，加上后来独立于日本桥开设古董店，为他打下了坚实的专业根基。据悉，他早年深耕香港市场，常以集装箱为单位海量购藏中国艺术品，这段大浪淘沙的实战经历，淬炼出他极其敏锐的眼力。</p><p>　　浦上敏朗后来将大半生心血悉数捐赠予山口县立萩美术馆·浦上纪念馆。本以为能继承家藏的浦上满，对此卻颇为豁达——毕竟这些珍宝最终有了最好的归宿。近期交流时，谈及一件北齐骆驼，他还打趣说，那原是父亲早年送他的礼物，不料后来竟一并“被捐掉”了。或许正是这种深厚的家学渊源与早年的熏陶，使得他在面对古代艺术品时，对动物雕塑的感知与共鸣，始终有着异于常人的敏锐与偏爱。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744996198140.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744996198140.jpg\" /></a></div><div class=\"article_img_talk\">                唐三彩褐釉野猪，长22cm，来源：浦上苍穹堂，东京。            </div></div>  <p>　　浦上满的审美偏好与市场号召力，在近期的拍卖市场中已得到印证。在早前举行的冈田美术馆专场拍卖第一部分中，一件传承自浦上苍穹堂的隋至初唐白釉鹦鹉来通杯，以高达1818万港元落槌，强势刷新同品种世界纪录。延续此一市场热度，即将于2026年9月4日举槌的冈田美术馆第二部分专场，其封面拍品再度锁定一件源自浦上满旧藏的唐三彩狗。笔者曾在<a href=\"https://opinion.caixin.com/2025-11-26/102386864.html\" target=\"_blank\">《冈田拍卖专场：最贵却也最便宜｜艺拍洞察》</a>一文中，将这件气韵生动的立体雕塑冠以唐三彩“狗王”之称。近年来，早期动物雕塑类藏品因其独特的学术价值与当代审美契合度，正受到顶级藏家与机构的广泛追捧。顺应这股市场东风，苏富比此次的排兵布阵可谓精准，业内普遍预期，這件唐三彩狗的最终成交价，极有望以数倍乃至数十倍于估价的惊人成绩易手。</p><p>　　冈田美术馆的馆藏大多由壶中居经手，其无疑是冈田和生最重要的艺术顾问。笔者曾在前文论及，壶中居经营颇为传统保守，惯常将经手器物的既往传承悉数抹去。相比之下，浦上满处理这件唐三彩狗时，却大方保留了其显赫的历史坐标——它早在 1928 年或更早之前，便已是细川护立侯爵的旧藏，并屡见于重要著录出版。从细川家族、壶中居，再经浦上苍穹堂流转至冈田和生，这条清晰有序的递藏脉络，无疑为狗王的历史厚度迭加了无形的溢价。浦上满曾坦言，售予冈田和生的作品其实屈指可数。但端视这两场拍卖的强劲势头与市场回馈，不难预见，由浦上苍穹堂亲自甄选、背书的动物类雕塑，求质不求量的信念，未来在二级市场上势必拥有更为可观的溢价空间。资本的流向，历来是艺术品定价与流转的终极引力。近一年来，不少藏家与从业者甚至将与浦上满的私交作为营销噱头，虽略显戏谑，却也从侧面印证了浦上苍穹堂这块金字招牌的当前势能与上升期许。</p><p>　　笔者购藏唐三彩褐釉野猪的时机，恰在冈田拍卖引发市场热潮之前，其初衷并非为了追逐特定名家背书所带来的资本溢价。近期因梳理唐三彩狗王的历史与市场脉络，得以将这件案头藏品置于更广阔的学术坐标中去重新比对。拂去名家传承与资本溢价的滤镜，竟也意外发现这件作品在体量、动势与窑火气韵上，皆属同类中的佼佼者。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744996576258.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744996576258.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744997080499.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744997080499.jpg\" /></a></div><div class=\"article_img_talk\">                唐三彩褐釉野猪，长22cm，来源：浦上苍穹堂，东京。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744997502811.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744997502811.jpg\" /></a></div><div class=\"article_img_talk\">                唐三彩褐釉野猪，长21cm，东京国立博物馆。            </div></div>  <p>　　纵观全球公私收藏，与本品同型的唐代褐釉野猪，大致可按尺寸归纳为三种规格：其一为长度约 5 公分之微型；其二为长度约 10 公分之小型；其三则是长度逾 20 公分之大型重器。在体量较大的第三类中，东京国立博物馆藏有一件尺寸相仿之例，其釉色为纯正的琥珀色，然相比之下，略欠本品那种横向流淌的窑火动感。西雅图艺术博物馆亦藏有两例，惟尺寸分别为 5.3 公分与 13.5 公分，属中小型之列。公开市场方面，2020 年香港佳士得曾释出一件由伦敦著名古董商埃斯肯纳齐（Eskenazi）旧藏的大型同款，尽管当时市场正处低谷，仍以约20万港元易手。</p><p>　　中国器物史上猪的造型，实则是一部从原始图腾走向写实雕塑的演进史。早在距今约7000年的河姆渡文化，猪纹黑陶钵上便已出现介于野猪与家猪之间的形象。至红山文化（距今约5000至6000年），猪首与龙身结合而成玉猪龙。及至商周，上海博物馆的青铜猪尊与三星堆出土的陶猪，虽材质有别，却皆承袭了早期浑圆拙朴的意趣。汉代随葬的陶猪，属于家猪，往往与陶制猪圈相伴。然而，当历史轴线推移至唐代，三彩野猪的造形语汇发生了本质转变：褪去早期的符号化与图腾感，转向极致的写实，已完全具备当代语境下的雕塑属性。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744997696335.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744997696335.jpg\" /></a></div><div class=\"article_img_talk\">                河姆渡文化，黑陶钵。            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744997915460.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744997915460.jpg\" /></a></div><div class=\"article_img_talk\">                章怀太子墓道东壁《狩猎出行图》            </div></div>  <p>　　这种风格的突变，或许跟唐代宏大的宫廷狩猎文化有关。有唐一代，受李唐皇室的游牧部族血统影响，狩猎不仅是军事训练与政治展演，更是贵族阶层最核心的生活方式。《新唐书·百官志》中即有载，皇家设有专门掌管狩猎的五坊（雕坊、鹘坊、鹞坊、鹰坊、狗坊），皇家苑囿本质上即为庞大的狩猎场。</p><p>　　在此文化背景下，野猪凭借其强悍的爆发力与攻击性，成为了皇家田猎中检验贵族胆识与弓马技艺的强悍对手。其凶猛程度与围猎之惊险，在唐代正史中有着极为鲜明的侧写。最著名的一例，便载于《旧唐书·唐俭传》：唐太宗猎于洛阳苑，群豕突自林中窜出。太宗引弓连发，辄殪四豕；然有一雄豕悍勇异常，竟跃至马镫之前。千钧一发之际，唐俭急下马与之徒手相搏，太宗随即拔剑将其斩断。这段惊心动魄的史料足以印证，面对这类机敏且极具冲撞力的猛兽，即便是登峰造极的骑射技艺，亦难保万无一失。这便深刻解释了，猎杀野猪为何必须仰赖烈性猎犬的近身围捕与密切配合，这绝非寻常田猎可比。</p><p>　　这一尚武图景，在唐代皇室陵寝的壁画中也有描绘。以陕西干陵陪葬墓——章怀太子（李贤）墓为例，其墓道东壁著名的《狩猎出行图》，全长逾12米，生动描绘了数十匹骏马、猎犬与猎鹰随行出猎的磅礴场面；而在懿德太子（李重润）墓与永泰公主墓的壁画中，同样充斥着牵豹、架鹰、携犬出猎的丰富细节。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744998010063.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744998010063.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-23/178744998335290.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-23/178744998335290.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div>  <p>　　将极具威胁的野生动物作为检验帝王与贵族武德的标尺，并非唐人首创，其精神渊源实可追溯至3000年前的殷商时期。中国国家博物馆所藏的商代晚期重器作册般鼋便是实证。这件青铜巨鼋的背甲与肩部，赫然插着四支青铜箭矢，其背上铭文清晰记载了商王于洹水田猎、连发四矢皆中巨鼋的史实。</p><p>　　这件在如在暴雨中逆行、动势狂野的唐三彩野猪，似乎也跨越了单纯的动物模拟，即将从写实的唐代雕塑中挣脱。<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-08-23/102477087.html\" rel=\"nofollow\" title=\"狩猎的余韵：唐三彩褐釉野猪｜收藏\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "财新闻｜旗下奶粉被控致病，美国雅培：将赔偿6.7亿美元",
-          "url": "https://mini.caixin.com/2026-08-23/102477084.html",
-          "published": "Sun, 23 Aug 2026 09:39:12 +0800",
-          "summary": "<img alt=\"美国密歇根州，雅培公司工厂。图：Jeff Kowalsky/视觉中国\" id=\"picture_166626335324372\" src=\"https://img.caixin.com/2022-10-20/166626335324372_840_560.jpg\" /><dl><dt>美国密歇根州，雅培公司工厂。图：Jeff Kowalsky/视觉中国</dt></dl><h2 class=\"cx-app-content-subheads\">旗下奶粉被控致病，美国雅培：将赔偿6.7亿美元</h2><p>美国雅培公司8月20日说，已就旗下早产婴儿专用配方奶粉被控致病的诉讼达成一项6.7亿美元的和解协议。</p><p>这起诉讼由3家律师事务所发起，代表约2000名原告向雅培提出索赔，包括先前已赢得个人诉讼的伊利诺伊州女子玛戈·吉尔。一个陪审团于2024年认定，雅培早产婴儿配方奶粉导致吉尔的女儿患上新生儿坏死性小肠结肠炎，雅培需赔偿4.95亿美元。雅培提起上诉，密苏里州一家上诉法院今年5月维持原判。</p><p>按雅培方面说法，计入利息后，公司可能需就吉尔一案支付约6亿美元赔偿。雅培因此选择与包括吉尔在内的多名原告达成和解，而不是继续上诉或全额支付赔偿金。雅培称，20日宣布达成的和解协议朝“实质性解决整体诉讼”迈进一步，但该公司不承认对相关“奶粉致病”事件负有责任。</p><p>新生儿坏死性小肠结肠炎可造成肠道组织坏死，死亡率据估计超过20%，早产儿更易患病。据路透社援引雅培方面消息报道，雅培和美国美赞臣公司共面临约1700起针对早产儿配方奶粉的索赔诉讼，涉及上万名原告，部分诉讼同时将两家企业列为被告。</p><p>目前，超过825起向联邦法院提起的诉讼已被并案，交由伊利诺伊州芝加哥市一名法官审理。另有大量诉讼仍在等待伊利诺伊、密苏里、宾夕法尼亚等州法院处理。</p><p>（据“新华社”微信公众号）</p><h2 class=\"cx-app-content-subheads\">男子患癌在车间自缢身亡，家属：在公司24年，一直未缴社保致治疗费无法报销，索赔66万，法院判了</h2><p>据红星新闻报道，54岁的王某在甲公司工作24年，为劳务派遣人员，从事包装物转运工作。2024年11月18日，王某在车间内自缢身亡。其家属表示，王某自入职后，公司一直未为其缴纳社保，其患癌后治疗费用无法报销，最终轻生。住院病案显示，王某被诊断为膀胱癌等疾病。</p><p>事发后，家属起诉涉事公司索赔66万余元。记者从中国裁判文书网获悉，8月13日，西安市中级人民法院二审驳回公司上诉，维持原判。一审法院认定，王某自缢身亡与未缴社保之间无法律上的因果关系，其本人承担主要责任；王某死于工作时间和工作场所内，公司未能及时发现并尽到管理责任，应承担20%的赔偿责任，赔偿家属20余万元。扣除家属此前所借3万元后，公司还需支付17万余元。</p><p>王某家属称，王某自2000年4月起一直在甲公司工作。家属提交的甲公司工作人员李某、张某的公安机关询问笔录显示，两人均证实王某系该厂劳务派遣临时工，负责转运包装物，大约2000年便已在该厂务工。</p><p>甲公司不认可家属的上述说法并辩称，王某2007年至2024年2月系其员工，2024年2月后属于丙公司的员工，同时提交了甲公司与丙公司劳务外包协议及王某与丙公司的劳务用工协议。家属认可协议真实，但辩称王某自2000年4月以来工作内容没有发生过变化。</p><p>2024年11月18日，王某在甲公司自缢身亡。家属提交的《居民死亡医学证明书》载明：王某，54岁，死亡日期2024年11月18日，死亡原因自缢。</p><p>家属称，王某自入职以来，甲公司未为王某缴纳社保，导致王某治疗费用无法报销进而轻生。家属提交的某医院住院病案载明：王某出院诊断为膀胱癌、前列腺增生、高血压、乙型病毒性肝炎。</p><p>家属提交的王某与甲公司工作人员权某的录音显示，“王某：我问过，人家说你可以补缴，你是不能超过60岁可以补缴，你和厂子协商去。权某：我给你说，没有的。王某：意思是厂子没有这政策？权某：没有的，如果没有不要紧，那多少人都能去补缴，没有的么，你这会非说是单位要。王某：厂子没有这政策是厂子，不一定代表国家没有这政策。权某：国家也没有……。”</p><p>甲公司辩称，是王某自身原因不愿缴纳社保，未缴纳社保与王某死亡没有因果关系。</p><p>家属提出，甲公司未能尽到相关管理责任，导致王某在车间自缢身亡，存在过错。甲公司则称，王某在17日至18日不需上班，故不存在管理失职。另查，甲公司成立于1996年5月7日，股东为乙公司持股100%。</p><p>一审法院认为，结合家属提交的《居民死亡医学证明书》《现场勘验检查笔录》，王某家属称王某系因甲公司未能缴纳社保，治疗费用无法报销进而轻生，但王某的死亡原因系自缢，与是否缴纳社保并无法律上的因果关系，王某应对其自缢身亡的后果承担主要责任。</p><p>此外，甲公司虽主张王某为丙公司员工，但王某自2000年起在甲公司工作，后期才由丙公司以劳务派遣的方式安排到甲公司工作，甲公司为实际用工单位，故甲公司应当对王某的工作、心理状态等进行关怀和关注。2024年11月18日为日常工作时间，王某死亡地点亦为甲公司液洗车间，甲公司对在工作时间、场所内的王某未能尽到相应的管理责任，王某死亡后其未及时发现。</p><p>一审法院结合案情确定由甲公司对王某的死亡后果承担20%的赔偿责任。甲公司需赔付金额为198723元（（936420＋57195）×0.2），另承担精神损害抚慰金5000元，合计203723元。家属为办理王某丧葬事宜曾向甲公司借款30000元，扣除该款项后，甲公司仍应当向王某家属支付173723元。</p><p>法院另查明，乙公司为甲公司的唯一股东，且未能向一审法院提交其与甲公司财产相互独立的相关证据，因此乙公司应当就甲公司的上述债务承担连带清偿责任。一审判决：甲公司向王某家属支付各项费用173723元；乙公司对上述债务承担连带清偿责任。</p><p>一审宣判后，甲公司、乙公司不服，提起上诉。二审法院指出，甲公司未给王某缴纳医保等社会保险，王某患癌后自费治疗存在困难，当然会产生心理压力。甲公司作为实际用工单位，未对王某的健康状况、心理状态进行关怀和关注，且对公司工作车间未尽到安全管理义务，在王某死亡事件中存在一定过错。一审判决结合案件实际情况确定甲公司就王某的死亡后果承担20%的赔偿责任，并无不当。</p><p>二审法院认为，一审判决认定事实清楚，适用法律正确，应予维持。二审法院判决：驳回上诉，维持原判。</p><p>（据“中国新闻网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">“两女孩买三张票占座放零食”事件，未上车乘客发声</h2><p>近日，列车上一则“两人买三张硬座、空位放零食拒给无座乘客落座”引发热议。</p><p>8月22日，江苏广电荔枝新闻中心记者联系上了购票的孩子妈妈，她讲述了整个事情的来龙去脉。</p><p>当天是妈妈把两个孩子送进站乘车的。当时不想排队，于是每人花了20元钱跟着火车站送行李的人员进站，这也许就是官方认定她未检票的原因。把孩子送上车，安顿好后，她自己就下车了。</p><p>三张票中包含一张半价儿童票。根据铁路部门相关规定，儿童不能单独购票，必须和成人票一同购买。也就是说，她们购买这张成人票，并不是想多买一张票占座放零食，而是遵守相关规定，大人儿童同时购票了。</p><p>记者查询了这趟从上海到四川南充的绿皮火车，全程足足要跑27小时14分钟。成人票236元，儿童半价118元。</p><p>这位妈妈说，以前暑假、寒假，她都请假送孩子回老家。但这次没有请到假，想着孩子也大了，慢慢放手锻炼一下。</p><p>估计有人会说了，既然大人不乘车，那你把成人票退了，不要占用公共资源，把座位让出来，不就好了么？</p><p>记者在12306上体验了一大一小购买火车票及退票的全过程。</p><p>首先，儿童的确不能单独购票。</p><p>在和成人捆绑购票之后，记者发现，大人其实可以单独退票，只保留儿童票。</p><p>那这位妈妈为什么宁愿白白损失236元，也没有退票？</p><p>她表示，从来就没有想过退掉成人票。因为购票时没有抢到卧铺票，考虑到是两个女孩子出行，晚上睡着了，旁边如果坐着一个陌生男性，做家长的实在放心不下。所以，她故意留着这张票，多出来的座位，夜里孩子还可以躺着休息一下。</p><p>当然，也有人会说，这个妈妈让未成年人单独乘坐火车，自己不承担监护人的义务，把责任全部推给了铁路部门，这明显不合适。</p><p>这位妈妈解释道，自己这也是无奈之举，也是第一次让孩子单独坐火车。但凡有假，她一定会陪着去。还有就是，现在处处都有监控，火车上也都有公安民警和安全员，这也是让她敢于放手一搏的主要原因。</p><p>今天，记者致电12306得到一个关键回复：如果退掉成人票，只留儿童票，让孩子单独乘车，列车工作人员是有权要求儿童下车的。</p><p>对比之下，坐飞机就有成熟解决方案。各大航司都有“无成人陪伴儿童托管服务”，5-12岁孩子家长无法随行，可以申请托管，大多免费，少数航司收取200-500元服务费。</p><p>12306明确回复记者：铁路目前没有类似的儿童陪伴托管服务。</p><p>此前报道：</p><p>据扬子晚报报道，近日，列车上一则“两人买三张硬座、空位放零食拒给无座乘客落座”引发热议。列车员核验全部车票后明确表态，三张座位均有有效车票，使用权归购票女孩，旁人无权强制要求让座。针对网友提出的“两人为何可买三张同车次车票”的疑问，记者查阅铁路购票规则得知，单人同一车次、同日仅限购一张实名车票，多出的车票大概率是借用他人身份证件合规购买，属于合法购票行为。</p><p>舆论争议的核心在于已购票但无人乘坐的空位处置权归属。有网友认为，车票属于付费消费权益，购票人有权自由支配座位，不让座合情合规。也有网友表示，火车座位属于公共交通资源，客流紧张时，闲置空位应当优先供给无座乘客，避免资源浪费。</p><p>记者咨询12306官方客服得到权威回应：只要车票真实有效、购票人付费认可，空座的最终处置权归购票乘客所有，乘客有权自主决定是否让他人落座。同时客服解释，票证不一致的无票处罚规则，仅适用于进站实名核验环节，上车落座后的座位使用权，以购票付费权益为准。</p><p>针对事件背后的规则与人情争议，法律专家给出专业解读。律师表示，女孩借他人证件多购车票、空置放物品，未损害他人权益时可酌情包容。但火车座位属于有限公共资源，在客流紧张、乘客有刚需的情况下，列车方有权认定挂名购票、闲置占位行为不合理，可依规办理未乘车车票退票，将空位调配给无座旅客，优先保障公共出行秩序。</p><p>8月21日，中国铁路成都局集团有限公司官方微博发布《关于“旅客买票占座放零食”网络信息情况说明》。</p><p>近日，针对 “旅客买票占座放零食” 网络信息，相关部门迅速组织核实，并组织法律和客运专业人员进行专题分析。</p><p>经核查，视频中的列车为8月16日上海至成都西的K1156次，由成都局集团公司成都客运段担当。当日，3名旅客实名制购买6号车厢005号、006号、007号三个硬座席位车票，乘车区间为上海站至南充站，其中2名旅客检票乘车并按席位号就座，将零食放置到1名未检票乘车旅客车票所对应的006号空闲席位。途中，该车厢一名持无座席号车票旅客希望在006号空闲席位就坐，并请求列车员协调，列车员在核实购票和席位情况后，建议旅客双方自行协商解决，后双方协商未果，其他旅客将这一过程进行视频记录并发至网上。</p><p>《民法典》第815条规定：“旅客应当按照有效客票记载的时间、班次和座位号乘坐”；第816条规定：“旅客因自己原因不能按照客票记载的时间乘坐的，应当在约定期限内办理退票或者变更手续；逾期办理的，承运人可以不退票款，并不再承担运输义务”。交通运输部《铁路旅客运输规程》第20条规定：“铁路运输企业应当按照有效车票记载的时间、车次、车厢号、席别和座位号运输旅客；旅客应当按照有效车票记载的时间、车次、车厢号、席别和席位号乘车”。交通运输部《铁路旅客车票实名制管理办法》第3条规定：“购票人凭乘车人的有效身份证件购买车票”“铁路运输企业对实行车票实名购买的车票记载的身份信息与乘车人及其有效身份证件进行一致性核对”。此外，国铁集团铁路旅客运输规则还规定，旅客自支付购票款，即建立了与承运企业间的客运服务合同，当检票上车时开始享有对应席位的使用权利；列车开车后，未检票乘车的还可享受免费改签当日24时前车次车票的权利。</p><p>根据以上法律法规和相关规定，若旅客购票后未检票上车，视为该旅客不行使期间的席位使用权利，且基于合同相对性原理和铁路旅客运输规则，第三方也不能占用和处置该席位；有特殊需求的，可以向列车工作人员说明情况。此次事件中，对应006号席位的旅客未检票乘车，已放弃其本次列车正在运行区段席位使用权，另2名旅客也不能占用和处置该席位，列车工作人员应根据现场实际情况协调处置。</p><p>铁路部门对因旅客服务工作不到位给旅客带来的不佳旅行体验深表歉意。下一步，我们将持续强化员工培训，不断完善客运规章制度，优化客运服务产品体系，更好地满足广大旅客出行需求。同时，铁路部门真诚希望广大旅客能够相互理解、互谅互助，共同营造温暖和谐的旅途环境。</p><p>（据“中国新闻周刊”微信公众号）</p><h2 class=\"cx-app-content-subheads\">停业、拆违、追责 内蒙古推进重大事故隐患整改</h2><p>8月19日，总台报道了中央安全生产考核巡查组在内蒙古赤峰、通辽等地开展的明查暗访中，发现的燃气、消防等领域重大事故隐患。内蒙古自治区党委、政府高度重视，自治区安委办对曝光及反馈的问题隐患，实行全程跟踪督办，确保整改闭环。同时，坚持举一反三，推动进一步压紧压实安全生产责任，全面排查整治同类风险，坚决防范遏制事故发生。</p><p>收到整改通知后，通辽市立即成立重大事故隐患追责问责调查组，制定专项整改方案，督促各属地政府压实责任、有序推进整改。同时，依法依规对涉事企业及责任人实行“一案双罚”，并在全市通报，对相关监管部门和责任人严肃追责问责。涉事液化气站被责令停业整顿，私拉电线已全部拆除，电动车停放区迁至站外安全区域，气瓶按待检、不合格等类别分区存放，每个气瓶均贴有检验标签和追溯二维码。经逐项复核，所有隐患已整改到位。当地同步开展燃气厂站专项排查整治。</p><p>通辽市山水工程建设项目因施工现场存在安全隐患被责令停工整改。属地主管部门及建设施工单位迅速压实整改责任，实行“问题清单、责任清单、整改清单”闭环管理。整改后，科尔沁草原山水林田湖草沙一体化保护和修复工程现场安全警示标识完备，材料堆放规整，电梯井及临边位置加装标准化防护栏杆和安全防护网，脚手架全面排查加固，办公区与施工区实现物理分隔，所有隐患已整改到位。</p><p>赤峰市永誉矿业老爷庙一岩矿因违规“一面墙”开采构成重大事故隐患。 目前该矿山企业已全面停工、清退了作业人员、停止工业用电和火工品，矿山进出道路已封闭，车辆机械及办公场所均贴封条。企业正按照国家安全生产规范制定整改方案，全面落实整改。</p><p>呼和浩特市通达商场多个安全通道被封堵、疏散楼梯违规加装铁栅栏。目前，封堵的安全出口和逃生通道已全部打通，铁栅栏已拆除，易燃杂物完成清理，违章搭建及可燃库房彻底拆除，消防设施配齐并正常投用，企业重新完善日常巡检台账。同时，呼和浩特市以此为契机，深入开展全市商场市场消防安全专项整治并加强暗访督导，全力推动安全隐患整改，依法查处违法行为，切实维护安全稳定。</p><p>（据央视新闻客户端）</p><h2 class=\"cx-app-content-subheads\">国家防总、应急管理部针对福建启动防汛防台风四级应急响应</h2><p>今年第20号台风“简拉维”（热带风暴级）已于8月22日下午在西北太平洋洋面上生成，预计其将以每小时5至10公里的速度向偏西方向缓慢移动，强度变化不大。受其影响，未来三天，福建省将有大到暴雨，局地大暴雨。</p><p>根据《国家防汛抗旱应急预案》及有关规定，国家防总、应急管理部决定于8月22日18时针对福建启动防汛防台风四级应急响应。</p><p>（据“中华人民共和国应急管理部”微信公众号）</p><p>应急管理部针对广西启动国家地质灾害四级应急响应</p><p>据气象部门预测，受今年第19号台风“紫檀”、第20号台风“简拉维”的共同影响，8月22日至25日，广西南部部分地区有大到暴雨，其中广西西南部局地大暴雨至特大暴雨。经与自然资源部联合会商研判，广西南部部分地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月22日针对广西启动国家地质灾害四级应急响应。</p><p>应急管理部要求，受台风影响的相关地区要增强风险意识、强化底线思维，全面抓实抓细地质灾害防范应对工作，压紧压实责任，强化多部门会商研判、协同联动、信息共享，密切监视雨情汛情和地质灾害灾情险情，严格落实“灾害点+风险区”双控管理，对山区沟口、临崖陡坡、施工工地、旅游景区、网红打卡点等重点部位加强排查，强化预警叫应，坚决果断实施转移避险，做到应转尽转、应转早转。同时要前置预置抢险救援力量和救灾物资，下沉专业力量加强对基层的指导帮扶，全力开展救援救灾，确保人民群众生命财产安全。</p><p>（据“中华人民共和国应急管理部”微信公众号）</p><h2 class=\"cx-app-content-subheads\">6岁男童被老师掌掴后身亡，印度全国愤怒</h2><p>据印度新德里电视台（NDTV）、卡塔尔半岛电视台等媒体8月21日报道，印度东南部安得拉邦维沙卡帕特南地区一所私立学校发生一起“引发全国震惊和愤怒”的事件：一名6岁男童在被老师当众掌掴后倒下，随后在送医途中身亡。</p><p>报道没有说明事发时间，但半岛电视台称，事发过程被学校监控摄像头拍到，视频于20日被当地媒体广泛传播。视频显示，一名女教师当时正在批评男童，并扯了几下他的衣服，然后扇了他一巴掌，随后男童倒在该名教师身上。</p><p>NDTV称，身亡男童的家属称他因未完成作业而被老师殴打。得知男童去世消息后，他的亲属聚集在医院，要求严惩肇事者。</p><p>报道称，目前尚无法确定掌掴是否为造成男童死亡的直接原因，也不清楚男童的健康情况。但据其父亲说，他的儿子早上上学前看起来很健康。</p><p>据介绍，当地政府和警方已就该事件展开调查。安得拉邦教育部门称这起事件“极其不幸且令人痛心”。</p><p>半岛电视台称，该事件在印度引发轩然大波，掀起有关校园体罚问题的讨论。该媒体提到，尽管体罚在印度官方文件中是明令禁止的，但一个印度非政府组织2018年的研究曾提到，印度仍有约80%的低收入家庭学童遭受过教师的体罚。</p><p>（据“中国新闻社”微信公众号）</p><h2 class=\"cx-app-content-subheads\">热浪侵袭 欧洲“超额死亡人数”逾3.2万</h2><p>欧洲死亡率监测网（EuroMOMO）最新估算数据显示，受今夏热浪不断影响，欧洲23个国家的“超额死亡人数”已经超过3.2万人。</p><p>“超额死亡人数”是指特定地点和特定时期估计的总死亡人数与没有健康危机情况下的估计死亡人数之间的差额。据法新社8月21日援引欧洲死亡率监测网最近数月收集的数据报道，6月最后一周成为欧洲今夏“最致命一周”，其间“超额死亡人数”接近1.6万人；7月第一周则成为今夏排名第二的“夺命周”，其间“超额死亡人数”约为8000人。鉴于夏天仍未结束，欧洲“超额死亡人数”或进一步攀升。</p><p>欧洲死亡率监测网没有按国别发布死亡情况。另据法新社统计德、法、英等8个欧洲国家发布的数据，近来高温肆虐期间这些国家超额死亡或死因与高温有关的人数共计超过3.3万人。</p><p>德国罗伯特·科赫研究所说，截至8月9日，德国约有1.4万人死于高温相关原因，打破2016年有相关数据以来的最高纪录。</p><p>法国公共卫生部门数据显示，5月末至7月22日高温肆虐期间，法国“超额死亡人数”为7300人。6月22日至28日的一周，法国遭遇近80年来的最高气温，其间法国电子死亡证明系统记录到2025例全因超额死亡。全因指不区分具体死因，涵盖所有死亡病例。</p><p>西班牙卡洛斯三世健康研究所数据显示，6月1日至8月19日，西班牙将近4500人的死亡与高温有关，创2022年以来同期最高纪录。另据西班牙国家气象局数据，该国7月气温“追平”2022年7月，是1961年开始相关记录以来西班牙本土最热月份。</p><p>英国卫生部门说，5月至6月英国关联高温的死亡人数达2877人，今夏可能打破2022年夏天高温致死2985人的纪录，且关联高温的死亡人数或显著高于其他年份。</p><p>比利时国家公共卫生研究所数据显示，6月18日至7月17日该国“超额死亡人数”为2570人。值得注意的是，比利时8月中旬遭遇该国有记录以来规模最大的野火，过火面积至少3000公顷，或推高相关死亡数据。</p><p>据荷兰国家公共卫生与环境研究所数据，荷兰6月22日至7月5日“超额死亡人数”为968人；奥地利卫生与食品安全局数据则显示，该国6月关联高温的死亡人数为396人。另据葡萄牙卫生部门数据，6月中旬至7月末该国“超额死亡人数”超过600人。</p><p>（据新华社客户端）</p>",
           "source": "财新"
         }
       ]
@@ -262,73 +346,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "1七年来首次！阿里拟配售800亿港元新股，全部投入AI建设阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元华尔街见闻昨天 15:24",
-          "url": "https://t.10jqka.com.cn/pid_681097810.shtml",
-          "published": "2026-08-23",
-          "summary": "1七年来首次！阿里拟配售800亿港元新股，全部投入AI建设阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元华尔街见闻昨天 15:24",
+          "title": "1韩国kospi指数跌超1.5%，险守6800点！三星电子跌超6%8月24日，日韩股市开盘涨跌不一，截至北京时间8:21，韩国KOSPI指数跌超1.5%险守6800点，日经225指数转跌，跌幅扩大至0.44%。　　权重个股涨跌互现，其中明星半导体股多数下跌。三星电子跌超6%，年内涨幅仍超过120%，公突发21世纪经济报道27分钟前",
+          "url": "https://news.10jqka.com.cn/20260824/c679205417.shtml",
+          "published": "2026-08-24",
+          "summary": "1韩国kospi指数跌超1.5%，险守6800点！三星电子跌超6%8月24日，日韩股市开盘涨跌不一，截至北京时间8:21，韩国KOSPI指数跌超1.5%险守6800点，日经225指数转跌，跌幅扩大至0.44%。　　权重个股涨跌互现，其中明星半导体股多数下跌。三星电子跌超6%，年内涨幅仍超过120%，公突发21世纪经济报道27分钟前",
           "source": "同花顺"
         },
         {
-          "title": "报道：英伟达客户被告知AI相关涨价幅度超过15%华尔街见闻昨天 08:57",
-          "url": "https://t.10jqka.com.cn/pid_681063099.shtml",
-          "published": "2026-08-23",
-          "summary": "报道：英伟达客户被告知AI相关涨价幅度超过15%华尔街见闻昨天 08:57",
+          "title": "2十大券商：中线反弹尚未结束！行情将以结构性轮动修复为主9月科技重要决胜窗口证券时报网7小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199806.shtml",
+          "published": "2026-08-24",
+          "summary": "2十大券商：中线反弹尚未结束！行情将以结构性轮动修复为主9月科技重要决胜窗口证券时报网7小时前",
           "source": "同花顺"
         },
         {
-          "title": "知名牛散，爆买近1700万股！成这家A股公司第二大股东证券时报昨天 09:19",
-          "url": "https://news.10jqka.com.cn/20260823/c679195847.shtml",
-          "published": "2026-08-23",
-          "summary": "知名牛散，爆买近1700万股！成这家A股公司第二大股东证券时报昨天 09:19",
+          "title": "美股股指期货、国际油价下挫！伊朗官员：若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口突发！21世纪经济报道2小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679200303.shtml",
+          "published": "2026-08-24",
+          "summary": "美股股指期货、国际油价下挫！伊朗官员：若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口突发！21世纪经济报道2小时前",
           "source": "同花顺"
         },
         {
-          "title": "光谷“梧桐树计划”17个项目集中签约 总投资60多亿元证券时报网昨天 08:53",
-          "url": "https://news.10jqka.com.cn/20260823/c679195757.shtml",
-          "published": "2026-08-23",
-          "summary": "光谷“梧桐树计划”17个项目集中签约 总投资60多亿元证券时报网昨天 08:53",
+          "title": "社保基金二季度持仓版图浮现！重仓182只个股，其中新进持仓54只证券日报2小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679200215.shtml",
+          "published": "2026-08-24",
+          "summary": "社保基金二季度持仓版图浮现！重仓182只个股，其中新进持仓54只证券日报2小时前",
           "source": "同花顺"
         },
         {
-          "title": "百家机构扎堆调研股曝光，2股市盈率低至个位数证券时报数据宝昨天 08:28",
-          "url": "https://news.10jqka.com.cn/20260823/c679195691.shtml",
-          "published": "2026-08-23",
-          "summary": "百家机构扎堆调研股曝光，2股市盈率低至个位数证券时报数据宝昨天 08:28",
+          "title": "新一代通信网建设提速，产业链投资机遇凸显证券日报7小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199762.shtml",
+          "published": "2026-08-24",
+          "summary": "新一代通信网建设提速，产业链投资机遇凸显证券日报7小时前",
           "source": "同花顺"
         },
         {
-          "title": "长江存储科创板IPO已受理：1-3月营收470.42亿元，归母净利润333.79亿元A股又一“巨无霸”要来！华尔街见闻08-21 20:30",
-          "url": "https://t.10jqka.com.cn/pid_680927069.shtml",
-          "published": "2026-08-23",
-          "summary": "长江存储科创板IPO已受理：1-3月营收470.42亿元，归母净利润333.79亿元A股又一“巨无霸”要来！华尔街见闻08-21 20:30",
+          "title": "PCB打样实现“小快轻准”！柔性制造加速产品迭代证券时报6小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199865.shtml",
+          "published": "2026-08-24",
+          "summary": "PCB打样实现“小快轻准”！柔性制造加速产品迭代证券时报6小时前",
           "source": "同花顺"
         },
         {
-          "title": "宁德时代盯上储能“小单”华尔街见闻08-22 14:03",
-          "url": "https://t.10jqka.com.cn/pid_681014911.shtml",
-          "published": "2026-08-23",
-          "summary": "宁德时代盯上储能“小单”华尔街见闻08-22 14:03",
+          "title": "阿里巴巴加码AI 拟配售新股募资800亿港元证券时报6小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199849.shtml",
+          "published": "2026-08-24",
+          "summary": "阿里巴巴加码AI 拟配售新股募资800亿港元证券时报6小时前",
           "source": "同花顺"
         },
         {
-          "title": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网08-22 14:53",
-          "url": "https://news.10jqka.com.cn/20260822/c679193135.shtml",
-          "published": "2026-08-23",
-          "summary": "威力传动2026年半年报：营收同比增71.97%，紧抓风电产业机遇，精密传动主业夯实增长根基证券时报网08-22 14:53",
+          "title": "单机场自动驾驶运营里程突破160万公里，智慧技术赋能机场绿色转型中国证券报4小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199996.shtml",
+          "published": "2026-08-24",
+          "summary": "单机场自动驾驶运营里程突破160万公里，智慧技术赋能机场绿色转型中国证券报4小时前",
           "source": "同花顺"
         },
         {
-          "title": "金融监管总局发新规！非车险市场迎综合治理方案券商中国08-22 10:39",
-          "url": "https://t.10jqka.com.cn/pid_680988984.shtml",
-          "published": "2026-08-23",
-          "summary": "金融监管总局发新规！非车险市场迎综合治理方案券商中国08-22 10:39",
+          "title": "轻仓试探逢低出手，新基金择时策略升温证券时报7小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199829.shtml",
+          "published": "2026-08-24",
+          "summary": "轻仓试探逢低出手，新基金择时策略升温证券时报7小时前",
           "source": "同花顺"
         },
         {
-          "title": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网08-22 12:32",
-          "url": "https://news.10jqka.com.cn/20260822/c679192553.shtml",
-          "published": "2026-08-23",
-          "summary": "中际旭创上半年净利润同比大增241.70% 拟每10股派现12元证券日报网08-22 12:32",
+          "title": "公募抱团科技股风光不再 基金经理转寻高赔率洼地证券时报7小时前",
+          "url": "https://news.10jqka.com.cn/20260824/c679199825.shtml",
+          "published": "2026-08-24",
+          "summary": "公募抱团科技股风光不再 基金经理转寻高赔率洼地证券时报7小时前",
           "source": "同花顺"
         }
       ]
@@ -341,70 +425,70 @@
         {
           "title": "聚焦宇树科技IPO",
           "url": "https://finance.sina.com.cn/zt_d/subject-1786068090",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "聚焦宇树科技IPO",
           "source": "新浪"
         },
         {
           "title": "金麒麟金牌董秘揭晓",
           "url": "https://finance.sina.com.cn/zt_d/subject-1785723876",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "金麒麟金牌董秘揭晓",
+          "source": "新浪"
+        },
+        {
+          "title": "“创系列”指数ETF矩阵持续扩容 引导资金配置成长赛道",
+          "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipiueh2260064.shtml",
+          "published": "2026-08-24",
+          "summary": "“创系列”指数ETF矩阵持续扩容 引导资金配置成长赛道",
+          "source": "新浪"
+        },
+        {
+          "title": "今年以来港股ETF密集成立 互联网主题产品“留量”突出",
+          "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipiuef0320540.shtml",
+          "published": "2026-08-24",
+          "summary": "今年以来港股ETF密集成立 互联网主题产品“留量”突出",
           "source": "新浪"
         },
         {
           "title": "从预防到治疗，mRNA疫苗创造历史！医药圈炸锅，一文读懂产业链机会",
           "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-23/doc-inipichq2436852.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "从预防到治疗，mRNA疫苗创造历史！医药圈炸锅，一文读懂产业链机会",
           "source": "新浪"
         },
         {
           "title": "3900点拉锯战！美债变局点燃有色行情，黄金+锂业携手走强！CPO迎双重催化",
           "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-23/doc-inipichs6786900.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "3900点拉锯战！美债变局点燃有色行情，黄金+锂业携手走强！CPO迎双重催化",
           "source": "新浪"
         },
         {
           "title": "阿里云营收增速创22季新高，海内外AI商业化持续验证，港股互联网夯实修复基础",
           "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-23/doc-inipichq2434895.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "阿里云营收增速创22季新高，海内外AI商业化持续验证，港股互联网夯实修复基础",
-          "source": "新浪"
-        },
-        {
-          "title": "超131亿主力资金狂涌！有色金属领涨全市场！美债政策信号发酵，机构：有色当前处于有利窗口期！",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-23/doc-inipichs6785410.shtml",
-          "published": "2026-08-23",
-          "summary": "超131亿主力资金狂涌！有色金属领涨全市场！美债政策信号发酵，机构：有色当前处于有利窗口期！",
-          "source": "新浪"
-        },
-        {
-          "title": "英伟达、SK海力士：拿下CPO！一文看懂CPO产业链的五层机会",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-23/doc-inipichp0482560.shtml",
-          "published": "2026-08-23",
-          "summary": "英伟达、SK海力士：拿下CPO！一文看懂CPO产业链的五层机会",
           "source": "新浪"
         },
         {
           "title": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
           "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
           "source": "新浪"
         },
         {
           "title": "民营房企重返土拍市场 谁在加大力度拿地？",
           "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-06-10/doc-inezqwaa3375791.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "民营房企重返土拍市场 谁在加大力度拿地？",
           "source": "新浪"
         },
         {
           "title": "万科迎来改革发展转机：去年完成超18万套房子交付，今年一季度公开债已兑付",
           "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-04-02/doc-inertrws5580828.shtml",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "万科迎来改革发展转机：去年完成超18万套房子交付，今年一季度公开债已兑付",
           "source": "新浪"
         }
@@ -418,70 +502,70 @@
         {
           "title": "纳斯达克综合指数",
           "url": "http://quote.eastmoney.com/unify/r/100.NDX",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "纳斯达克综合指数",
           "source": "东财"
         },
         {
           "title": "平安2026中期业绩发布会",
           "url": "http://same.eastmoney.com/c?z=eastmoney&la=0&si=1&ci=192&cg=3&c=9&or=5555&l=18584&bg=18586&b=21318&u=https%3A%2F%2Froadshow.eastmoney.com%2Fluyan%2F5446222",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "平安2026中期业绩发布会",
           "source": "东财"
         },
         {
           "title": "中信证券大手笔分红",
           "url": "https://finance.eastmoney.com/a/202608203848150417.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "中信证券大手笔分红",
           "source": "东财"
         },
         {
           "title": "长江存储IPO辅导完成",
           "url": "https://finance.eastmoney.com/a/202608213848461316.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "长江存储IPO辅导完成",
           "source": "东财"
         },
         {
           "title": "美债救市升级？特朗普放狠话",
           "url": "https://finance.eastmoney.com/a/202608223850218842.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "美债救市升级？特朗普放狠话",
           "source": "东财"
         },
         {
           "title": "贝森特救市效果“一日游”？",
           "url": "https://finance.eastmoney.com/a/202608213848503923.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "贝森特救市效果“一日游”？",
           "source": "东财"
         },
         {
           "title": "贝森特“救市妙方”缘何不灵了？",
           "url": "https://finance.eastmoney.com/a/202608213848589143.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "贝森特“救市妙方”缘何不灵了？",
           "source": "东财"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射",
           "url": "https://finance.eastmoney.com/a/202608213848278445.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "特朗普签署备忘录以促进美航天发射",
           "source": "东财"
         },
         {
           "title": "探索商业机器人登陆火星",
           "url": "https://finance.eastmoney.com/a/202608213848504260.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "探索商业机器人登陆火星",
           "source": "东财"
         },
         {
           "title": "存储、加密货币概念走强 Moderna跌23%",
           "url": "https://finance.eastmoney.com/a/202608213848260831.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "存储、加密货币概念走强 Moderna跌23%",
           "source": "东财"
         }
@@ -495,71 +579,71 @@
         {
           "title": "�����籨APP",
           "url": "https://www.kuzaobao.com/download",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "�����籨APP",
           "source": "联合早报"
         },
         {
           "title": "ÿ�����ż�",
           "url": "https://www.kuzaobao.com/realtime",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "ÿ�����ż�",
           "source": "联合早报"
         },
         {
           "title": "��������",
           "url": "https://www.kuzaobao.com/plus/search.php?kwtype=0&mid=0&q=%C5%ED%B2%A9",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "��������",
+          "source": "联合早报"
+        },
+        {
+          "title": "���㣺����Լ���ᶨ���жԻ��Ѻ����� ��ء�һ�С�ԭ��\n�й��ⳤ���������죨8��23�գ��ڱ������Լ����������ⳤ�����ϣ���ʾ����Լ���ᶨ���жԻ��Ѻ����ߣ���ء�һ���й���ԭ�� Ӧ�й�������ϯϰ��ƽ���룬Լ��������������������Abdullah II�����ܶ���18�գ���ʼ���й�����һ�ܹ��·��ʣ��������ϣ�Ayman...\n2026-08-24 08:52:29",
+          "url": "https://www.kuzaobao.com/news/china/202608/2479460.html",
+          "published": "2026-08-24",
+          "summary": "���㣺����Լ���ᶨ���жԻ��Ѻ����� ��ء�һ�С�ԭ��\n�й��ⳤ���������죨8��23�գ��ڱ������Լ����������ⳤ�����ϣ���ʾ����Լ���ᶨ���жԻ��Ѻ����ߣ���ء�һ���й���ԭ�� Ӧ�й�������ϯϰ��ƽ���룬Լ��������������������Abdullah II�����ܶ���18�գ���ʼ���й�����һ�ܹ��·��ʣ��������ϣ�Ayman...\n2026-08-24 08:52:29",
+          "source": "联合早报"
+        },
+        {
+          "title": "�Ͼ�һ�߲��г���ֹ�ӱ������ش�ײ��볡\n�й��ӱ��żҿ��п������س���ײ��չ���Υ��ʹ�ü�ȩ��Һ���ʺ���ũ����Ǩ�г�ǿ�����ھٱ��˼�֤�£��Ը�����ײ˽������ο�죬�������Ϊ�ϸ��Ͼ�һ���߲��г���ȫ���ֹ�żҿڿ����ش�ײ���...\n2026-08-24 08:40:13",
+          "url": "https://www.kuzaobao.com/news/china/202608/2479458.html",
+          "published": "2026-08-24",
+          "summary": "�Ͼ�һ�߲��г���ֹ�ӱ������ش�ײ��볡\n�й��ӱ��żҿ��п������س���ײ��չ���Υ��ʹ�ü�ȩ��Һ���ʺ���ũ����Ǩ�г�ǿ�����ھٱ��˼�֤�£��Ը�����ײ˽������ο�죬�������Ϊ�ϸ��Ͼ�һ���߲��г���ȫ���ֹ�żҿڿ����ش�ײ���...\n2026-08-24 08:40:13",
+          "source": "联合早报"
+        },
+        {
+          "title": "���Ϸ�����ʯ���ͻ����¶�����ʧ��\n�й����Ϸ���������������ǿ������������������ʯ���ͻ����ֺ�������������ѣ�����ʧ���� ���»��籨���������ط�ɽ�������죨8��23�գ��賿1ʱ������8ʱ����������ǿ������������ɽ��ʯ���ۼƽ�������101.8���ף��շ���ʯ���ֺ����������ʧ���� ͬ��λ...\n2026-08-24 08:40:10",
+          "url": "https://www.kuzaobao.com/news/china/202608/2479457.html",
+          "published": "2026-08-24",
+          "summary": "���Ϸ�����ʯ���ͻ����¶�����ʧ��\n�й����Ϸ���������������ǿ������������������ʯ���ͻ����ֺ�������������ѣ�����ʧ���� ���»��籨���������ط�ɽ�������죨8��23�գ��賿1ʱ������8ʱ����������ǿ������������ɽ��ʯ���ۼƽ�������101.8���ף��շ���ʯ���ֺ����������ʧ���� ͬ��λ...\n2026-08-24 08:40:10",
+          "source": "联合早报"
+        },
+        {
+          "title": "�й�7�²���������11.7% 2025���������������\n�������ۺ�Ѷ���ܼ۸�ˮƽ���ơ�������ҵ���������Ͽ�����ش������й�7��ȫ����������ͬ������11.7%����2025����������������١� �ۺϲ������������籨�����й������������壨8��21�գ�������������ʾ��ȫ��һ�㹫��Ԥ������ͬ��������6�µ�8.7%����7��...\n2026-08-24 07:35:29",
+          "url": "https://www.kuzaobao.com/news/china/202608/2479448.html",
+          "published": "2026-08-24",
+          "summary": "�й�7�²���������11.7% 2025���������������\n�������ۺ�Ѷ���ܼ۸�ˮƽ���ơ�������ҵ���������Ͽ�����ش������й�7��ȫ����������ͬ������11.7%����2025����������������١� �ۺϲ������������籨�����й������������壨8��21�գ�������������ʾ��ȫ��һ�㹫��Ԥ������ͬ��������6�µ�8.7%����7��...\n2026-08-24 07:35:29",
+          "source": "联合早报"
+        },
+        {
+          "title": "�¼��¹���ͼ�����װ��Ĵ�����չ չ���й��������\nһ������17��19���͡����й��Ĵ������йص�������ｫ�״��߳��й�������12�����¼��¹���ͼ���չ����չƷ�����й���ߵȼ��Ĺ���һ�������ľ�̰滭��Ϸ���籾�ȡ� ��ѭ�����������죨8��23�գ��ڹ���Ⱥ�ڴ�Ừ���ݽ����������¼��¹���ͼ��ݹ����ֽ�...\n2026-08-24 07:35:23",
+          "url": "https://www.kuzaobao.com/news/china/202608/2479447.html",
+          "published": "2026-08-24",
+          "summary": "�¼��¹���ͼ�����װ��Ĵ�����չ չ���й��������\nһ������17��19���͡����й��Ĵ������йص�������ｫ�״��߳��й�������12�����¼��¹���ͼ���չ����չƷ�����й���ߵȼ��Ĺ���һ�������ľ�̰滭��Ϸ���籾�ȡ� ��ѭ�����������죨8��23�գ��ڹ���Ⱥ�ڴ�Ừ���ݽ����������¼��¹���ͼ��ݹ����ֽ�...\n2026-08-24 07:35:23",
           "source": "联合早报"
         },
         {
           "title": "�����ݳ�Ʒ�й����۴�� LV�����ŵ����������ˮ\n������һ���ȵĶ��ݻ�ů��·�����ǣ�Louis Vuitton�����ϰ£�Dior���Լ��ųۣ�Gucci���ȶ�������ݳ�Ʒ���������й����۶������λ���»��������ˣ�Herm��s��Ҳ����ת����LV���ڻ��رն�������ŵ꣬���������ݡ� �������������������о�����������ʾ������...\n2026-08-23 22:50:27",
           "url": "https://www.kuzaobao.com/news/china/202608/2379446.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "�����ݳ�Ʒ�й����۴�� LV�����ŵ����������ˮ\n������һ���ȵĶ��ݻ�ů��·�����ǣ�Louis Vuitton�����ϰ£�Dior���Լ��ųۣ�Gucci���ȶ�������ݳ�Ʒ���������й����۶������λ���»��������ˣ�Herm��s��Ҳ����ת����LV���ڻ��رն�������ŵ꣬���������ݡ� �������������������о�����������ʾ������...\n2026-08-23 22:50:27",
           "source": "联合早报"
         },
         {
           "title": "�������ⳤ�������� �з��ƻ���Ȱ�ʹ�̸\n�й����ⳤ���������ʸ��ⳤ���ﲼ���͵ϻ���ʱ��ʾ���й����й�ע�ж�������ƣ�����������Ȱ�ʹ�̸��ԸΪ���ջָ�������ƽ������������Ŭ���� �й��⽻�������죨8��23�գ��������Ÿ幫���������8��17���ڱ�����û��ļ��ﲼ���͵ϻ��档 ���Ÿ�˵����...\n2026-08-23 22:50:15",
           "url": "https://www.kuzaobao.com/news/china/202608/2379445.html",
-          "published": "2026-08-23",
+          "published": "2026-08-24",
           "summary": "�������ⳤ�������� �з��ƻ���Ȱ�ʹ�̸\n�й����ⳤ���������ʸ��ⳤ���ﲼ���͵ϻ���ʱ��ʾ���й����й�ע�ж�������ƣ�����������Ȱ�ʹ�̸��ԸΪ���ջָ�������ƽ������������Ŭ���� �й��⽻�������죨8��23�գ��������Ÿ幫���������8��17���ڱ�����û��ļ��ﲼ���͵ϻ��档 ���Ÿ�˵����...\n2026-08-23 22:50:15",
-          "source": "联合早报"
-        },
-        {
-          "title": "�϶��ߺŲ����㷢������ ����Ԥ�������޷�ʵʩ\nԭ���ڽ����°��귢����϶��ߺ����������㷢�����������޷��ڽ���Ԥ������ʵʩ�� ���»��������죨8��23�գ����������ߴ��й����˺��칤�̰칫�һ�Ϥ�����š����׿ɿ�������һʧ����ԭ�򣬾��ۺ����У��϶��ߺ��������㷢�������������ڽ���Ԥ������ʵ...\n2026-08-23 21:55:31",
-          "url": "https://www.kuzaobao.com/news/china/202608/2379442.html",
-          "published": "2026-08-23",
-          "summary": "�϶��ߺŲ����㷢������ ����Ԥ�������޷�ʵʩ\nԭ���ڽ����°��귢����϶��ߺ����������㷢�����������޷��ڽ���Ԥ������ʵʩ�� ���»��������죨8��23�գ����������ߴ��й����˺��칤�̰칫�һ�Ϥ�����š����׿ɿ�������һʧ����ԭ�򣬾��ۺ����У��϶��ߺ��������㷢�������������ڽ���Ԥ������ʵ...\n2026-08-23 21:55:31",
-          "source": "联合早报"
-        },
-        {
-          "title": "�й�������Ҫ����ϴӿ촦�úӱ���ȩ�ײ��¼�\n����й��ӱ�ʡ�żҿ��п������س���ײ��չ���Υ��ʹ�ü�ȩ��Һ���ʣ��й���������ָ�������������ϴӿ촦�ã���׷�����°ײ������Ϸ������Ʒ������...\n2026-08-23 20:20:18",
-          "url": "https://www.kuzaobao.com/news/china/202608/2379435.html",
-          "published": "2026-08-23",
-          "summary": "�й�������Ҫ����ϴӿ촦�úӱ���ȩ�ײ��¼�\n����й��ӱ�ʡ�żҿ��п������س���ײ��չ���Υ��ʹ�ü�ȩ��Һ���ʣ��й���������ָ�������������ϴӿ촦�ã���׷�����°ײ������Ϸ������Ʒ������...\n2026-08-23 20:20:18",
-          "source": "联合早报"
-        },
-        {
-          "title": "�й���Э����֤����ʾ����Э�����з���Ա�ṩ�����д�\n�й���Эͨ���ƣ�û��֤����ʾ������Э�����й���Э�����Ա�ṩ�������д����� ���������ű������й���Э�����죨8��23�գ�ͨ������Ը���ý�屨���й���Э�����ʿ�����ܺ�����Э�������д���һ�£��й���ЭѸ�ٳ���������չ�����顣 ͨ��˵�������飬û��...\n2026-08-23 20:20:11",
-          "url": "https://www.kuzaobao.com/news/china/202608/2379433.html",
-          "published": "2026-08-23",
-          "summary": "�й���Э����֤����ʾ����Э�����з���Ա�ṩ�����д�\n�й���Эͨ���ƣ�û��֤����ʾ������Э�����й���Э�����Ա�ṩ�������д����� ���������ű������й���Э�����죨8��23�գ�ͨ������Ը���ý�屨���й���Э�����ʿ�����ܺ�����Э�������д���һ�£��й���ЭѸ�ٳ���������չ�����顣 ͨ��˵�������飬û��...\n2026-08-23 20:20:11",
-          "source": "联合早报"
-        },
-        {
-          "title": "�����������Ȼ����ɹ����� ��Ӧ�̱���������\n�й����ֺ��촴��Ĵ��ƻ��������Ȼ����ɹ����飬���¹�Ӧ���Ϻ����������Ƽ����޹�˾�ѱ��г���ܲ����������顣 ���������ű������Ϻ��н�ɽ���г���ܾ������죨8��23�գ��ͺ�������Ȼ����ɹ�����ͨ����Ͻ�������г������Ŀǰ���յ��˼���ؾٱ���...\n2026-08-23 19:10:11",
-          "url": "https://www.kuzaobao.com/news/china/202608/2379432.html",
-          "published": "2026-08-23",
-          "summary": "�����������Ȼ����ɹ����� ��Ӧ�̱���������\n�й����ֺ��촴��Ĵ��ƻ��������Ȼ����ɹ����飬���¹�Ӧ���Ϻ����������Ƽ����޹�˾�ѱ��г���ܲ����������顣 ���������ű������Ϻ��н�ɽ���г���ܾ������죨8��23�գ��ͺ�������Ȼ����ɹ�����ͨ����Ͻ�������г������Ŀǰ���յ��˼���ؾٱ���...\n2026-08-23 19:10:11",
-          "source": "联合早报"
-        },
-        {
-          "title": "ε����ʼ������й�������ҵ��������п�����׶�\n�й�����ε��������ʼ�����˵���й�������ҵ��������п�ġ������׶Ρ���δ���������꣬�г���Ҫ��ҽ�����ȷ���� �ۺϾ��ù۲�����IT֮�ұ����������������8��22�գ���2026�й���ϯ����ѧ�Ҹ�����Ժ�ƴ���̳��˵���й�������ҵ�������ĸ��½׶Σ������...\n2026-08-23 18:30:37",
-          "url": "https://www.kuzaobao.com/news/china/202608/2379431.html",
-          "published": "2026-08-23",
-          "summary": "ε����ʼ������й�������ҵ��������п�����׶�\n�й�����ε��������ʼ�����˵���й�������ҵ��������п�ġ������׶Ρ���δ���������꣬�г���Ҫ��ҽ�����ȷ���� �ۺϾ��ù۲�����IT֮�ұ����������������8��22�գ���2026�й���ϯ����ѧ�Ҹ�����Ժ�ƴ���̳��˵���й�������ҵ�������ĸ��½׶Σ������...\n2026-08-23 18:30:37",
           "source": "联合早报"
         }
       ]
@@ -570,10 +654,38 @@
       "count": 10,
       "articles": [
         {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+          "url": "https://wallstreetcn.com/articles/3780045",
+          "published": "",
+          "summary": "五分钟看懂全球市场，尽在财经早餐。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "published": "",
+          "summary": "伊朗总统呼吁以理性外交解决僵局，强调与美达成的谅解备忘录是\"不含任何退让\"的最佳方案。伊朗革命卫队则称已备好反制\"经济战\"预案，安全委员会秘书警告：若美方持续施压，霍尔木兹海峡及波斯湾石油出口将全面中断，并将他国参与视为战争行为。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "Shein敲定IPO价格范围，募资最高139亿港元，将于9月1日在港上市",
+          "url": "https://wallstreetcn.com/articles/3780105",
+          "published": "",
+          "summary": "Shein定档9月1日赴港IPO，将发行2.8亿股股票，发行价区间定为每股47.6港元至49.5港元。受关税、中东冲突与Temu竞争影响，公司一季度骤然转亏，估值大幅缩水。为此，Shein罕见抛出“现金+送股”补偿机制安抚投资者。",
+          "source": "华尔街见闻头条"
+        },
+        {
           "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
           "url": "https://wallstreetcn.com/articles/3780052",
           "published": "",
           "summary": "野村报告认为，“贝森特看跌期权”正在失效，美国财政部试图通过债券回购压低长端收益率，不仅未能持续稳定债市，反而加大美元下行压力。报告警告，日本若效仿美国压低长期融资成本，可能将压力转移至汇市，在日元本就偏弱的背景下，一旦政策失误引发资本外流，日本甚至存在重蹈1997年亚洲金融危机风险。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "人民日报钟才文：我国宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策",
+          "url": "https://wallstreetcn.com/articles/3780104",
+          "published": "",
+          "summary": "文章指出，相比于部分经济体依靠高债务、高赤字刺激经济，我国没有走过度依赖政策强刺激的路子，总量政策保持积极有为，结构政策“点穴”发力，避免形成政策“依赖症”。总的看，我国经济长期向好的支撑条件和基本趋势没有改变，宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策，有能力实现全年经济社会发展目标任务。",
           "source": "华尔街见闻头条"
         },
         {
@@ -598,45 +710,17 @@
           "source": "华尔街见闻头条"
         },
         {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "published": "",
-          "summary": "特朗普执政不足两年，伊朗战争与减税政策已令美国经济承压：国债突破40万亿美元，长期国债收益率升至19年高位；汽油价格上涨约40%。财政赤字削减目标难以实现，GDP增速远低于官方预期。市场人士警告，白宫的干预言辞透出焦虑，或进一步恶化市场情绪。",
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "published": "2026-08-24 08:34:54",
+          "summary": "贝森特扩大长债回购未能有效压制美债收益率，反而催生黄金和比特币的“货币贬值交易”。市场焦点转向美联储主席沃什的杰克逊霍尔讲话——若其无法就通胀路径给出明确信号，长端美债抛售或将加剧。30年期收益率5%是关键关口，沃什表态将是本周最重要变量。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "《财经》实地走访追觅：回款争议与产线调整",
-          "url": "https://wallstreetcn.com/articles/3780071",
-          "published": "",
-          "summary": "持续两个多月的业务调整，还未能让追觅稳住。追觅已经开始陆续支付部分供应商的回款，但产线收缩引发的连锁反应仍在扩散。据多位供应商反馈，追觅拖欠从今年二季度开始集中出现，金额从几万元到上千万元不等，涉及的业务包括被收缩的智能大家电、智能戒指、手机等，以及包括扫地机、洗地机在内的智能清洁板块。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-          "url": "https://wallstreetcn.com/articles/3780096",
-          "published": "2026-08-23 21:25:09",
-          "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设...",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-          "url": "https://wallstreetcn.com/articles/3779970",
-          "published": "2026-08-23 21:16:39",
-          "summary": "杰克逊霍尔央行年会召开，沃什将发表演讲；美财长贝森特预计将公布新一轮财政整顿计划及对伊朗的经济制裁措施。美国7月PCE数据也将出炉。此外，英伟达二季报来袭，验证AI资本开支周期；国内方面，美团、拼多多、哔哩哔哩、长鑫科技、德明利、源杰科技等放榜，A港股迎来中报收官高峰。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "科技巨头的融资故事从解药变成了隐患",
-          "url": "https://wallstreetcn.com/articles/3780095",
-          "published": "2026-08-23 20:03:26",
-          "summary": "AI产业与科技巨头融资曾是缓解海外债务压力的答案，如今债务/TOKEN比值回升，答案变成问题，低储蓄与高负债矛盾强化。实物资产储备功能再受重视，若紧缩预期逆转，有色、能源与非美实物需求修复可期。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "全程直播！银河通用实现全球首次机器人自主网球赛！“AstraTennis时刻”正式到来",
-          "url": "https://wallstreetcn.com/articles/3780094",
-          "published": "2026-08-23 20:02:50",
-          "summary": "8月22日，银河通用人形机器人在北京国家速滑馆完成全球首次大型赛事直播人机网球对打，自主判断落点、连续完成正反手与截击，摔倒后还能自主起身续赛。这一“AstraTennis时刻”背后，是银河星脑AstraBrain首次在高速、开放、强对抗的真实场景中，将感知、决策与全身运控融为一体。",
+          "title": "红海港口遭胡塞武装威胁，沙特被迫再换“原油出口路线”",
+          "url": "https://wallstreetcn.com/articles/3780108",
+          "published": "2026-08-24 08:22:02",
+          "summary": "由于延布港安全形势急剧恶化，沙特被迫启动双线应急：油轮北上绕非洲或走苏伊士运河，航程超1.7万英里翻倍增加；同时向部分买家提供在阿曼湾提货安排，波斯湾侧装载活动也明显提速。运输成本飙升致亚洲买家承压，至少一家东亚炼油商考虑放弃提货，欧洲炼油商却意外足额获得9月份分配。",
           "source": "华尔街见闻头条"
         }
       ]
@@ -647,73 +731,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "日本会重蹈“1997年亚洲金融危机”吗？",
-          "url": "https://wallstreetcn.com/charts/41959660",
-          "published": "2026-08-23 22:44:34",
-          "summary": "日本会重蹈“1997年亚洲金融危机”吗？",
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "published": "2026-08-24 08:34:54",
+          "summary": "贝森特扩大长债回购未能有效压制美债收益率，反而催生黄金和比特币的“货币贬值交易”。市场焦点转向美联储主席沃什的杰克逊霍尔讲话——若其无法就通胀路径给出明确信号，长端美债抛售或将加剧。30年期收益率5%是关键关口，沃什表态将是本周最重要变量。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-          "url": "https://wallstreetcn.com/articles/3780096",
-          "published": "2026-08-23 21:25:09",
-          "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设...",
+          "title": "红海港口遭胡塞武装威胁，沙特被迫再换“原油出口路线”",
+          "url": "https://wallstreetcn.com/articles/3780108",
+          "published": "2026-08-24 08:22:02",
+          "summary": "由于延布港安全形势急剧恶化，沙特被迫启动双线应急：油轮北上绕非洲或走苏伊士运河，航程超1.7万英里翻倍增加；同时向部分买家提供在阿曼湾提货安排，波斯湾侧装载活动也明显提速。运输成本飙升致亚洲买家承压，至少一家东亚炼油商考虑放弃提货，欧洲炼油商却意外足额获得9月份分配。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-          "url": "https://wallstreetcn.com/articles/3779970",
-          "published": "2026-08-23 21:16:39",
-          "summary": "杰克逊霍尔央行年会召开，沃什将发表演讲；美财长贝森特预计将公布新一轮财政整顿计划及对伊朗的经济制裁措施。美国7月PCE数据也将出炉。此外，英伟达二季报来袭，验证AI资本开支周期；国内方面，美团、拼多多、哔哩哔哩、长鑫科技、德明利、源杰科技等放榜，A港股迎来中报收官高峰。",
+          "title": "美加进入“战争状态” 但谁也不敢真“开枪”",
+          "url": "https://wallstreetcn.com/member/articles/3780101",
+          "published": "2026-08-24 08:13:46",
+          "summary": "这场仗，注定是一场比谁先眨眼的消耗战。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
-          "url": "https://wallstreetcn.com/articles/3780090",
-          "published": "2026-08-23 20:57:19",
-          "summary": "汇丰认为，英伟达大力押注开源小语言模型（SLM），通过免费优化的生态体系引导数百万开发者在其硬件上运行AI应用，将客户群从少数云巨头扩展至更广泛生态；以及通过多年期协议系统锁定产能，令竞争对手面临供应链劣势。这两条叙事线有望成为驱动其估值重新定价的关键催化剂。",
+          "title": "AI商业模式遭冲击？调查数据显示：发布两个月后，Athropic最贵模型Fable 5仅占企业总支出的11%",
+          "url": "https://wallstreetcn.com/articles/3780103",
+          "published": "2026-08-24 08:06:06",
+          "summary": "Anthropic旗下旗舰模型Fable 5上线两月，企业支出占比仅11%，增长近乎停滞——连自家低价版Opus 5都已后来居上。这场\"贵而不买\"的冷遇，不仅令\"最强模型驱动营收\"的行业逻辑动摇，更在Anthropic冲刺2万亿美元IPO的关键节点，为其商业模式埋下深层隐忧。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "科技巨头的融资故事从解药变成了隐患",
-          "url": "https://wallstreetcn.com/articles/3780095",
-          "published": "2026-08-23 20:03:26",
-          "summary": "AI产业与科技巨头融资曾是缓解海外债务压力的答案，如今债务/TOKEN比值回升，答案变成问题，低储蓄与高负债矛盾强化。实物资产储备功能再受重视，若紧缩预期逆转，有色、能源与非美实物需求修复可期。",
+          "title": "Shein敲定IPO价格范围，募资最高139亿港元，将于9月1日在港上市",
+          "url": "https://wallstreetcn.com/articles/3780105",
+          "published": "2026-08-24 08:00:29",
+          "summary": "Shein定档9月1日赴港IPO，将发行2.8亿股股票，发行价区间定为每股47.6港元至49.5港元。受关税、中东冲突与Temu竞争影响，公司一季度骤然转亏，估值大幅缩水。为此，Shein罕见抛出“现金+送股”补偿机制安抚投资者。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "全程直播！银河通用实现全球首次机器人自主网球赛！“AstraTennis时刻”正式到来",
-          "url": "https://wallstreetcn.com/articles/3780094",
-          "published": "2026-08-23 20:02:50",
-          "summary": "8月22日，银河通用人形机器人在北京国家速滑馆完成全球首次大型赛事直播人机网球对打，自主判断落点、连续完成正反手与截击，摔倒后还能自主起身续赛。这一“AstraTennis时刻”背后，是银河星脑AstraBrain首次在高速、开放、强对抗的真实场景中，将感知、决策与全身运控融为一体。",
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "published": "2026-08-24 07:59:59",
+          "summary": "伊朗总统呼吁以理性外交解决僵局，强调与美达成的谅解备忘录是\"不含任何退让\"的最佳方案。伊朗革命卫队则称已备好反制\"经济战\"预案，安全委员会秘书警告：若美方持续施压，霍尔木兹海峡及波斯湾石油出口将全面中断，并将他国参与视为战争行为。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "银行还只是红利资产吗？二季度金融数据正在给出不同答案",
-          "url": "https://wallstreetcn.com/member/articles/3779789",
-          "published": "2026-08-23 19:39:23",
-          "summary": "2026年二季度，银行业出现了几个值得重视的边际变化。国家金融监督管理总局数据显示，商业银行净息差升至1.41%，为2021年四季度以来首次环比回升，国有大行利润增速同步转正；与此同时，人民银行公布的7月金融数据显示，人民币贷款出现单月负增长，银行经营逐步进入低扩表阶段。在负债成本下降、盈利预期趋稳、长端利率处于低位的环境下，银行板块的关注逻辑正在从单纯的高股息，逐渐延伸至ROE稳定和估值约束缓解，这种变化能够持续多久？",
+          "title": "人民日报钟才文：我国宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策",
+          "url": "https://wallstreetcn.com/articles/3780104",
+          "published": "2026-08-24 07:47:00",
+          "summary": "文章指出，相比于部分经济体依靠高债务、高赤字刺激经济，我国没有走过度依赖政策强刺激的路子，总量政策保持积极有为，结构政策“点穴”发力，避免形成政策“依赖症”。总的看，我国经济长期向好的支撑条件和基本趋势没有改变，宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策，有能力实现全年经济社会发展目标任务。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
-          "url": "https://wallstreetcn.com/articles/3780093",
-          "published": "2026-08-23 19:38:38",
-          "summary": "艾达币、XRP、XLM大跌超12%，以太坊跌超5%，比特币跌2.40%。据CoinGlass数据统计，最近24小时，全球共有17.92万人爆仓，爆仓金额接近9亿美元。其中，超八成为多单爆仓。",
+          "title": "8月24日会员早报：美加贸易战全面升级 周一特朗普将对伊朗打响“经济诺曼底”",
+          "url": "https://wallstreetcn.com/member/articles/3780100",
+          "published": "2026-08-24 07:10:17",
+          "summary": "特朗普投资账户6月交易逾千笔",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "首次，活性提升10倍！mRNA技术迎来关键进展",
-          "url": "https://wallstreetcn.com/articles/3780092",
-          "published": "2026-08-23 19:34:56",
-          "summary": "日本名古屋大学与富士胶片公司合作开发出一种新型脂质纳米颗粒（LNP），首次将带帽的环状RNA（Cap-cirRNA）高效递送入动物体内，活性提升10倍且炎症极低，为下一代长效mRNA疗法打开了新的大门。相关论文发表在新一期《细胞·生物材料》期刊上。",
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+          "url": "https://wallstreetcn.com/articles/3780045",
+          "published": "2026-08-24 07:00:08",
+          "summary": "五分钟看懂全球市场，尽在财经早餐。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "9月将是科技重要的决胜窗口",
-          "url": "https://wallstreetcn.com/articles/3780091",
-          "published": "2026-08-23 19:30:28",
-          "summary": "兴证策略张启尧团队认为，9月美长债利率有望见顶回落，AI公司上市临近或缓解ARR担忧，流动性改善提供第二次支撑；中长期AI行情仍看景气验证，光模块、PCB、有色等硬科技线索值得聚焦。后续政策表态的几个观察窗口，一是下周即将召开的杰克逊霍尔会议中沃什的表态，二是8月底至9月初公布的最新通胀、就业数据，三是9月中旬召开的FOMC会议。",
+          "title": "中国平安业绩会实录：现在是AI价值创造的阶段，寿险产品进入“黄金时代”，",
+          "url": "https://wallstreetcn.com/articles/3780107",
+          "published": "2026-08-23 22:56:30",
+          "summary": "对未来2·3年的新业务价值增长有”非常强的信心“",
           "source": "华尔街见闻最新"
         }
       ]
@@ -721,8 +805,37 @@
     "gelonghui": {
       "name": "gelonghui",
       "name_cn": "格隆汇快讯",
-      "count": 0,
-      "articles": []
+      "count": 4,
+      "articles": [
+        {
+          "title": "国际油价走低 布油跌2%失守91美元",
+          "url": "https://www.gelonghui.com/live/2627880",
+          "published": "2026-08-24 09:03:30",
+          "summary": "布伦特原油期货跌幅扩大至2%，报90.798美元/桶。WTI原油回落至85美元/桶下方，日内跌1.52%。",
+          "source": "格隆汇快讯"
+        },
+        {
+          "title": "新加坡打击“洗产地”，不允许接转口避税",
+          "url": "https://www.gelonghui.com/live/2627874",
+          "published": "2026-08-24 09:01:13",
+          "summary": "新加坡总理黄循财周日表示，将调查任何公司试图透过新加坡转运货物以规避关税，并进口“使用强迫劳动制造”的商品。他强调，绝不允许新加坡被用作非法贸易的管道。\n黄循财指出，美国担忧中国商品经由东南亚转运，进行“洗产地”以规避关税，于是对新加坡出口商品征收12.5%关税。美国也不满新加坡，没有法律禁止进口使用强迫劳动生产的商品。\n黄循财重申，将调查任何不当行为，但鉴于新加坡是重要的转口枢纽，调查必须务实，来自世界各地的商品都经过新加坡，因此不可能追踪并核实每一件经新加坡转运的商品的整个供应链。新加坡将继续与美国沟通，并解释本身的立场。",
+          "source": "格隆汇快讯"
+        },
+        {
+          "title": "新加坡派钱鼓励生育 17岁前资助37万元",
+          "url": "https://www.gelonghui.com/live/2627864",
+          "published": "2026-08-24 08:57:50",
+          "summary": "新加坡总理黄循财周日傍晚在国庆群众大会上，宣布鼓励生育的新措施，每名儿童在17岁之前将获得近7万新加坡元(约37万人民币)的直接援助，其中包括1万新加坡元的婴儿礼包。政府也将大幅增加有薪育婴假，并计划把资助全日制托儿所的月费降至150新元。\n有薪育婴假方面，每位在职父母在照顾一名12岁以下的孩子，可享8天假期；照顾两名孩子，可享10天假期，照顾3名或以上孩子，可享12天假期，即父母两人共获得24天假期。政府将承担所有法定育婴假的费用，以减轻雇主的经济负担。\n新加坡的总和生育率，去年降至0.87的历史新低。同时，今年也步入超老龄化社会，五分之一的人口将达到65岁以上。",
+          "source": "格隆汇快讯"
+        },
+        {
+          "title": "匿名模型“牛来”引爆全球开发者圈",
+          "url": "https://www.gelonghui.com/live/2627859",
+          "published": "2026-08-24 08:56:25",
+          "summary": "据每经，近日，匿名模型Ox Alpha（中文社区称“牛来”）上线OpenRouter后调用量迅速攀升，短时间内冲至该平台榜首，并刷新单日模型用量纪录。 OpenRouter最新数据显示，仅Hermes Agent、Claude Code等前五大应用对其累计调用就已超过4万亿Token，其热度正从社区尝鲜快速扩散至全球开发者及Agent真实工作流。 Ox Alpha的厂商身份仍未揭晓，技术指纹更多指向智谱GLM系列，与此同时，多名谷歌DeepMind研究员发帖暗示其为Gemini新版，目前尚无厂商正式认领。",
+          "source": "格隆汇快讯"
+        }
+      ]
     }
   }
 }
