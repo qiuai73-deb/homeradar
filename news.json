@@ -1,188 +1,104 @@
 {
-  "updated": "2026-08-27T01:06:03.233139+00:00",
-  "updated_beijing": "2026-08-27 01:06 北京时间",
+  "updated": "2026-08-27T04:05:56.689015+00:00",
+  "updated_beijing": "2026-08-27 04:05 北京时间",
   "important": [
     {
-      "title": "英伟达上季营收超预期翻倍大增，本季料首破千亿大关，下财年增长指引碾压预期",
-      "url": "https://t.10jqka.com.cn/pid_682940745.shtml",
-      "summary": "英伟达业绩超预期，AI算力需求强劲。",
-      "source": "同花顺"
+      "title": "英伟达Q2营收利润双双翻倍，盘后股价大涨超4%",
+      "url": "https://finance.eastmoney.com/a/202608273855299898.html",
+      "summary": "英伟达财报超预期，AI需求强劲，带动科技股上涨。",
+      "source": "东方财富"
     },
     {
-      "title": "智谱认领神秘模型“牛来” 测试期国产芯片提供全部推理算力",
-      "url": "https://www.caixin.com/2026-08-27/102478385.html",
-      "summary": "国产芯片支撑智谱新模型，AI自主可控加速。",
-      "source": "财新"
-    },
-    {
-      "title": "苹果2026秋季发布会定档9月10日！发布首款折叠iPhone",
-      "url": "https://t.10jqka.com.cn/pid_682931954.shtml",
-      "summary": "苹果将发折叠iPhone，开启新周期。",
-      "source": "同花顺"
-    },
-    {
-      "title": "OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？",
-      "url": "https://wallstreetcn.com/articles/3780392",
-      "summary": "OpenAI自研芯片挑战英伟达地位。",
+      "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+      "url": "https://wallstreetcn.com/articles/3780408",
+      "summary": "英伟达收购Hugging Face，巩固AI生态，竞争加剧。",
       "source": "华尔街见闻"
     },
     {
-      "title": "CIA局长敏感时刻突访莫斯科",
-      "url": "https://wallstreetcn.com/articles/3780390",
-      "summary": "美俄高层接触，地缘局势微妙。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "西藏吉隆泥石流已致3人遇难265人失联 多部门紧急响应",
-      "url": "https://science.caixin.com/2026-08-27/102478344.html",
-      "summary": "西藏泥石流致重大伤亡，救援进行中。",
-      "source": "财新"
-    },
-    {
-      "title": "研究：极端高温天气对老年人危害被严重低估",
-      "url": "https://www.caixin.com/2026-08-27/102478367.html",
-      "summary": "高温对老年人健康威胁被低估。",
-      "source": "财新"
-    },
-    {
-      "title": "居民医保参保下滑 研究建议资助60岁以上和低收入群体缴费",
-      "url": "https://www.caixin.com/2026-08-27/102478360.html",
-      "summary": "医保参保率下滑，专家建议补贴弱势群体。",
-      "source": "财新"
-    },
-    {
-      "title": "商汤上半年营收扭亏 三年以上应收账款占比近五成",
-      "url": "https://www.caixin.com/2026-08-27/102478348.html",
-      "summary": "商汤扭亏但应收款风险高。",
-      "source": "财新"
-    },
-    {
-      "title": "智谱新模型“牛来”跑在10万国产卡上，SemiAnalaysis评价“英伟达护城河再受考验”",
-      "url": "https://wallstreetcn.com/articles/3780391",
-      "summary": "国产卡集群运行新模型，挑战英伟达。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%",
-      "url": "https://wallstreetcn.com/articles/3780394",
-      "summary": "网络安全需求激增，CrowdStrike业绩亮眼。",
+      "title": "中国1—7月规模以上工业企业利润同比增长17.6%，集成电路行业利润同比增长18.5倍",
+      "url": "https://wallstreetcn.com/articles/3780399",
+      "summary": "中国工业利润增长，集成电路行业爆发式增长。",
       "source": "华尔街见闻"
     },
     {
       "title": "特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险”",
       "url": "https://wallstreetcn.com/articles/3780389",
-      "summary": "美伊谈判僵局，航运风险被低估。",
+      "summary": "美伊谈判僵局，中东局势紧张，市场低估风险。",
       "source": "华尔街见闻"
     },
     {
-      "title": "当科技巨头开始把债务搬到表外，是否正在埋下下一场“次贷危机”的种子？",
-      "url": "https://wallstreetcn.com/member/articles/3780225",
-      "summary": "科技巨头表外债务引发危机担忧。",
+      "title": "比尔·盖茨称AI时代将是人类史上最动荡时期之一 批评科技企业淡化风险",
+      "url": "https://database.caixin.com/2026-08-27/102478406.html",
+      "summary": "盖茨警告AI风险，科技企业需正视挑战。",
+      "source": "财新"
+    },
+    {
+      "title": "OpenAI复盘人工智能模型入侵事件：5月已发现异常信号但未能及早阻止",
+      "url": "https://database.caixin.com/2026-08-27/102478401.html",
+      "summary": "OpenAI披露AI安全漏洞，反思响应机制。",
+      "source": "财新"
+    },
+    {
+      "title": "软银拟60亿美元控股人形机器人公司1X，押注“物理AI”下一个万亿赛道",
+      "url": "https://wallstreetcn.com/articles/3780413",
+      "summary": "软银重注人形机器人，看好物理AI前景。",
       "source": "华尔街见闻"
     },
     {
-      "title": "英伟达Q2财报会要点：明年客户需求可达翻倍级别 算力供给短缺至少延续至2028财年末",
-      "url": "https://www.gelonghui.com/live/2635267",
-      "summary": "英伟达称算力短缺将持续至2028年。",
-      "source": "格隆汇"
-    },
-    {
-      "title": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨",
-      "url": "https://news.10jqka.com.cn/20260827/c679322867.shtml",
-      "summary": "英伟达财报带动美股期指上涨。",
-      "source": "同花顺"
+      "title": "中国海外发展上半年权益销售额反超保利发展",
+      "url": "https://www.caixin.com/2026-08-27/102478413.html",
+      "summary": "中海地产销售领先，行业格局生变。",
+      "source": "财新"
     }
   ],
   "interest": [
     {
-      "title": "又一城出手稳楼市！多地政策密集发力，为“金九银十”蓄势",
-      "url": "https://t.10jqka.com.cn/pid_682946606.shtml",
-      "summary": "多地楼市新政密集出台，稳定市场。",
-      "source": "同花顺"
-    },
-    {
-      "title": "AI算力需求快速增长！光模块企业上半年业绩亮眼",
-      "url": "https://news.10jqka.com.cn/20260827/c679321338.shtml",
-      "summary": "光模块企业受益AI算力需求，业绩增长。",
-      "source": "同花顺"
-    },
-    {
-      "title": "公募基金中报首度披露近1年盈利投资者数量占比",
-      "url": "https://news.10jqka.com.cn/20260827/c679321259.shtml",
-      "summary": "公募基金首披盈利投资者占比。",
-      "source": "同花顺"
-    },
-    {
-      "title": "长线资金持续借道ETF加仓，频频跻身前十大持有人行列",
-      "url": "https://news.10jqka.com.cn/20260827/c679321514.shtml",
-      "summary": "长线资金通过ETF加仓，市场信心增强。",
-      "source": "同花顺"
-    },
-    {
-      "title": "智谱：GLM-5.3-Flash跑在国产芯片上",
-      "url": "https://news.10jqka.com.cn/20260827/c679322790.shtml",
-      "summary": "智谱模型国产芯片运行，自主可控。",
-      "source": "同花顺"
-    },
-    {
-      "title": "人形机器人“上保险” 护航具身智能走出实验室",
-      "url": "https://news.10jqka.com.cn/20260827/c679321664.shtml",
-      "summary": "人形机器人保险推出，推动商业化。",
-      "source": "同花顺"
-    },
-    {
-      "title": "端侧AI芯片厂商业绩报喜，算力下沉加速场景渗透",
-      "url": "https://news.10jqka.com.cn/20260827/c679321461.shtml",
-      "summary": "端侧AI芯片业绩增长，算力下沉。",
-      "source": "同花顺"
-    },
-    {
-      "title": "长线资金持续借道ETF加仓 频频跻身前十大持有人行列",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsrri5784107.shtml",
-      "summary": "长线资金借道ETF加仓，市场稳定。",
-      "source": "新浪"
-    },
-    {
-      "title": "华尔街猜测：贝森特“救美债”的下一招是什么？",
-      "url": "https://wallstreetcn.com/articles/3780388",
-      "summary": "美债问题引发市场猜测。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "消费板块的“无基之弹”2.0：为何社零增速降至0.6%，消费股却开始奖励好业绩、宽容坏业绩？",
-      "url": "https://wallstreetcn.com/member/articles/3780338",
-      "summary": "消费股表现与社零增速背离。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "BOSS直聘、猎聘月活创新高，人岗匹配AI化提速",
-      "url": "https://www.caixin.com/2026-08-27/102478374.html",
-      "summary": "招聘平台月活创新高，AI匹配加速。",
+      "title": "券商中报净利增速显著高于营收 自营投资成核心引擎",
+      "url": "https://database.caixin.com/2026-08-27/102478431.html",
+      "summary": "券商自营业务驱动利润高增长。",
       "source": "财新"
     },
     {
-      "title": "分析｜“六网协同”提速，多元化投融资模式如何落地？",
-      "url": "https://www.caixin.com/2026-08-27/102478356.html",
-      "summary": "六网协同投融资模式探讨。",
+      "title": "今日开盘：沪指报3911.89点 跌幅0.02%",
+      "url": "https://finance.caixin.com/2026-08-27/102478398.html",
+      "summary": "沪指微跌，市场平稳开盘。",
       "source": "财新"
     },
     {
-      "title": "MiniMax上半年收入1.17亿美元超2025全年 8月ARR达8亿美元",
-      "url": "https://www.caixin.com/2026-08-27/102478340.html",
-      "summary": "MiniMax收入超预期，AI应用加速。",
-      "source": "财新"
+      "title": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨AI科技股大涨！",
+      "url": "https://news.10jqka.com.cn/20260827/c679322867.shtml",
+      "summary": "英伟达财报带动全球科技股上涨。",
+      "source": "同花顺"
     },
     {
-      "title": "T早报｜智谱认领神秘模型“牛来”；巴西政府罚款TikTok近2亿元；MiniMax上半年收入超2025全年",
-      "url": "https://www.caixin.com/2026-08-27/102478377.html",
-      "summary": "科技早报：智谱、TikTok、MiniMax动态。",
-      "source": "财新"
+      "title": "需求不足 价格探底 水泥行业“金九”成色几何？",
+      "url": "https://news.10jqka.com.cn/20260827/c679321494.shtml",
+      "summary": "水泥行业需求疲软，价格低迷。",
+      "source": "同花顺"
     },
     {
-      "title": "品牌的量变到质变",
-      "url": "http://xueqiu.com/7913104177/406678285",
-      "summary": "品牌发展从量变到质变。",
-      "source": "雪球"
+      "title": "佳缘科技财务造假被罚",
+      "url": "https://finance.sina.com.cn/zt_d/subject-1787535708/",
+      "summary": "佳缘科技因财务造假受罚。",
+      "source": "新浪财经"
+    },
+    {
+      "title": "业绩全面超预期！英伟达产业链沸腾！光模块上攻，高“光”创业板人工智能ETF（159363）标的指数涨超3%",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-iniptnux9038272.shtml",
+      "summary": "英伟达产业链带动A股AI板块大涨。",
+      "source": "新浪财经"
+    },
+    {
+      "title": "乳业龙头拟回购注销至多20亿元",
+      "url": "https://finance.eastmoney.com/a/202608263855186476.html",
+      "summary": "乳业龙头回购提振市场信心。",
+      "source": "东方财富"
+    },
+    {
+      "title": "大普微拿下34.91亿元大单",
+      "url": "https://finance.eastmoney.com/a/202608263855151016.html",
+      "summary": "大普微获大单，业绩有望提升。",
+      "source": "东方财富"
     }
   ],
   "sources": {
@@ -192,73 +108,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "智谱认领神秘模型“牛来” 测试期国产芯片提供全部推理算力",
-          "url": "https://www.caixin.com/2026-08-27/102478385.html",
-          "published": "Thu, 27 Aug 2026 08:32:25 +0800",
-          "summary": "<img alt=\"8月26日晚间，智谱上线并开源GLM-5.3-Flash。图：视觉中国\" id=\"picture_178779094392342\" src=\"https://img.caixin.com/2026-08-27/178779094392342_840_560.jpg\" /><dl><dt>8月26日晚间，智谱上线并开源GLM-5.3-Flash。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>8月26日晚间，智谱上线并开源GLM-5.3-Flash。该模型参数量低于GLM-5.3，价格为GLM-5.3的1/10，且在测试期间由国产芯片提供全部算力支持。</p><p>　　根据智谱发布的公告，GLM-5.3-Flash是GLM-5系列的首个原生多模态模型，有百万上下文，该模型参数320B，低于GLM-5.3及GLM-5.2的744B，且能力超过GLM-5.2。</p><p>　　GLM‑5.3‑Flash的发布也揭开了此前匿名模型Ox‑Alpha（被中文社区称为“牛来”）的神秘面纱。在正式上线之前，GLM-5.3-Flash自8月20日起以匿名模型Ox-Alpha在第三方聚合平台OpenCode和OpenRouter上进行免费测试，并迅速爆火于开发者社群。在OpenRouter上，Ox-Alpha在过去7天的调用量达到23.2T排名第一，较第二名的DeepSeek-V4-Flash正式版调用量高出一倍有余；OpenCode上，Ox-Alpha已连续6天调用量排名第一，累计调用量44T。</p><p>　　智谱在今日的发布公告中表示，测试期间的流量请求全部由国产芯片提供算力支持。智谱称，过去一周首次在大规模流量中尝试用大国产芯片集群提供服务；通过底层架构改造等技术手段优化推理服务，经优化后集群的硬件效率和单token成本已达到与主流英伟达GPU相当的水平。</p><p>　　“这证明国产芯片完全可以在大规模场景下高效、经济地支撑前沿模型的推理需求。”智谱在公告中写道。</p><p>　　GLM-5.3-Flash在第三方测评平台Artificial Analysis的模型智能指数中取得57分，在榜单中仅落后于63分的Opus 5，62分的Fable 5，61分的GPT-5.6 Sol、Grok 4.6，60分的Kimi K3、GLM-5.3和58分的Qwen3.8 2.4T A95B，并与Opus 4.8得分持平。智谱称，在自研Z.ai Code Bench体感评估中，GLM-5.3编程表现与Claude Opus 4.8相当。</p><p>　　在此基础上，GLM-5.3-Flash的API价格为每百万tokens（词元）输入0.8元、输出2.8元、缓存命中0.23元，且前两周有5折限时折扣。智谱称，GLM-5.3-Flash定价为GLM-5.3的1/10，限时折扣内为GLM-5.3的1/20，为Opus 4.8的1/40。</p><p>　　GLM-5.3-Flash的价格已经威胁到长期以性价比著称的DeepSeek-V4-Flash。在经过一轮价格上涨后，DeepSeek-V4-Flash的API价格在高峰时段为每百万tokens（词元）输入（缓存命中）0.1元、输入（缓存未命中）3元、输出9元，空闲时段为高峰时段价格的一半。DeepSeek目前规定高峰时段为北京时间周一至周五9点至12点和14点至18点。（详见财新网《<a href=\"https://www.caixin.com/2026-08-13/102473888.html\" target=\"_blank\">DeepSeek-V4-Pro正式版上线 调用价格大幅上涨</a>》）</p><p>　　不过值得注意的是，由于输入价格较易被命中缓存所稀释，而GLM-5.3-Flash目前缓存命中的价格较DeepSeek-V4-Flash高，其使用成本并未显著低于DeepSeek-V4-Flash。在Artificial Analysis上的使用成本测评中，GLM-5.3-Flash完成每项任务的平均花费为0.09美元，DeepSeek-V4-Flash为0.11美元。</p><p>　　智谱还强调新模型的多模态能力。此前，GLM-5系列模型原生仅接受文本为输入模态，GLM-5.3-Flash接受的输入模态则包括图片、视频、文件、文本。</p><p>　　在旗舰级模型扩大参数提升智能性的同时，国产大模型厂商推出更具性价比的小参数模型或将成为另一趋势。GLM-5.3-Flash发布的同一天，阿里也发布小参数模型Qwen3.8-Flash。阿里称，该模型采用全新下一代架构，主模型参数量为125B，每token激活6B参数。阿里同时表示，得益于架构和训练的全面革新，Qwen3.8-Flash训练成本较Qwen3.7-Plus骤降近90%，推理成本同样大幅下降，每百万Tokens输入1元，输出3元。</p><p>　　GLM-5.3-Flash是智谱两周以来发布的第二个模型。此前于8月14日，智谱发布最新模型GLM-5.3，并称其为“编程能力最强的开源模型”，同时强调模型的网络安全能力。（详见财新网《<a href=\"https://www.caixin.com/2026-08-14/102474168.html\" target=\"_blank\">智谱发布新模型GLM-5.3 强调模型编程与网络安全能力</a>》）</p><p>　　不过，在GLM-5.3发布后，智谱股价并未像GLM-5.2发布后一般疯狂。智谱近两周股价在1300港元/股至1000港元/股区间浮动。8月26日收报1030元/股，跌2.74%。</p><p>　　智谱首席科学家唐杰在8月19日于X平台发文分享对scaling law（规模定律）的看法，称模型的总参数量必须搭配训练数据规模、算力投入方向、以及由谁、在何种条件下运行该模型三项指标才有意义。在专家混合模型中，总参数量大致决定模型的知识存储上限，而激活参数量、有效深度，决定模型的推理深度。</p><p>　　唐杰同时表示，GLM-5.3是围绕“参数规模足够大时，模型能力的进一步增长就需要从其他维度实现”猜想所进行的对照实验。在GLM-5.3的训练过程中，团队选择在后训练进行规模扩张（scaling），而在接下来的模型发布中，会在基座模型尺寸、预训练数据、单次前向算力投入等方向进行逐一推进。</p><p>　　智谱将于8月31日公布其2026年上半年财报。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478385.html\" rel=\"nofollow\" title=\"智谱认领神秘模型“牛来” 测试期国产芯片提供全部推理算力\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
+          "title": "【行业速递】券商中报净利增速显著高于营收 自营投资成核心引擎",
+          "url": "https://database.caixin.com/2026-08-27/102478431.html",
+          "published": "Thu, 27 Aug 2026 11:19:38 +0800",
+          "summary": "<img alt=\"\" id=\"picture_178780061705261\" src=\"https://img.caixin.com/2026-08-27/178780061705261_840_560.jpg\" /><dl><dt></dt></dl><p>　　<b>【财新数据专稿】</b>上半年<a class=\"database\" href=\"https://stock.caixin.com/m/market?originReferrer=waparticle\" target=\"_blank\">A股</a>市场呈现较为极致的结构性行情，AI算力、硬科技板块成交持续火热，小票活跃度分化，两融余额中枢拉升，IPO继续回暖，市场交易总量高增。</p><p>　　落到券商财报，行业整体表现出营收抬升、净利润增速显著高于营收的特征。据财新数据梳理，A股已有24家上市券商披露完整中报，另有10家已发布业绩预告或快报。</p><p>　　<b>从业绩体量来看，头部公司进一步拉开与中小券商差距，形成清晰分层。</b><a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035073&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中信证券</a>（600030.SH）以496.92亿元营收（同比增50%）、233.43亿元归母净利润（同比增69.6%）创下上市以来中期业绩新高，整合完成后的<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034969&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">国泰海通</a>（601211.SH）紧随其后，归母净利润也突破200亿元，两大龙头净利规模占据全行业近三成份额。第二梯队的<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200001655&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">广发</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034981&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">华泰</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034976&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">招商</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034929&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中金</a>等，半年度净利润在70亿至120亿区间，业绩增长相对稳健。</p><p>　　中型券商中，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035024&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">兴业证券</a>（601377.SH）时隔五年中报净利再次突破20亿元关口。更多<b>中小券商</b>规模则位于10亿级别及以下区间，<b>展现出更强的业绩弹性，</b>如<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200009151&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中泰证券</a>（600918.SH）、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035127&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">华安证券</a>（600909.SH）净利润实现同比翻倍；还有部分增速更亮眼，如<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200011605&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">天风证券</a>（601162.SH）、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000868&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">湘财股份</a>（600095.SH）净利润同比增幅最高突破300%甚至接近700%，但绝对盈利体量较低、多不足5亿元，<b>高增速本质是去年低基数叠加单次业务红利。</b></p><p>　　值得注意的是，国泰海通97.6%的营收增速与28.7%的净利<b>增速之间存在显著背离。</b>主要原因是2025年同期国泰君安合并海通证券时，确认了近80亿元负商誉并计入非经常性损益，抬高了上年利润基数，剔除这一因素后的扣非净利润增幅高达168%。</p><p>　　另一个异常是<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200025521&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">信达证券</a>（601059.SH），营收同比增长19.5%，但归母净利润仅增7.15%，在已披露券商中排在倒数位置，同时其总资产较上年末下降7.5%，交易性金融资产减少超过90亿元，呈现与行业扩张趋势相反的“缩表”态势，或为阶段性结构主动调整、业务收益节奏错位的影响。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-27/178780061705261.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-27/178780061705261.jpg\" /></a></div></div> <p>　　2026年上半年，A股总成交额达317.5万亿元，日均成交额约2.7万亿元，同比近乎翻倍增长；上交所A股累计新开户超2000万户，同比增长约60%，<b>投资者入市热情同步升温。市场活跃度高企</b>之下，中证协数据显示，上半年行业经纪业务收入同比增55%，上市券商普遍实现40%以上的同比增长。</p><p>　　<b>不过传统通道佣金的“价格坍塌”仍在持续，</b>据<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200025144&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">东北证券</a>披露，其平均佣金率从2023年的0.24‰一路降至2026年一季度的0.15‰。经纪业务的内部格局发生明显变化，基金投顾、产品代销等增值服务收入占比普遍提升。如<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200002293&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中信建投</a>（601066.SH）上半年投顾收入同比大增143.5%；<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200028333&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">东兴证券</a>（601198.SH）财富管理业务收入10.5亿元，营收占比升至逾四成，首次超过自营交易业务成为第一大收入来源。</p><p>　　<b>上半年权益与固收市场共振上行，使得一些券商的自营投资业务从过去的业绩拖累项，转变为弹性最大的利润引擎。</b></p><p>　　例如中信证券的公允价值变动收益从上年同期的-14.33亿元大幅转正至131.7亿元，仅此一项就实现超过半数的利润增量；<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034976&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">招商证券</a>投资及交易业务营收亦超百亿，在所有业务中涨幅最高，达325.6%。东兴证券的公允价值变动收益同比暴涨超78倍至12.5亿元；<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035477&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">财达证券</a>的自营分部收入也暴增427%至7.75亿元，直接超越经纪业务成为收入贡献核心。</p><p>　　证券行业普遍加大人工智能、半导体等科创赛道权益资产配置，<b>券商通过“保荐+跟投”机制持有的科创企业股权浮盈大幅增长，</b>同时提升高分红央国企标的、科创债等防御性资产权重，衍生品做市、量化中性策略业务规模扩张。也有少数公司过早兑现浮盈，错过行情上涨红利，自营收益增量不足。</p><p>　　股权融资市场呈现“IPO节奏明显修复、再融资收缩”的结构性特征，反映到<b>券商投行业务则为回暖中的显著分化。</b>头部五家券商的投行业务净收入合计占行业近半壁江山，其中中信证券证券承销业务收入同比增约42%至29.1亿元，股权融资主承销规模继续保持第一。</p><p>　　与此同时，部分中小券商相关业务表现逊色，如东兴证券投行业务收入同比骤降56.3%，IPO主承销家数排名明显下滑；还有机构甚至面临“不开张”的窘境，上半年仅依靠零星小额债承、财务顾问业务维系投行牌照，被加速边缘化。</p><p>　　<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035409&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">东吴证券</a>分析师孙婷表示，<b>随着公募基金改革提速，“含基量”也成中小券商竞争胜负手。</b>从目前券商持有公募基金股权的盈利情况来看，中小券商含基量更大，其中兴业证券、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034979&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">长城证券</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035483&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">第一创业</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000363&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">西南证券</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200035535&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">财通证券</a>、中泰证券旗下通过控股、参股公募基金，对公司净利润贡献均超过20%。</p><p>　　尽管公募基金近三年持续降费，但头部公募仍有不错增长，中小券商通过参控股公募能实现稳定的基金管理收入及分红。券商参控股还可积极推动渠道、产品等方面的联动，例如针对零售、企业及机构客户输出定制化产品，推动公募规模增长；同时，公募基金的资产管理能力也能反哺券商的财富管理业务，增强对客户的资产配置服务能力。</p><p>　　<b>7月以来市场出现了一定程度的调整，但由于交投量依然活跃，业内认为对券商业绩影响较小，</b>8月后市场边际回暖，对非银板块三月业绩担忧有望缓解。数据显示，今年前七月A股交易额为379.6万亿元，同比大幅增长89.6%。</p><p>　　中金公司预计，<b>波动市场环境中科创投资仍有望对券商尤其头部实现正向业绩贡献。</b>一是券商出于审慎，会对科创投资的浮盈贡献计算流动性折扣，随着限售期临近到期，逐步释放限售股的累计浮盈，有助于在市场短期波动中熨平收益，仅在市场长期持续下行导致累计浮亏的情况下会放大波动；二是新上市项目（例如长鑫）在上市当期实现的浮盈，有助于对冲业绩压力。</p><p>　　其次，近年来券商权益投资的收益韧性在提升，主因是方向性权益自营向去方向性的客需衍生品、量化投资转型，股票方向性自营中OCI权益投资（高分红策略）占比的提升。此外<a class=\"database\" href=\"https://bond.caixin.com/m/market?originReferrer=waparticle\" target=\"_blank\">债券</a>投资的多元化与去方向性也有助于抵御波动。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-27/102478431.html\" rel=\"nofollow\" title=\"【行业速递】券商中报净利增速显著高于营收 自营投资成核心引擎\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
           "source": "财新"
         },
         {
-          "title": "一位生殖科医生的助孕手记｜带着问题去读书",
-          "url": "https://mini.caixin.com/2026-08-27/102478383.html",
-          "published": "Thu, 27 Aug 2026 08:28:25 +0800",
-          "summary": "<img alt=\"《种下一粒光》，唐荣欣 著\" id=\"picture_178779025589419\" src=\"https://img.caixin.com/2026-08-27/178779025589419_840_560.jpg\" /><dl><dt>《种下一粒光》，唐荣欣 著</dt></dl><p>　　[<b>前记：</b>生命的孕育使得人类得以延续，但并非所有家庭都可以顺理成章地拥有奇迹。谱就生命交响曲的过程中，藏着许许多多不为人知的难题——这些难题是什么？可能发生在哪里？是否能够破解？《种下一粒光》是一部生殖科医生助孕手记，通过20多个助孕故事探讨“生育”，不仅直面那些隐藏在生育之路上的困境与挑战，更让大众看到寻求助孕治疗的“她们”所经历的坚持与抉择。]</p><p>　　<b><a href=\"https://j.youzan.com/nz88E7\" target=\"_blank\">《种下一粒光》点此优惠购买</a></b></p><p>　　生命本就是个奇迹。</p><p>　　一个精子要经过多少绝杀和命运的淘汰才能与卵子结合最终形成受精卵，而这只是这部生命交响曲的宏大起头。在母亲的身体里，一系列变化犹如宇宙大爆炸般砰訇翻腾，最终，迎来了你。</p><p>　　生命的孕育就是如此奇妙，它使人类得以延续。当然，我写下这本书的初衷，并非只是想要讴歌生命，而是想从一个生殖科医生的角度去探讨“生育”这个话题。</p><p>　　无论你是从生理、心理、社会学还是人类学的角度来看，“生育”其实都是最具私密性，同时又最无隐私可言的话题之一。它绝非女性一个人的事，也不只是夫妻两个人的事。</p><p>　　尽管这个话题很容易引发共鸣，但不同个体的选择和经历往往千差万别。这也正是生命奇妙之所在。我很幸运，因为职业的关系，可以不断见证新生命的诞生，可以同享母亲拥星入怀般的喜悦。与此同时，我也与患者一同经历了等候过程中的辛酸、苦涩，还有遗憾，其中的百般滋味真如一场秋雨。这也促使我在工作之余去思考，想要言说。</p><p>　　于是，我写下了《种下一粒光》，是希望有更多的人能够看到：人的生物特性（生理特征）决定了要由女性来担负起生育的重任，但从你计划生育开始，哪怕只是动了生育的念头，都仅仅是踏上这条路的第一步而已。有些人很幸运，很快就能走到终点，而对于另一些人来说，就会道阻且长。现代人的寿命越来越长，可女性的生理条件不会因此发生推移，一旦错过生育期，便没有重来的可能了。正如我的恩师乔杰院士所言：“年龄增长导致的卵母细胞数量和质量的双重下降，是生育力衰退不可逆转的核心因素。”因此，对自己的生育能力做个体化的评估，了解自己正处于育龄期的哪一个阶段，由此制订适合自己的生育计划是非常必要的。因为35周岁之后的女性，卵巢功能会呈现断崖式下跌，怀孕变得越发困难，所以生育还是要趁早。然而，生育又绝非儿戏，一般人为之付出的代价是如此之高，它所牵涉的变化又是如此之多：新手爸妈身份的变化、家庭空间的变化、夫妻感情的变化、家务分工的变化、职业晋升空间的变化、人际关系的变化（父母、公婆、月嫂、托班老师）……所以我们的患者所要面对的，实际上是包括生育（或者说不能生育）在内的一切焦虑，是极大的经济压力，是带有一定压迫性的社会期待，是“自我实现”迟迟实现不了的沮丧。</p><p>　　我写下《种下一粒光》，不是为了鼓励不孕人群都来做试管婴儿助孕，也不是单纯要鼓动我们的读者早生、多生，而是想表达这样一件事，那就是生育是一种能力（虽然这种能力不见得“招之即来”），但更应当是一个选项——无论是早生晚生、少生多生，还是干脆不生，我都希望我们的读者有自己选择的余地。辅助生殖技术的存在是为了帮助不孕人群圆梦，而非为了鼓吹“不生育的女人就是不完整的，没有孩子的婚姻就必定没有幸福”。</p><p>　　我写下《种下一粒光》，是为了对以往较少直接触及的生育题材以及由生育而引发的一系列问题做一番审视。不孕不育之人往往沉默无声，不孕不育之人也比我们想象中的更为众多。作为生殖科医生，在这方面我有发言权。所以，如果你（或者你身边的人）有不孕不育的经历，那么请务必相信：大雨不只淋在你一个人的身上，和你有着相似体验的个体尚且有着千千万，而你们的这种痛苦是可以被看见、被探讨、被分担的。即便没有不孕不育的经历，你也必然会发现：生育以及助孕治疗所引发的讨论远不止“生还是不生”这样一道单选题，它还无可避免地与我们对人生的回望、对当下的思考以及对未来的选择联系在一起。</p><p>　　所以，我写下和现代医疗技术息息相关的《种下一粒光》，并非为了宣扬科技的力量，而是为了更好地理解他人，也更诚实地面对自己。我希望和生育、女性身体以及身份相关的话题可以得到更为广泛和深入的探讨。我希望通过描述痛苦来更好地帮助人们克服痛苦。因为只有当你能直面痛苦的时候，才有可能获得某种程度上的解脱和自由。话虽如此，我们现有的对流产女性、不孕不育女性、做试管婴儿诊疗的女性、为了怀孕几乎“走火入魔”女性的描绘还是太少太少了。这类人群的生理和心理经验到底如何？我们往往不得而知。而我能做的也实在有限，我的切入点毕竟是生殖科医生，而非患者本人，但愿我能向读者传达这样的讯息，即不孕族群并不孤单，他们可以从同病相怜之人、从我简单的讲述和平实的文字当中得到抚慰，获取力量。</p><p>　　所以，我写下超越私人范畴的《种下一粒光》，试图把个体经验上升到更高一点儿的层面来看，也邀请我们的读者用主观而不失清醒的视角来坦然面对他人以及自身的悲欢，从而获得尊严——我们生而为人，越过高山，也走出低谷的尊严。在这样一个讲求效率、讲求利益、讲求凡事量入为出的时代，因为怀揣一份希望而愿意全情投入，愿意付出伤痛的代价，愿意为之陷入苦闷和彷徨，这本身就是一种了不起的勇气。</p><p>　　我想要表达的有那么多，我塞进《种下一粒光》里的也委实不少，这会不会让这本书因此缺少留白和想象的空间呢？可能会吧。然而，在我写作的时候（至少是绝大多数时候），那些文字便自然而然地从我的指尖蹦了出来，继而跃上了我的电脑屏幕。因为生育以及助孕治疗的话题确实促使我（但愿也促使我们的读者）思考了很多看似与之并不直接相关的问题：我们对未来的规划、我们的自我认知、我们和伴侣的关系、要努力到何时才放弃助孕治疗、是不是非要有孩子不可、能不能接受领养或者以供精（卵）的方式怀孕……</p><p>　　因此，除了写下有代表性的不孕案例以外，我也会不自觉地想要在书中分享自己的人生经验和记忆。虽然我的经验和记忆大多平淡无奇，并且我往往很难用文学语言来恰当地描绘我在那个当下的，更不用说是患者在那个当下的感受，但正如我的好朋友明洁所说的，生活自有其千钧之力，而比生活更真实的是我们对生活的体验。我的文字（不论我的文学水平如何）因而可以穿透生活的表象，创造出第二重现实，让我以及读者借由它来更深入地了解生活、了解人的内心。当然，这只能说是我想要达成的另一个目标罢了，并不代表我已经在书中做到了这一点。</p><p>　　我写到后来，慢慢也会产生心理负担，觉得“一群非要生孩子的女人的故事”放在当今的环境下，或许会显得有些过时，是说教式的、不符合“女权主义”思想的、无法被相当一部分年轻人所理解的。在这个人们的生育观、婚姻观、幸福观、生命观多少激烈碰撞的年代，我们谈论“生生不息”的意义究竟何在呢？可我接着又想：人的想法是会变的，何况凡事都有两面性。你曾经觉得某个看法很先进或者很有道理，若干年后回头看，没准儿会发现情况发生了大逆转。</p><p>　　所以，我在《种下一粒光》里也试图表达这样的观点，那就是包括生育、助孕在内的选择，应当是我们按照自由意志做出的。而所谓的自由意志，不是依照一时的欲望或冲动行事，也不是单凭人的理性进行的利益权衡，它是我们趋于成熟的反映，即我们有能力和担当直面自己的真实感受，也有能力和担当承受自己做出选择后的那个结果。</p><p>　　和《种下一粒光》一样，我们都是有限的。可人类的宝贵之处正在于——我们恰恰是因为有限才更真实、更生动，我们也恰恰是因为有限才更需要传承和寄托。正因为爱我们的伴侣，所以我们才愿意妥协；正因为无法解决所有的问题，所以我们才要拥有与问题共存的智慧；正因为未来不可知，所以我们更要把握好当下，珍惜每一个今天。正因为生而为人何其被动（是生活首先选择了我们），所以我们才要掌握主动（在多数情况下，我们过着怎样的生活，终究出于我们自己的选择）。而不论生育与否，或者是否选择助孕，也不论眼下的困难看似有多巨大，有一点我们可以放宽心：这一切都是暂时的。</p><p>　　因此，我希望《种下一粒光》不仅仅是一本关于辅助生殖技术的科普书，更希望它能像一粒光明的种子，一个能让生命在困顿中依然闪烁光芒的希望。无论你身处顺境还是逆境，请记住，这粒光，永远与你同在，伴你同行。如此，便好。<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-08-27/102478383.html\" rel=\"nofollow\" title=\"一位生殖科医生的助孕手记｜带着问题去读书\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b><a href=\"https://j.youzan.com/nz88E7\" target=\"_blank\">《种下一粒光》点此优惠购买</a></b></p><p>　　<b>作者为上海市第十人民医院生殖医学中心副主任医师。财新网经版权方授权，摘选自《种下一粒光》引子。未经许可，不得转载。</b></p><p>　　<b>更多内容详见</b>：<a href=\"https://key.caixin.com/topic/BQ02.000000861\" target=\"_blank\">【专题】带着问题去读书</a></p>",
+          "title": "美债危机未至，市场信号已明",
+          "url": "https://opinion.caixin.com/2026-08-27/102478429.html",
+          "published": "Thu, 27 Aug 2026 11:13:30 +0800",
+          "summary": "<img alt=\"当地时间2026年8月24日，美国纽约，交易员在纽约证券交易所（NYSE）的交易大厅工作。图：视觉中国\" id=\"picture_178780066437932\" src=\"https://img.caixin.com/2026-08-27/178780066437932_840_560.jpg\" /><dl><dt>当地时间2026年8月24日，美国纽约，交易员在纽约证券交易所（NYSE）的交易大厅工作。图：视觉中国</dt></dl><p>　　2026年8月，美国联邦政府债务总额首次突破40万亿美元关口。截至8月中旬数据，公共债务约达40.05万亿美元，其中公众持有债务约32.3万亿美元，政府内部持有约7.8万亿美元。与五年前相比，债务规模增长逾三分之一；过去一年，债务平均每日增加约78亿至90亿美元。国会预算办公室（CBO）预计2026财年赤字约1.9万亿美元，占GDP约5.8%；净利息支出已升至约1万亿美元量级，并继续攀升。与此同时，约10万亿美元存量债务需要在未来一段时间内滚动再融资。</p><p>　　这些数字构成了桥水基金创始人雷·达利欧近期警示的核心算术基础：政府收入约5.5万亿美元，支出约7.5万亿美元，利息成本高企，再融资压力与日俱增。若利率进一步上升，债务服务成本将自我强化，最终可能迫使政策在接受更高利率或货币化债务之间作出艰难选择。</p><p>　　达利欧将此置于其“大债务周期”框架中，认为美国正接近或已处于拐点。他指出日本等投资者减少美债敞口、长期国债收益率攀升、财政部扩大自身债务回购等现象，暗示市场需求正在弱化，政府正试图在市场失控前进行干预。基于此，他建议投资者低配<a class=\"database\" href=\"https://bond.caixin.com/m/market?originReferrer=waparticle\" target=\"_blank\">债券</a>，增持财政更稳健国家的资产、黄金及少量比特币。这一叙事在媒体与投资者讨论中迅速扩散，尤其是在30年期国债收益率触及近19年高位（约5.2%—5.3%）之际。</p><p>　　然而，将财政压力直接等同于债券市场“买家罢工”，需要更严格的证据检验。收益率上升可源于多种因素：对政策利率路径的重新定价、增长预期调整、通胀预期变化、经销商资产负债表约束，或临时性供给冲击。真正的市场排斥应表现为更广泛、更持久的信号——长期收益率相对短期利率大幅且持续走高（熊市陡峭化）、通胀补偿明显脱锚、流动性恶化、回购市场融资压力上升，以及投资者持续要求显著的财政风险溢价。孤立的拍卖波动或短期收益率跳升并不足以构成证据。</p><p>　　当前市场数据与上述“排斥”标准存在明显差距。30年期收益率虽处于2007年以来高位，但自2023年10月首次突破5%以来，近三年内的上行幅度相对温和，更多呈现区间波动而非加速重定价。收益率曲线整体仍处于历史压缩状态，期限利差有限。这与市场对短期政策利率路径的质疑更为一致——投资者预期未来经济走软、信贷收紧与通胀回落将导致政策利率下行，从而形成由前端主导的牛市陡峭化可能，而非对长期国债本身的系统性抛售。</p><p>　　纽约联储基于ACM模型估算的10年期期限溢价，近期仍处于相对低位并大体平稳（约0.8%附近），远未出现债务危机情景下应有的持续大幅抬升。期限溢价作为不可直接观测的模型残差，其解释需谨慎，但即便接受其面值，当前水平也未显示投资者因赤字与再融资压力而要求显著更高的风险补偿。通胀预期方面，TIPS与通胀互换所反映的补偿亦未呈现失控迹象。</p><p>　　拍卖结果同样缺乏持续性的需求枯竭证据。尽管个别拍卖偶有“疲弱”评价，但整体投标覆盖率仍维持在健康区间，国债继续作为全球美元融资体系、回购市场、衍生品抵押与银行监管的核心资产发挥作用。财政部自2024年5月起实施的债务回购计划，近期将10—30年期票息证券的单次操作上限从20亿美元提高至至少40亿美元（2026年9月起实施），并可能根据市场条件进一步调整。这一操作被部分解读为“准量化宽松”或收益率曲线控制的前兆。然而，关键细节不容忽视：回购资金最终仍需通过税收或新发债务筹集，本质上是债务期限与结构的调整，而非债务总量削减，更不涉及直接货币创造。在数十万亿美元规模的国债市场中，单次数十亿美元的回购难以构成系统性控制；其象征意义与流动性支持功能，远大于对收益率曲线的实质主导。</p><p>　　财政问题本身真实存在且日益严峻。利息支出已超越国防、医疗补助等多项主要支出类别，并继续挤压可支配空间。CBO预测未来十年净利息累计支出将达数万亿美元。债务占GDP比重已高，并可能在无政策调整情况下进一步上升。这些事实构成长期风险，不应被轻视。达利欧对算术与周期机制的描述，抓住了问题的核心。</p><p>　　然而，市场定价所传递的信息与“国债市场已现危机”的叙事存在分野。投资者可以厌恶华盛顿的财政轨迹，同时仍因流动性、抵押、监管与避险需求而持有国债。在私人信贷风险上升、劳动力市场呈现扁平化特征、整体宏观环境偏向谨慎的背景下，安全资产需求反而得到支撑。这解释了为何长期收益率上行幅度有限、期限溢价与利差保持压缩。真正的债务压力更多体现在实体经济的“K型”分化——高收入与资产持有者受益于资产价格与财政转移，而中低收入群体面临信贷与就业压力——而非立即表现为债券市场的买家撤离。政府债务扩张本身，往往是对这种结构性疲弱的政策回应，而疲弱环境又反过来维持了对安全资产的需求。</p><p>　　若未来出现真正的市场排斥，信号将难以掩盖：长期收益率相对前端显著且持续突破、期限溢价与通胀补偿明显抬升、拍卖系统性疲软、回购与抵押市场压力加剧。目前这些信号尚未形成。美债市场仍在区分“政府财政前景不佳”与“国债作为全球货币体系核心工具的可用性”。这一区分，正是当前定价的关键。财政轨迹的可持续性需要政策层面的实质性调整——支出约束、收入机制与利率环境的综合平衡。市场并未否认风险，而是拒绝将当前算术直接外推为即时的债券市场崩溃。证据优先于叙事，数据优先于预警。在债务规模突破40万亿美元、利息成本攀升与回购操作扩大的当下，这一区分尤为重要。<a class=\"end_ico\" href=\"https://opinion.caixin.com/2026-08-27/102478429.html\" rel=\"nofollow\" title=\"美债危机未至，市场信号已明\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000262.html\" target=\"_blank\">【专题】特朗普2.0时代：影响与变局</a></p>",
           "source": "财新"
         },
         {
-          "title": "T早报｜智谱认领神秘模型“牛来”；巴西政府罚款TikTok近2亿元；MiniMax上半年收入超2025全年",
-          "url": "https://www.caixin.com/2026-08-27/102478377.html",
-          "published": "Thu, 27 Aug 2026 08:23:50 +0800",
-          "summary": "<img alt=\"8月26日，智谱上线并开源GLM-5.3-Flash，是GLM-5系列的首个原生多模态模型。图：视觉中国\" id=\"picture_176706847985124\" src=\"https://img.caixin.com/2025-12-30/176706847985124_840_560.jpg\" /><dl><dt>8月26日，智谱上线并开源GLM-5.3-Flash，是GLM-5系列的首个原生多模态模型。图：视觉中国</dt></dl><p>　　<b>【财新网】</b></p><p>　　<a href=\"https://companies.caixin.com/2026-08-27/102478351.html\" target=\"_blank\"><b>商汤上半年营收扭亏</b></a></p><p>　　业务架构调整2年后，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202033801&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">商汤</a>的主营业务开始扭亏为盈。8月26日，商汤发布年中财报，截至6月30日的六个月，营收同比增长23.4%至29.11亿元，期内实现利润6.17亿元，去年同期则亏损14.89亿元。不过，除去一次性的收支后，商汤的经调整净亏损仍未扭转，只是同比收窄67.3%至3.86亿元。按业务看，生成式AI业务收入为23.27亿元，同比增长28.2%，占总收入的79.9%。</p><p>　　<a href=\"https://companies.caixin.com/2026-08-27/102478343.html\" target=\"_blank\"><b>MiniMax上半年收入超2025全年 8月ARR达8亿美元</b></a></p><p>　　8月26日晚，大模型上市公司<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20107536337&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">MiniMax</a>（00100.HK）公布2026年上半年业绩。财报显示，MiniMax上半年收入1.17亿美元，同比增长283.1%；期内亏损3.58亿美元，同比收窄11%。MiniMax上半年收入已超过2025年全年7903.8万美元总收入。在财报发布后的业绩交流会上，MiniMax创始人兼CEO<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=30246155912&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">闫俊杰</a>透露，公司8月年度经常性收入（ARR）超过8亿美元，二季度收入较一季度环比上涨81.8%，7月API调用量较1月提升20倍。</p><p>　　<b><a href=\"https://www.caixin.com/2026-08-27/102478385.html\" target=\"_blank\">智谱认领神秘模型“牛来” 称测试期国产芯片提供全部算力</a></b></p><p>　　8月26日，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20080051932&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">智谱</a>上线并开源GLM-5.3-Flash，是GLM-5系列的首个原生多模态模型。GLM-5.3-Flash总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。智谱称其编程表现与Claude Opus 4.8相当。在正式发布前，该模型匿名为“Ox-Alpha”（中文社区称作牛来）在OpenCode和OpenRouter上进行大规模测试，成为当周最受欢迎的模型，创下双平台调用量新高，智谱称其请求流量全部由国产芯片提供算力支持。</p><p>　　<a href=\"https://companies.caixin.com/2026-08-26/102478178.html\" target=\"_blank\"><b>OpenAI展示自研推理芯片成果 与英伟达比高低</b></a></p><p>　　宣布推出自研芯片后，OpenAI进一步展示研发成果。美国时间8月25日，OpenAI公布旗下首款定制推理芯片Jalapeño的性能，并称：相比英伟达的旗舰AI服务器GB200和GB300等，Jalapeño能够以更低的单位功耗处理更多AI工作负载，同时更快响应。但Jalapeño还未进行量产验证。OpenAI称，还在完善软件，筹备Jalapeño的大规模运行，并在更多模型上验证其性能。</p><p>　　<b><a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200230039&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">阿里</a>开源发布Qwen3.8-Flash</b></p><p>　　8月26日晚，阿里发布并同步开源千问最新模型Qwen3.8-Flash。该模型采用全新下一代架构，阿里称其千亿总参数仅激活60亿（6B）可获得超越Claude Opus4.6的前沿性能。架构和训练革新后，Qwen3.8-Flash训练成本较Qwen3.7-Plus骤降近90%，推理成本同样大幅下降，每百万Tokens输入仅1元，输出3元，价格最低至DeepSeek-V4-Flash的1/3。Qwen3.8-Flash同时上线了阿里近期整合的AI办公品牌“千问办公”。</p><p>　　<b><a href=\"https://companies.caixin.com/2026-08-26/102477876.html\" target=\"_blank\">巴西政府罚款TikTok近2亿元</a></b></p><p>　　巴西时间8月25日，巴西国家数据保护局（ANPD）宣布，对TikTok的运营主体<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202030453&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">字节跳动</a>处以1.537亿雷亚尔（约合人民币2亿元）的罚款，原因是ANPD调查发现，TikTok在处理未成年人数据时存在违规行为。ANPD要求TikTok删除所有违规采集的数据，且字节跳动必须落地一份合规整改方案，提升TikTok对儿童和青少年的保护水平，保障落实各项整改措施。</p><p>　　<b><a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200081369&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">华为</a>与惠普签署专利交叉许可</b></p><p>　　8月26日，华为与惠普公司宣布签署一项多年期全球专利交叉许可协议，其中包括华为向惠普公司许可部分WiFi专利，惠普公司将向华为支付专利费用。在Wi-Fi领域，华为已通过专利池、双边许可等方式，许可各垂直行业，截至2025年底已有超过16亿部消费类电子设备（不含手机）上使用了华为技术。</p><p>　　<b><a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202034240&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">知乎</a>上半年盈利690万元</b></p><p>　　8月26日，在线问答社区知乎发布2026年第二季度业绩报告，第二季度知乎实现营收6.9亿元，环比增长5.9%。继2025年首次实现全年非公认会计准则盈利后，知乎2026年上半年继续保持非公认会计准则盈利，经调整净利润为690.6万元。知乎的主要营收来源是付费内容及IP运营，二季度收入为4.26亿元，占比为61.7%。截至第二季度末，知乎累计内容量约9.93亿条，同比增长约9%；其中AI相关专业内容同比增长约37%。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478377.html\" rel=\"nofollow\" title=\"T早报｜智谱认领神秘模型“牛来”；巴西政府罚款TikTok近2亿元；MiniMax上半年收入超2025全年\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>财新 关聪 整理</b></p>",
+          "title": "货币去何方",
+          "url": "https://opinion.caixin.com/2026-08-27/102478419.html",
+          "published": "Thu, 27 Aug 2026 10:54:10 +0800",
+          "summary": "<img alt=\"展望未来，高科技、强出口等新动能对信用扩张有所助力，但地方“退平台”、银行严控不良等防风险新形势仍掣肘货币增速。图：视觉中国\" id=\"picture_178779904379242\" src=\"https://img.caixin.com/2026-08-27/178779904379242_840_560.jpg\" /><dl><dt>展望未来，高科技、强出口等新动能对信用扩张有所助力，但地方“退平台”、银行严控不良等防风险新形势仍掣肘货币增速。图：视觉中国</dt></dl><p>　　作为宏观的传统先行指标，近期货币信贷增速持续趋缓。这究竟是经济结构转型所致，还是总量政策运行的结果？若前者，其趋势改变或是长期不可逆；若后者，则更具有短期周期性特征。货币倚赖信用创造，揭开其“面纱”可明晰经济与市场的方向。</p><h2 class=\"cx-app-content-subheads\">一、地产为何青睐这些城市？&nbsp;</h2><p>　　今年部分城市房价降幅有所收敛，排除地产新政因素，貌似更集中于AI等科技地区，但难改整体地产及信用扩张趋势，国际上也多如此。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-27/178779919519332.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-27/178779919519332.jpg\" /></a></div></div>  <h2 class=\"cx-app-content-subheads\">二、基建投资纠结在哪儿？</h2><p>　　另一信用扩张的重要载体是基建投资，仍在稳增长和防风险之间徘徊，尤其是地方融资平台退出对信用扩张的影响还持续。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-27/178779919468629.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-27/178779919468629.jpg\" /></a></div></div>  <h2 class=\"cx-app-content-subheads\">三、消费信贷在担心什么？</h2><p>　　消费相关信贷是彰显经济活力的体现，过往与利率特别是实际利率高度相关，但如今还取决于不良率等更多风险指标。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-27/178779919415842.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-27/178779919415842.jpg\" /></a></div></div>  <h2 class=\"cx-app-content-subheads\">四、强出口带动国内信用扩张？</h2><p>　　历史上，贸易顺差也是国内信用扩张的来源。近年中国出口激增，但顺差对货币创造作用有限，或也体现当前AI等产业“两头在外”的部分特征。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-08-27/178779919360510.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-08-27/178779919360510.jpg\" /></a></div></div>  <p>　　<b>展望未来，</b>高科技、强出口等新动能对信用扩张有所助力，但地方“退平台”、银行严控不良等防风险新形势仍掣肘货币增速。初步测算，即使考虑地方债、政策性工具等存量政策推进，信贷趋缓或将主导下半年社融，并影响居民收入、市场利率等名义变量趋势。<a class=\"end_ico\" href=\"https://opinion.caixin.com/2026-08-27/102478419.html\" rel=\"nofollow\" title=\"货币去何方\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
           "source": "财新"
         },
         {
-          "title": "BOSS直聘、猎聘月活创新高，人岗匹配AI化提速",
-          "url": "https://www.caixin.com/2026-08-27/102478374.html",
-          "published": "Thu, 27 Aug 2026 08:12:46 +0800",
-          "summary": "<img alt=\"BOSS直聘财报显示，2026年第二季度平均每月活跃用户为7020万，较2025年同期的6360万增长了10.4%。图：视觉中国\" id=\"picture_178778979675984\" src=\"https://img.caixin.com/2026-08-27/178778979675984_840_560.jpg\" /><dl><dt>BOSS直聘财报显示，2026年第二季度平均每月活跃用户为7020万，较2025年同期的6360万增长了10.4%。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>在线招聘平台的业绩表现和业务布局，是观测国内招聘市场、洞悉就业市场结构性变化的重要窗口。近日，同道猎聘（06100.HK）（下称“猎聘”）、看准科技（<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202098276&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">BOSS直聘</a>主体，下称“BOSS直聘”）（NASDAQ：BZ；HKEX：2076.HK）两家招聘平台先后发布2026年中期业绩报告和第二季度财报。在“AI+招聘”战略下，猎聘营业收入止跌转增；BOSS直聘二季度收入和利润均实现加速增长。求职端流量持续走高，简历供给海量背景下，AI智能筛选、智能匹配技术，有效解决传统招聘模式下企业筛选成本高、人岗匹配效率低的核心痛点，成为平台业绩修复、增长的重要支撑。</p><h2 class=\"cx-app-content-subheads\">财报里的就业市场供需变化</h2><p>　　用户活跃度是在线招聘平台的服务价值之基，也是就业市场供给端的一面镜子。</p><p>　　BOSS直聘财报显示，2026年第二季度平均每月活跃用户为7020万，较2025年同期的6360万增长了10.4%。公司创始人、董事长兼首席执行官赵鹏表示，第二季度多项运营指标创下历史新高，BOSS直聘App的月均活跃用户数首次突破7000万。</p><p>　　深耕中高端人才赛道的猎聘，月度活跃用户规模创下历史新高。截至2026年6月30日，猎聘注册求职者超1.2亿人，同比增长9.6%。</p><p>　　充沛的求职者供给，持续吸引企业端入驻、付费求才。BOSS直聘财报显示，截至2026年6月30日的12个月内，总付费企业客户数量为720万，较2025年同期的650万增长10.8%。截至2026年6月30日，猎聘验证企业数达到151.2万家，同比增长5.4%；付费企业客户数为6.3万家，同比增长0.4%。</p><p>　　2026年上半年，全国城镇调查失业率平均值为5.2%，6月份进一步下降至5.0%，就业形势总体稳定。但行业与岗位间的分化依然明显。伴随着产业结构加速升级，供需两端同步发生结构性变化。初级岗位减少，企业将有限招聘编制与资源集中投向高技能核心岗位。（详见财新报道《<a href=\"https://www.caixin.com/2026-08-20/102475892.html\" target=\"_blank\">2026校招观察：用人需求收缩，毕业生如何应对？</a>》）</p><p>　　从平台新发职位数中亦能看到这一趋势。报告期内，猎聘平台新发职位数同比增长14%，其中，高端制造、电子通信及半导体、金融、专业服务等行业增长较快。（详见财新报道《<a href=\"https://www.caixin.com/2026-06-19/102455715.html\" target=\"_blank\">企业对AI人才技能需求快速迭代：有哪些新趋势？</a>》《<a href=\"https://www.caixin.com/2026-07-21/102466406.html\" target=\"_blank\">AI人才需求迁移 上半年哪些城市招聘大爆发</a>》）</p><p>　　虽然求职端流量维持高位，但求职者付费占比不高。BOSS直聘财报显示，其他服务收入（主要包括向求职者提供的付费增值服务）在二季度为1460万元，较2025年同期的2480万元有所下降。对此，该公司解释，主要由于自2025年第三季度起对求职者的部分增值服务进行了优化。这个公司简化了这些服务，以提升求职者的价值主张，重点在于平台互动和长期生态系统的成长。</p><p>　　猎聘财报显示，面向个人用户的人才发展服务实现收入1.69亿元，同比增长0.2%。企业端收入同比增长6.7%至8.2亿元。</p><h2 class=\"cx-app-content-subheads\">AI提升人岗匹配效率</h2><p>　　海量求职者简历投向企业，企业对招聘平台人才供给质量和匹配效率提出了更高要求。与此同时，产业转型升级背景下，企业还存在人员精简优化、招聘需求日趋复杂与新型人才识别难度上升等诸多挑战。</p><p>　　为提升人才匹配效率，2026年上半年，BOSS直聘与猎聘集中落地AI招聘技术，并驱动平台业绩增长。</p><p>　　BOSS直聘财报显示，第二季度公司实现营收23.99亿元，同比增长14.1%，相较第一季度明显加速；其中来自企业客户的招聘收入为23.84亿元，同比上涨14.7%，占总收入的99.4%。赵鹏表示：“应用人工智能技术提升求职与招聘的效率及匹配精准度，并已将这些能力拓展至整个招聘流程，包括由AI主持或辅助的聊天以及AI面试。这些举措获得了用户的积极反馈，初步商业化尝试也显示出巨大的市场潜力。”</p><p>　　猎聘围绕企业招聘全流程，公司持续迭代AI账号功能。AI简历快读单次处理上限由100份提升至1000份，并支持自动解析招聘要求；AI智能邀约通过优化底层模型，进一步提升批量邀约规模和人岗匹配准确率。</p><p>　　两家企业财报及管理层披露信息显示，AI已成为企业付费升级、平台提质增效的核心抓手，持续优化平台盈利韧性与行业服务能力，但技术迭代带来的影响具有明显双面性，AI招聘给普通求职者带来了新的求职困境。</p><p>　　一些求职者借助AI批量优化简历、生成面试话术，平台简历同质化严重，导致AI按照硬性指标筛选候选人更为严苛。AI极速匹配机制催生岗位投递“秒筛秒拒”现象，也加大普通白领、应届生获得面试机会的难度。第三方招聘平台<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202034183&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">前程无忧</a>发布的《2026校园招聘白皮书》显示，截至5月，2026届毕业生中，近四分之一未获得任何面试机会，简历到面试的转化效率偏低。</p><p>　　伴随着AI在业务各个环节应用落地，招聘平台“AI替人”的趋势仍在延续。二季度，BOSS直聘的管理及行政费用为2.186亿元，较2025年同期下降29.7%，主要由于员工相关费用减少。与此同时，研发费用为4.305亿元，较2025年同期增长3.5%，主要由于云服务费用增加。</p><h2 class=\"cx-app-content-subheads\">触角伸向蓝领和灵活用工市场</h2><p>　　早年BOSS直聘主要聚焦白领求职，近年来开始在蓝领赛道加速布局。<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=201901753&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">灼识咨询</a>预测，到2026年，中国蓝领线上招聘市场规模将达到1524亿元，2021-2026年的复合年增长率高达36.3%，增速显著高于白领市场及行业整体水平。</p><p>　　BOSS直聘方面表示，以蓝领、低线级城市和中小企业为代表的增量市场，仍然是平台第二季度用户增长和收入增长的重要来源。在AI驱动就业市场持续变化的背景下，需要与真实物理世界产生接触的蓝领类岗位，具有短期内难以替代的价值。从具体数据上看，第二季度生产制造类、供应链物流等蓝领类岗位在较高基数的背景下，同比增速仍领跑大盘。公司长期看好蓝领就业服务市场。</p><p>　　AI技术的广泛应用，本身也会带来劳动力的极化，初级白领岗位减少，导致部分劳动者向蓝领转变。猎聘集团董事会主席兼CEO戴科彬曾在《AI时代人才坐标系迁移与组织进化》的演讲中分享道，全球范围内出现“中层塌陷”趋势。他表示，过去几年，部分因白领岗位减少而转行去做外卖骑手、开咖啡店或餐饮连锁的人，正是这一趋势的缩影。在AI时代，这一现象只会加剧。（详见财新报道《<a href=\"https://www.caixin.com/2026-06-26/102457697.html\" target=\"_blank\">裁员潮席卷全球科技圈，文科生如何逆袭</a>？》）</p><p>　　在蓝领和灵活用工市场，猎聘也有所布局，推出“薪超人”履约平台。该平台聚焦餐饮、零售、商超、物业等线下服务场景，主打兼职、小时工、短期临时工的快速匹配、人员管理、用工合规、薪酬代发全链条服务。二季度，“薪超人”围绕人岗匹配、用工过程管理、薪酬发放和履约反馈构建闭环服务，并将业务拓展至具身智能、人机协同及产业数据采集等创新场景。</p><p>　　虽然面对同一个就业市场，招聘平台之间的分化也愈发显现。国内老牌综合招聘平台<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202039274&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">智联招聘</a>，其经营情况由控股股东澳洲上市企业SEEK于8月中旬发布2026财年年报。数据显示，智联招聘2026财年营收23.71亿元，同比下滑10%；息税折旧摊销前利润（EBITDA）1.96亿元，同比下降4%，整体营收与盈利双双走弱。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478374.html\" rel=\"nofollow\" title=\"BOSS直聘、猎聘月活创新高，人岗匹配AI化提速\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
+          "title": "中国海外发展上半年权益销售额反超保利发展",
+          "url": "https://www.caixin.com/2026-08-27/102478413.html",
+          "published": "Thu, 27 Aug 2026 09:56:01 +0800",
+          "summary": "<img alt=\"根据财报，2025年，中国海外发展新增35幅土地，新增土储建面499万平方米，同比增加约20.0%；总地价为1186.9亿元，权益地价为924.2亿元，两个指标同比分别增加47.2%和32.7%。图：视觉中国\" id=\"picture_178779598902788\" src=\"https://img.caixin.com/2026-08-27/178779598902788_840_560.jpg\" /><dl><dt>根据财报，2025年，中国海外发展新增35幅土地，新增土储建面499万平方米，同比增加约20.0%；总地价为1186.9亿元，权益地价为924.2亿元，两个指标同比分别增加47.2%和32.7%。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>中国海外发展有限公司（00688.HK，下称“中国海外发展”）在2025年加大拿地力度，且投资更加聚焦一线城市，2026年上半年的销售规模实现排名晋级。</p><p>　　8月26日发布的财报显示，上半年，中国海外发展及其联合营公司实现合约销售额1343.5亿元，同比增长11.8%。</p><p>　　据市场机构<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20007264718&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中指研究院</a>统计，上半年，百强房企的全口径销售总额同比下降13.6%。在前十强房企中，除了中国海外发展，还有<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200130700&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">华润置地</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200039900&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">招商蛇口</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200012998&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">中国金茂</a>总共四家央企的销售额实现正增长，其中仅中国海外发展的增速超过10%。</p><p>　　在房地产上行期，中国海外发展曾因规模增长缓慢，多次受到“保守”质疑。2022年之前，碧桂园、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202030288&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">恒大</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000508&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">万科</a>常年稳居房企销售榜前三，中国海外发展长期徘徊在榜单的第六与第七名之间。</p><p>　　房地产在2021年下半年步入下行周期。2023年，碧桂园出险，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200011236&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">保利发展</a>（600048.SH）取而代之成为销冠。同期中国海外发展亦跻身前三。此后，这两家房企与<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200079972&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">绿城中国</a>（03900.HK）组成新的“第一梯队”。</p><p>　　过去三年，保利发展牢牢占据房企销售榜“头把交椅”。中国海外发展的行业排名一度在2024年提升至第二，但在2025年又以7亿元销售额之差不敌绿城中国，退回第三。</p><p>　　据中指研究院发布的销售排行榜，2026年上半年，中国海外发展重新跃居第二位，且与销冠保利发展的规模只相差7.5亿元。更值得关注的是，如果按照权益销售额排位，中国海外发展反超保利发展171亿元，以1236亿元排名第一。</p><p>　　“当前的市场机会集中在核心城市、核心地段，各家企业过往的城市布局选择直接转变成如今的业绩表现。”在8月26日召开的中期业绩会上，中国海外发展行政总裁张智超说。</p><h2 class=\"cx-app-content-subheads\">核心城市带动销售</h2><p>　　中国海外发展上半年的销售项目对应拿地时间普遍集中在2025年和2026年上半年，规模逆势增长主要得益于2025年该公司的投资高度集中于热点城市。</p><p>　　根据财报，2025年，中国海外发展新增35幅土地，新增土储建面499万平方米，同比增加约20.0%；总地价为1186.9亿元，权益地价为924.2亿元，两个指标同比分别增加47.2%和32.7%。</p><p>　　这些新拿地块中，共有18幅分布在四大一线以及杭州、香港六个热点城市，权益地价占比高达82.6%。</p><p>　　一线城市及香港的推盘量提升，尤其是位于这些城市核心区域的高价改善型产品集中入市，为中国海外发展的业绩提供支撑。财报显示，2026年上半年，中国海外发展在北京、上海、广州、深圳、香港五个城市实现合约销售额789.9亿元，在整体销售大盘中占比68.6%。</p><p>　　张智超提到，中国海外发展位于这些城市的多个项目取得了优异表现，尤其是售价明显高于预期。他还称，该公司对二三线城市也保持敏锐触觉，“例如沈阳这类提早触底的城市已出现局部窗口期，我们抓住了机会，当地项目销售与回款表现良好”。</p><p>　　高价盘加速去化拉动中国海外发展的销售均价大幅上升。据财新测算，2026年上半年，该公司的销售面积同比下降12.1%，跌至450万平方米，但销售均价同比上升27.2%，增至2.99万元/平方米。</p><p>　　张智超称，现阶段，房地产市场的K型分化同时发生在城市之间与城市内部，修复次序由核心向外围传导。“上半年，一线城市商品住宅供应量同比收缩25%，供给端主动收缩促使库存压力得到实质性缓解；这类城市的需求端也跟进回暖，比如同期上海、北京一二手成交总量实现正增长；香港楼市量价超预期上涨，尤其是成交量增长了33%。”他举例说，一线与强二线城市率先出现积极信号，但二三线城市整体仍在筑底。</p><p>　　“在同个城市内部，核心地段的抗波动能力也相对更强。以杭州为例，核心区高端改善项目在限价政策放开后走出独立行情，量价表现明显优于全市平均水平。”张智超强调，中国海外发展多年的布局恰好与市场企稳的时机高度契合。</p><p>　　该公司董事局主席颜建国强调，中国海外发展将持续巩固行业领先的销售规模与盈利能力。下半年，该公司在上海、北京、香港等核心城市还有多个项目入市，有望推动全年销售增速维持行业领先水平。</p><h2 class=\"cx-app-content-subheads\">盈利难尚待破解</h2><p>　　事实上，中国海外发展在上半年短暂放缓了拿地节奏，当期新增购地9宗，对应的土地建面仅为76万平方米，同比大幅缩减了70.5%；支付的权益地价仅为76.6亿元，同比大幅降低了80.9%。</p><p>　　据中指研究院发布的榜单，在2026年上半年，保利发展的拿地金额高达377亿元，居房企投资规模榜首；而中国海外发展甚至未进前十。</p><p>　　从下半年开始，中国海外发展奋力追赶。颜建国称，7月至今，该公司在北京、深圳、香港、太原等城市新拿地块9宗，为此付出了256.8亿元权益地价。“在政策稳定的前提下，我们全年拿地预算总额保持在800亿元至1000亿元之间。目前公司在一线及重点二线城市跟踪多个优质大项目，计划在未来几个月达成全年拿地目标。”颜建国说，中国海外发展还以提升投资确定性与回报水平为目标，抓住收并购、城市更新等机遇获取优质项目。</p><p>　　值得一提的是，尽管在销售端率先走出低谷，但中国海外发展至今仍未破解盈利能力下滑难题。在行业高速发展阶段，中国海外发展素有“利润之王”称号。但2021年之后，该公司的盈利水平跟随全行业趋势，大体呈现下滑态势。</p><p>　　财报显示，2026年上半年，该公司实现营业收入约976亿元，同比增长约17.3%；股东应占溢利同比下滑18.2%，降至约70.3亿元，降幅同比扩大了1.6个百分点。</p><p>　　2022年至2025年，楼市持续量价齐跌，导致开发商此前高价所获地块的盈利空间承压，中国海外发展亦不例外。2026年上半年，该公司的毛利增速跑输营收增速，整体毛利仅同比上升8.6%，增至157.1亿元；结算毛利率同比下降1.3个百分点，跌至16.1%。</p><p>　　此外，投资物业估值录得亏损、汇兑出现净亏损等因素也侵蚀了中国海外发展的盈利。财报称，剔除当期汇兑净亏损、投资物业公允值变动以及已出售的投资物业盈亏影响后，股东应占核心溢利约为79.3亿元，同比下降约9.7%。</p><p>　　颜建国称，随着一线城市楼市企稳向好，中国海外发展布局在一线城市核心地段的土储价值有望回归，项目回报水平有望提升。该公司还在重点二线城市打造区域标杆项目，这些项目的销售去化率与盈利水平也明显高于所在城市均值，成为该公司销售规模与盈利质量的另一项支撑。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478413.html\" rel=\"nofollow\" title=\"中国海外发展上半年权益销售额反超保利发展\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
           "source": "财新"
         },
         {
-          "title": "研究：极端高温天气对老年人危害被严重低估",
-          "url": "https://www.caixin.com/2026-08-27/102478367.html",
-          "published": "Thu, 27 Aug 2026 07:26:15 +0800",
-          "summary": "<img alt=\"资料图：印度古尔冈，高温影响到民众正常生活。图：视觉中国\" id=\"picture_178778707128396\" src=\"https://img.caixin.com/2026-08-27/178778707128396_840_560.jpg\" /><dl><dt>资料图：印度古尔冈，高温影响到民众正常生活。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>日益加剧的全球气候变暖，正给人类健康带来愈发严峻的威胁。美国斯坦福大学发表于《柳叶刀-星球健康》的一项最新研究表明，受极端高温天气影响的人群远超以往预期，60岁以上老年人将首当其冲。</p><p>　　此前已有不少研究提示极端高温天气对人群的影响，但普遍采用年轻人的耐热阈值来预测受影响人口，忽略了人口老龄化和老年人面对高温时的脆弱。</p><p>　　在这份名为《全球变暖与老龄化背景下超越人类耐热极限：一项预测建模研究》（《Exceeding human heat tolerance in a warming, aging world: a global projection modelling study》）的报告中，斯坦福大学研究人员在采用不同年龄段的阈值后发现，热浪将导致全球范围各年龄层的更多人群遭受“不可补偿的热应激（uncompensable heat stress，UHS）”。这是一种极端的热应激状态，即身体散热的能力不足以抵消环境热量的输入，失去自我降温能力，导致核心体温升高，因而面临严重的健康损害甚至死亡的风险。</p><p>　　随着全球变暖，热应激事件将在所有年龄层人群中更加普遍。与工业化之前的水平相比，全球气温升高1°C时，全球约有1.1亿人暴露于人体难以承受的极端高温环境。这一数据几乎呈线性增长，每升温1°C，暴露人数就增加约10亿。在升温3°C时达到20亿，其中超七成位于印度、中国、巴基斯坦和孟加拉国，四个国家共有14.8亿暴露人口，中国约有4.2亿人，位列第二。</p><p>　　老年人面临的风险将远高于年轻人。研究表明，气温仅比工业化前水平升高1.5°C，老年人就面临热应激风险，而年轻人则需要升高4°C才会面临这种风险；在全球气温升高1.5°C时，在全部3.7亿暴露人口中，2.9亿人年龄在60岁及以上。</p><p>　　研究预测，如果气温继续上升，热带和亚热带的一些地区可能变得不再适合人类居住，特别对老年人而言。尤其令人担忧的是人口稠密的印度河-恒河平原和波斯湾沿海地区，在全球变暖3°C和4°C的情况下，老年人将在季风季节面临连续数月的昼夜极端高温天气，这可能迫使其迁移到较凉爽的地区，或进行重大生活方式调整，例如大部分时间待在有空调的室内。</p><p>　　研究者强调，除了采取气候变化减缓措施，迫切需要制定针对不同年龄段的适应策略。城市应采取应对措施，包括扩大绿色基础设施、加强城市通风、减少人为热排放、设立避暑中心，以及改进高温预警和响应系统。</p><p>　　“这些措施应优先考虑临床易感人群，特别是可能面临社会孤立、经济困难或患有慢性疾病的老年人。”研究者提醒，由于大多数老年人高温相关死亡发生在室内，因此极端高温期间确保安全的室内温度尤为重要，比如提供空调或其他降温设施。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478367.html\" rel=\"nofollow\" title=\"研究：极端高温天气对老年人危害被严重低估\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "title": "财新闻｜西藏吉隆泥石流灾害成功搜救2人，已造成3人遇难、558人失联",
+          "url": "https://mini.caixin.com/2026-08-27/102478409.html",
+          "published": "Thu, 27 Aug 2026 09:47:44 +0800",
+          "summary": "<img alt=\"2026年8月26日，西藏日喀则市吉隆县吉隆口岸附近。图：新华社\" id=\"picture_178774133534494\" src=\"https://img.caixin.com/2026-08-26/178774133534494_840_560.jpg\" /><dl><dt>2026年8月26日，西藏日喀则市吉隆县吉隆口岸附近。图：新华社</dt></dl><h2 class=\"cx-app-content-subheads\">土耳其发生一起滑翔伞事故 一名中国游客遇难</h2><p>土耳其西南部穆拉省旅游胜地费特希耶8月26日发生一起滑翔伞事故，造成一名土耳其滑翔伞飞行员和一名中国游客死亡。</p><p>据土耳其媒体报道，当天上午10时左右，滑翔伞飞行员阿里·克德勒与一名中国籍游客从巴巴达山起飞，进行双人滑翔伞飞行。不久，滑翔伞因不明原因坠入山间陡峭岩石区域，两人均不幸身亡。</p><p>接到报警后，救援力量赶赴现场展开搜救。事故地点地形陡峭、岩石密布，经过数小时搜救，救援人员找到两人遗体。</p><p>当天晚些时候，中国驻土耳其大使馆证实，其中一名遇难者确为中国公民。使馆已与遇难者家属取得联系，并将提供相关协助。</p><p>费特希耶位于土耳其西南部爱琴海沿岸，是土耳其著名旅游目的地，也是土耳其乃至世界知名的滑翔伞运动地点。游客通常从巴巴达山高处起飞，在山海之间滑翔，俯瞰海岸。</p><p>（据新华社客户端）</p><h2 class=\"cx-app-content-subheads\">顺丰回应“变相降薪”</h2><p>8月26日，针对“顺丰变相降薪”的市场消息，顺丰方面回应表示，集团本次薪酬结构优化调整并非降薪，而是旨在持续完善员工激励机制，实现业绩与员工收益协同发展，调整后公司整体薪酬支出将略有增加。</p><p>近日，有网友在社交平台发文称，顺丰调整薪酬结构，将员工固定月薪的15%划为季度绩效奖金，绩效考核达标后才会发放该部分薪资。对此，有人认为是“变相降薪”。</p><p>顺丰方面解释称，此次调整是将年度现金薪酬的15%拆分作为季度考核基数，调整后将会有10%以上的绩优员工收入增加，实现员工优绩优酬。此次调整仅针对总部职能，不涉及一、二线员工。</p><p>记者注意到，今年年初，顺丰曾宣布投入2亿元启动覆盖全国的“春季增收”专项计划，助力快递员全员增收。顺丰内部人士表示，目前，一线快递员的薪酬结构不受此次调整影响。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">红衣女子骑摩托在高速狂飙，时速超200公里还单手拍照；广东惠州警方通报：曹某（女，20岁）、陈某（男，30岁）涉嫌危险驾驶罪被刑拘</h2><p>近日，一女子在高速公路上飙车引发关注。视频显示，一名穿着红色上衣和牛仔短裤的女子正骑着一辆杜卡迪摩托车在高速上狂飙。拍摄者的镜头在转入车内时显示，彼时车子的时速已飙至200（公里）、220（公里）！</p><p>据悉，飙车事发地系在G15沈海高速惠州境内，由于相关路段的时速限制在120公里内，涉事骑行的女子和驱车跟拍的男子显然已经超速。对此，广东惠州市公安局交通管理支队积极介入，并采取相应举措，目前该男女因涉危险驾驶罪，被警方刑事拘留。</p><p>8月26日晚，惠州市公安局交通管理支队就此发布《警情通报》称，近日，一辆摩托车与小汽车在沈海高速飙车的视频引发社会关注。该支队高度重视，立即组织警力开展调查核实。现查明，8月23日6时许，曹某（女，20岁）驾驶两轮摩托车与陈某（男，30岁）驾驶小汽车在沈海高速惠阳沙田路段超速追逐竞驶，严重危害道路交通安全。目前，曹某、陈某因涉嫌危险驾驶罪已被公安机关依法刑事拘留，案件正在进一步侦办中。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">中国女子跳高名宿郑凤荣逝世，两个“一厘米”载入史册</h2><p>据多家媒体消息，中国女子跳高名宿、中国田径协会原副主席郑凤荣，8月25日因病逝世，享年89岁。</p><p>郑凤荣是我国首位打破世界纪录的女运动员，也是1936年后时隔20多年亚洲第一位打破田径世界纪录的运动员。1957年11月17日，20岁的郑凤荣在北京先农坛体育场参加北京市运动会的女子跳高比赛时，跳过了1.77米的高度，打破了美国黑人运动员麦克丹尼尔1956年12月１日在墨尔本创造的、保持了不到1年的1.76米的世界纪录。</p><p>翻开老报纸，可以看到当时媒体和公众对郑凤荣破纪录提升的这一公分（一厘米）有多么关注！</p><p>1957年11月18日的《新华日报》在一版刊登《郑凤荣跳高破世界纪录》的消息外，又在四版刊发了新华社专稿《不平凡的一公分 郑凤荣跳过了世界最高度》。专稿中称：“一公分这个测量单位。在日常生活中往往不被人注意，但是，11月17日，一公分这个测量单位获得了重要意义”“就是因为这一公分，我国二十岁的女子跳高选手郑凤荣打破了世界纪录，她创造了一公尺七十七公分的惊人成绩”“就是因为这一公分，郑凤荣还创造了另外一项世界‘纪录’，她成了世界上第一个能跳过比自己身高还高七公分的女运动员”“一公尺七十七公分，这比郑凤荣1953年第一次参加全国性比赛时创造的一公尺三十六公分的成绩，整整提高了四十一公分。”新华社转载的美联社报道则称，“一位20岁的中国姑娘在北京的有力一跳警告世界田径界：六亿中国人民不会是永远落后的选手了。”</p><p>时隔近6年后的1963年6月26日，26岁的郑凤荣在南京五台山体育场参加华东区田径比赛女子五项运动跳高比赛时，成功跳过1.78米。次日，《新华日报》头版刊发了新华社报道《郑凤荣跃过一米七八 又创女子跳高全国最高纪录》。报道称，这一成绩打破了她本人保持了近六年之久的女子跳高1.77米的全国纪录，仅次于当时罗马尼亚选手巴拉斯创造的1.91米的世界纪录。</p><p>6月28日，《新华日报》再在头版刊发题为《六年与一厘米——记郑凤荣再创女子跳高全国纪录》的文章。文章称“六年，郑凤荣突破了一厘米。这一厘米的高度，连一个小指拇头的宽度还不到。然而，突破它，是花了六年时间。”1958年以来，她十次尝试突破1.77米，均告失败。这其间，1961年，郑凤荣还因病住院，一住几个月。“康复后，她像新选手那样，练举腿，练腹肌。她听从教练的指导，努力克服自己在助跑上的缺点。”文章提到，记者李志成采访到她时，是她离开南京回山东故乡前一小时，她正在与教练下象棋。一提到今后，她是那么自信，脱口而出：“不跳过这个新高度，不挂钉鞋。”</p><p>退役后，郑凤荣仍心系中国体育事业。1979年起，她任中国田径协会副主席。1980年，她到中国体育服务公司任职。1988年，她任中华全国体育总局副秘书长。2008年北京奥运会上，郑凤荣作为火炬手和执旗手参加了开幕式。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">现货黄金刚刚跌破4600美元，美联储下月加息预期略有升温</h2><p>北京时间8月26日晚间，现货黄金持续下跌，盘中跌破4600美元，截至发稿跌超1%。</p><p>消息面上，美国7月核心PCE物价指数同比升3.3%，预期升3.3%，前值升3.3%；环比升0.2%，预期升0.2%，前值升0.1%。美国7月个人支出环比升0.2%，预期升0.1%，前值升0.30%。该数据公布后，市场预计9月美联储加息的概率约为42%，高于数据公布前的约36%。</p><p>（据“中新经纬”微信公众号）</p><h2 class=\"cx-app-content-subheads\">8.64秒，机器人再破百米纪录</h2><p>8月26日晚，第二届世界人形机器人运动会大型组100米决赛，天骄队跑出8.64秒，继开幕式上跑出9.39秒、复赛跑出8.85秒后，再次刷新百米竞赛纪录！</p><p>（据央视新闻客户端）</p><h2 class=\"cx-app-content-subheads\">郑钦文晋级美网资格赛决胜轮</h2><p>8月26日，在美国网球公开赛女单资格赛第二轮比赛中，中国选手郑钦文以2:0战胜法国选手比雷尔，晋级资格赛决胜轮，继续争夺16张美网女单正赛入场券。这是郑钦文自2022年澳网后再次参加大满贯资格赛。郑钦文近两年受到伤病影响，目前世界排名第121位。</p><p>（据新华社客户端）</p><p>相关链接：<a href=\"https://mini.caixin.com/2026-05-27/102447899.html\" target=\"_blank\">郑钦文的“至暗时刻”：Queen落幕，Wen崛起！｜体坛</a></p><h2 class=\"cx-app-content-subheads\">意大利足协撤回对因凡蒂诺竞选国际足联主席的支持</h2><p>当地时间8月26日，意大利足球协会宣布撤回对现任国际足联主席因凡蒂诺参加2027年国际足联主席选举的支持。国际足联主席选举计划于2027年3月举行。</p><p>意大利足协公告说，这一决定旨在明确表达其对因凡蒂诺近期在国际赛事治理和发展方面所推动举措的立场，意大利足协在这一问题上的立场与欧足联一致。</p><p>意大利足协主席马拉戈表示，意足协将继续与欧足联及其他欧洲足协合作，推动以竞技原则、团结、可持续发展和球迷利益为基础的足球发展模式。</p><p>（据央视新闻客户端）</p><p>相关链接：<a href=\"https://international.caixin.com/2026-08-04/102471157.html\" target=\"_blank\">国际足联主席因凡蒂诺急撤出售股权提案 连任之路蒙上阴影</a></p><p><a href=\"https://international.caixin.com/2026-07-31/102470172.html\" target=\"_blank\">国际足联引入私人投资者计划掀波 欧足联声明将抵制国际足联赛事</a></p><p><a href=\"https://database.caixin.com/2026-07-10/102462361.html\" target=\"_blank\">【商圈】风口浪尖的FIFA主席因凡蒂诺</a></p><p><a href=\"https://opinion.caixin.com/2026-07-09/102462508.html\" target=\"_blank\">火线评论｜因凡蒂诺会毁掉足球吗？</a></p><h2 class=\"cx-app-content-subheads\">西藏吉隆泥石流灾害成功搜救2人，已造成3人遇难、558人失联</h2><p>西藏日喀则市召开新闻发布会，西藏吉隆泥石流灾害成功搜救2人，已造成3人遇难、558人失联。</p><p>（据新华社客户端）</p><p>参见：<a href=\"https://science.caixin.com/2026-08-27/102478344.html\" target=\"_blank\">西藏吉隆泥石流已致3人遇难558人失联 多部门紧急响应（更新）</a></p><h2 class=\"cx-app-content-subheads\">中印边界问题特别代表第25次会晤达成8点成果共识</h2><p>8月25日，中印边界问题特别代表第25次会晤在北京举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题坦诚、深入交换意见，达成8点成果共识如下：</p><p>一是双方重申坚持以两国领导人共识为引领，维护边境地区和平安宁，为两国关系健康稳定发展营造适宜氛围。</p><p>二是双方强调将按照2005年关于解决中印边界问题政治指导原则的协定和此后两国特代会晤达成的共识，推进边界问题解决框架的磋商，寻求公平合理和双方都能接受的解决方案。</p><p>三是双方在中印边境事务磋商和协调工作机制（WMCC）框架下成立划界专家小组和边境管控工作小组，分别推进讨论边界划界早期和实质性收获以及边境管控工作。两个小组将首先明确各自的职能范围。</p><p>四是双方同意通过现有的外交军事渠道，包括WMCC、现地指挥官会谈和其他双方同意的机制，及时处理边境现地任何情况，致力于解决突出问题，避免双方在边境实控线地区的误解误判。双方讨论了增进对相应地区实控线理解的方式，以便更好管控边境。</p><p>五是为完善边境管控措施，双方同意增加两个将军级会谈会晤点，并且在边境东段、中段新增两条边防军事联络热线。</p><p>六是双方积极评价跨境合作取得的进展，印方赞赏中方为扩大印官方香客赴中国西藏自治区冈仁波齐峰、玛旁雍错湖朝圣规模所作努力。双方赞赏恢复开通中印三处边贸市场。双方同意加强边境贸易、朝圣等交流合作，共同在边境地区营造对话、和平、协商、合作的氛围。</p><p>七是双方同意9月召开新一轮跨境河流专家级机制会议，就水文报汛、续签备忘录等相关问题保持沟通。</p><p>八是双方同意2027年在印度举行第26次特代会晤。</p><p>（据新华社客户端）</p><h2 class=\"cx-app-content-subheads\">尼泊尔北部山洪暴发已致157人死亡 484名游客失联</h2><p>总台记者当地时间8月27日获悉，据尼泊尔警方消息，尼泊尔北部地区山洪造成的死亡人数升至157人。</p><p>26日，尼泊尔北部热索瓦地区暴发山洪。</p><p>据尼泊尔总理办公室通报，截至当地时间26日晚间，尼泊尔北部地区山洪造成484名游客失联，其中外籍人员391人。</p><p>（据央视新闻客户端）</p><h2 class=\"cx-app-content-subheads\">特朗普证实美国中情局局长访俄</h2><p>美国总统特朗普8月26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。</p><p>特朗普当天在接受一家电台节目采访时称拉特克利夫此访“算是半例行性的”。他随后暗示拉特克利夫的访问同俄乌战事有关，称“我们正在努力促成战事结束，双方也都希望看到战事结束”。</p><p>俄罗斯总统新闻秘书佩斯科夫26日证实拉特克利夫25日访问俄罗斯，并称俄总统普京未与拉特克利夫会面，拉特克利夫此访与俄美两国情报机构之间的接触有关。</p><p>（据央视新闻客户端）</p><p>相关链接：<a href=\"https://international.caixin.com/2026-08-26/102478058.html\" target=\"_blank\">美中情局局长被曝秘访莫斯科 乌克兰预警俄将扩大动员(含视频)</a></p><h2 class=\"cx-app-content-subheads\">刘翔：我一直没有离开，并不是不想走，而是你没让我走，10年了，突然现在要“安置”我……</h2><p>上海体育局回应刘翔“买断”争议后，8月26日深夜，刘翔再度发微博：</p><p>继续搞笑吧，我一直没有离开，并不是我不想走，而是你没让我走，10年了，突然现在要“安置”我。当教练或买断二选一，这才导致我一阵迷茫。</p><p>当教练也不是不行，只是我这岁数没有执教经验突然就要上岗定是毁他人前途，所以迷茫。</p><p>买断，这词有点古早，不懂。所以也迷茫。</p><p>没有第三条路给我选，征求广大网友意见也是真的想知道该怎做选择。</p><p>十年物是人非，当断不断必有后患，人生本是断舍离。</p><p>此前，针对2004年雅典奥运会男子110米栏冠军刘翔26日在个人微博发文情况，上海市体育局回应称，上海市体育局、上海市竞技体育训练管理中心均将与其保持良好沟通交流，妥善做好各项保障安置工作。</p><p>据报道，刘翔在上海体育局工作，但并不属于上海体育局体制内的工作人员。刘翔的职位是上海体育局团委副书记，不过上海体育局曾经也做出过解释，刘翔并不是公务员，也没有行政级别的说法，他会参与一些工作，但是不会坐班。</p><p>对此，上海体育局回应：刘翔是上海的优秀运动员，为上海体育做出了突出贡献，是镌刻上海历史的功勋体育人。根据国家体育总局与本市关于运动员退役安置的有关规定，8月26日下午，上海市竞技体育训练管理中心与刘翔进行了沟通，拟依据相关规定，主要通过组织安置或自主择业对其予以妥善安置。上海市体育局、上海市竞技体育训练管理中心均将与其保持良好沟通交流，妥善做好各项保障安置工作。</p><p>随后，刘翔在个人微博评论区表示：还依规？这是依的哪一条规？十年了想起来安置我了，分广告费的时候怎么不依法依规安置我。</p><p>刘翔26日在个人微博发文称“在线等，碰到个难题：希望广大网友给我点意见。体育局让我买断或当教练上班，我该怎么办？”微博配以2004年雅典奥运会夺冠的纪念照片，引发关于退役运动员安置的广泛讨论。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">华南农大多名毕业生被扣8053元学费，学校回复：操作失误所致，已全部原路退回；学生无需手工取消“代缴学费”签约，银行卡可正常使用</h2><p>8月25日，有华南农业大学毕业生在社交平台反映，其已于今年6月毕业，但绑定的学校银行卡当日却被划扣8053元学费，收款方为华南农业大学。该消息引发热议，评论区多名网友称遭遇类似情况，也有学生因银行卡余额不足而扣款失败。</p><p>8月26日，一名受影响学生介绍，25日14时43分收到扣款通知后，立即联系辅导员。辅导员回复称，学校预计3至5个工作日将错扣费用退回，实际上，该学生在一个多小时后便收到了退款。</p><p>8月26日，华南农业大学财务处工作人员告诉《正在新闻》，已经发现该问题，最近在扣新生学费，因系统不明原因，导致部分毕业生的钱款也被扣除。工作人员解释，学生入学时都会在银行APP签约“代缴学费”。</p><p>同日，经视直播记者以学生的身份联系上华南农业大学校园卡科。一名工作人员表示，学校发现问题后，已于25日下午5点前，将全部误扣款项原路退回。工作人员强调，学生无需手工取消“代缴学费”签约，银行卡可正常使用。此类情况不会再次发生。如有学生仍未收到退款，可联系学校财务处咨询。</p><p>（据“新华日报”微信公众号）</p><h2 class=\"cx-app-content-subheads\">李家超：香港首份五年规划将于9月16日公布</h2><p>香港特区政府正主动对接国家“十五五”规划，全速编制香港第一个五年规划，使香港更好融入和服务国家发展大局。香港特区行政长官李家超8月26日会见媒体时表示，将于9月16日公布香港首份五年规划，行政长官施政报告随之公布。</p><p>他说，同时参阅两份文件，有助于香港市民理解特区政府如何按照五年规划的方向和策略，将蓝图转化为政策措施。</p><p>李家超此前曾解释，香港五年规划与行政长官施政报告是一脉相承的施政文件。五年规划是前瞻性、策略性和方向性的指导文件，为香港未来五年的经济和社会发展明确方向；施政报告是每年的施政部署，订立多项具体指标，回应五年规划的要求和方向，汇报落实进度，并按当年实际情况，因时制宜推出政策措施。</p><p>（据“中国新闻网”微信公众号）</p><p>相关链接：<a href=\"https://opinion.caixin.com/2026-07-27/102468448.html\" target=\"_blank\">香港财政司长陈茂波：建设宜居宜业、宜学宜游国际大都会</a></p><p><a href=\"https://china.caixin.com/2026-06-15/102454299.html\" target=\"_blank\">香港首份“五年规划”展开公众咨询 港府：并非要以规划取代市场(含视频)</a></p><h2 class=\"cx-app-content-subheads\">菲律宾防长称有理由怀疑一些菲民选官员受中方支持，在南海问题上发表对中方有利言论，中使馆回应</h2><p>问：近日，菲国防部长特奥多罗在菲众议院2027年国防预算听证会上表示，他有理由怀疑一些菲民选官员接受中方支持，在南海问题上发表对中方立场有利的言论，中国驻菲使馆网站已超出外交职能，在当地散布虚假信息。请问中国使馆有何评论？</p><p>答：菲防长特奥多罗信口雌黄，颠倒黑白，攻击抹黑中方。我们对此予以强烈谴责。</p><p>中方一贯奉行不干涉内政的原则，从未也没有兴趣干预菲律宾的内政。</p><p>南海问题不是中菲关系的全部，不应该让涉海争议定义两国关系。中方始终致力于通过对话协商妥善处理中菲涉海争议。然而，菲国内总有一小撮人试图制造矛盾、挑动中菲对抗。他们的所作所为与两国人民的共同愿望背道而驰，注定不会得逞。</p><p>中国驻菲使馆将继续坚定维护中国的国家利益和尊严，坚决回击一切针对中方的无端指责、污蔑和抹黑，帮助更多菲律宾民众了解事实真相和中方立场。</p><p>（据“中国驻菲律宾大使馆”微信公众号）</p><h2 class=\"cx-app-content-subheads\">美政府宣布：暂停全球范围内签证预约</h2><p>据参考消息援引路透社8月25日报道，在特朗普政府持续加大非法移民打击力度之际，美国国务院25日宣布暂停全球范围内签证申请者的办理预约。</p><p>美国国务院一名发言人当天表示，美国所有驻外使领馆已启动一项培训，为配合本次培训，签证业务的预约将作出调整。</p><p>特朗普政府推行强硬的移民政策，除吊销签证、绿卡外，还会以各类理由驳回签证申请，例如申请人的政治观点、参与亲巴勒斯坦抗议活动、反对以色列对加沙的军事行动等。</p><p>美国务院并未说明此次培训的具体内容和时间安排，仅表示培训旨在帮助领事官员筛除有可能依赖美国公共福利的申请人，并确保对签证申请人的审核做到“全面且标准统一”。</p><p>《金融时报》此前报道了签证预约暂停一事。报道说，已预约美国驻外使领馆面谈的移民签证申请人收到邮件通知，他们的预约将被改期，后续会另行通知新的面谈时间。</p><p>（据“中国新闻网”微信公众号）</p><h2 class=\"cx-app-content-subheads\">以色列禁加沙放风筝 联合国批“令人发指”</h2><p>联合国人权事务高级专员办事处8月25日批评以色列威胁驱逐加沙地带居民。办事处发言人拉维娜·沙姆达萨尼说，以方以儿童放风筝为由发出这一威胁“令人发指”。</p><p>以色列总理内塔尼亚胡和国防部长卡茨23日威胁称，如果加沙地带向以色列放飞风筝、无人机或气球的行为不立即停止，以军将加大对相关人员的打击，并“疏散”相关区域居民。</p><p>沙姆达萨尼25日在瑞士日内瓦对媒体记者说，以色列高级官员不断发表“不可接受的言论”，“完全无视”国际人权和人道主义法律，“鼓吹和煽动暴力”。</p><p>“由于儿童放风筝就发出驱逐威胁，我希望我们能一致认同，这类威胁令人发指。”沙姆达萨尼说。</p><p>据以色列方面消息，近来约有10只风筝从加沙地带飘入以色列境内，以军23日击落一只风筝。这些风筝没有携带爆炸物或可燃物。以军认为，这些风筝是巴勒斯坦伊斯兰抵抗运动（哈马斯）在试探以方反应。</p><p>2018年，为抗议以色列长期封锁加沙地带，加沙民众向以色列施放带有燃烧物的风筝和气球，在以南部多地引发火灾。</p><p>据以色列官员表示，以方23日告诉美国发起的所谓“和平委员会”，如果72小时内施放风筝的行为不停止，以方将加强对加沙的行动。</p><p>法国方面25日援引“和平委员会”一名官员的话称，该委员会已经警告哈马斯，在加沙地带“放风筝”属于“武装行为”，“必须停止”。这名官员同时说，以方也必须遵守停火协议，军事行动只能针对“真正的、迫在眉睫的威胁”。</p><p>哈马斯高级官员巴西姆·纳伊姆回应说，这些风筝只是加沙儿童在废墟中寻找童年乐趣的方式，却被称为武装行为，而以方能够“无视停火协议每天继续实施杀戮和破坏”。哈马斯发言人哈齐姆·卡西姆23日也表示，以方的威胁“建立在捏造的借口之上”，试图为继续针对巴勒斯坦人的行动和“侵犯行为”寻找正当理由。</p><p>出于对以军以“放风筝”为由发动袭击的担忧，加沙地带一个民间团体24日呼吁家长不要让孩子继续放风筝，“这样做不是剥夺孩子们的童年，因为他们已经几乎失去了安全生活和玩耍的基本权利，而是在保护他们无辜的生命”。一名母亲表示，她的孩子每年夏天都会与小伙伴们一起放风筝，但现在，为安全起见，“我不会再让他放了”。</p><p>哈马斯指责以军23日以“放风筝”为借口空袭加沙地带中部造成3人死亡。25日，以军空袭加沙地带南部汗尤尼斯市，造成至少1人死亡，随后空袭北部杰巴利耶难民营，造成至少3人死亡。</p><p>自2025年10月加沙停火第一阶段协议生效以来，以色列不断以哈马斯违反停火协议为由发动袭击。据加沙地带卫生部门数据，停火以来已有超过1200人在以军袭击中死亡。</p><p>（据央视新闻客户端）</p><h2 class=\"cx-app-content-subheads\">晨读荐闻（国内、国际消息21条）</h2><p><b>【国内】</b></p><h2 class=\"cx-app-content-subheads\"><a href=\"https://science.caixin.com/2026-08-27/102478344.html?originReferrer=zaozhidao\" target=\"_blank\">西藏吉隆泥石流已致3人遇难265人失联 多部门紧急响应</a></h2><p>8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。据央视新闻报道，记者从前方指挥部获悉，截至8月26日20时，经初步核实统计，此次泥石流灾害已造成3人遇难，265人失联，具体伤亡人数还在进一步核查中，各项救援工作正有序开展。</p><p>据自然资源部网站8月26日文章，吉隆县东林藏布流域尼泊尔侧发生疑似雪崩引发重大链式灾害。网络流传的监控画面显示，数十人在吉隆口岸国门建筑附近奔逃，黑色泥石流从尼泊尔一侧涌来，冲击后形成的泥石流和烟雾混合体高度堪比国门；随后两层停车场被冲垮，道路上有较长的车辆队伍，随道路一同被淹没。（财新网）</p><h2 class=\"cx-app-content-subheads\">工信部：“十四五”期间中国规模以上工业增加值年均增长5.9%</h2><p>8月26日，国新办举行“开局起步‘十五五’”系列主题新闻发布会，工业和信息化部相关负责人介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况。</p><p>发布会上介绍，“十四五”期间，我国制造业规模和质量不断迈上新台阶。制造业规模持续增长，规模以上工业增加值年均增长5.9%，全部制造业增加值由2020年的26.5万亿元增长至34.7万亿元，占GDP比重保持在25%左右。产业发展向新、向智、向绿成效显著，比如，工业机器人年产量从21.8万套上升至77.3万套，累计建成504家卓越级智能工厂，国家绿色工厂产值占制造业总产值比重提升至22%。（央视新闻）</p><h2 class=\"cx-app-content-subheads\">未来5年，这些新兴产业、新场景、新材料将迎来新发展</h2><p>国务院新闻办公室8月26日举行新闻发布会，工业和信息化部介绍全力抓好“十五五”规划实施，加快推进新型工业化有关情况。未来5年，这些新兴产业、新场景、新材料将迎来新发展。</p><p>未来五年，将着力优化产业结构，统筹推进传统产业改造升级、新兴产业培育壮大、未来产业前瞻布局，保持和发展好完整的产业体系。加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信（6G）等未来产业成为新的经济增长点。</p><p>抓好场景培育，推动新技术新产品新场景大规模应用加速成势。开展制造业新技术新产品新场景大规模应用示范，加快培育“5G+”“人工智能+”“机器人+”“工业互联网+”“北斗+”等重大应用场景，完善标志性项目遴选、新技术新产品新场景清单发布、供需对接等机制，一体推进创新成果在真实场景中进行测试验证和迭代升级，推动相关领域产业化落地和大规模应用。</p><p>6G将是“十五五”时期的重中之重。将加快6G核心技术攻关，持续开展6G技术试验、标准研制，促进6G产业成熟和生态构建，为6G商用做好准备。面向需求侧，深化应用赋能，推动5G、工业互联网等技术在制造、能源、医疗、文旅等领域规模化应用，加快“人工智能+信息通信”创新发展，培育数字消费新模式，让信息通信技术融入车间产线、深入矿山井下、点亮美好生活。</p><p>不断丰富产品应用场景。联合相关部门推动消费电子产品在教育培训、居家养老、运动健康等场景的应用，持续开展视听系统、智能体育典型案例征集，加快消费电子产品与垂直领域融合发展，创新多元化消费场景。支持显示技术在数字文旅、智慧医疗、教育培训等领域中发挥更大价值。</p><p>抢抓人工智能引领科研范式变革的重要机遇，打造一批拿出来就能用的“货架式”材料产品，形成“一代材料、一代装备、一代产业”的良性循环，让先进材料成为原材料工业最具活力的“生长极”。面向战略性领域的现实需求，构建企业主导、产学研用深度融合的创新模式，实施国家重大科技项目，加快创新突破，落实首批次保险补偿政策，完善新材料重点平台。核心目的是打通成果转化的“最后一公里”，让创新成果更快从实验室走向生产线、百姓家。</p><p>举个直观的例子，现在很多人用的折叠屏手机，之所以能反复弯折，靠的就是超薄柔性玻璃和薄膜产品的突破。目前，国产超薄柔性玻璃已做到30微米量产，厚度仅为A4纸的四分之一，最新的薄膜产品规格已覆盖4微米级别。我们相信，“十五五”期间会有更多这样的“好材料”变成“好产品”，走进“千家万户”、服务“衣食住行”。</p><p>从应用上看，人工智能已经基本贯穿研发设计、生产制造、质检运维等全链条，加速产业“智”变升级。应用方面，重在挖掘落地场景。分行业凝练高价值场景，探索“一业一图谱、一景一档案”的场景培育新模式。实施应用服务商的培育专项行动，将制造业多年积淀的“老经验”挖掘好、梳理好，在此基础上推出一批轻量化、低成本、易部署的行业解决方案，让企业真正用得上、用得起、用得好。（中国政府网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://finance.caixin.com/2026-08-26/102478037.html?originReferrer=zaozhidao\" target=\"_blank\">ZD Group关联公司账户证实被冻结 香港报案增至39人</a></h2><p>大批中国内地及香港投资者透过ZD Group参与的香港新股基金项目，资金无法按期兑付回笼，事件有新进展。香港警方8月25日傍晚回复财新查询称，截至8月24日，报案人数增至39人，此宗列为“诈骗”的案件继续由湾仔警区重案组跟进，依然暂时未有人被捕。</p><p>另据财新取得的源自ZD Group实控人黄瑞委聘的律所禤氏律师行（Huen &amp; Partners）向投资者发出的两份文件，ZD Group关联实体Renascence Global Capital SPC Limited（以下简称“RGC”，“SPC”为独立投资组合公司）旗下的Number 1 Segregated Portfolio（下称“SP1”）银行账户处于冻结状态。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://finance.caixin.com/2026-08-26/102478224.html?originReferrer=zaozhidao\" target=\"_blank\">普华永道国际免除被告申请被驳回 恒大清盘人570亿索偿进入实体审理</a></h2><p>中国恒大清盘人诉普华永道涉中国恒大2019及2020财政年度财务造假案，香港高等法院于2026年8月26日作出关键裁决，驳回第三被告普华永道国际（PwC International）要求将其剔除被告名单的申请。恒大清盘人对普华永道三个实体的累计约570亿索偿，将进入实体审理阶段。</p><p>恒大清盘人诉普华永道曾于2026年5月18日在香港高等法院开庭，恒大清盘人向普华永道香港（即“罗兵咸永道”）、普华永道中天、普华永道国际三方累计索偿逾570亿元人民币。当日聆讯的，双方律师聚焦于普华永道国际在此案中的角色，被告一方试图将普华永道国际从被告名单中剔除。（详见财新网<a href=\"https://finance.caixin.com/2026-05-18/102445190.html\" target=\"_blank\">《恒大清盘人讼普华永道香港开庭 索偿金额达570亿元》</a>）（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://finance.caixin.com/2026-08-26/102478032.html?originReferrer=zaozhidao\" target=\"_blank\">算力贷、Token贷频落地 银行授信和风控有何变化？</a></h2><p>过去两年，中国日均词元（Token）调用量从1000亿增至突破140万亿，增长超千倍。疯狂燃烧的Token，正成为企业的新晋融资指标，有人说银行贷款投放正在从“看砖头”转向“看Token”。这类贷款投向了哪些企业？银行的授信和风控逻辑有什么变化？</p><p>目前已落地这类贷款的银行以国有大行和股份行为主，单笔贷款多在数百万元。据财新不完全统计，2025年10月底，农业银行在浙江温州落地该行首笔算力贷；2026年8月14日，中国银行、中信银行、广州银行响应广州《海珠区支持词元经济高质量发展若干举措》（下称“词元八条”），集中推出Token贷；8月21日，浦发银行也在广州发放首单Token采购贷款。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://www.caixin.com/2026-08-26/102478314.html?originReferrer=zaozhidao\" target=\"_blank\">碧桂园服务核心净利润恢复增长 贸易应收款半年增27亿元</a></h2><p>碧桂园服务（ 06098.HK ）的核心净利润结束了连续两年的负增长。8月26日披露的2026年中期业绩显示，上半年，该公司实现收入245.00亿元，同比增长5.7%；归母核心净利润同比上涨3.2%，增至16.19亿元。此前两年，该公司的核心净利润分别同比下降22.9%和17.1%。</p><p>不过，核心净利润的回升并未同步反映在法定利润上。财报显示，2026年上半年，该公司的归母净利润为9.50亿元，同比下降4.6%。碧桂园服务所称的核心净利润，是对法定净利润调整后的指标，即在原基础上剔除部分收并购无形资产摊销、减值及重大事项损益。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://www.caixin.com/2026-08-26/102478306.html?originReferrer=zaozhidao\" target=\"_blank\">绿城管理上半年新拓代建面积下降32% 管理层称核心城投客户拿地“基本腰斩”</a></h2><p>土地市场持续收缩，影响波及到此前快速扩张的代建行业，头部代建企业绿城管理控股（ 09979.HK ）首当其冲。据8月25日发布的业绩报告，2026年上半年，绿城管理新拓代建项目总建筑面积为1352万平方米，新拓代建费为34.1亿元，两项数据均同比下降约32%。</p><p>这一降幅明显超过行业整体水平。在8月26日召开的业绩会上，绿城管理执行董事、行政总裁王俊峰援引外部市场机构数据称，2026年上半年，代建行业新签规模同比下降8.2%。“行业已从此前的高速扩张转向平稳发展。”王俊峰称，2023年至2025年，行业每年新签规模大致稳定在1.6亿至1.7亿平方米。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://www.caixin.com/2026-08-26/102478202.html?originReferrer=zaozhidao\" target=\"_blank\">京沪外资所持商业地产加快换手 上海五项可比办公物业价格下降四成</a></h2><p>上一轮商业地产投资周期中进入北京、上海的一批外资基金和资管机构，正在加快处置所持物业。</p><p>财新根据公开交易、上市公司公告、机构披露及公开挂牌信息统计，自2024年初至2026年8月20日，京沪两地至少有22项外资机构持有的商业物业进入出售、处置或资本调整流程。其中，16项为外资基金及资管机构直接出售或公开拟售资产；其余6项涉及部分股权出售、再资本化等交易，未纳入直接出售范围。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://www.caixin.com/2026-08-26/102478088.html?originReferrer=zaozhidao\" target=\"_blank\">监管收紧致载人业务前景不明 亿航撤回6亿元年营收指引</a></h2><p>国内低空飞行监管趋严，亿航（NASDAQ：EH）载人业务的商业化时间表再度推迟。</p><p>8月25日，载人电动垂直起降飞行器（eVTOL）制造商亿航发布2026年二季度业绩报告。该公司首席财务官杨嘉宏在当晚举行的业绩电话会上称，亿航将撤回此前提出的全年6亿元营收指引，暂不提供新的营收目标。待监管环境和经营可见度改善后，该公司再更新业绩展望。（财新网）</p><h2 class=\"cx-app-content-subheads\">广州出台机动车停放服务收费管理办法 推动停车收费降价改革</h2><p>8月26日，《广州市机动车停放服务收费管理办法》（以下简称为《办法》）正式发布，并将于9月1日起正式实施。《办法》通过对实行政府定价、政府指导价管理停车场优化计费时间单位、下调收费标准、降低封顶价格、缩减停车收费时段等多项举措，切实减轻群众停车支出。</p><p>《办法》对实行政府定价、政府指导价管理停车场收费标准适当下调，引导市场调节价停车场合理定价。</p><p>（一）缩短计费单位时长。《办法》缩短计费单位时长，从现行半小时调整为15分钟。鼓励停车场经营者设置时长更短的计费单位。</p><p>（二）对实行政府指导价的社会公共（公益）性单位配套停车场24小时最高限价进行下调。其中越秀区、海珠区、荔湾区、天河区、白云区和黄埔区从45元下调至35元；南沙区、花都区、番禺区、从化区和增城区从27元下调至21元。</p><p>（三）下调道路停车泊位收费标准。将全天准停道路停车泊位收费时段缩减，工作日收费时段从“7:30~21:30”缩减为“7:30~20:00”，非工作日收费时段从“10:00~21:30”缩减为“10:00~20:00”。调低重点区域全天准停道路停车泊位单次最高收费限价，工作日从328元下调至200元，非工作日从263元下调至182元。</p><p>此外，结合当前经济社会发展和市民出行需求，《办法》鼓励实行政府指导价管理的社会公共（公益）性单位配套停车场经营者，为服务对象提供收费减免优惠。（广州交通）</p><h2 class=\"cx-app-content-subheads\">国家医保局：为患者病理检查生成全国通用的专属“身份证”</h2><p>国家医保局日前印发《“医保病理云索引”编码规范》，针对病理数据标准不统一、流通不顺畅等行业痛点，编制全国统一的病理数据索引，为患者每一次病理检查生成全国通用、唯一的专属“身份证”，推动各医疗机构病理数据真正“活起来”“跑起来”“用起来”，破除跨区域、跨机构数据共享壁垒。</p><p>病理诊断是临床疾病诊断的“金标准”，如判定肺磨玻璃结节是良性还是恶性，是原发性还是转移性，最终都要依靠病理切片分析得出定论。病理诊断结果直接决定手术范围、放化疗方案等关键诊疗环节，是肿瘤、肝病、肾病等疑难病症精准救治的核心依据，同时也是临床质控、靶向治疗、新药研发的重要数据资源。</p><p>然而，传统病理检查依赖实体玻璃切片，即便部分机构完成病理数字化升级，也因数据格式不统一，导致数字切片图像、病理报告等核心数据“困在院内、锁在科室”。患者跨机构就医时，需携带病理切片辗转多地，切片借阅、归还往往要耗时两三周，部分患者甚至需要在就诊医院接受重复活检，影响了就医效率和就诊体验。</p><p>为彻底打破病理数据共享壁垒，国家医保局搭建全国医保病理云，编制“医保病理云索引”编码规范，为患者每一次病理检查生成全国通用、唯一的专属“身份证”，实现病理数据跨地域、跨机构快速精准调取。</p><p>依托统一医保病理云索引，全国病理数据互联互通，医疗机构可在线调取患者跨机构历次病理检查档案。异地就医群众无需携带实体切片，有效节省就医时间与经济成本。</p><p>对大型医院而言，可精简诊疗流程、提升诊疗效率；对基层医疗机构来说，可高效对接优质专家资源，依托标准化数字切片和AI辅助诊断减少人为判读误差，提升诊断准确率。</p><p>当前，国内超95%医疗机构病理科尚未实现数字化升级，编码规范的落地，有望带动全国数千家医疗机构病理科数字化改造升级市场，推动数字化病理切片扫描、AI辅助诊断、病理信息系统等产业链产品迭代普及，为数字病理产业标准化、规范化发展提供基础支撑。（央视新闻）</p><h2 class=\"cx-app-content-subheads\">《社会化陪同就医服务 基本要求》国家标准发布</h2><p>记者8月26日了解到，市场监管总局近日批准发布《社会化陪同就医服务 基本要求》国家标准。该标准针对当前陪同就医服务边界模糊、服务质量参差不齐等问题，建立了涵盖服务提供者、服务用品、服务平台、服务人员、服务内容、服务流程、服务评价与改进等方面的服务框架。</p><p>明确服务提供者总体要求。标准重点从人力资源管理、信息管理、安全管理、合同与收费管理等方面，对服务提供者作出系统规定，提出服务人员培训、服务用品配备、服务对象敏感信息保护、风险评估与应急预案等要求。</p><p>划分陪同就医服务边界。以《中华人民共和国消费者权益保护法》等法律法规为依据，标准提出陪同就医服务人员可以提供诊疗向导、代替排队、领取药品、陪伴交流等服务，但不能提供涉及检查结果判读、提供医疗建议、代为选择或同意治疗方案等服务。</p><p>规范陪同就医服务流程。将服务流程划分为服务信息提供、委托与受理、服务交付三个阶段，对信息公示、需求评估、合同订立、服务执行与收尾等关键节点提出要求。同时，要求建立服务评价与投诉管理机制，持续提升服务质量。（央视新闻）</p><p><b>【国际】</b></p><h2 class=\"cx-app-content-subheads\">习近平将出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问</h2><p>外交部发言人26日宣布：8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。（中国政府网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://international.caixin.com/2026-08-26/102478146.html?originReferrer=zaozhidao\" target=\"_blank\">俄远东一化工综合体爆炸致7人死亡 9名中国公民失联</a></h2><p>8月25日，位于俄罗斯远东地区阿穆尔州的阿穆尔天然气化工综合体（AGHK）发生火灾及爆炸，已造成7人死亡，超过100人受伤，搜救工作仍在继续。该化工综合体为中俄合作建设项目。该公司新闻处在其官方频道上公布的最新消息称，已确认有7人遇难，其中包括6名中国公民和1名俄罗斯公民，另有9名中国公民的下落仍不明。</p><p>目前搜救工作仍在继续。共有152名伤者寻求医疗救助，其中36人因不同程度外伤而住院治疗，其他116名伤者在现场接受了医疗救助。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://companies.caixin.com/2026-08-26/102478308.html?originReferrer=zaozhidao\" target=\"_blank\">因违规处理未成年人数据 巴西政府罚款TikTok近2亿元</a></h2><p>一个月内，TikTok先后在欧洲、北美和南美遇到监管问题。巴西时间8月25日，巴西国家数据保护局（ANPD）宣布，对TikTok的运营主体字节跳动处以1.537亿雷亚尔（约合人民币2亿元）的罚款，原因是ANPD调查发现，TikTok在处理未成年人数据时存在违规行为。</p><p>ANPD要求TikTok删除所有违规采集的数据，且字节跳动必须落地一份合规整改方案，提升TikTok对儿童和青少年的保护水平，保障落实各项整改措施。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://international.caixin.com/2026-08-26/102478193.html?originReferrer=zaozhidao\" target=\"_blank\">特朗普连续发帖示好朝鲜 朝方回应显对美韩态度迥异</a></h2><p>当地时间8月25日，美国总统特朗普在其社交媒体平台“真实社交”上再次发布了此前曾于8月16日发布的关于缩减韩美联合军事演习规模的帖文，内容几乎相同，仅对部分表述做出时态上的调整。这也是特朗普近期对朝鲜释放缓和信号的最新动作。</p><p>特朗普再次强调自己与朝鲜最高领导人金正恩保持着“非常好的关系”，并称韩美联合军演不仅耗资巨大，还向一个在其任内“一直没有构成威胁并表现出尊重”的国家释放“完全不恰当且敌对的信号”，因此此前他已指示国防部长赫格塞斯大幅缩减演习规模。与此同时，他仍保留了原文中对韩国的批评，再次提及韩方拒绝配合美国处理伊朗无核化问题，并对此表达不满。（财新网）</p><h2 class=\"cx-app-content-subheads\">特朗普证实美国中情局局长访俄</h2><p>美国总统特朗普26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。</p><p>特朗普当天在接受一家电台节目采访时称拉特克利夫此访“算是半例行性的”。他随后暗示拉特克利夫的访问同俄乌战事有关，称“我们正在努力促成战事结束，双方也都希望看到战事结束”。</p><p>俄罗斯总统新闻秘书佩斯科夫26日证实拉特克利夫25日访问俄罗斯，并称俄总统普京未与拉特克利夫会面，拉特克利夫此访与俄美两国情报机构之间的接触有关。（央视新闻）</p><h2 class=\"cx-app-content-subheads\">俄电商巨头“野莓”一物流中心再遭袭起火</h2><p>俄罗斯坦波夫州州长佩尔维绍夫当地时间26日通报，当天凌晨，俄电商巨头“野莓”（Wildberries）在科托夫斯克市的物流中心因乌军无人机袭击起火，过火面积超过10万平方米。据初步信息，1名员工被爆炸冲击波震伤，出现脑震荡。本轮袭击中，该州上空共有16架无人机被击落。</p><p>佩尔维绍夫在通报中指出，7月18日凌晨，该物流中心曾遭无人机袭击，造成7名员工遇难，25人受伤。</p><p>乌克兰方面对此暂无回应。（央视新闻）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://international.caixin.com/2026-08-26/102478093.html?originReferrer=zaozhidao\" target=\"_blank\">对美贸易战促成加拿大政坛大团结 逾七成民意赞同退出谈判</a></h2><p>在美国和加拿大的贸易谈判于8月21日最后关头意外破裂、这对亲密邻国互相祭出关税之后，美加两国国内对于这场盟友间的贸易争端，呈现出截然不同的舆论反响。</p><p>加拿大民众和各省省长普遍对卡尼的不妥协姿态予以支持和肯定，在加拿大政坛形成了少见的跨党派团结氛围。（财新网）</p><h2 class=\"cx-app-content-subheads\"><a href=\"https://www.caixin.com/2026-08-26/102478175.html?originReferrer=zaozhidao\" target=\"_blank\">OpenAI展示自研推理芯片成果 与英伟达比高低</a></h2><p>宣布推出自研芯片后，OpenAI进一步展示研发成果。美国时间8月25日，OpenAI公布旗下首款定制推理芯片Jalapeño的性能，并称：相比英伟达的旗舰AI服务器GB200和GB300等，Jalapeño能够以更低的单位功耗处理更多AI工作负载，同时更快响应。</p><p>OpenAI称，Jalapeño通过单一架构同时实现了更高吞吐量和更低延迟，在GPT OSS 120B、DeepSeek R1和Kimi K2.5 1T这三种大模型上，Jalapeño在峰值吞吐量下每瓦可完成的AI工作量，比英伟达高出1.5至1.9倍，端到端延迟则降低1.7至3.6倍；对于高度交互式工作负载，其性能提高了2.1至4.1倍。（财新网）</p>",
           "source": "财新"
         },
         {
-          "title": "居民医保参保下滑 研究建议资助60岁以上和低收入群体缴费",
-          "url": "https://www.caixin.com/2026-08-27/102478360.html",
-          "published": "Thu, 27 Aug 2026 07:19:56 +0800",
-          "summary": "<img alt=\"资料图：江苏淮安经济技术开发区市民在政务服务中心办理医保事务。图：视觉中国\" id=\"picture_178778640556365\" src=\"https://img.caixin.com/2026-08-27/178778640556365_840_560.jpg\" /><dl><dt>资料图：江苏淮安经济技术开发区市民在政务服务中心办理医保事务。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>中国基本医保覆盖率长期保持在95%以上，但居民医保参保人数已连续七年下滑，成为巩固全民医保的一块短板，如何稳住他们的参保局面？</p><p>　　昆山杜克大学全球健康研究中心发起的卫生政策研究协作组在近日发布的《我国城乡居民基本医疗保险参保人数下降问题及对策研究》（下称《研究》）建议，对60岁以上、低于全国居民人均可支配收入中位数60%的低收入人群，探索分档减少或免除缴费，同时加强中央财政在基本医保领域的事权，推进省级统筹。</p><p>　　《研究》统计，2019—2025年，居民医保参保人数连续7年下降，由约10.25亿人降至9.42亿人，累计减少约8300万人；与此同时，职工医保参保人数由约3.29亿人增至3.89亿人，增加约6000万人。但是职工医保参保人数的增加不抵居民医保参保人数的下降，导致全国基本医保总参保人数在2021年达到约13.6亿人的峰值后略有回落。</p><p>　　不过由于城镇化等原因，居民医保参保人数本就在下降，缴费负担对于参保数据的影响目前尚无法分解。《2025年全国医疗保障事业发展统计公报》显示，2025年居民医保下滑趋势有所减缓，降幅0.52%，较2024年情况减少1.1个百分点。</p><p>　　居民医保实行财政补助和个人缴费相结合的定额筹资方式。《研究》发现，地区财力、低收入人口规模和人口老龄化程度存在较大差异，仍可能造成各地参保资助能力和个人缴费负担不均，居民医保参保流失更多出现在低收入、多人口、收入不稳定以及社会保障水平相对较低的家庭。</p><p>　　具体来看，低收入和多人口家庭更容易受到总缴费负担的影响，例如河北一个四至八人的家庭，全家年度参保费用可达1600—3000元，可能接近部分低收入家庭一个月的收入；主要依靠城乡居民养老保险待遇生活的老年人，面临着医保个人缴费上涨与收入增长有限之间的不匹配；低保对象、特困人员及其他困难群体的参保能力，较大程度取决于参保资助能否及时充分落实、地区间资助标准能否覆盖实际困难；部分灵活就业人员虽可以在就业地或常住地参保，仍可能面临缴费能力和连续参保压力。</p><p>　　“较统一的定额缴费要求与地区间差异较大的养老保障水平相叠加，使部分低收入老年人承担着明显高于其他群体的相对缴费负担。”《研究》分析，在多个省份，居民医保的年缴费额相当于基础养老金月标准的数倍，且地区差异显著。吉林省的年缴费额约为当地月基础养老金的266.2%，陕西省约为245.4%，北京、上海的年缴费额仅占月基础养老金的50%左右。</p><p>　　考虑到筹资负担，2024年起居民医保个人缴费涨幅从30元放缓至20元，2025年未增长，国家标准维持在每人每年400元。（参见财新网《<a href=\"https://www.caixin.com/2025-09-29/102367278.html\" target=\"_blank\">多地居民医保个人缴费不上调 国家标准待公布</a>》）</p><p>　　《研究》建议，对年满60周岁、领取城乡居民养老保险待遇、未参加职工医保且未享受参保全额资助的老年居民，实行居民医保个人缴费减半。对70周岁及以上人员，可进一步提高资助比例，具备条件地区可全额资助。</p><p>　　具体实施中，优先在居民医保年度缴费超过当地两个月基础养老金的中西部地区开展试点，差额由中央和省级财政分档分担。同时可依托居民养老保险、医保和医疗救助信息开展自动比对，实行免申即享，并建立政策实施效果评估机制，根据老年居民参保率、财政支出和地区保障水平变化完善资助范围和标准。</p><p>　　已有地方实践。比如2026年山东滕州对60—69周岁老年人提供40%即160元的个人缴费资助，70周岁以上则帮助缴纳90%的保费；山西沁源全额资助60岁以上老年人和符合政策的独生子女户、双女绝育户等计生家庭的个人缴费。</p><p>　　另一方面，《研究》指出，现行医疗救助对于困难群体的医保参保资助标准不一，各地资助比例及个人实际缴费水平存在较大差别。例如在部分地区，符合条件的困难群体仅需缴纳80元，在贵州、甘肃等西部省份，同样被认定为“需要救助”的群体仍需缴纳约300元。</p><p>　　目前中国对特困人员参加居民医保缴费全额资助、对低保人员按不低于60%资助。《研究》建议，在此基础上，将低保对象统一纳入居民医保个人缴费“零自付”范围，由医疗救助资金先行资助。</p><p>　　另有一部分低收入人群挣扎在低保线边缘，《研究》设想，按全国居民人均可支配收入中位数的60%来认定低收入人群，对他们部分或全额资助参保缴费。比如家庭人均可支配收入低于收入中位数40%的人群，100%资助缴费；对收入水平在中位数40%以上、50%以下，以及50%以上、60%以下的人群，分别给予75%和50%的缴费资助。</p><p>　　“上述缴费减免和参保资助政策要长期稳定实施，需要建立与地区财力相适应的财政保障机制。”《研究》提醒，在现有转移支付制度基础上，考虑低收入人口规模、老龄化程度、居民缴费负担、医疗救助资金需求等因素，对中西部地区、老龄化程度较高及财政困难地区适当提高中央财政分担比例；对难以独立承担新增参保资助支出的地区，由省级财政统筹中央和省级相关转移支付资金给予支持，避免将新增保障责任简单下压至市县财政。</p><p>　　责任分工上，《研究》呼吁，将中央财政均衡调节与基本医保省级统筹协同推进，逐步形成“中央强化均衡、省级统筹资金、地方落实服务”的责任格局，并通过适度上移筹资和财政统筹层级，为稳定全面参保奠定制度基础。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478360.html\" rel=\"nofollow\" title=\"居民医保参保下滑 研究建议资助60岁以上和低收入群体缴费\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "title": "中元节始作俑者梁武帝，还首倡了茹素之风｜民俗",
+          "url": "https://mini.caixin.com/2026-08-27/102478408.html",
+          "published": "Thu, 27 Aug 2026 09:46:24 +0800",
+          "summary": "<img alt=\"梁武帝画像。图：视觉中国\" id=\"picture_178779570082488\" src=\"https://img.caixin.com/2026-08-27/178779570082488_840_560.jpg\" /><dl><dt>梁武帝画像。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>马上就到了中国农历的七月十五日，也就是传统的中元节，俗称“鬼节”。说起来，中元节是个非常奇特的节日。</p><p>　　首先，中元节之名来自道教。道教经典《大献经》中讲一年有三节，上元节是正月十五，即元宵节；中元节是七月十五；下元节是十月十五。中元节是所谓的“地官校勾，搜选人间，分别善恶……人鬼传录，饿鬼囚徒，一时皆集”，所以要“采诸花果，珍奇异物，幢幡宝盖，清膳饮食，献诸圣众”。</p><p>　　其次，中元节的起源是因佛教而来。佛教有一部名为《盂兰盆经》的佛典，其中讲述了“目连救母”的故事：目连是释迦牟尼的大弟子，他发现死去的母亲在饿鬼道，饿得皮包骨头，于是找来斋饭给母亲吃，但母亲拿着食物还未入口，便化成了火炭。目连非常难过，便向佛陀求助。佛陀说，你母亲罪孽深重，你一个人救不了她。七月十五是众僧节下安居、修行圆满的日子，你准备百味饮食，来供养十方众僧。目连按佛陀所说，终于把母亲解救了。根据《释氏要览》，盂兰为梵语，救倒悬之义；盆是供养的容器。意思就是目连准备斋饭解救母亲。史上第一个有明确记载的，真正举办盂兰盆斋的却是中国南北朝时期的梁武帝萧衍。《佛祖统纪》卷三十七载：大同四年（538年）（梁武）帝幸同泰寺，设盂兰盆斋。另外，据义楚《释氏六帖》四十五：“《宏明》云：梁武每于七月十五日普寺送盆供养，以车日送，继目连等。”成书于梁代的中国第一部民俗专著《荆楚岁时记》中，自然也就有了七月十五“僧尼道俗，悉营盆供诸仙”的记载。所以，中元节又名盂兰盆节。</p><p>　　第三，中元节的本义是“孝亲节”。从目连救母的故事来看，更多是宣扬中国儒家的孝道思想，与印度原始佛教的“断舍离”和“出家修行”等观念颇相背离。由此来看，中元节更像是儒、释、道三教杂糅的节日。</p><p>　　下面就不得不说说这位中元节的始作俑者梁武帝。梁武帝是中国南北朝时梁代的开国皇帝，在位48年，寿享86岁，达耄耋之龄，是史上仅次于清高宗(乾隆)、位居第二的长寿皇帝。这在开国皇帝中尤为难得，而且其亦非寿终正寝，因“侯景之乱”，被叛将侯景围困台城后，断绝饮食、活活饿死。要不是这个原因，享寿恐怕还会更长。如果史料记载真实，这位梁武帝简直是天赋异秉、多才多艺。作为开国帝王，安邦定国之能自然不在话下；“秦皇汉武，略输文采。唐宗宋祖，稍逊风骚。”而这位梁武帝却不然。据《梁书•武帝本纪》：“虽万机多务，犹卷不辍手，燃烛侧光，常至戊夜。造《制旨孝经义》，《周易讲疏》，及六十四卦、二《系》、《文言》、《序卦》等义，《乐社义》，《毛诗答问》，《春秋答问》，《尚书大义》，《中庸讲疏》，《孔子正言》，《老子讲疏》，凡二百余卷，并正先儒之迷，开古圣之旨。”不仅著述儒家经典，还“兼笃信正法，尤长释典，制《涅盘》、《大品》、《净名》、《三慧》诸经义记，复数百卷。听览余闲，即于重云殿及同泰寺讲说，名僧硕学，四部听众，常万余人。又造《通史》，躬制赞序，凡六百卷。天情睿敏，下笔成章，千赋百诗，直疏便就，皆文质彬彬，超迈今古。诏铭赞诔，箴颂笺奏，爰初在田，洎登宝历，凡诸文集，又百二十卷。”于佛学、史学、文学均著述甚丰。除此之外，“六艺备闲，棋登逸品，阴阳纬候，卜筮占决，并悉称善。又撰《金策》三十卷。草隶尺牍，骑射弓马，莫不奇妙。”还精于各种才艺。但从生活上却是一位苦行僧，“日止一食，膳无鲜腴，惟豆羹粝食而已。庶事繁拥，日傥移中，便嗽口以过。身衣布衣，木绵皁帐，一冠三载，一被二年。常克俭于身，凡皆此类。五十外便断房室。后宫职司，贵妃以下，六宫袆褕三翟之外，皆衣不曳地，傍无锦绮。不饮酒，不听音声，非宗庙祭祀、大会飨宴及诸法事，未尝作乐。”可以说，是一位古今之奇人。</p><p>　　梁武帝曾写过一首《会三教诗》“少时学周孔，弱冠穷六经。孝义连方册，仁恕满丹青。践言贵去伐，为善存好生。中复观道书，有名与无名。妙术镂金版，真言隐上清。密行贵阴德，显证表长龄。晚年开释卷，犹日映众星。苦集始觉知，因果乃方明。示教惟平等，至理归无生。”说他少年学儒，中年修道，晚年信佛。这似乎可以解释为什么会出现中元节这么个节日。</p><p>　　这位才华横溢、生活自律的英主，晚年对佛教的崇信却达到了疯狂的程度，颇令人不解。 其以帝王之尊，大兴土木，形成了“南朝四百八十寺”之盛。此外，他还三次舍身佛寺为奴，自称“三宝奴”。但每次最终还是授意文武大臣，花国帑重金将其赎回。影响更为深远的是，梁武帝开创了汉传佛教的独有传统——茹素。佛教初创于印度，即要求信众恪守戒律，但于饮食荤素并无特别规定，因为最初佛教徒是游行乞食，食物是荤是素，要听任施主的施舍。只是主张食用“不见”、“不闻”、“不疑”的所谓“三净肉”。到了梁武帝，开始为汉地僧尼信众设定了断绝酒肉的清规戒律，并由此产生了茹素之风，这份遗产至今延绵不绝。其标志性事件便是梁武帝自撰并颁布《断酒肉文》。 这篇《断酒肉文》很长，保存在《广弘明集》里，得以流传至今。这篇文章引经据典、洋洋洒洒数千言。主要阐释出家人要断绝酒肉，才可区别于“外道”，引《涅槃经》中佛言:“迦叶，我从今日制诸弟子，不得复食一切肉也”为证，并论述了食酒肉的种种弊端及素食的益处。所以“与诸僧尼共申约誓。今日僧众还寺以后，各各检勒，使依佛教。若复有饮酒啖肉，不如法者，弟子当依王法治问”。由此铸就了千余年来汉地佛教徒的茹素传统。</p><p>　　但是，这位如此佞佛的帝王却好景不长，竟然在“侯景之乱”中被饿死，这是否与平素营养不良有关，不敢妄断。在其身后八年，南梁亦亡。他曾有言:“自我得之，自我失之。”一语成谶欤？<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-08-27/102478408.html\" rel=\"nofollow\" title=\"中元节始作俑者梁武帝，还首倡了茹素之风｜民俗\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
           "source": "财新"
         },
         {
-          "title": "分析｜“六网协同”提速，多元化投融资模式如何落地？",
-          "url": "https://www.caixin.com/2026-08-27/102478356.html",
-          "published": "Thu, 27 Aug 2026 07:16:02 +0800",
-          "summary": "<img alt=\"电力网络连接发电、输电、配电和用电端，同时拥有覆盖广泛的物理设施、实时运行数据和电力交易结算体系。图：视觉中国\" id=\"picture_178778620497967\" src=\"https://img.caixin.com/2026-08-27/178778620497967_840_560.jpg\" /><dl><dt>电力网络连接发电、输电、配电和用电端，同时拥有覆盖广泛的物理设施、实时运行数据和电力交易结算体系。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>据国家发改委消息，8月25日，国家发改委召开“六网协同”协调推进工作会，研究“六张网”投融资机制和支持政策。</p><p>　　“六张网”是水网、新型电网、算力网、新一代通信网、城市地下管网、物流网的合称。今年全国“两会”期间，国家发改委主任郑栅洁曾表示，2026年中国将在“六张网”和重点领域建设上投入超过7万亿元。</p><p>　　上述会议专题研究完善“六张网”多元化投融资模式，分类细化财政、金融、投资、价格等支持政策，创新政策工具，优化政策组合，推动建立健全与不同领域、不同类型工程项目相适配的投融资机制，为重大工程项目加快开工建设提供支撑。</p><p>　　上周8月19日，国家发改委召开“六张网”重大项目协调调度机制会，研究建立算力网、新型电网、新一代通信网“2+3+N”协调机制，即由两家电网企业、三家电信运营商以及多家算力相关企业共同参与，加大统筹力度，形成工作合力，推动重大项目加快建设。</p><h2 class=\"cx-app-content-subheads\">“六网”五年投25万亿元</h2><p>　　2026年3月，国家发改委在全国“两会”期间首次提出“六张网”概念。4月召开的中央政治局会议提出，加强“六张网”的规划建设，推动条件成熟的重大工程开工建设；7月召开的中央政治局会议再次强调，系统推进“六张网”规划建设。</p><p>　　整体来看，“六张网”既承担传统基础设施补短板的功能，也承担数字化、绿色化和智能化转型所带来的新增需求。投资方面，“六张网”被寄予较高期待。今年1—7月，中国固定资产投资累计同比下降6.7%，表现低于市场预期。</p><p>　　在有效需求仍显不足的背景下，重大基础设施建设往往被赋予逆周期调节的重要功能。财通证券测算，“十五五”期间，“六张网”总投资规模约25万亿元，预计较“十四五”增长近四成。其中，地下管网、算力网、新型电网和水网预计增幅较高，分别达到108%、50.9%、42.1%和22.2%；通信网投资规模则预计下降11.76%，更多体现为结构性调整。</p><p>　　相关投资有望对经济增长形成支撑。</p><p>　　然而，巨额投资资金从何而来，是六张网能否加速落地的关键。财通证券认为，从资金结构看，“六张网”建设资金来源呈财政主导、多元协同的格局。预计，2026年仅投向六张网及相关领域的中央预算内投资、专项债，及支持“两重”与大规模设备更新的超长期特别国债三类财政资金或占当年总投资约26.62%。</p><h2 class=\"cx-app-content-subheads\">电网为重要枢纽</h2><p>　　在这一轮基础设施协同的探索中，电网企业具有重要位置。</p><p>　　电力网络连接发电、输电、配电和用电端，同时拥有覆盖广泛的物理设施、实时运行数据和电力交易结算体系。因此，在多网协同中，电网是连接不同基础设施网络的重要枢纽。</p><p>　　南方电网公司已围绕这一方向进行探索。传统电网的核心调度控制主要依靠电力专用通信网络，但随着分布式光伏、储能、充电桩等大量接入配电网，电网需要感知和控制的终端数量迅速增加。电网海量末端设备若要实现“可观、可测、可调、可控”，仅依靠自建专网难以覆盖所有场景，公网通信正在成为重要补充。</p><p>　　同时，截至2025年底，全国5G基站数量达到483.8万座。大量通信基站配置有备用电池，这些储能资源绝大多数时间处于备用状态，但理论上可以在电网需要时参与需求响应和虚拟电厂调节。</p><p>　　深圳已在开展相关探索。据南方电网介绍，深圳虚拟电厂管理中心与中国铁塔、三大电信运营商、华为数字能源等合作，将通信基站储能纳入虚拟电厂资源池，与充换电设施、光伏、储能、数据中心等资源共同参与电网调节。</p><p>　　由此，通信基础设施不再只是电力的“用电户”，其自身拥有的储能资源也开始成为电网可以调用的灵活性资源。</p><p>　　同时，随着人工智能发展，算力基础设施与电力系统的关系越来越紧密。数据中心需要稳定、大量的电力供应，同时其负荷也可能成为电网可以优化调度的新型资源。（详见《财新周刊》报道《<a href=\"https://weekly.caixin.com/2026-06-18/102455407.html\" target=\"_blank\">电力赋能算力</a>》）如果进一步把电力数据、算力需求等信息打通，就可能根据不同地区的电价、绿电供应、网络拥塞水平等，对算力任务进行跨区域、跨时段优化。</p><p>　　不过，从试点走向规模化复制，多网协同仍有不少障碍。首先是安全边界。南方电网指出，例如，电网调度控制系统有严格的安全隔离要求。一旦进一步涉及深层次的光纤共享、数据互通，就必须触碰安全隔离红线问题。其次是技术标准。电网和通信网原本按照不同的技术体系建设，两者在基站雷电防护、电磁兼容、数据协议等方面存在不同标准。</p><p>　　更重要的是，成本划分和收益分配的规则尚未成形。跨网协同产生的节地、节材、降碳等综合效益，分散在各网独立的核算体系中，缺乏跨网的统一度量尺度，投入产出比难以精准测算，导致“看得见效益，算不清账本”。多数场景的可持续盈利模式尚未验证，从试点示范走向规模化复制，还面临商业闭环的难题。</p><p>　　同时，规划和标准的分治，也是“六网协同”当前面临的制度性问题。南方电网举例称，比如电网规划归口能源部门，通信归口工信部门，规划各自编制、标准互不衔接、审批各行其道，“一张蓝图”的顶层设计格局尚未形成。光纤、站址、数据的全面开放运营，仅靠企业间协议远远不够，仍要跨部门的制度安排。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478356.html\" rel=\"nofollow\" title=\"分析｜“六网协同”提速，多元化投融资模式如何落地？\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "title": "【市场动态】比尔·盖茨称AI时代将是人类史上最动荡时期之一 批评科技企业淡化风险",
+          "url": "https://database.caixin.com/2026-08-27/102478406.html",
+          "published": "Thu, 27 Aug 2026 09:41:35 +0800",
+          "summary": "<img alt=\"资料图：比尔·盖茨。盖茨表示，他之所以公开表达担忧，是因为人工智能的发展速度快于他的预期，而且科技行业在很大程度上已经放弃了此前所倡导的谨慎态度。图：视觉中国\" id=\"picture_178779518115156\" src=\"https://img.caixin.com/2026-08-27/178779518115156_840_560.jpg\" /><dl><dt>资料图：比尔·盖茨。盖茨表示，他之所以公开表达担忧，是因为人工智能的发展速度快于他的预期，而且科技行业在很大程度上已经放弃了此前所倡导的谨慎态度。图：视觉中国</dt></dl><p>　　<b>【彭博8月26日电】</b><a href=\"https://key.caixin.com/topic/BQ02.000000158\" target=\"_blank\">比尔·盖茨</a>表示，科技公司正在淡化人工智能对人类构成的风险。</p><p>　　这位微软联合创始人周三在个人网站发表文章，呼吁各国政府立即采取措施监管这项强大的技术，以免其造成无法挽回的伤害。</p><p>　　盖茨表示，他之所以公开表达担忧，是因为人工智能的发展速度快于他的预期，而且科技行业在很大程度上已经放弃了此前所倡导的谨慎态度。</p><p>　　盖茨写道：“人工智能要么会成为有史以来最伟大的平等工具，要么会成为最严重的不公来源。”他说：“挑战极其巨大。即使在最理想的情况下，迈入这一全新的人工智能时代，也将是人类历史上最动荡的时期之一。”</p><p>　　盖茨还批评科技和政府领导人没有为这些挑战做好准备。他写道：“目前没有任何计划帮助社会平稳迈入人工智能时代。”</p><p>　　在文章中，盖茨列举了三项主要挑战：人工智能对就业的影响；它可能赋予人们更强的破坏能力，包括制造生物武器和计算机病毒；以及它可能对人际关系和儿童成长造成的伤害。</p><p>　　盖茨表示，监管人工智能将需要建立新的国内和国际机构。在全球层面，他认为可以借鉴核武器核查、航空监管以及保护臭氧层等领域的经验。</p><p>　　他写道：“我们现有的任何机构，都不是为应对一种传播如此迅速、影响生活如此广泛的技术而设计的。因此，我们需要建立新的机构。”</p><p>　　盖茨在接受《纽约时报》采访时承认，鉴于自己与科技行业关系密切，他并不是一个完美的传递这一信息的人选。此前，有关他与已被定罪的性犯罪者杰弗里·爱泼斯坦的关系被披露，也损害了他的声誉，盖茨已为此道歉。</p><p>　　盖茨于2020年离开微软董事会。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-27/102478406.html\" rel=\"nofollow\" title=\"【市场动态】比尔·盖茨称AI时代将是人类史上最动荡时期之一 批评科技企业淡化风险\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>（本文系彭博新闻社授权发布）</b></p>",
           "source": "财新"
         },
         {
-          "title": "商汤上半年营收扭亏 三年以上应收账款占比近五成",
-          "url": "https://www.caixin.com/2026-08-27/102478348.html",
-          "published": "Thu, 27 Aug 2026 07:10:44 +0800",
-          "summary": "<img alt=\"8月26日，商汤发布年中财报，截至6月30日的六个月，营收同比增长23.4%至29.11亿元，期内实现利润6.17亿元，去年同期则亏损14.89亿元。图：视觉中国\" id=\"picture_178778598330393\" src=\"https://img.caixin.com/2026-08-27/178778598330393_840_560.jpg\" /><dl><dt>8月26日，商汤发布年中财报，截至6月30日的六个月，营收同比增长23.4%至29.11亿元，期内实现利润6.17亿元，去年同期则亏损14.89亿元。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>业务架构调整2年后，商汤的主营业务开始扭亏为盈。8月26日，商汤发布年中财报，截至6月30日的六个月，营收同比增长23.4%至29.11亿元，期内实现利润6.17亿元，去年同期则亏损14.89亿元。不过，除去一次性的收支后，商汤的经调整净亏损仍未扭转，只是同比收窄67.3%至3.86亿元。</p><p>　　按业务看，生成式AI业务收入为23.27亿元，同比增长28.2%，占总收入的79.9%；商汤的传统业务——视觉AI业务收入为4.97亿元，同比增长13.9%，占总收入的17.1%；X创新业务收入为0.87亿元，同比下降18.6%，占总收入的3.0%。</p><p>　　商汤2024年实行“1+X”战略拆分及大裁员，自2025年上半年起，将原“生成式AI、视觉AI、智能汽车”三大板块，调整为“生成式AI、视觉AI、X创新业务”。目前，生成式AI板块包括AI模型、AI算力服务“Token工厂”和智能体管控系统相关服务，视觉AI主要指公司传统的计算机视觉技术，而X创新业务包括其他创新方向。</p><p>　　AI算力服务方面，商汤介绍，公司运营总算力规模达到4.8万PFLOPS。2026年7月，商汤大装置日均Token（词符）服务量超过2.4万亿，同比增长约22倍。除了服务商汤日日新大模型以外，Token工厂已为4家外部基础模型厂商提供服务。</p><p>　　而在AI视觉方面，商汤介绍称，该业务在经历经营策略优化后，恢复健康增长。</p><p>　　支出方面，商汤的人力成本显著下降，2026年上半年员工福利开支为11.66亿元，同比下降21.6%。截至2026年6月30日，商汤拥有2668名雇员，较去年同期减少了16.7%。</p><p>　　值得注意的是，商汤的应收账款仍在膨胀。截至2026年6月30日，公司贸易应收款项为70.39亿元，较2025年末的58.95亿元增加11.44亿元，增幅约19.4%。</p><p>　　从账龄结构看，账龄6个月以内的应收款为21.66亿元，占比30.8%；6个月至1年的应收款为12.34亿元，占比17.5%；1至2年的为2.62亿元，占比3.7%；2至3年的为1.17亿元，占比1.7%；超过3年的为32.61亿元，占比46.3%。应收账款问题是商汤账本上持续的问题。（详见《<a href=\"https://www.caixin.com/2025-08-28/102356416.html\" target=\"_blank\">商汤上半年营收增35.6% 3年以上“老账”回款有挑战</a>》）</p><p>　　另一方面，商汤在探索新领域的创业。4月20日，商汤拆分出去的AI推理GPU企业——杭州曦望芯科智能科技有限公司（下称“曦望Sunrise”）宣布完成新一轮超10亿元人民币融资。至此，分拆独立仅一年多的曦望累计完成七轮融资，总融资额约40亿元。（详见《<a href=\"https://www.caixin.com/2026-04-20/102436108.html\" target=\"_blank\">国产GPU公司曦望再获超10亿元融资 投后估值超百亿</a>》）曦望的董事长徐冰，此前是商汤联合创始人兼执行董事。</p><p>　　2025年年中创立的大晓机器人，董事长是商汤科技联合创始人、执行董事王晓刚。截至2026年6月，大晓机器人2026年上半年累计融资数亿美元，投资人包括蚂蚁、吉利资本、商汤、沐曦股份、联想创投、印尼金景资本等产业投资人，启明创投、达晨财智、深创投、弘毅投资、盛宇投资、复星锐正、华控基金等财务基金，以及上海科创基金、临港新片区基金、上海交大母基金菡源资产等多只国资和高校基金。（详见《<a href=\"https://www.caixin.com/2026-06-15/102454240.html\" target=\"_blank\">“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增</a>》）<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478348.html\" rel=\"nofollow\" title=\"商汤上半年营收扭亏 三年以上应收账款占比近五成\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
+          "title": "【市场动态】IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部",
+          "url": "https://database.caixin.com/2026-08-27/102478403.html",
+          "published": "Thu, 27 Aug 2026 09:35:52 +0800",
+          "summary": "<p>　　<b>【彭博8月27日电】</b>研究机构IDC预计，苹果备受期待的折叠屏iPhone将帮助折叠屏智能手机市场摆脱下滑，并在上市首年实现超过1000万部的出货量。</p><p>　　这款预计于9月发布的高端手机将是苹果首款折叠屏设备，市场普遍认为，它有望带动这一由三星电子七年前率先开拓的产品类别重新焕发生机。IDC预计，该机型定价将很高，但仍会吸引一批愿意买单的消费者。</p><p>　　IDC高级研究总监Nabila Popal表示：“尽管售价高达2500美元，我仍预计这款护照大小的苹果折叠屏手机会非常成功。它瞄准的是一小群非常高端的消费者，他们会排队购买这款设备。”</p><p>　　折叠屏设备通常大小与普通智能手机相近，但可以像书一样展开，变成类似平板电脑的形态。长期以来，这一产品类别一直处于相对小众的市场。</p><p>　　Popal预计，苹果将为这一市场注入新的增长动力，并帮助折叠屏手机避免今年出现两位数百分比的下滑。IDC预计，该类别今年出货量将增长12.6%，明年增幅将加快至18%，2027年苹果最终将占全球折叠屏手机出货量的40%。</p><p>　　与此同时，IDC目前预计，全球智能手机市场今年将创纪录下滑16.7%，较此前预测进一步恶化。存储芯片及其他零部件价格上涨正在限制产量，并推高手机售价。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-27/102478403.html\" rel=\"nofollow\" title=\"【市场动态】IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>（本文系彭博新闻社授权发布）</b></p>",
           "source": "财新"
         },
         {
-          "title": "西藏吉隆泥石流已致3人遇难265人失联 多部门紧急响应",
-          "url": "https://science.caixin.com/2026-08-27/102478344.html",
-          "published": "Thu, 27 Aug 2026 07:06:51 +0800",
-          "summary": "<img alt=\"2026年8月26日，西藏日喀则市吉隆县吉隆口岸附近。图：新华社\" id=\"picture_178774133690967\" src=\"https://img.caixin.com/2026-08-26/178774133690967_840_560.jpg\" /><dl><dt>2026年8月26日，西藏日喀则市吉隆县吉隆口岸附近。图：新华社</dt></dl><p>　　<b>【财新网】</b>8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。据央视新闻报道，记者从前方指挥部获悉，截至8月26日20时，经初步核实统计，此次泥石流灾害已造成3人遇难，265人失联，具体伤亡人数还在进一步核查中，各项救援工作正有序开展。</p><p>　　据自然资源部网站8月26日文章，吉隆县东林藏布流域尼泊尔侧发生疑似雪崩引发重大链式灾害。网络流传的监控画面显示，数十人在吉隆口岸国门建筑附近奔逃，黑色泥石流从尼泊尔一侧涌来，冲击后形成的泥石流和烟雾混合体高度堪比国门；随后两层停车场被冲垮，道路上有较长的车辆队伍，随道路一同被淹没。</p><p>　　吉隆口岸位于西藏日喀则市吉隆县吉隆镇热索村，是西藏最大的陆路通商口岸，距离尼泊尔首都和最大城市加德满都约120公里车程。</p><p>　　有中国游客告诉财新，泥石流发生时，正是人们等待出关和入关相对集中的时间，吉隆口岸停车场也被泥石流冲走。财新注意到，8月4日、20日、22日等，社交媒体上有多名用户发布视频表示，吉隆口岸尼泊尔一侧道路塌方。这名游客也因此在过境后滞留在距离口岸2公里左右的尼泊尔旅游部门四天。</p><p>　　另一名游客告诉财新，8月26日早晨，他与另外两名同伴从首都加德满都出发，约10点50分抵达位于尼泊尔中部巴格马提省的特里苏里河畔度假村（Trishuli River Side Resort），原计划以漂流形式前往尼泊尔第二大城市博克拉。抵达漂流点后，三人即被导游通知收到预警短信，称上游有洪水，活动被取消。根据该游客提供的视频，原定漂流点水位涨得极高，水的颜色浑浊且裹挟着大量漂浮物。</p><p>　　该游客表示，8月26日他所在尼泊尔的点位并没有下雨，因此对洪水毫无预判。而洪水过境后，度假村内有一排大树被强劲的水流带走，附近的道路也被封锁，停电了几小时，他暂时也无法离开，只能先在原地等待。</p><p>　　尼泊尔旅游委员会8月26日下午在社交媒体平台X发布数据表示，泥石流造成384名游客失联，以印度人为主，另有马来西亚人、英国人、南非人、美国人等，111人国籍待确认。央视新闻报道，据尼泊尔警方26日晚通报，该国北部地区山洪造成的死亡人数已升至72人。</p><p>　　据新华社，因吉隆口岸国门区域道路出现泥石流险情，道路不具备安全通行条件，西藏日喀则市公安局吉隆口岸分局交通管理大队自即日起对前往吉隆口岸国门方向道路实施双向临时交通管制，管制期限七天。</p><p>　　中国多个部门已紧急响应。据应急管理部消息，国家防灾减灾救灾委员会、应急管理部启动国家二级救灾应急响应，会同国家粮食和物资储备局调拨帐篷、取暖炉、衣被、折叠床、防潮垫等3万件中央救灾物资，支持做好群众转移安置和救灾救助工作。应急管理部派出工作组赴现场协助处置，调派国家综合性消防救援队伍249人以及中国安能、中国电建等各类工程救援力量325人携带装备赴现场救援；调派“星立通”通信保障、“磁探精灵”航磁探测等装备赴灾区，为现场通信保障、抢险救援等提供技术支撑。</p><p>　　自然资源部启动地质灾害防御Ⅱ级响应，并派工作组赴现场指导开展抢险救援和次生地质灾害防范等工作。其要求西藏自然资源厅立即先行派出专家工作组前往现场，协助地方做好人员搜救、抢险救援期间技术支撑等工作，并举一反三，做好类似情况下地质灾害巡查排查、监测预警和防范应对等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强专家调度、组织协调、会商研判，全力协助指导做好技术支撑等工作。</p><p>　　财政部、应急管理部紧急预拨1.2亿元中央自然灾害救灾资金，支持西藏开展应急抢险救援和受灾群众救助工作，重点做好人员搜救、受灾群众转移安置、排危除险等应急处置以及倒损民房修复等工作，最大限度减少灾害损失和人员伤亡。国家发展改革委紧急安排中央预算内投资1亿元，支持灾区基础设施等灾后应急恢复建设。</p><p>　　新华社消息，灾害发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视并作出重要指示指出，当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡。要加强监测预警，注重科学施救，防止发生次生灾害。</p><p>　　习近平强调，当前正处防汛关键期，各地区和有关部门要坚持极限思维、底线思维，认真落实防汛防台风各项措施，加强各类风险隐患排查整治，坚决防范重特大灾害事故发生，确保人民群众生命财产安全。</p><p>　　中共中央政治局常委、国务院总理李强作出批示指出，要抓紧核清失联受灾人数，组织力量全力开展抢险救援，及时有序转移受险群众，同时注意科学施救，严防次生灾害。外交部要加强与有关国家沟通协调，及时通报情况，共同妥善做好救援处置工作。当前仍值主汛期，国家防办、防减救灾办要指导各地深入排查灾害风险隐患，加强险情监测预警和排险避灾，确保人民群众生命安全。</p><p>　　根据习近平重要指示和李强要求，中共中央政治局委员、国务院副总理张国清率有关部门负责同志赶赴现场指导救援处置工作。西藏已组织力量全力做好现场搜救等工作。目前，有关工作正在进行中。</p><p>　　事实上，2025年7月8日5时许，吉隆口岸也曾发生泥石流，造成中尼两侧17名中方人员失联，口岸“友谊桥”被冲毁。据成都理工大学地质灾害防治与地质环境保护全国重点实验室文章，此次事件为普热普藏布上游冰川冰面湖溃决引起。文章表示，目前该流域仍有较多冰湖，需要注意再次发生冰湖溃决洪水的可能，应加强上游洪水的预警工作，保障下游应急抢险平稳有序进行。进一步，应充分考虑强震和极端气候条件，尽快针对该流域所有冰湖开展更详细的易发性和风险评价，服务于灾后重建和长期稳定。</p><p>　　前述文章还表示，气象监测数据显示，过去五年该区域经历了显著的升温过程，其幅度远超青藏高原的平均升温水平，进而推动冰湖面积持续扩大。在2024年，气温升高尤为明显，冰面湖呈现快速扩张，为此次（2025年7月8日）冰湖溃决事件提供了有利的孕灾环境。<a class=\"end_ico\" href=\"https://science.caixin.com/2026-08-27/102478344.html\" rel=\"nofollow\" title=\"西藏吉隆泥石流已致3人遇难265人失联 多部门紧急响应\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "title": "【市场动态】OpenAI复盘人工智能模型入侵事件：5月已发现异常信号但未能及早阻止",
+          "url": "https://database.caixin.com/2026-08-27/102478401.html",
+          "published": "Thu, 27 Aug 2026 09:31:50 +0800",
+          "summary": "<img alt=\"OpenAI在报告中称，早在5月下旬，公司就已发现正在测试的AI模型正在利用一个软件漏洞访问开放互联网。图：视觉中国\" id=\"picture_178779451297099\" src=\"https://img.caixin.com/2026-08-27/178779451297099_840_560.jpg\" /><dl><dt>OpenAI在报告中称，早在5月下旬，公司就已发现正在测试的AI模型正在利用一个软件漏洞访问开放互联网。图：视觉中国</dt></dl><p>　　<b>【彭博8月27日电】</b>OpenAI周三在一份报告中表示，公司本可以更早采取行动，以阻止其人工智能模型对Hugging Face Inc.实施的一次意外入侵。</p><p>　　OpenAI在报告中称，早在5月下旬，公司就已发现正在测试的AI模型正在利用一个软件漏洞访问开放互联网。这些行为被公司内部团队察觉。报告详细列出了导致此次入侵的事件时间线，以及OpenAI为防止类似事件重演而采取的措施，包括加强对开发中模型的监控。</p><p>　　“事后来看，这份报告中识别出的一些早期信号本可以触发更早的应对措施，”OpenAI写道。</p><p>　　这份报告发布于一个多月前OpenAI披露其先进AI模型在一次“前所未有”的事件中意外入侵Hugging Face之后。该事件连同近期发生的其他网络安全事故，引发了外界对于AI智能体失控的担忧，并促使部分科技界和政府人士再次呼吁加强对该技术的约束。</p><p>　　OpenAI周三的披露还详细说明了这些模型如何利用多个智能体完成任务，并获取与Hugging Face云服务、虚拟专用网络（VPN）、代码仓库和企业通信平台相关的访问凭证。借助这些权限，它们进入原本受保护的系统，并最终从Hugging Face云基础设施中下载源代码等信息。</p><p>　　报告称，这些智能体利用Hugging Face暴露的凭证和系统漏洞在其环境中运行代码，获取广泛权限，并下载了私有代码数据库。</p><p>　　OpenAI表示，这些智能体在13小时内完成了大部分操作。当时，OpenAI的软件“从在单个工作节点执行代码，逐步升级为获得多个Hugging Face集群的管理级和主机级访问权限”。<a class=\"end_ico\" href=\"https://database.caixin.com/2026-08-27/102478401.html\" rel=\"nofollow\" title=\"【市场动态】OpenAI复盘人工智能模型入侵事件：5月已发现异常信号但未能及早阻止\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>（本文系彭博新闻社授权发布）</b></p>",
           "source": "财新"
         },
         {
-          "title": "MiniMax上半年收入1.17亿美元超2025全年 8月ARR达8亿美元",
-          "url": "https://www.caixin.com/2026-08-27/102478340.html",
-          "published": "Thu, 27 Aug 2026 07:04:21 +0800",
-          "summary": "<img alt=\"8月26日晚，大模型上市公司MiniMax率先公布2026年上半年业绩。图：视觉中国\" id=\"picture_178778574822975\" src=\"https://img.caixin.com/2026-08-27/178778574822975_840_560.jpg\" /><dl><dt>8月26日晚，大模型上市公司MiniMax率先公布2026年上半年业绩。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>8月26日晚，大模型上市公司MiniMax(00100.HK)率先公布2026年上半年业绩。财报显示，MiniMax上半年收入1.17亿美元，同比增长283.1%；期内亏损3.58亿美元，同比收窄11%。MiniMax上半年收入已超过2025年全年7903.8万美元总收入。</p><p>　　此外，MiniMax上半年毛利2081.3万美元，同比增长464.8%；经调整净亏损2.93亿美元，同比扩大111.2%。</p><p>　　在财报发布后的业绩交流会上，MiniMax创始人兼CEO闫俊杰透露，公司8月年度经常性收入（ARR）超过8亿美元，二季度收入较一季度环比上涨81.8%，7月API调用量较1月提升20倍。</p><p>　　MiniMax在8月26日当日收报303港元/股，涨1.13%，市值1058亿港元；以当前8亿美元的ARR计算，其市值相对ARR倍数约为17倍。而作为对比，智谱（02513.HK）当日收盘市值为4796亿港元，按披露的7月上旬达到10亿美元ARR计算，市值相对ARR倍数约为61倍；美国AI巨头Anthropic在5月融资后估值达到9650亿美元，彭博社报道其5月ARR已超过470亿美元，估值相对ARR倍数为20.5倍。</p><p>　　值得注意的是，MiniMax在2026年上半年的收入结构较2025年同期发生较大的变化，开放平台及其他基于AI的企业服务取代AI原生产品成为公司的主要收入来源。此前，MiniMax被认为是to C（面向消费者）公司的代表。但财报显示，2026年上半年MiniMax开放平台及其他基于AI的企业服务的收入达到7390万美元，同比增加703.1%，并占收入总额的63.4%；而2025年上半年，相关收入的占比为30.3%。</p><p>　　闫俊杰在业绩交流会上表示，在8月ARR中，to B（面向企业）的占比为80%，而ARR的核心驱动力主要来自模型能力的提升，以及MiniMax践行模型极致性价比的路线也吸引了不少新用户。</p><p>　　此外，闫俊杰称，当前MiniMax企业客户开发者数量达到200万，为去年年底的10倍左右。</p><p>　　海外收入仍为MiniMax的主要收入来源。财报显示，2026年上半年，MiniMax的海外收入占比为60.8%，产品及服务覆盖超230个国家和地区。MiniMax此前2025年财报显示，其营收有70%来自国际市场。</p><p>　　MiniMax与另一家大模型公司智谱自6月8日起加入恒生科技指数与恒生综合指数。智谱在6月8日同步纳入港股通；但MiniMax因采用同股不同权架构，当时未纳入港股通。</p><p>　　8月6日起，MiniMax纳入港股通，接触到更多内地投资者，带来流动性进一步提升，连续两日成交量突破公司上市以来的纪录。8月6日当日成交量2950.61万股，成交额85.95亿港元。8月7日成交继续放大，成交额进一步走高至113.96亿港元。（详见财新网《<a href=\"https://www.caixin.com/2026-08-06/102471719.html\" target=\"_blank\">MiniMax今起纳入港股通 盘间涨幅最高22.77%</a>》）</p><p>　　MiniMax曾在7月9日迎来大规模解禁，并在解禁后第二日宣布完成新一轮总规模约160亿港元的融资。折价配售叠加大规模限售股解禁，令市场当时对MiniMax股票抛压的担忧进一步加剧。在当时，闫俊杰曾发文回应股价波动，称在公司实现AGI（通用人工智能，Artificial General Intelligence）前不再领取任何薪酬。（详见财新网报道《<a href=\"https://www.caixin.com/2026-07-10/102462741.html\" target=\"_blank\">MiniMax完成160亿港元融资 创始人称实现AGI前不再领取薪酬</a>》）</p><p>　　MiniMax副总裁薛子钊在业绩交流会上表示，在完成配售发行后，公司现金储备超过30亿美元，将为公司持续投入前沿模型研发、算力基础设施建设及顶尖人才引进提供保障。</p><p>　　财报显示，MiniMax在2026年上半年研发开支为2.97亿美元，同比增长138.8%。</p><p>　　产品层面，MiniMax在MiniMax-M3于6月1日发布后尚未有大语言模型的迭代。公司在7月31日发布了通用全模态生成模型MiniMax-H3，为视频生成领域中罕有的选择开源的模型。</p><p>　　闫俊杰透露，H3开源三个多星期以来，下载量超过2400万次，产生超过300个公开衍生模型，成为2026年全球下载量最高的模型，H3与M3正在共同推动模型调用及ARR增长。他同时表示，公司不会把语言模型和多模态模型看成两条彼此竞争的路线，不过文本模型是当前算力投入的最高优先级，训练资源投入约为视频模型的4倍。</p><p>　　MiniMax旗舰级大语言模型MiniMax-M3发布后并未展现出足够强大的能力。目前在第三方测评平台Artificial Analysis的智能性排行榜中，MiniMax-M3得分45，在国产大模型中落后于Kimi K3、智谱GLM-5.3、阿里Qwen-3.8 2.4T、DeepSeek-V4-Pro正式版和V4-Flash正式版等模型。摩根大通此前在研报中表示，大模型开放权重商业化正成为“赢家多吃”局面，而MiniMax-M3发布约一周后便宣布API价格永久半价，这反映了该模型没有获得市场对其原定价涨价的认可。</p><p>　　在业绩交流会上，闫俊杰承认公司在M3的研发过程中有实践上的不足，但表示单个模型版本并不意味着全部，核心是背后的基建和研发体系能否Scaling（扩大规模）。</p><p>　　7月17日月之暗面发布2.8万亿参数大模型Kimi K3后，曾造成MiniMax和智谱的股价大幅下挫，业界同时预计未来其余国产头部大模型公司也会加大后续推出模型的参数量。闫俊杰表示，MiniMax-M3-Pro模型将为3万亿参数级别的模型。他同时预告了后续M3.1和H3.1模型的迭代计划，但并未透露三款模型预期发布时间。</p><p>　　此外，MiniMax在7月16日发布重构了底层架构的MiniMax Code 2.0，并在8月20日发布新一代AI原生创作平台MiniMax Design。</p><p>　　MiniMax正在冲刺A+H上市，中国证监会于5月29日发布的文件显示，MiniMax已于当日与中信证券签署辅导协议。截至目前，MiniMax仍处于辅导备案状态。（详见财新网《<a href=\"https://www.caixin.com/2026-06-01/102449721.html\" target=\"_blank\">MiniMax启动A股科创板IPO 新模型大幅涨价</a>》）</p><p>　　另一国产大模型上市公司智谱预计于8月31日公布其2026年上半年财报。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-08-27/102478340.html\" rel=\"nofollow\" title=\"MiniMax上半年收入1.17亿美元超2025全年 8月ARR达8亿美元\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
+          "title": "今日开盘：沪指报3911.89点 跌幅0.02%",
+          "url": "https://finance.caixin.com/2026-08-27/102478398.html",
+          "published": "Thu, 27 Aug 2026 09:29:53 +0800",
+          "summary": "<p>财新网08月27日电: 沪指开盘报3911.89点，跌幅0.02%。</p><p>深成指报13876.79点，涨幅0.26%；创业板指报3437.90点，涨幅0.67%；中小板指报8574.73点，涨幅0.33%。</p><p>盘面上，电子领涨，通信、建筑材料、计算机、机械设备、国防军工等板块涨幅居前，有色金属领跌，电力设备、家用电器、纺织服饰、煤炭、交通运输等走弱。</p><p>消息面上，习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示；京沪外资商业地产加速换手，多项目折价四成处置；上海体育局回应刘翔“买断”争议；算力用电爆发式增长，江苏常熟算力耗电超过空调；工信部表示，加快新一代通信网、算力网规划建设，加强6G技术研发；南部战区针对菲方搅局南海表态；宇树科技连跌5日，市值蒸发2056亿元；《欢迎来龙餐馆》全球上映计划公布，9月11日起在中国香港、澳门及澳大利亚、新西兰等地上映。  </p><p>撰写：财小智   责编：财小新</p><div class=\"yqzszb\" id=\"yqzszb\"><div class=\"header\"><div class=\"yqzszb-title\"><strong><span>上市公司敏感舆情指数</span></strong><img alt=\"数据+\" class=\"support\" src=\"https://entities.caixin.com/support.png\" /></div><p><em class=\"update-time\">更新时间：2026-08-27</em></p></div><div class=\"yqzszb-list\"><div class=\"list-header\"><div class=\"order\">排名</div><div class=\"others\"><div class=\"stock\">股票</div><div class=\"index\">今日指数</div><div class=\"comp\">较昨日</div></div></div><ul class=\"yqzszb-lists\"><li><a href=\"https://stock.caixin.com/m/stock/details/101000909\"><div class=\"row-order\">1</div></a><div class=\"row-content\"><a href=\"https://stock.caixin.com/m/stock/details/101000909\"><div class=\"row-table\"><div class=\"row-info\"><div class=\"name cell\">格力电器<p><span class=\"stock-no\">000651.SZ</span></p></div><div class=\"price cell\">10.49</div><div class=\"rate cell\"><span class=\"price-up\">+10.49</span></div></div></div><div class=\"yqzszb-info\">格力电器上半年营收净利双降，外销业务收入下滑两成</div></a></div></li><li><a href=\"https://stock.caixin.com/m/stock/details/101000275\"><div class=\"row-order\">2</div></a><div class=\"row-content\"><a href=\"https://stock.caixin.com/m/stock/details/101000275\"><div class=\"row-table\"><div class=\"row-info\"><div class=\"name cell\">湖南黄金<p><span class=\"stock-no\">002155.SZ</span></p></div><div class=\"price cell\">9.80</div><div class=\"rate cell\"><span class=\"price-up\">+9.80</span></div></div></div><div class=\"yqzszb-info\">湖南黄金(002155):中国国际金融股份有限公司关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条和《深圳证券交易所上市公司自律监管指引第8号——重.</div></a></div></li><li><a href=\"https://stock.caixin.com/m/stock/details/101000790\"><div class=\"row-order\">3</div></a><div class=\"row-content\"><a href=\"https://stock.caixin.com/m/stock/details/101000790\"><div class=\"row-table\"><div class=\"row-info\"><div class=\"name cell\">博瑞传播<p><span class=\"stock-no\">600880.SH</span></p></div><div class=\"price cell\">8.24</div><div class=\"rate cell\"><span class=\"price-up\">+8.24</span></div></div></div><div class=\"yqzszb-info\">博瑞传播对前期会计差错更正及追溯调整不对已披露相关年度财务报表产生影响</div></a></div></li><li><a href=\"https://stock.caixin.com/m/stock/details/101000013\"><div class=\"row-order\">4</div></a><div class=\"row-content\"><a href=\"https://stock.caixin.com/m/stock/details/101000013\"><div class=\"row-table\"><div class=\"row-info\"><div class=\"name cell\">保利发展<p><span class=\"stock-no\">600048.SH</span></p></div><div class=\"price cell\">8.03</div><div class=\"rate cell\"><span class=\"price-up\">+8.03</span></div></div></div><div class=\"yqzszb-info\">保利发展(600048.SH)发布半年度业绩，归母净利润19.59亿元，同比下降40.84%</div></a></div></li><li><a href=\"https://stock.caixin.com/m/stock/details/101001953\"><div class=\"row-order\">5</div></a><div class=\"row-content\"><a href=\"https://stock.caixin.com/m/stock/details/101001953\"><div class=\"row-table\"><div class=\"row-info\"><div class=\"name cell\">天汽模<p><span class=\"stock-no\">002510.SZ</span></p></div><div class=\"price cell\">6.24</div><div class=\"rate cell\"><span class=\"price-up\">+4.23</span></div></div></div><div class=\"yqzszb-info\">天汽模（002510）2026年中报简析：净利润同比下降56.24%，公司应收账款体量较大</div></a></div></li></ul></div><div class=\"yqzszb-infomation\"><ul><li>今日敏感舆情指数，面向所有A股上市公司，以其前一日9:00至当日9:00的敏感新闻和公告信息为基础，建立模型计算出的0-100的指数，用来表征该上市公司舆情敏感程度的高低。</li><li>本文列举了今日指数最高的5只股票，同时列举了今日指数较昨日的涨跌值，以及时间段内主要的敏感新闻之一。</li><li>获取更多上市公司信息和其他高级服务，请查阅<span><a href=\"http://database.caixin.com\">财新数据通</a></span>。</li><li>本报告基于大数据技术自动计算和生成，不代表财新数据观点。</li></ul></div></div>",
           "source": "财新"
         }
       ]
@@ -346,73 +262,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "1英伟达上季营收超预期翻倍大增，本季料首破千亿大关，下财年增长指引碾压预期全球AI产业链的“总龙头”英伟达上一财季营收加速增长、继续创季度新高，本财季预计将史上首次单季收入突破千亿美元大关，虽然本季毛利率指引略为逊色，但下一财年的营收大超预期！华尔街见闻2小时前",
-          "url": "https://t.10jqka.com.cn/pid_682940745.shtml",
-          "published": "2026-08-27",
-          "summary": "1英伟达上季营收超预期翻倍大增，本季料首破千亿大关，下财年增长指引碾压预期全球AI产业链的“总龙头”英伟达上一财季营收加速增长、继续创季度新高，本财季预计将史上首次单季收入突破千亿美元大关，虽然本季毛利率指引略为逊色，但下一财年的营收大超预期！华尔街见闻2小时前",
-          "source": "同花顺"
-        },
-        {
-          "title": "3苹果2026秋季发布会定档9月10日！发布首款折叠iPhone苹果公司将于北京时间9月10日凌晨1点举行今年规模最大的产品发布会，新任首席执行官约翰.特努斯(JohnTernus)将正式开启执掌苹果后的首个完整产品周期。苹科技春晚定档！华尔街见闻6小时前",
+          "title": "苹果2026秋季发布会定档9月10日！发布首款折叠iPhone科技春晚定档！华尔街见闻9小时前",
           "url": "https://t.10jqka.com.cn/pid_682931954.shtml",
           "published": "2026-08-27",
-          "summary": "3苹果2026秋季发布会定档9月10日！发布首款折叠iPhone苹果公司将于北京时间9月10日凌晨1点举行今年规模最大的产品发布会，新任首席执行官约翰.特努斯(JohnTernus)将正式开启执掌苹果后的首个完整产品周期。苹科技春晚定档！华尔街见闻6小时前",
+          "summary": "苹果2026秋季发布会定档9月10日！发布首款折叠iPhone科技春晚定档！华尔街见闻9小时前",
           "source": "同花顺"
         },
         {
-          "title": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨AI科技股大涨！21世纪经济报道1小时前",
+          "title": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨AI科技股大涨！21世纪经济报道4小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679322867.shtml",
           "published": "2026-08-27",
-          "summary": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨AI科技股大涨！21世纪经济报道1小时前",
+          "summary": "英伟达盘后涨超4%！美股三大期指集体拉升，存储、光通信板块盘后大涨AI科技股大涨！21世纪经济报道4小时前",
           "source": "同花顺"
         },
         {
-          "title": "又一城出手稳楼市！多地政策密集发力，为“金九银十”蓄势券商中国1小时前",
-          "url": "https://t.10jqka.com.cn/pid_682946606.shtml",
-          "published": "2026-08-27",
-          "summary": "又一城出手稳楼市！多地政策密集发力，为“金九银十”蓄势券商中国1小时前",
-          "source": "同花顺"
-        },
-        {
-          "title": "AI算力需求快速增长！光模块企业上半年业绩亮眼中国证券报4小时前",
+          "title": "AI算力需求快速增长！光模块企业上半年业绩亮眼中国证券报7小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679321338.shtml",
           "published": "2026-08-27",
-          "summary": "AI算力需求快速增长！光模块企业上半年业绩亮眼中国证券报4小时前",
+          "summary": "AI算力需求快速增长！光模块企业上半年业绩亮眼中国证券报7小时前",
           "source": "同花顺"
         },
         {
-          "title": "公募基金中报首度披露近1年盈利投资者数量占比上海证券报·中国证券网5小时前",
+          "title": "又一城出手稳楼市！多地政策密集发力，为“金九银十”蓄势券商中国4小时前",
+          "url": "https://t.10jqka.com.cn/pid_682946606.shtml",
+          "published": "2026-08-27",
+          "summary": "又一城出手稳楼市！多地政策密集发力，为“金九银十”蓄势券商中国4小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "公募基金中报首度披露近1年盈利投资者数量占比上海证券报·中国证券网8小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679321259.shtml",
           "published": "2026-08-27",
-          "summary": "公募基金中报首度披露近1年盈利投资者数量占比上海证券报·中国证券网5小时前",
+          "summary": "公募基金中报首度披露近1年盈利投资者数量占比上海证券报·中国证券网8小时前",
           "source": "同花顺"
         },
         {
-          "title": "长线资金持续借道ETF加仓，频频跻身前十大持有人行列证券时报3小时前",
+          "title": "长线资金持续借道ETF加仓，频频跻身前十大持有人行列证券时报6小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679321514.shtml",
           "published": "2026-08-27",
-          "summary": "长线资金持续借道ETF加仓，频频跻身前十大持有人行列证券时报3小时前",
+          "summary": "长线资金持续借道ETF加仓，频频跻身前十大持有人行列证券时报6小时前",
           "source": "同花顺"
         },
         {
-          "title": "智谱：GLM-5.3-Flash跑在国产芯片上证券时报网1小时前",
+          "title": "智谱：GLM-5.3-Flash跑在国产芯片上证券时报网4小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679322790.shtml",
           "published": "2026-08-27",
-          "summary": "智谱：GLM-5.3-Flash跑在国产芯片上证券时报网1小时前",
+          "summary": "智谱：GLM-5.3-Flash跑在国产芯片上证券时报网4小时前",
           "source": "同花顺"
         },
         {
-          "title": "人形机器人“上保险” 护航具身智能走出实验室中国证券报3小时前",
+          "title": "人形机器人“上保险” 护航具身智能走出实验室中国证券报6小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679321664.shtml",
           "published": "2026-08-27",
-          "summary": "人形机器人“上保险” 护航具身智能走出实验室中国证券报3小时前",
+          "summary": "人形机器人“上保险” 护航具身智能走出实验室中国证券报6小时前",
           "source": "同花顺"
         },
         {
-          "title": "端侧AI芯片厂商业绩报喜，算力下沉加速场景渗透证券时报3小时前",
+          "title": "端侧AI芯片厂商业绩报喜，算力下沉加速场景渗透证券时报6小时前",
           "url": "https://news.10jqka.com.cn/20260827/c679321461.shtml",
           "published": "2026-08-27",
-          "summary": "端侧AI芯片厂商业绩报喜，算力下沉加速场景渗透证券时报3小时前",
+          "summary": "端侧AI芯片厂商业绩报喜，算力下沉加速场景渗透证券时报6小时前",
+          "source": "同花顺"
+        },
+        {
+          "title": "需求不足 价格探底 水泥行业“金九”成色几何？上海证券报·中国证券网6小时前",
+          "url": "https://news.10jqka.com.cn/20260827/c679321494.shtml",
+          "published": "2026-08-27",
+          "summary": "需求不足 价格探底 水泥行业“金九”成色几何？上海证券报·中国证券网6小时前",
           "source": "同花顺"
         }
       ]
@@ -444,38 +360,38 @@
           "source": "新浪"
         },
         {
-          "title": "长线资金持续借道ETF加仓 频频跻身前十大持有人行列",
-          "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipsrri5784107.shtml",
+          "title": "业绩全面超预期！英伟达产业链沸腾！光模块上攻，高“光”创业板人工智能ETF（159363）标的指数涨超3%",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-iniptnux9038272.shtml",
           "published": "2026-08-27",
-          "summary": "长线资金持续借道ETF加仓 频频跻身前十大持有人行列",
+          "summary": "业绩全面超预期！英伟达产业链沸腾！光模块上攻，高“光”创业板人工智能ETF（159363）标的指数涨超3%",
           "source": "新浪"
         },
         {
-          "title": "ETF日报：市场成交额或已现阶段性低点，进一步下行空间或有限",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-26/doc-inipsezr5937189.shtml",
+          "title": "创新药反复活跃，后市怎么走？华宝基金港股通创新药ETF（520880）基金经理火线拆解行情逻辑！",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-iniptnux9036538.shtml",
           "published": "2026-08-27",
-          "summary": "ETF日报：市场成交额或已现阶段性低点，进一步下行空间或有限",
+          "summary": "创新药反复活跃，后市怎么走？华宝基金港股通创新药ETF（520880）基金经理火线拆解行情逻辑！",
           "source": "新浪"
         },
         {
-          "title": "宽基ETF，资金显著流入",
-          "url": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezp9161533.shtml",
+          "title": "国产算力迎利好！智谱上线新模型+千亿项目落地，科创人工智能ETF华宝（589520）一键卡位国产AI核心赛道",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-iniptnuz5755927.shtml",
           "published": "2026-08-27",
-          "summary": "宽基ETF，资金显著流入",
+          "summary": "国产算力迎利好！智谱上线新模型+千亿项目落地，科创人工智能ETF华宝（589520）一键卡位国产AI核心赛道",
           "source": "新浪"
         },
         {
-          "title": "“旗手”高调归位，持续性如何？业绩高增+“真金白银”稳信心，机构提示券商超额机会",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-26/doc-iniprytn5594018.shtml",
+          "title": "英伟达强业绩提振，国产芯片龙头集体躁动！机构预测2027年存储将占主要云厂资本开支的近七成",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-iniptnux5453534.shtml",
           "published": "2026-08-27",
-          "summary": "“旗手”高调归位，持续性如何？业绩高增+“真金白银”稳信心，机构提示券商超额机会",
+          "summary": "英伟达强业绩提振，国产芯片龙头集体躁动！机构预测2027年存储将占主要云厂资本开支的近七成",
           "source": "新浪"
         },
         {
-          "title": "利好密集来袭，港股通创新药继续上攻，520880放量连阳！信达生物绩后迅速新高，mRNA肿瘤疫苗赛道热度重燃",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-26/doc-iniprytn5592665.shtml",
+          "title": "厄尔尼诺：太平洋上躁动的“圣婴”",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-inipthnz5563639.shtml",
           "published": "2026-08-27",
-          "summary": "利好密集来袭，港股通创新药继续上攻，520880放量连阳！信达生物绩后迅速新高，mRNA肿瘤疫苗赛道热度重燃",
+          "summary": "厄尔尼诺：太平洋上躁动的“圣婴”",
           "source": "新浪"
         },
         {
@@ -507,66 +423,66 @@
           "source": "东财"
         },
         {
-          "title": "半导体设备龙头公布“成绩单”",
-          "url": "https://finance.eastmoney.com/a/202608253853440276.html",
+          "title": "乳业龙头拟回购注销至多20亿元",
+          "url": "https://finance.eastmoney.com/a/202608263855186476.html",
           "published": "2026-08-27",
-          "summary": "半导体设备龙头公布“成绩单”",
+          "summary": "乳业龙头拟回购注销至多20亿元",
           "source": "东财"
         },
         {
-          "title": "跨界大牛股净利润同比转亏",
-          "url": "https://finance.eastmoney.com/a/202608263853456161.html",
+          "title": "大普微拿下34.91亿元大单",
+          "url": "https://finance.eastmoney.com/a/202608263855151016.html",
           "published": "2026-08-27",
-          "summary": "跨界大牛股净利润同比转亏",
+          "summary": "大普微拿下34.91亿元大单",
           "source": "东财"
         },
         {
-          "title": "农夫山泉上半年净利近89亿元",
-          "url": "https://finance.eastmoney.com/a/202608263853766658.html",
+          "title": "中际旭创被纳入港股通",
+          "url": "https://finance.eastmoney.com/a/202608263855175355.html",
           "published": "2026-08-27",
-          "summary": "农夫山泉上半年净利近89亿元",
+          "summary": "中际旭创被纳入港股通",
           "source": "东财"
         },
         {
-          "title": "利好突袭！霍尔木兹海峡大消息！",
-          "url": "https://finance.eastmoney.com/a/202608263853556038.html",
+          "title": "英伟达Q2营收利润双双翻倍",
+          "url": "https://finance.eastmoney.com/a/202608273855299898.html",
           "published": "2026-08-27",
-          "summary": "利好突袭！霍尔木兹海峡大消息！",
+          "summary": "英伟达Q2营收利润双双翻倍",
           "source": "东财"
         },
         {
-          "title": "美伊停火谈判进展",
-          "url": "https://finance.eastmoney.com/a/202608263853777013.html",
+          "title": "明年客户需求可达翻倍级别",
+          "url": "https://finance.eastmoney.com/a/202608273855490511.html",
           "published": "2026-08-27",
-          "summary": "美伊停火谈判进展",
+          "summary": "明年客户需求可达翻倍级别",
           "source": "东财"
         },
         {
-          "title": "伊朗与阿曼拟建立霍尔木兹海峡安全海上通道",
-          "url": "https://finance.eastmoney.com/a/202608253853455074.html",
+          "title": "AI算力基建提速 产业链多股迎催化",
+          "url": "https://finance.eastmoney.com/a/202608273855581212.html",
           "published": "2026-08-27",
-          "summary": "伊朗与阿曼拟建立霍尔木兹海峡安全海上通道",
+          "summary": "AI算力基建提速 产业链多股迎催化",
           "source": "东财"
         },
         {
-          "title": "华为、苹果折叠屏9月同期发布",
-          "url": "https://finance.eastmoney.com/a/202608263853678591.html",
+          "title": "苹果秋季发布会 定档9月10日凌晨",
+          "url": "https://finance.eastmoney.com/a/202608273855271470.html",
           "published": "2026-08-27",
-          "summary": "华为、苹果折叠屏9月同期发布",
+          "summary": "苹果秋季发布会 定档9月10日凌晨",
           "source": "东财"
         },
         {
-          "title": "光通信、存储板块走强 油价大跌",
-          "url": "https://finance.eastmoney.com/a/202608263853529085.html",
+          "title": "产业链上市公司积极布局可控核聚变",
+          "url": "https://finance.eastmoney.com/a/202608273855252212.html",
           "published": "2026-08-27",
-          "summary": "光通信、存储板块走强 油价大跌",
+          "summary": "产业链上市公司积极布局可控核聚变",
           "source": "东财"
         },
         {
-          "title": "SpaceX官宣建设地球最大发射场",
-          "url": "https://finance.eastmoney.com/a/202608263853475075.html",
+          "title": "特高压建设按下“快进键”",
+          "url": "https://finance.eastmoney.com/a/202608273855377683.html",
           "published": "2026-08-27",
-          "summary": "SpaceX官宣建设地球最大发射场",
+          "summary": "特高压建设按下“快进键”",
           "source": "东财"
         }
       ]
@@ -598,52 +514,52 @@
           "source": "联合早报"
         },
         {
-          "title": "Ӣΰ����¶��ȥһ���������й���������H200��Ƭ\n������Ƭ��ͷӢΰ��͸¶�����һ�����������й��ͻ���������H200��Ƭ����ʵ�ʳ������Ե�������������׼���������ޡ�������ˣ�Ӣΰ���Ӫ�պ;�������¼�ô�������� �������籨����Ӣΰ����������8��26�գ��ڲƱ���˵������7��26�յ��������ڣ�H200�Ի�����...\n2026-08-27 08:40:20",
-          "url": "https://www.kuzaobao.com/news/china/202608/2779701.html",
+          "title": "̨��ɳ�¶�Ԥ�������賿�������������غ���½\n̨�硰��̴������ǰ�ں��ϵ�½����һ��̨�硰ɳ�¶���Ԥ�������壨8��28�գ��賿�����罫���й������غ���½�� ���й��������ű����������18��̨�硰ɳ�¶��������������ģ�27�գ�����9ʱλ���㽭����ƫ������Լ335����ĺ����ϣ����ĸ���������13����...\n2026-08-27 12:00:22",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779714.html",
           "published": "2026-08-27",
-          "summary": "Ӣΰ����¶��ȥһ���������й���������H200��Ƭ\n������Ƭ��ͷӢΰ��͸¶�����һ�����������й��ͻ���������H200��Ƭ����ʵ�ʳ������Ե�������������׼���������ޡ�������ˣ�Ӣΰ���Ӫ�պ;�������¼�ô�������� �������籨����Ӣΰ����������8��26�գ��ڲƱ���˵������7��26�յ��������ڣ�H200�Ի�����...\n2026-08-27 08:40:20",
+          "summary": "̨��ɳ�¶�Ԥ�������賿�������������غ���½\n̨�硰��̴������ǰ�ں��ϵ�½����һ��̨�硰ɳ�¶���Ԥ�������壨8��28�գ��賿�����罫���й������غ���½�� ���й��������ű����������18��̨�硰ɳ�¶��������������ģ�27�գ�����9ʱλ���㽭����ƫ������Լ335����ĺ����ϣ����ĸ���������13����...\n2026-08-27 12:00:22",
           "source": "联合早报"
         },
         {
-          "title": "���APECǰ����������һ�����֡�\n��ֵ11�µ���̫���ú�����֯��APEC�����ڷ��ﱸ���������̽׶Σ���������������������˧�ˡ� �������˴�ί������һ��8��24�գ�����������53�������Ϊ�����и��г��������г�ְ��55�����ΰ������Ϊ������λ�䶯������ȥ�������г�ְ�� ���Ƕ�...\n2026-08-27 07:35:57",
-          "url": "https://www.kuzaobao.com/news/china/202608/2779694.html",
+          "title": "�������ƽ��ڶԻ�ó�������ȡ��ǿӲ����\n�� �й���ŷ������ó��Ħ���Ӿ� �ı����£��¹�����Ĭ�İ�ʾ���ڶԻ�ó�������ϣ���ȡ��ǿӲ���������ƽ���10��ŷ�˷���ٿ�ǰȷ����һ��...\n2026-08-27 12:00:18",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779713.html",
           "published": "2026-08-27",
-          "summary": "���APECǰ����������һ�����֡�\n��ֵ11�µ���̫���ú�����֯��APEC�����ڷ��ﱸ���������̽׶Σ���������������������˧�ˡ� �������˴�ί������һ��8��24�գ�����������53�������Ϊ�����и��г��������г�ְ��55�����ΰ������Ϊ������λ�䶯������ȥ�������г�ְ�� ���Ƕ�...\n2026-08-27 07:35:57",
+          "summary": "�������ƽ��ڶԻ�ó�������ȡ��ǿӲ����\n�� �й���ŷ������ó��Ħ���Ӿ� �ı����£��¹�����Ĭ�İ�ʾ���ڶԻ�ó�������ϣ���ȡ��ǿӲ���������ƽ���10��ŷ�˷���ٿ�ǰȷ����һ��...\n2026-08-27 12:00:18",
           "source": "联合早报"
         },
         {
-          "title": "��ǿ���ϰ�ʳƷ������ȫ��\n�й�����Ժ������ǿ�����ں�������������ʡ�������죬�ڼ�ǿ��Ҫ�ϰ�ʳƷ������ȫ�أ������������չ����ӹ�����ͨ�ȹؼ����ڣ���ǿ��ũ�ﵽ������ȫ������ܣ���Ⱥ�ڳԵ÷��ġ������� ���»��籨������ǿ����һ����������8��24����26�գ��ں����������ֵ���...\n2026-08-27 07:35:48",
-          "url": "https://www.kuzaobao.com/news/china/202608/2779693.html",
+          "title": "�����Ӧ�Ϻ��ٷ���ѡһ���ã��ֹ�����ôû����\n����Ϻ������ֻ�Ӧ��Ҫ���ѡ����ʱ���й����˹ھ�������������8��26�գ��ڸ���΢����һ�η��ĵ�������д�����ֹ���ʱ��ôû���á� ������2004���ŵ���˻�����110�׿���������Ϊ�й�Ӯ��ʷ����ö�����ﾶ���˽��ơ� ���������������ڸ���΢��д������...\n2026-08-27 12:00:15",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779712.html",
           "published": "2026-08-27",
-          "summary": "��ǿ���ϰ�ʳƷ������ȫ��\n�й�����Ժ������ǿ�����ں�������������ʡ�������죬�ڼ�ǿ��Ҫ�ϰ�ʳƷ������ȫ�أ������������չ����ӹ�����ͨ�ȹؼ����ڣ���ǿ��ũ�ﵽ������ȫ������ܣ���Ⱥ�ڳԵ÷��ġ������� ���»��籨������ǿ����һ����������8��24����26�գ��ں����������ֵ���...\n2026-08-27 07:35:48",
+          "summary": "�����Ӧ�Ϻ��ٷ���ѡһ���ã��ֹ�����ôû����\n����Ϻ������ֻ�Ӧ��Ҫ���ѡ����ʱ���й����˹ھ�������������8��26�գ��ڸ���΢����һ�η��ĵ�������д�����ֹ���ʱ��ôû���á� ������2004���ŵ���˻�����110�׿���������Ϊ�й�Ӯ��ʷ����ö�����ﾶ���˽��ơ� ���������������ڸ���΢��д������...\n2026-08-27 12:00:15",
           "source": "联合早报"
         },
         {
-          "title": "�������ٷ�׷˰�ж� �ش��й����й�˾\n�����������磩�й������ϰ����г���100�����й�˾�յ�����˰����ɽ��֪ͨ���ܶ�Լ77������ҡ��ھ���ƣ���£��ٷ�׷˰�ж��ش����й�˾�� �������籨������һ���ֳ�Խ��ȥ14����׷��˰����ܶ׷��˰����Ĩȥ������ҵ�ϰ����൱������󣬶������ֻ...\n2026-08-27 07:35:38",
-          "url": "https://www.kuzaobao.com/news/china/202608/2779692.html",
+          "title": "������ʯ���ֺ���������558��ʧ��\n�й��ٷ�ͨ�����й������տ����м�¡����ʯ���ֺ��ѵ����������ѡ�558��ʧ���� ���»��籨���������տ����������ģ�8��27�գ��ٿ����ŷ����ᣬͨ�����ؼ�¡��ʯ���ֺ��ɹ��Ѿ����ˣ������3�����ѡ�558��ʧ���� �Ჴ�����й����ؽ����ϲ������ɽ����������...\n2026-08-27 10:51:09",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779711.html",
           "published": "2026-08-27",
-          "summary": "�������ٷ�׷˰�ж� �ش��й����й�˾\n�����������磩�й������ϰ����г���100�����й�˾�յ�����˰����ɽ��֪ͨ���ܶ�Լ77������ҡ��ھ���ƣ���£��ٷ�׷˰�ж��ش����й�˾�� �������籨������һ���ֳ�Խ��ȥ14����׷��˰����ܶ׷��˰����Ĩȥ������ҵ�ϰ����൱������󣬶������ֻ...\n2026-08-27 07:35:38",
+          "summary": "������ʯ���ֺ���������558��ʧ��\n�й��ٷ�ͨ�����й������տ����м�¡����ʯ���ֺ��ѵ����������ѡ�558��ʧ���� ���»��籨���������տ����������ģ�8��27�գ��ٿ����ŷ����ᣬͨ�����ؼ�¡��ʯ���ֺ��ɹ��Ѿ����ˣ������3�����ѡ�558��ʧ���� �Ჴ�����й����ؽ����ϲ������ɽ����������...\n2026-08-27 10:51:09",
           "source": "联合早报"
         },
         {
-          "title": "�Ჴ�������ؽ�����ͻ����ʯ�� ��������265ʧ��\n�Ჴ�����й�����������������8��26�գ�����ͻ����ʯ���ֺ����й������տ����м�¡�ؼ�¡�ڰ������ش���Ա������ʧ�������й��ٷ�����ͳ�ƣ��˴���ʯ���ֺ�������������ѣ�265��ʧ�������������������ڽ�һ���˲��С� �ۺ�·͸��ͷ����籨���������¹ʷ���...\n2026-08-26 23:40:48",
-          "url": "https://www.kuzaobao.com/news/china/202608/2679689.html",
+          "title": "�й�ǰ�߸��¹��Ϲ�ҵ��ҵ������17.6% ������ҵ����Ҫ֧��\n�й�ǰ�߸��¹�ģ���Ϲ�ҵ��ҵ����ͬ������17.6%�����е�����ҵ��������1.1������Ϊ��Ҫ֧�š����У�������Ƭ�ʹ洢��Ƭ������ʢ���ƶ����ɵ�·�������ҵ������������ �й�����ͳ�ƾ������ģ�8��27�գ�����������ǰ�߸��£�ȫ����ģ���Ϲ�ҵ��ҵʵ������...\n2026-08-27 10:20:41",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779710.html",
           "published": "2026-08-27",
-          "summary": "�Ჴ�������ؽ�����ͻ����ʯ�� ��������265ʧ��\n�Ჴ�����й�����������������8��26�գ�����ͻ����ʯ���ֺ����й������տ����м�¡�ؼ�¡�ڰ������ش���Ա������ʧ�������й��ٷ�����ͳ�ƣ��˴���ʯ���ֺ�������������ѣ�265��ʧ�������������������ڽ�һ���˲��С� �ۺ�·͸��ͷ����籨���������¹ʷ���...\n2026-08-26 23:40:48",
+          "summary": "�й�ǰ�߸��¹��Ϲ�ҵ��ҵ������17.6% ������ҵ����Ҫ֧��\n�й�ǰ�߸��¹�ģ���Ϲ�ҵ��ҵ����ͬ������17.6%�����е�����ҵ��������1.1������Ϊ��Ҫ֧�š����У�������Ƭ�ʹ洢��Ƭ������ʢ���ƶ����ɵ�·�������ҵ������������ �й�����ͳ�ƾ������ģ�8��27�գ�����������ǰ�߸��£�ȫ����ģ���Ϲ�ҵ��ҵʵ������...\n2026-08-27 10:20:41",
           "source": "联合早报"
         },
         {
-          "title": "�й����������Υ��ɹ����� ������������������\n�й���������һ��8��24�գ��������棬�������������Υ��ɹ����⣬���ǻ��������˾��ԱϤ�������󣬾��������һ����������������ȡ����һ�����ٴ�ʩ����ʾ�����������δ������ ������Ϊ���й���.���������ٿ��ڶ�ʮһ��ȫ��������ᣨ��ʮһ��֮ǰ����...\n2026-08-26 23:40:45",
-          "url": "https://www.kuzaobao.com/news/china/202608/2679688.html",
+          "title": "���﷢��ǧ����ģ�� ����������AIѵ���������ɱ�\n�й��Ƽ�������Ͱͼ��ŷ����˹��ܻ�ӭ��ǧ��ϵ�е�����ģ�ͣ��Ը��ͼ۸��ƶ����콢�˹����ܣ�AI����Ʒ��ȫ��Χ�ڵõ����㷺ʹ�á� ����Ͱ����¡�ǧ�ʴ�ģ�͡���������8��26�գ�����Qwen3.8-Flashģ������ʹ�ã���ͬʱ������Qwen3.8-Flash-Next�Ŀ�ԴȨ...\n2026-08-27 10:20:38",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779709.html",
           "published": "2026-08-27",
-          "summary": "�й����������Υ��ɹ����� ������������������\n�й���������һ��8��24�գ��������棬�������������Υ��ɹ����⣬���ǻ��������˾��ԱϤ�������󣬾��������һ����������������ȡ����һ�����ٴ�ʩ����ʾ�����������δ������ ������Ϊ���й���.���������ٿ��ڶ�ʮһ��ȫ��������ᣨ��ʮһ��֮ǰ����...\n2026-08-26 23:40:45",
+          "summary": "���﷢��ǧ����ģ�� ����������AIѵ���������ɱ�\n�й��Ƽ�������Ͱͼ��ŷ����˹��ܻ�ӭ��ǧ��ϵ�е�����ģ�ͣ��Ը��ͼ۸��ƶ����콢�˹����ܣ�AI����Ʒ��ȫ��Χ�ڵõ����㷺ʹ�á� ����Ͱ����¡�ǧ�ʴ�ģ�͡���������8��26�գ�����Qwen3.8-Flashģ������ʹ�ã���ͬʱ������Qwen3.8-Flash-Next�Ŀ�ԴȨ...\n2026-08-27 10:20:38",
           "source": "联合早报"
         },
         {
-          "title": "�й�����˽�������ѧУ �̻����˵��·�����\n�߽�λ�ڱ���ʯ��ɽ�������λ���������ѵ�����Ĵ�¥������������ְҵѧУ��ʵѵ���أ���ͬ���ǣ�ѧ������һɫ�Ļ����ˡ� ��ʮ̨���λ�����������ѵ��ʦ��ң���£�һ����һ���ץȡ��Ȫˮƿ���Ѳ��̷Ž�΢��¯��ɨ���ݼ�......Ҳ�д���ͷ�Ե�����ѵ��ʦ����...\n2026-08-26 23:40:37",
-          "url": "https://www.kuzaobao.com/news/china/202608/2679687.html",
+          "title": "���ס����족����AIģ��Ox Alpha ʹ������DeepSeekһ��\nһ��ƾ������ܺ����ʹ��Ѹ�ٵ�������ʹ�����а���׵������˹����ܣ�AI��ģ��Ox Alpha���ѱ�֤ʵ�����й�AI������ҵ���ס� ������������8��26�գ���Ӧ�������ѯʱ֤ʵ����ǰ����ΪOx Alpha��ģ�ͣ�����GLMϵ�е��°汾�������ڵ�����Щʱ�򹫿�ģ��Ȩ�ء�...\n2026-08-27 10:20:34",
+          "url": "https://www.kuzaobao.com/news/china/202608/2779708.html",
           "published": "2026-08-27",
-          "summary": "�й�����˽�������ѧУ �̻����˵��·�����\n�߽�λ�ڱ���ʯ��ɽ�������λ���������ѵ�����Ĵ�¥������������ְҵѧУ��ʵѵ���أ���ͬ���ǣ�ѧ������һɫ�Ļ����ˡ� ��ʮ̨���λ�����������ѵ��ʦ��ң���£�һ����һ���ץȡ��Ȫˮƿ���Ѳ��̷Ž�΢��¯��ɨ���ݼ�......Ҳ�д���ͷ�Ե�����ѵ��ʦ����...\n2026-08-26 23:40:37",
+          "summary": "���ס����족����AIģ��Ox Alpha ʹ������DeepSeekһ��\nһ��ƾ������ܺ����ʹ��Ѹ�ٵ�������ʹ�����а���׵������˹����ܣ�AI��ģ��Ox Alpha���ѱ�֤ʵ�����й�AI������ҵ���ס� ������������8��26�գ���Ӧ�������ѯʱ֤ʵ����ǰ����ΪOx Alpha��ģ�ͣ�����GLMϵ�е��°汾�������ڵ�����Щʱ�򹫿�ģ��Ȩ�ء�...\n2026-08-27 10:20:34",
           "source": "联合早报"
         }
       ]
@@ -654,10 +570,24 @@
       "count": 10,
       "articles": [
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月27日",
-          "url": "https://wallstreetcn.com/articles/3780385",
+          "title": "特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险”",
+          "url": "https://wallstreetcn.com/articles/3780389",
           "published": "",
-          "summary": "五分钟看懂全球市场，尽在财经早餐。",
+          "summary": "特朗普表示，他对伊朗重返谈判“完全不着急”，并强调经济措施与军事打击同样有效。伊朗方面开出了重开海峡的强硬条件，要求美国纠错并履行此前承诺。丹麦油轮巨头Torm CEO直言，市场严重低估了这场冲突演变为乌克兰式持久僵局的风险，局势可能持续数月乃至数年。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+          "url": "https://wallstreetcn.com/articles/3780408",
+          "published": "",
+          "summary": "英伟达以129亿美元收购开源AI平台Hugging Face，约为其年化收入的80倍估值。此举旨在掌控开源生态核心节点，对冲OpenAI等闭源巨头自研芯片的威胁，并为云业务提供新入口。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "通胀高企金融风险未消，韩国央行连续加息至三年新高，行长：非常态操作但释放强烈信号",
+          "url": "https://wallstreetcn.com/articles/3780402",
+          "published": "",
+          "summary": "韩国央行周四宣布将基准利率上调25个基点至3%，为连续第二次加息，以应对强劲经济增长与持续高通胀压力。7名货币政策委员会委员中有1人投票支持按兵不动。央行同时大幅上调2026年GDP增长预期至3.3%。央行并点名首尔房价连涨、居民债务扩张等金融稳定风险。",
           "source": "华尔街见闻头条"
         },
         {
@@ -703,24 +633,10 @@
           "source": "华尔街见闻头条"
         },
         {
-          "title": "OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？",
-          "url": "https://wallstreetcn.com/articles/3780392",
-          "published": "2026-08-27 08:46:34",
-          "summary": "OpenAI联合博通推出的推理芯片Jalapeño首曝实测数据：每瓦算力领先英伟达同类系统1.5至1.9倍，响应速度快1.7至3.6倍。高盛认为，这不是\"英伟达终结者\"，而是AI硬件从垄断走向多元的信号枪——训练端护城河仍在，但推理端的利润蛋糕，正在被悄然切走。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%",
-          "url": "https://wallstreetcn.com/articles/3780394",
-          "published": "2026-08-27 08:44:38",
-          "summary": "最新财报显示，CrowdStrike二季度营收1.47亿美元、调整后EPS 0.31美元、ARR 5.84亿美元，三项指标均超华尔街预期。全年营收指引上调至5.99亿—6.01亿美元。AI模型\"逃逸\"攻击事件频发，企业安全需求激增，成为公司最大增长引擎。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "智谱新模型“牛来”跑在10万国产卡上，SemiAnalaysis评价“英伟达护城河再受考验”",
-          "url": "https://wallstreetcn.com/articles/3780391",
-          "published": "2026-08-27 08:22:51",
-          "summary": "智谱GLM-5.3-Flash正式认领神秘模型“牛来”（Ox-Alpha）。该模型测试期间每日100万亿token的流量，全部由超过10万张国产芯片承载，智谱称其成本效率已与英伟达GPU相当。传闻称芯片供应或来自华为、摩尔线程与海光。此外，模型定价为Claude Opus 4.8的1/40。",
+          "title": "美国样板已现，AI融资潮何时流向境内债市？",
+          "url": "https://wallstreetcn.com/articles/3780397",
+          "published": "2026-08-27 11:52:00",
+          "summary": "海外AI巨头已从“现金机器”切换为“资本机器”。国内拐点信号也已现——腾讯Q2自由现金流首次转负并集中发债，阿里启动七年来首次配售。华泰证券测算，2026-2030年境内债新增供给年均183-522亿元，债市承接无忧，关键在于芯片瓶颈突破与制度松动，科创债、熊猫债、REITs是近期结构性机会所在。",
           "source": "华尔街见闻头条"
         }
       ]
@@ -731,73 +647,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？",
-          "url": "https://wallstreetcn.com/articles/3780392",
-          "published": "2026-08-27 08:46:34",
-          "summary": "OpenAI联合博通推出的推理芯片Jalapeño首曝实测数据：每瓦算力领先英伟达同类系统1.5至1.9倍，响应速度快1.7至3.6倍。高盛认为，这不是\"英伟达终结者\"，而是AI硬件从垄断走向多元的信号枪——训练端护城河仍在，但推理端的利润蛋糕，正在被悄然切走。",
+          "title": "美国样板已现，AI融资潮何时流向境内债市？",
+          "url": "https://wallstreetcn.com/articles/3780397",
+          "published": "2026-08-27 11:52:00",
+          "summary": "海外AI巨头已从“现金机器”切换为“资本机器”。国内拐点信号也已现——腾讯Q2自由现金流首次转负并集中发债，阿里启动七年来首次配售。华泰证券测算，2026-2030年境内债新增供给年均183-522亿元，债市承接无忧，关键在于芯片瓶颈突破与制度松动，科创债、熊猫债、REITs是近期结构性机会所在。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%",
-          "url": "https://wallstreetcn.com/articles/3780394",
-          "published": "2026-08-27 08:44:38",
-          "summary": "最新财报显示，CrowdStrike二季度营收1.47亿美元、调整后EPS 0.31美元、ARR 5.84亿美元，三项指标均超华尔街预期。全年营收指引上调至5.99亿—6.01亿美元。AI模型\"逃逸\"攻击事件频发，企业安全需求激增，成为公司最大增长引擎。",
+          "title": "华尔街点评MiniMax财报：8月ARR突破8亿美元，下半年毛利有望改善",
+          "url": "https://wallstreetcn.com/articles/3780395",
+          "published": "2026-08-27 11:46:14",
+          "summary": "MiniMax上半年总营收1.166亿美元，同比增长283%，开放平台收入同比暴增703%。最大亮点在于8月ARR突破8亿美元，远超杰富瑞5.8亿美元预测，7月Token消耗量已达年初20倍。毛利率虽受短期因素拖累，但管理层明确下半年将改善。瑞银目标价500港元，杰富瑞上调目标价至533港元。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "智谱新模型“牛来”跑在10万国产卡上，SemiAnalaysis评价“英伟达护城河再受考验”",
-          "url": "https://wallstreetcn.com/articles/3780391",
-          "published": "2026-08-27 08:22:51",
-          "summary": "智谱GLM-5.3-Flash正式认领神秘模型“牛来”（Ox-Alpha）。该模型测试期间每日100万亿token的流量，全部由超过10万张国产芯片承载，智谱称其成本效率已与英伟达GPU相当。传闻称芯片供应或来自华为、摩尔线程与海光。此外，模型定价为Claude Opus 4.8的1/40。",
+          "title": "软银拟60亿美元控股人形机器人公司1X，押注“物理AI”下一个万亿赛道",
+          "url": "https://wallstreetcn.com/articles/3780413",
+          "published": "2026-08-27 11:45:56",
+          "summary": "软银正与OpenAI支持的人形机器人公司1X Technologies洽谈收购多数股权，估值约60亿美元。1X去年曾寻求以100亿美元估值融资10亿美元，但募资不足目标一半；OpenAI此前也曾与其讨论收购，最终未果。软银CEO孙正义将“物理AI”定为软银下一个战略前沿。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "消费板块的“无基之弹”2.0：为何社零增速降至0.6%，消费股却开始奖励好业绩、宽容坏业绩？",
-          "url": "https://wallstreetcn.com/member/articles/3780338",
-          "published": "2026-08-27 08:21:59",
-          "summary": "7月社零同比仅增长0.6%，CPI同比上涨0.5%，消费总量仍缺乏明显起色，但中报季却出现了一组反差鲜明的股价反馈：石头科技业绩超预期后20%涨停，珀莱雅主品牌和扣非利润仍承压，股价却上涨8%；海底捞利润增长有限，却因经营企稳和派息率提升获得重估。与此同时，二季度主动基金继续向电子、通信等高景气方向集中，食品饮料、美容护理等消费行业仓位降至历史极低水平。宏观Beta尚未出现，盈利底、预期底和估值底却已在不同公司身上先后浮现，“无基之弹2.0”是否已经启动？",
+          "title": "丹麦传奇程序员：AGI可能已经来了，只是还在时隐时现",
+          "url": "https://wallstreetcn.com/charts/41959698",
+          "published": "2026-08-27 11:29:00",
+          "summary": "丹麦传奇程序员：AGI可能已经来了，只是还在时隐时现",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "要求基辅暂停攻击，行程目的引发猜测，CIA局长敏感时刻突访莫斯科",
-          "url": "https://wallstreetcn.com/articles/3780390",
-          "published": "2026-08-27 08:21:14",
-          "summary": "特朗普称此访\"半例行性\"，暗示与结束俄乌冲突有关。外界猜测，双方议题除乌克兰问题外，还可能涉及中东局势及防范北约与俄爆发冲突。上一次公开报道的中情局局长到访莫斯科，还要追溯至2021年11月。《华盛顿邮报》称，彼时，拜登政府时期的中情局局长伯恩斯前往莫斯科，劝阻俄方不要进攻乌克兰。但转年2月，俄罗斯便对乌发起特别军事行动。",
+          "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+          "url": "https://wallstreetcn.com/articles/3780408",
+          "published": "2026-08-27 11:04:28",
+          "summary": "英伟达以129亿美元收购开源AI平台Hugging Face，约为其年化收入的80倍估值。此举旨在掌控开源生态核心节点，对冲OpenAI等闭源巨头自研芯片的威胁，并为云业务提供新入口。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险”",
-          "url": "https://wallstreetcn.com/articles/3780389",
-          "published": "2026-08-27 08:21:07",
-          "summary": "特朗普表示，他对伊朗重返谈判“完全不着急”，并强调经济措施与军事打击同样有效。伊朗方面开出了重开海峡的强硬条件，要求美国纠错并履行此前承诺。丹麦油轮巨头Torm CEO直言，市场严重低估了这场冲突演变为乌克兰式持久僵局的风险，局势可能持续数月乃至数年。",
+          "title": "科创50涨3%，光通信、光模块集体拉升，存储芯片反弹，恒指盘中进一步下跌，AI大模型双雄齐涨",
+          "url": "https://wallstreetcn.com/articles/3780403",
+          "published": "2026-08-27 11:02:28",
+          "summary": "光通信概念股崛起，长盈通、长芯博创涨逾10%，长飞光纤、杭电股份涨停。PCB概念震荡拉升，宏昌电子涨停，瑞丰高材、迅捷兴、景旺电子、金禄电子、金安国纪跟涨。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "华尔街猜测：贝森特“救美债”的下一招是什么？",
-          "url": "https://wallstreetcn.com/articles/3780388",
-          "published": "2026-08-27 08:02:34",
-          "summary": "华尔街聚焦11月4日季度发债计划，视其为重大未知数。德银预计将扩大长端债券回购规模，将超40亿美元上限；摩根士丹利预计将增加短期国库券及短债发行；花旗已将削减20年期国债拍卖列为尾部风险，并将大规模拍卖预期推迟至2028年。",
+          "title": "通胀高企金融风险未消，韩国央行连续加息至三年新高，行长：非常态操作但释放强烈信号",
+          "url": "https://wallstreetcn.com/articles/3780402",
+          "published": "2026-08-27 11:00:14",
+          "summary": "韩国央行周四宣布将基准利率上调25个基点至3%，为连续第二次加息，以应对强劲经济增长与持续高通胀压力。7名货币政策委员会委员中有1人投票支持按兵不动。央行同时大幅上调2026年GDP增长预期至3.3%。央行并点名首尔房价连涨、居民债务扩张等金融稳定风险。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月27日",
-          "url": "https://wallstreetcn.com/articles/3780385",
-          "published": "2026-08-27 07:08:37",
-          "summary": "五分钟看懂全球市场，尽在财经早餐。",
+          "title": "金银只是开场，所有大宗商品都涨起来了",
+          "url": "https://wallstreetcn.com/charts/41959697",
+          "published": "2026-08-27 10:53:11",
+          "summary": "金银只是开场，所有大宗商品都涨起来了",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "英伟达电话会：预计明年营收增长70%，毛利率Q4财季触底，CPU收入明年迎翻倍级爆发",
-          "url": "https://wallstreetcn.com/articles/3780381",
-          "published": "2026-08-27 06:51:54",
-          "summary": "英伟达公布Q2财报，单季营收达960亿美元实现翻倍，并罕见给出2028财年营收增长约70%的超预期指引。CEO黄仁勋强调，70%的增长仅是“受限于产能”的结果，在Agentic AI普及的推动下，真实市场需求增速远超100%。同时，黄仁勋力挺对前沿AI实验室的500亿美元投资，直言“唯一的遗憾是没能更早投资”。",
+          "title": "付鹏点评英伟达财报：为何要等老黄叙事后才反应【付鹏说】",
+          "url": "https://wallstreetcn.com/premium/articles/3780398?layout=wscn-layout",
+          "published": "2026-08-27 10:08:08",
+          "summary": "真正改善情绪的是电话会前瞻，投资者更关注AI算力能否形成商业闭环、转化为终端现金流及未来增长，市场仍需观察信心持续性。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "当科技巨头开始把债务搬到表外，是否正在埋下下一场“次贷危机”的种子？",
-          "url": "https://wallstreetcn.com/member/articles/3780225",
-          "published": "2026-08-27 06:51:00",
-          "summary": "AI基础设施正从科技公司的资本开支，快速演变为资本市场共同参与的信用扩张。Hyperscaler今年资本开支已逼近7000亿美元，Private Credit、SPV和资产证券化加速进入算力产业。尽管债务增长迅速，但核心借款人质量、银行渗透率和居民财富效应仍与2008年前夕存在明显差距，即使未来发生出清，其系统性破坏力大概率也难企及次贷危机。真正需要追踪的是，算力金融化会否继续向银行体系和短期融资渠道渗透？",
+          "title": "中国1—7月规模以上工业企业利润同比增长17.6%，集成电路行业利润同比增长18.5倍",
+          "url": "https://wallstreetcn.com/articles/3780399",
+          "published": "2026-08-27 09:56:56",
+          "summary": "1—7月份，电子行业利润同比增长1.1倍，拉动全部规模以上工业企业利润增长9.3个百分点。从行业来看，与计算机、服务器相关的计算机整机制造、计算机外围设备制造、工业控制计算机及系统制造行业利润分别增长3.3倍、2.5倍、1.6倍；电子器件制造和电子元件制造领域中，电子专用材料制造、半导体分立器件制造、电子电路制造行业利润分别增长226.8%、45.8%、37.1%。",
           "source": "华尔街见闻最新"
         }
       ]
@@ -805,13 +721,27 @@
     "gelonghui": {
       "name": "gelonghui",
       "name_cn": "格隆汇快讯",
-      "count": 1,
+      "count": 3,
       "articles": [
         {
-          "title": "英伟达Q2财报会要点：明年客户需求可达翻倍级别 算力供给短缺至少延续至2028财年末",
-          "url": "https://www.gelonghui.com/live/2635267",
-          "published": "2026-08-27 09:01:40",
-          "summary": "美东时间周三盘后，全球AI芯片龙头英伟达公布了强劲的2027财年第二季度财报并举行财报电话会议。财报会重点内容如下：\n①当前无约束真实市场需求可达100%增速，全年增长受限唯一因素是供应链产能不足，而非下游需求疲软。\n②服务器CPU业务迎来爆发拐点，预计2028财年营收实现翻倍以上增长，正式切入全球高端CPU赛道，打开全新增长空间。\n③伴随产品涨价落地与新一代高毛利产品放量，2028财年毛利率将修复至72%-73%，盈利韧性依旧强劲。\n④AI已抵达产业拐点，彻底告别概念阶段。当前AI生成的Token具备实际生产力与商业盈利性，算力直接等价于收入，行业逻辑从“技术迭代”转向“商业变现”。\n⑤AI算力供给短缺格局至少延续至2028财年末，晶圆产能、HBM存储、机房电力均处于全面紧缺状态，行业不存在产能过剩风险。\n⑥扩大与亚马逊的合作。在现有庞大英伟达算力部署基础之上，AWS（亚马逊云科技）从本季度直至2029财年第二季度，将额外部署200万颗GPU。\n⑦存储芯片价格行情远超此前预期，明年还会继续走高。英伟达和三大存储厂商保持深度长期合作，共同扩产匹配产品路线图需求。\n[关联股票] 英伟达",
+          "title": "港股午评：恒指跌0.42%，科网股走势分化，英伟达业绩引爆相关产业链股",
+          "url": "https://www.gelonghui.com/live/2635688",
+          "published": "2026-08-27 12:00:32",
+          "summary": "港股上午盘三大指数呈现高开低走行情，恒生指数、国企指数双双转跌至0.42%及0.61%，恒生科技指数勉强上涨0.19%，曾涨近1%。盘初集体上涨的大型科网股部分转跌，小米跌超2%，美团跌超1%，京东跌约1%，百度则大涨6.66%，腾讯涨近1%；英伟达业绩引爆相关产业链股，存储半导体股、PCB概念股、光通信概念股强势，澜起科技、建滔积层板涨幅领先。另外，内银股集体低迷拖累大市承压。(格隆汇)\n[关联股票] 恒生指数 恒生科技指数",
+          "source": "格隆汇快讯"
+        },
+        {
+          "title": "黄仁勋驳斥“循环融资”质疑：AI行业需要巨额资金 英伟达投资风险很低",
+          "url": "https://www.gelonghui.com/live/2635682",
+          "published": "2026-08-27 11:58:21",
+          "summary": "英伟达CEO黄仁勋当地时间周三为公司日益深入参与人工智能行业融资进行了辩护。他反驳了外界关于英伟达向其他AI公司提供资金支持，是为了人为推高自身营收增长的批评。“这是第一代需要数百亿美元融资才能发展起来的初创公司。”“上一次有人听说一家初创公司需要数十亿美元才能起步、还需要数百亿美元才能实现盈利，是什么时候？这种情况过去从来没有发生过。但这正是AI行业的特点。开发AI的成本、部署AI的成本都非常高，这是一个高度资本密集型行业。”\n对于英伟达可能因为被投企业经营困难而最终承担损失的担忧，黄仁勋也予以反驳。他表示，英伟达的计算基础设施可以在不同客户和不同工作负载之间重新部署，因此公司对任何单一投资的风险敞口都是有限的。“我们投入的资金将带来非常可观的回报。”“我认为风险很低。”\n[关联股票] 英伟达",
+          "source": "格隆汇快讯"
+        },
+        {
+          "title": "A股异动丨券商股继续走强，锦龙股份2连板",
+          "url": "https://www.gelonghui.com/live/2635674",
+          "published": "2026-08-27 11:51:08",
+          "summary": "延续昨日强势，A股市场部分券商股今日继续上涨。截至半日收盘，锦龙股份涨停(2连板)，湘财股份触及涨停，国盛证券涨近5%，华林证券、中银证券涨超2%。\n有分析人士点评券商股指出，中报业绩渐次披露，整体维持高增长。上半年头部券商ROE普遍6%-8%，全年预计10%-12%，当前1xPB估值明显较低。投行硬科技IPO增强业绩确定性。\n[关联股票] 锦龙股份 湘财股份",
           "source": "格隆汇快讯"
         }
       ]
