@@ -1,188 +1,188 @@
 {
-  "updated": "2026-09-22T10:05:55.983268+00:00",
-  "updated_beijing": "2026-09-22 10:05 北京时间",
+  "updated": "2026-09-22T22:05:52.182599+00:00",
+  "updated_beijing": "2026-09-22 22:05 北京时间",
   "important": [
     {
-      "title": "西部三省份高层联动调整 藏甘青一把手到位",
-      "url": "https://china.caixin.com/2026-09-22/102487563.html",
-      "summary": "西藏、甘肃、青海三省区党委书记同步调整，西部治理格局重塑。",
+      "title": "林毅夫：中国AI开源模式将缩小不同经济体收入差距",
+      "url": "https://www.caixin.com/2026-09-22/102487667.html",
+      "summary": "林毅夫称中国AI开源模式有助于缩小全球收入差距。",
       "source": "财新"
     },
     {
-      "title": "吴泳铭：AI模型、芯片和云是阿里长期战略选择",
-      "url": "https://www.caixin.com/2026-09-22/102487512.html",
-      "summary": "阿里CEO明确AI模型、芯片与云为三大长期战略方向。",
+      "title": "人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元",
+      "url": "https://www.caixin.com/2026-09-22/102487638.html",
+      "summary": "帕西尼启动A股上市辅导，估值超百亿元。",
       "source": "财新"
     },
     {
-      "title": "美银：AI驱动资本流入亚洲 万亿美元存储市场将翻倍",
-      "url": "https://finance.caixin.com/2026-09-22/102487503.html",
-      "summary": "美银预测AI将推动万亿美元存储市场翻倍，资本加速流入亚洲。",
+      "title": "美国加州等地推新法管控数据中心建设 放缓AI呼声高涨",
+      "url": "https://www.caixin.com/2026-09-22/102487626.html",
+      "summary": "美国加州等地立法管控数据中心，AI发展或放缓。",
       "source": "财新"
     },
     {
-      "title": "盖茨呼吁各方共同权衡AI利弊 防止其成为坏人最强大的武器之一",
-      "url": "https://international.caixin.com/2026-09-22/102487482.html",
-      "summary": "盖茨警告AI可能被滥用，呼吁全球共同治理AI风险。",
+      "title": "美国五大电视网联手抵制拒报特朗普 声援CNN等媒体遭撤白宫证件",
+      "url": "https://international.caixin.com/2026-09-22/102487631.html",
+      "summary": "美国五大电视网联合抵制特朗普对媒体的打压。",
       "source": "财新"
     },
     {
-      "title": "视线：污染、水耗与政治撕裂 AI数据中心狂热扩张撞上全美反抗浪潮",
-      "url": "https://photos.caixin.com/2026-09-22/102487443.html",
-      "summary": "美国AI数据中心扩张引发环保与政治反弹，社会阻力加剧。",
+      "title": "韩国前第一夫人金建希“卖官鬻爵”案二审宣判 刑期由七年减至五年",
+      "url": "https://international.caixin.com/2026-09-22/102487606.html",
+      "summary": "金建希案二审减刑至五年，韩国政坛持续震荡。",
       "source": "财新"
     },
     {
-      "title": "卸任司法部副部长后 58岁胡卫列履新中央政法委副秘书长",
-      "url": "https://china.caixin.com/2026-09-22/102487413.html",
-      "summary": "胡卫列转任中央政法委副秘书长，政法系统人事调整持续。",
+      "title": "四川高官宋朝华一审获刑死缓",
+      "url": "https://china.caixin.com/2026-09-22/102487621.html",
+      "summary": "四川高官宋朝华因贪腐一审被判死缓。",
       "source": "财新"
     },
     {
-      "title": "阿里云栖大会火力全开：最强国产AI芯片、10万亿参数模型、20GW数据中心",
-      "url": "https://t.10jqka.com.cn/pid_696762677.shtml",
-      "summary": "阿里发布真武V900芯片、10万亿参数模型及20GW数据中心规划。",
+      "title": "智谱平台模型调用量第一，榜单登顶！马斯克“点赞”国产大模型突破！",
+      "url": "https://news.10jqka.com.cn/20260922/c680178625.shtml",
+      "summary": "智谱模型调用量登顶，马斯克点赞中国大模型。",
       "source": "同花顺"
     },
     {
-      "title": "DeepSeek押注华为芯片训练大模型",
-      "url": "https://www.kuzaobao.com/news/china/202609/2281645.html",
-      "summary": "DeepSeek转向华为芯片训练大模型，降低对英伟达依赖。",
-      "source": "联合早报"
+      "title": "数贸会明日启幕：AI浓度超高，特斯拉Cybercab也来了！",
+      "url": "https://news.10jqka.com.cn/20260922/c680185305.shtml",
+      "summary": "数贸会聚焦AI，特斯拉Cybercab等前沿产品亮相。",
+      "source": "同花顺"
     },
     {
-      "title": "中国民营企业500强发布 京东阿里恒力位居前三",
-      "url": "https://www.kuzaobao.com/news/china/202609/2281661.html",
-      "summary": "2026中国民企500强揭晓，京东、阿里、恒力位列前三。",
-      "source": "联合早报"
+      "title": "千问加速布局Personal Agent 开放平台覆盖领域已超20个",
+      "url": "https://news.10jqka.com.cn/20260922/c680183012.shtml",
+      "summary": "千问加速布局个人智能体，覆盖超20个领域。",
+      "source": "同花顺"
     },
     {
-      "title": "中国商务部等五部门发布易制毒化学品目录",
-      "url": "https://www.kuzaobao.com/news/china/202609/2281664.html",
-      "summary": "五部门联合发布易制毒化学品目录，强化相关管控。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国副主席韩正将出席联合国大会一般性辩论",
-      "url": "https://www.kuzaobao.com/news/china/202609/2281662.html",
-      "summary": "韩正将赴纽约出席第81届联大一般性辩论。",
-      "source": "联合早报"
-    },
-    {
-      "title": "日本前首相敦促现任首相改善对华关系",
-      "url": "https://www.kuzaobao.com/news/china/202609/2281659.html",
-      "summary": "日本前首相呼吁现任首相努力改善紧张的中日关系。",
-      "source": "联合早报"
-    },
-    {
-      "title": "美国电力严重短缺 快速通电成为核心价值",
-      "url": "https://wallstreetcn.com/articles/3782275",
-      "summary": "美国电力短缺加剧，快速通电能力成为AI数据中心核心价值。",
+      "title": "业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2",
+      "url": "https://wallstreetcn.com/articles/3782295",
+      "summary": "千问发布企业级Agent产品及AI硬件QwenNote A2。",
       "source": "华尔街见闻"
     },
     {
-      "title": "内存价格在燃烧 芯片战争又打起来了",
-      "url": "https://wallstreetcn.com/articles/3782219",
-      "summary": "内存价格飙升，芯片战争因AI需求再度升级。",
+      "title": "OpenAI内部曝光：AI开始自己造AI！奥特曼急发全球暂停令",
+      "url": "https://wallstreetcn.com/articles/3782298",
+      "summary": "OpenAI内部曝AI自我进化，奥特曼发全球暂停令。",
       "source": "华尔街见闻"
     },
     {
-      "title": "Grok 4.7上线 全球第三 马斯克称4.8也训完了",
-      "url": "https://wallstreetcn.com/articles/3782290",
-      "summary": "Grok 4.7上线排名全球第三，马斯克透露4.8已训练完成。",
+      "title": "OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉",
+      "url": "https://wallstreetcn.com/articles/3782320",
+      "summary": "OpenAI推出GPT-6新模型，定价大幅下调。",
       "source": "华尔街见闻"
+    },
+    {
+      "title": "报道：苹果开发新型健身追踪器原型机，目标直指Whoop",
+      "url": "https://wallstreetcn.com/articles/3782323",
+      "summary": "苹果开发新型健身追踪器，对标Whoop。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "工信部旗下媒体：“去宁德化”论调要不得",
+      "url": "https://wallstreetcn.com/articles/3782280",
+      "summary": "工信部媒体发文反对“去宁德化”论调。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "DeepSeek或成联合国大会焦点，中国AI企业引关注",
+      "url": "https://www.kuzaobao.com/news/china/202609/2281678.html",
+      "summary": "DeepSeek或亮相联合国大会，中国AI受瞩目。",
+      "source": "联合早报"
     }
   ],
   "interest": [
     {
-      "title": "企业融资结构持续变化",
-      "url": "https://opinion.caixin.com/2026-09-22/102487555.html",
-      "summary": "企业融资结构持续演变，直接融资比重与渠道发生新变化。",
+      "title": "独家｜邹迎光接棒中信证券党委书记 张佑君即将退休",
+      "url": "https://finance.caixin.com/2026-09-22/102487642.html",
+      "summary": "邹迎光接任中信证券党委书记，张佑君退休。",
       "source": "财新"
     },
     {
-      "title": "进口高增：不止AI",
-      "url": "https://opinion.caixin.com/2026-09-22/102487423.html",
-      "summary": "进口高增不仅源于AI相关需求，内需结构亦在转变。",
-      "source": "财新"
-    },
-    {
-      "title": "港股AI爆发！腾讯被视为中国版Muse 阿里最强国产AI芯片发布",
-      "url": "https://news.10jqka.com.cn/20260922/c680174691.shtml",
-      "summary": "港股AI板块爆发，腾讯、阿里因AI进展获资金追捧。",
+      "title": "中金公司，明起复牌！换股吸收合并东兴证券、信达证券",
+      "url": "https://news.10jqka.com.cn/20260922/c680178628.shtml",
+      "summary": "中金公司换股吸收合并东兴证券、信达证券，明日复牌。",
       "source": "同花顺"
     },
     {
-      "title": "午后突发暴涨949% 中一签最高盈利26万元 A股上演罕见一幕",
-      "url": "https://news.10jqka.com.cn/20260922/c680166542.shtml",
-      "summary": "A股新股上市首日暴涨949%，中一签最高盈利26万元。",
+      "title": "A股存储龙头，拟投资45亿元加码先进封测！",
+      "url": "https://news.10jqka.com.cn/20260922/c680183217.shtml",
+      "summary": "A股存储龙头拟投资45亿元加码先进封测。",
       "source": "同花顺"
     },
     {
-      "title": "雷军澄清打新宇树科技赚100多亿元传言",
-      "url": "https://news.10jqka.com.cn/20260922/c680160143.shtml",
-      "summary": "雷军澄清宇树科技投资传闻，称系顺为早期天使投资。",
+      "title": "单瓶2199元 ，“i茅台”上线四季酒，瞬间售罄！",
+      "url": "https://news.10jqka.com.cn/20260922/c680185165.shtml",
+      "summary": "i茅台上线2199元四季酒，瞬间售罄。",
       "source": "同花顺"
     },
     {
-      "title": "沙特管道遭袭后扩大海湾出口 盘中布油破百美油跌超6%",
-      "url": "https://t.10jqka.com.cn/pid_696552492.shtml",
-      "summary": "沙特管道遇袭后调整出口，布油盘中破百美油大跌。",
+      "title": "谷歌被罚！爱尔兰数据保护委员会对谷歌开出4.03亿欧元罚单",
+      "url": "https://news.10jqka.com.cn/20260922/c680185918.shtml",
+      "summary": "谷歌因数据保护问题被爱尔兰罚款4.03亿欧元。",
       "source": "同花顺"
     },
     {
-      "title": "尾盘地产板块再度拉升 科技股全天高开低走",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissyrf2019916.shtml",
-      "summary": "地产板块尾盘拉升，科技股高开低走，市场风格切换。",
-      "source": "新浪"
+      "title": "AMD市值首破万亿美元，Meta智能体引爆CPU行情",
+      "url": "https://news.10jqka.com.cn/20260922/c680181795.shtml",
+      "summary": "AMD市值破万亿美元，Meta智能体引爆CPU行情。",
+      "source": "同花顺"
     },
     {
-      "title": "长鑫G5量产 芯片板块迎来重要突破",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissuii2089752.shtml",
-      "summary": "长鑫存储G5量产，国产芯片产业链迎来重要突破。",
-      "source": "新浪"
+      "title": "纳指再创历史新高！美股大型科技股、中概股集体走强",
+      "url": "https://news.10jqka.com.cn/20260922/c680185735.shtml",
+      "summary": "纳指创新高，科技股与中概股集体走强。",
+      "source": "同花顺"
     },
     {
-      "title": "Meta Muse验证C端Agent 腾讯控股盘中涨超7%",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissuii2089067.shtml",
-      "summary": "Meta Muse验证C端Agent前景，腾讯控股盘中大涨超7%。",
-      "source": "新浪"
-    },
-    {
-      "title": "科技投资风向变了？科创债ETF持续吸金",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuhz6883654.shtml",
-      "summary": "科创债ETF持续吸金，科技投资风向出现新变化。",
-      "source": "新浪"
-    },
-    {
-      "title": "两大利好引爆 芯片股集体沸腾",
-      "url": "https://finance.eastmoney.com/a/202609223880499516.html",
-      "summary": "两大利好刺激芯片股集体大涨，半导体板块热度飙升。",
-      "source": "东财"
-    },
-    {
-      "title": "芯片半导体股大涨 国际油价跌超4%",
-      "url": "https://finance.eastmoney.com/a/202609223880398061.html",
-      "summary": "芯片半导体股大涨，国际油价跌超4%，市场分化明显。",
-      "source": "东财"
-    },
-    {
-      "title": "Meta智能体热潮点燃CPU行情",
-      "url": "https://finance.eastmoney.com/a/202609223880380835.html",
-      "summary": "Meta智能体热潮带动CPU板块行情，服务器芯片受关注。",
-      "source": "东财"
-    },
-    {
-      "title": "腾讯港股收涨5% Meta Muse走红 腾讯C端Agent生态被重估",
-      "url": "https://wallstreetcn.com/articles/3782282",
-      "summary": "腾讯港股收涨5%，C端Agent生态价值获市场重估。",
+      "title": "华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移",
+      "url": "https://wallstreetcn.com/articles/3782305",
+      "summary": "阿里云栖大会提出20GW算力目标，云收入天花板上移。",
       "source": "华尔街见闻"
     },
     {
-      "title": "突破100bp 法德利差14年新高：法国财政与政治风险何时引爆",
-      "url": "https://wallstreetcn.com/member/articles/3782212",
-      "summary": "法德利差突破100bp创14年新高，法国财政风险引关注。",
+      "title": "AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V",
+      "url": "https://wallstreetcn.com/articles/3782289",
+      "summary": "AI热情与中东缓和推纳指新高，原油五连跌。",
       "source": "华尔街见闻"
+    },
+    {
+      "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，单笔最高2500万美元",
+      "url": "https://wallstreetcn.com/articles/3782324",
+      "summary": "特朗普7月披露逾千笔交易，抛售微软亚马逊。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "特朗普表态支持禁止柴油出口，炼油股承压",
+      "url": "https://wallstreetcn.com/articles/3782325",
+      "summary": "特朗普支持禁止柴油出口，炼油股承压。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "花旗：通胀超越关税成家族办公室头号隐忧，富豪们涌向黄金与美股",
+      "url": "https://wallstreetcn.com/articles/3782317",
+      "summary": "花旗称通胀成家族办公室头号隐忧，富豪涌向黄金美股。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”",
+      "url": "https://wallstreetcn.com/articles/3782318",
+      "summary": "美联储Barkin称通胀消退需时间，加息视情况而定。",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
+      "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
+      "summary": "华南城将被清盘，腾讯23亿投资或打水漂。",
+      "source": "新浪"
+    },
+    {
+      "title": "海南瑞泽被央资举牌",
+      "url": "https://finance.eastmoney.com/a/202609213880282425.html",
+      "summary": "海南瑞泽获央资举牌。",
+      "source": "东财"
     }
   ],
   "sources": {
@@ -192,73 +192,73 @@
       "count": 10,
       "articles": [
         {
+          "title": "林毅夫：中国AI开源模式将缩小不同经济体收入差距",
+          "url": "https://www.caixin.com/2026-09-22/102487667.html",
+          "published": "Tue, 22 Sep 2026 22:53:49 +0800",
+          "summary": "<img alt=\"2026年4月10日，广东深圳，第十四届中国电子信息博览会，人形机器人正在演示泡茶茶艺。图：IC PHOTO\" id=\"picture_179008919159961\" src=\"https://img.caixin.com/2026-09-22/179008919159961_840_560.jpg\" /><dl><dt>2026年4月10日，广东深圳，第十四届中国电子信息博览会，人形机器人正在演示泡茶茶艺。图：IC PHOTO</dt></dl><p>　　<b>【财新网】</b>“第一次工业革命前，收入最高的国家——荷兰的人均收入，是最贫困国家的5倍。但历经三次工业革命后，目前，最高收入国家和最低收入国家的差距可能是百倍。”9月22日，北京大学新结构经济学研究院院长<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=304011804&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">林毅夫</a>在英特尔技术创新与产业生态大会现场指出，被称为第四次工业革命的人工智能有可能改变发达经济体和发展中国家的收入差距，其关键在于以中国AI大模型为代表的开源权重模型，可以降低AI的技术门槛和使用成本，缩短发展中国家在产业智能化等方面追赶发达国家的时间。</p><p>　　林毅夫的这一观察和目前经济学界对AI带来收入K型分化的观点不同。所谓K型分化，是指以AI为代表的新兴产业持续向上，但传统行业可能持续向下的分化；也指这种产业分化趋势带来的就业和居民收入分化，还会体现为因产业结构差异导致的地区之间经济发展的分化。</p><p>　　但林毅夫指出，目前正在推进的AI技术革命是美国和中国并跑状态，但两国路径不同，最终带来的结果也不相同。</p><p>　　“在人工智能产业化上，中美两国属于第一团队，处于世界领先地位。”林毅夫指出，但中美两国目前收入水平有差距，2025年，美国国内人均生产总值为9万美元，中国人均GDP是1.3万美元：“美国是资本丰富国家，人工智能硬件领先，走的资本密集、硬件为主、堆积算力的路径，人工智能大模型领先的四家公司，到2030年五年计划投资就高达5.3万亿美元。”</p><p>　　林毅夫指出，中国人均GDP相对低，资本相对短缺，但优势在于人才和应用市场：“中国在科学、工程、技术和数学领域每年有500多万毕业生；另一边，中国的14亿人口形成了巨大市场，应用场景多，生产领域的应用场景最为丰富，所以在人工智能大模型发展上，走上了算法优化、软件能力提升的轻资产道路。”</p><p>　　基于两种不同模式，直接后果是中美两国的AI大模型选择不同的模式：重资产方式的美国走了闭源模式，中国走了开源权重的轻资产模式。而开源权重模型意味着客户可以免费或低成本使用大模型。</p><p>　　“目前全世界10个最重要大模型中，有8个来自中国。”林毅夫指出，在功能基本相同的情况下，更多人会选择开源模型，AI模型最后会走向开源方向。</p><p>　　除了人工智能产业化，在他看来，AI影响经济发展更重要的是“人工智能+”，即产业智能化。他将AI类比为第一次工业革命的蒸汽机，给包括矿业、纺织业、交通业（比如火车、轮船）等提供动力，从而实现生产力飞跃式发展。</p><p>　　而目前，人工智能不仅要本身发展，也要把AI用到生产生活中。林毅夫认为，根据大模型开发各个制造业部门的智能体，可以提供生产、管理、物流、销售、开发的智能；此外，农业、服务业、个人生活家居，甚至科研都需要人工智能。</p><p>　　在他看来，“人工智能+”的需求下，由于开源权重模型价格低廉或者免费，将提供和过去几次工业革命完全不同的变革速度。“这次工业革命和之前并不相同，蒸汽机、电力、计算机如果按照现在的免费模式，生产力提高会更加速。”他指出，中国走轻资产模式，让各个产业进入AI的成本大大降低，产业智能化会有爆发式发展，带来巨大需求。</p><p>　　“基于开源方式，各国和各产业以很低成本进入AI时代，在新革命中，世界上更多国家可以进入，发展中国家在这场革命中或有后来者优势。成本低、风险小，进入速度更快。”林毅夫强调。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-09-22/102487667.html\" rel=\"nofollow\" title=\"林毅夫：中国AI开源模式将缩小不同经济体收入差距\"><img src=\"https://www.caixin.com/favicon.ico\" /></a> </p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">【专题】AI全景</a>、<a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">AI狂飙</a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "电三轮加速“汽车化” 龙头企业看好“接娃”场景",
+          "url": "https://www.caixin.com/2026-09-22/102487659.html",
+          "published": "Tue, 22 Sep 2026 21:23:34 +0800",
+          "summary": "<img alt=\"企业加快产品升级，意在争取电动三轮车市场的增长空间。财通证券5月发布的研报预计，到2030年，国内休闲电动三轮车的销量有望突破1100万辆。图：视觉中国\" id=\"picture_179008415175997\" src=\"https://img.caixin.com/2026-09-22/179008415175997_840_560.jpg\" /><dl><dt>企业加快产品升级，意在争取电动三轮车市场的增长空间。财通证券5月发布的研报预计，到2030年，国内休闲电动三轮车的销量有望突破1100万辆。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>从城乡货运、老年代步延伸至家庭接送，电动三轮车企业正通过提升舒适性、增加智能化配置，拓展家庭短途出行市场。</p><p>　　9月22日，国内电动三轮车龙头江苏金彭集团有限公司（下称“金彭”）发布了三款休闲电动三轮篷车。这些新产品将年轻女性列为主要目标用户，并把接送孩子作为核心使用场景。</p><p>　　三款产品当中的旗舰车型强化“汽车化”配置，配备空调、倒车雷达、倒车影像、遥控挪车和远程控车等功能。新车还在外观和配色上突出时尚感，试图改变传统电动三轮车低端、工具化的产品形象。</p><p>　　电动自行车因价格低廉、出行灵活，成为不少家庭接送孩子的工具，但在低温、雨雪天气下，骑乘体验不佳。封闭或半封闭的电动三轮车既能提供一定的遮风挡雨能力，价格又低于汽车，成为企业在低线城市和农村地区争取家庭用户的切入点。</p><p>　　申万宏源2025年3月发布的研报认为，乘用需求是电动三轮车市场增长的重要驱动力。随着两轮车头部品牌进入，电三轮的产品设计更加年轻化，有望吸引传统老年代步市场之外的消费者。</p><p>　　充电便利性不够，是制约电动三轮车的一大瓶颈。在部分社区，充电区域主要供电动两轮车使用，三轮车体积较大，停放不便。此外，电动三轮车通常搭载容量更大的动力电池，部分车型充电时间可能超过10个小时。</p><p>　　金彭称，此次发布的高配车型配备2千瓦车载充电机，可接入7千瓦汽车交流充电桩，充满电只需两个多小时。这是该公司首次在电动三轮车产品上引入汽车充电桩补能功能。</p><p>　　企业加快产品升级，意在争取电动三轮车市场的增长空间。财通证券5月发布的研报预计，到2030年，国内休闲电动三轮车的销量有望突破1100万辆。</p><p>　　雅迪控股（01585.HK）和爱玛科技（603529.SH）等电动两轮车龙头也在加大投入。在9月21日召开的2026年上半年业绩说明会上，爱玛方面称，受绿色出行和人口老龄化等趋势推动，货运类和休闲类电动三轮车需求持续增长，该公司希望依托品牌和渠道优势，提升市场份额。</p><p>　　爱玛在2026年3月举行的一场券商交流会上称，徐州丰县电动三轮车制造基地预计于2026年第三季度投产，规划年产能300万辆。</p><p>　　雅迪也提出了电动三轮车业务的具体的增长目标。财通证券称，2025年雅迪销售三轮车96万辆，该公司将2026年销量增长目标定在50%以上。若实现这一目标，雅迪三轮车的销量将超过140万辆，进一步逼近乃至超过部分传统三轮车龙头公司。</p><p>　　市场机构奥维云网的产销数据显示，2025年中国非商用电动三轮车内销量为722.3万辆，同比增长5.4%。在国内非商用电三轮市场，金彭、宗申分别以15.9%和12.5%的市占率位居前两位，雅迪和爱玛以9.8%和8.1%位列第三、第四。</p><p>　　传统龙头的份额已有所松动。2025年，金彭的市场份额同比下降4.1个百分点，宗申亦下降1.1个百分点；雅迪则上升3.3个百分点，爱玛上升0.5个百分点。随着两轮车龙头持续扩大三轮车业务，原本由专业三轮车企业主导的市场格局正在发生变化。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-09-22/102487659.html\" rel=\"nofollow\" title=\"电三轮加速“汽车化” 龙头企业看好“接娃”场景\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "独家｜邹迎光接棒中信证券党委书记 张佑君即将退休",
+          "url": "https://finance.caixin.com/2026-09-22/102487642.html",
+          "published": "Tue, 22 Sep 2026 21:07:49 +0800",
+          "summary": "<img alt=\"资料图：邹迎光。\" id=\"picture_179008278486782\" src=\"https://img.caixin.com/2026-09-22/179008278486782_840_560.jpg\" /><dl><dt>资料图：邹迎光。</dt></dl><p><b>　　【财新网】</b>券业龙头中信证券（600030.SH/06030.HK）迎来高层换届。9月22日，多位接近中信证券的消息人士透露，中信证券当日内部发文官宣，该公司党委副书记、总裁邹迎光出任中信证券党委书记，现任党委书记张佑君不再担任现职。这意味着，执掌中信证券10年有余的张佑君即将卸任退休。</p><p>　　多位消息人士称，待履行上市公司相关程序后，邹迎光预计将出任中信证券董事长。据财新此前报道，中信集团在9月上旬对邹迎光进行了内部考察及公示（参见财新金融我闻9月13日报道《<a href=\"https://wenews.caixin.com/2026-09-13/102484469.html\" target=\"_blank\">中信证券董事会换届在即 一、二把手联动即将揭晓</a>》）</p><p>　　中信证券成立逾30年，起初并非业内佼佼者，但因数次躲过行业风暴，又抓住关键扩张机会，后来居上，逐渐成为中国体量最大、盈利最丰厚的证券公司。中信证券过往得以做大做强，与常振明、王东明、张佑君领衔的前后三代管理层密不可分。</p><p>　　张佑君是中信证券创始即加盟的老将。1965年7月，他出生于北京，籍贯江苏，1987年获中国人民大学货币银行学经济学学士学位，1990年获中央财经大学货币银行学经济学硕士学位。1992年，张佑君加入中信实业银行深圳分行。1995年中信证券筹备成立后，他从基层起步，踏足投资交易领域，四年间历任交易部总经理、公司襄理、副总经理。</p><p>　　1999年长盛基金成立，张佑君被派往任职，担任长盛基金首任总经理。次年，张佑君回到中信证券。2002年王东明升任中信证券董事长后，他接任总经理。2005年9月，中信证券出资16.2亿元参与华夏证券重组，筹建中信建投证券，张佑君再受委派，出任中信建投首任总经理，不久后升任董事长兼党委书记。2010年，中信证券转让中信建投股权，随着大股东地位丧失，张佑君于2011年9月卸任中信建投董事长，重返中信集团，先后担任总经理助理、董事会办公室主任，并在中信集团境外整体上市过程中发挥主要作用。</p><p>　　2015年6月“股灾”后，中信证券多名执委及部门负责人被查，张佑君在风暴中回归，于2015年11月出任党委副书记，次年1月接任党委书记、董事长。当时，中信证券原有高管团队几乎被打散，大多转投他处（参见财新我闻2019年2月19日《<a href=\"https://wenews.caixin.com/2019-02-19/102023422.html\" target=\"_blank\">股灾三年半后 中信证券旧部命运各不同</a>》）。</p><p>　　与王东明豪爽直率、快人快语的风格不同，张佑君低调稳重，做事果断，讲求实效。“他比较儒雅，平易近人，是专业人士作风。”一位曾与张佑君合作过的投行人士如此评价。回归初期，也有人对张佑君并不服气，“当时很多人觉得他是来摘桃子的，想看看他有没有真本事”。但在公司内部，张佑君很快以强势果断的管理风格站稳脚跟，私下甚至有“霸道强人”之称。</p><p>　　张佑君所带领的高管团队在2015年风波后稳住了中信证券的底盘，渡过风波，逐渐恢复了公司的市场信誉。至今掌舵中信证券已逾十年，期间，中信证券于内收购广州证券，于外完成对里昂证券的整合，并抓住再融资时机，资产规模从原本不足6000亿元增长至如今的2.47万亿元，体量扩张逾四倍。十年间累计分红累计约653.49亿元，年均现金分红比例接近40%。</p><p>　　接替张佑君的邹迎光出生于1970年12月，尚未满56岁。他五官轮廓清晰，一头整齐的灰白短发，常佩戴深框眼镜，形象干练。曾与邹迎光共事的人士称，邹迎光精明强干，执行果断，行事鲜少拖泥带水。</p><p>　　邹迎光最早并非出自金融专业，而是一位外科医生。1994年，他获首都医科大学临床医学专业学士学位，毕业后曾在首都医科大学宣武医院任外科医生。不过，当医生的时间不长，邹迎光便将人生赛道转向金融，进入中央财经大学求学。2000年，他在而立之年获得金融学硕士学位后进入证券行业，于当时的海南华银国际信托投资公司（下称“海南华银”）北京证券营业部任业务经理。</p><p>　　海南华银当时也是知名金融机构，不过在2001年即被央行下令整顿，证券业务被广发证券托管，不久后还爆发出联合多家金融机构伪造金融凭证的诈骗巨案。邹迎光在海南华银任职时间不长，随后加入中信建投的前身华夏证券，逐渐在固收投资领域崭露头角，职业生涯由此打开上升通道。</p><p>　　在华夏证券时期，邹迎光历任该公司海淀南路营业部机构客户部经理、债券业务部高级业务董事等职。2005年，华夏证券重组为中信建投，邹迎光历任债券业务部总经理助理、固定收益部行政负责人、执行委员会委员兼固定收益部行政负责人等职。</p><p>　　2017年9月，邹迎光调往中信证券，成为执行委员会委员。接近中信建投的人士称，当时邹迎光已是固收“大拿”，因此被挖角到中信证券任高管。到中信证券后，邹迎光曾任固定收益部行政负责人，将中信证券的固收业务推上新的体量。</p><p>　　2023年5月，中信建投时任总经理李格平被带走调查，市场哗然。五个月后，邹迎光被调往中信建投。彼时，接近中信证券的人士对财新表示，邹迎光将接任中信建投总经理。虽然其一直未就任总经理，但到任中信建投次月即出任执行董事，并于2024年8月成为中信建投财务负责人。2024年5月，中信证券原总经理杨明辉到龄退休，中信集团对邹迎光作出新安排，于当年10月将其调回中信集团，次月中信证券董事会聘任邹迎光为公司总经理。</p><p>　　中信证券高管团队庞大，现有成员约20名，核心主要是邹迎光领衔的经营管理委员会（下称“经委会”）。成员包括分管财富管理的史本良（2000年加入）、财务负责人张皓（1997年加入）、分管股票销售交易及托管的李勇进（1998年加入）、分管固定收益的陈志明（2017年加入）、分管研究的朱烨辛（2008年加入）、分管股权衍生品的薛继锐（2000年加入）、分管资管业务的杨冰（1999年加入）、分管投行业务的孙毅（1998年加入）以及负责国际业务的李春波（2001年加入）等人。这些人中，除陈志明和朱烨辛外，绝大部分加入中信证券已超过25年。<a class=\"end_ico\" href=\"https://finance.caixin.com/2026-09-22/102487642.html\" rel=\"nofollow\" title=\"独家｜邹迎光接棒中信证券党委书记 张佑君即将退休\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元",
+          "url": "https://www.caixin.com/2026-09-22/102487638.html",
+          "published": "Tue, 22 Sep 2026 21:04:37 +0800",
+          "summary": "<img alt=\"2026年9月4日，广东广州，帕西尼人工智能科技亮相具身智能产业博览会。图：视觉中国\" id=\"picture_179008262848078\" src=\"https://img.caixin.com/2026-09-22/179008262848078_840_560.jpg\" /><dl><dt>2026年9月4日，广东广州，帕西尼人工智能科技亮相具身智能产业博览会。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>又一机器人公司开启<a class=\"database\" href=\"https://stock.caixin.com/m/market?originReferrer=waparticle\" target=\"_blank\">A股</a>上市进程。据中国证监会官网，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20108891225&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">帕西尼人工智能科技(北京)股份有限公司</a>向中国证券监督管理委员会北京监管局提交了首次公开发行股票（IPO）并上市辅导备案报告。</p><p>　　据报告，9月15日，帕西尼和<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200034969&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">国泰海通证券</a>签署辅导协议。帕西尼注册地在北京市海淀区，注册资本1423.3万元。帕西尼的法定代表人和控股股东为许晋诚，控制公司37.07%的股份。</p><p>　　帕西尼于2021年在深圳成立，重点研发各类触觉传感器。创始人CEO许晋诚毕业于日本早稻田大学，CTO（首席技术官）张恒第来自法国国家科学研究中心。</p><p>　　8月4日，帕西尼获10亿元战略轮融资，累计融资金额35亿元，由“全球消费电子与半导体万亿级巨头”、中银国际投资、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=201732003&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">鲲鹏基金</a>(大数据方向国家级基金)、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20079589653&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">合信方册</a>联合领投；不过此轮融资的最终估值未向市场披露。此前的3月6日，帕西尼完成了超10亿元人民币B轮融资，当时公司估值超100亿元，由双币基金<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20101187440&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">黄浦江资本</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200389529&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">凯泰资本</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20045385985&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">国资信安资本</a>领投。（详见《<a href=\"https://www.caixin.com/2026-03-06/102420370.html\" target=\"_blank\">机器人触觉传感器公司帕西尼融资超10亿元 估值破100亿元</a>》）</p><p>　　8月，帕西尼发布了新一代五指数据采集手套 PXCap Pro和第四代触觉芯片技术 GEN4 FUSE。9月，帕西尼和<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200012972&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">比亚迪</a>达成合作，推进工业具身数据采集、治理与应用，并推动多维触觉传感器及相关感知能力进入制造环节。帕西尼还同<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20118164106&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">极佳视界</a>和<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20142034928&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">智在无界</a>两家“世界模型”公司达成了合作。</p><p>　　公司联合创始人聂相如在2025年8月向财新介绍，为积累数据，帕西尼在天津建立了1.2万平米的具身智能全模态（包括触觉）数据采集工厂。不同于业内常用于遥控机器人抓取物体的采集方式，帕西尼选择让人佩戴装满传感器的手套直接工作。</p><p>　　据熟悉帕西尼数据跨境情况的两名人士称，帕西尼已经通过合规方式开始向海外销售机器人相关数据。</p><p>　　许晋诚在8月的一场媒体群访活动中表示，帕西尼当年已生产接近100万颗芯片，预计到下一年度末累计生产超过500万颗芯片，且帕西尼的合作伙伴接近百家。</p><p>　　帕西尼并不将自身局限在“卖传感器”的角色。许晋诚提到，帕西尼可以向合作方提供芯片和传感器，也可提供数据采集能力及相关数据，还可与客户共同开发末端执行器，或向客户提供灵巧手开发相关技术。许晋诚称，帕西尼正与<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200077310&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">京东</a>开展大量数据采集合作，同时帕西尼自身也计划在下一年度积累1000万小时数据。</p><p>　　目前，已有十多家产业投资方投资帕西尼，国际方面包括Meta关联方、LEO LION等海外巨头；国内包括比亚迪、京东、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000726&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">TCL</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20151160239&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">珠海科技产业集团</a>（<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000257&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">华发</a>&amp;<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200000572&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">格力</a>）、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200038614&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">上汽</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200036526&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">北汽</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200039523&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">新奥</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=202033801&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">商汤</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200033979&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">新国都</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20059643840&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">优利德</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20129604270&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">钧犀</a>、<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20141840583&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">张科垚坤产业投资</a>等。</p><p>　　值得注意的是，帕西尼近期刚把注册地从深圳迁回北京。此前，帕西尼名为“帕西尼感知科技（深圳）有限公司”，7月，帕西尼完成股份制改造，并把名称改为“帕西尼人工智能科技”，注册地也改为北京。</p><p>　　目前，杭州公司<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20057067066&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">云深处</a>正在上交所排队，而深圳公司<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=201691648&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">乐聚</a>正在深交所排队，这两家都处于问询过程中。</p><p>　　此前的8月19日，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=20045267292&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">宇树科技</a>（688836.SH）在上海证券交易所科创板上市，发售价为150.80元/股，开盘价飙升至1100元/股，市值突破4449.1亿元，但此后宇树股价连续多日下跌，截至9月22日，股价为489.2元/股，市值为1978.6亿。（详见《<a href=\"https://www.caixin.com/2026-08-27/102478684.html\" target=\"_blank\">分析｜宇树股价“爬高跌重” 具身智能估值锚松动了么？</a>》）</p><p>　　市场此前期待宇树科技上市给人形机器人赛道带来估值锚点，但宇树上市后股价剧烈震荡，一个月一路下行、几乎腰斩，对该赛道的一级市场融资热情也“泼了些冷水”。据资本市场人士透露，监管层对估值短期快速飙高、创收场景实际突破不大的一些创新行业的上市融资，表达了趋于审慎的态度。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-09-22/102487638.html\" rel=\"nofollow\" title=\"人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "美国五大电视网联手抵制拒报特朗普 声援CNN等媒体遭撤白宫证件",
+          "url": "https://international.caixin.com/2026-09-22/102487631.html",
+          "published": "Tue, 22 Sep 2026 20:13:21 +0800",
+          "summary": "<img alt=\"当地时间2026年9月21日，美国华盛顿，白宫外美联社记者站旁悬挂更新后的声援标语，新增CNN、MSNBC和Politico标识。图：IC PHOTO\" id=\"picture_179007992758741\" src=\"https://img.caixin.com/2026-09-22/179007992758741_840_560.jpg\" /><dl><dt>当地时间2026年9月21日，美国华盛顿，白宫外美联社记者站旁悬挂更新后的声援标语，新增CNN、MSNBC和Politico标识。图：IC PHOTO</dt></dl><p>　　<b>【财新网】</b>在美国特朗普政府禁止CNN等三家媒体的记者进入白宫之后，包括ABC、CBS、福克斯新闻和NBC在内的美国主要电视新闻网，在当地时间9月21日宣布暂停对特朗普的报道，以声援被禁止进入白宫的同行。</p><p>　　此前，特朗普于9月18日在社交媒体“真实社交”上宣布，他将从即日起禁止CNN、Politico和MS NOW（前身为MSNBC）等三家美国媒体进入白宫。与美国主流媒体长期关系紧张的特朗普，亦再度指控这三家媒体制造“假新闻”。他还指责道，MS NOW“收视率和可信度下降”，又指责Politico曾在拜登政府任期内获得800万美元的订阅费。</p><p>　　“媒体在报道美国总统、特朗普政府或美国时，不能持续撰写或报道假消息和谎言。其他假新闻媒体也将被（禁止进入白宫）。”特朗普如此表示。一天后的9月19日，上述媒体机构的记者和其他工作人员均被禁止进入白宫。</p><p>　　据Politico报道，特朗普的这项指令是在白宫幕僚长苏西·威尔斯（Susie Wiles）不在时颁布的。</p><p>　　许多白宫高级职员也对此感到惊讶，他们直到看到特朗普的推文才知道此事。多名白宫官员均表示，这一事态发展令人费解。一名消息人士透露，特朗普此前也曾试图禁止某些媒体进入白宫，甚至一度想要把媒体安置在白宫西侧的艾森豪威尔行政办公大楼内，最后在劝阻下才作罢。</p><p>　　随后，CNN、Politico和MS NOW在当地时间9月21日发表了一份联合声明，表示正在采取法律行动，以捍卫其在美国宪法第一修正案下享有的权利和“政府无权决定媒体报道内容的原则”。</p><p>　　这份声明还强调，白宫在没有经过任何通知或程序的情况下，直接撤销了三家媒体记者进入白宫的证件，“如果不加以制止，这将威胁到新闻自由和公众免受政府干预的独立新闻报道权利”。</p><p>　　同日，这三家媒体机构向华盛顿特区的地方法院提起诉讼，要求法官裁定特朗普此举违宪、阻止特朗普政府执行这项禁令。</p><p>　　特朗普对此次诉讼则回应道，“那些从事假新闻、只报道负面消息的人和媒体，以及那些利用不明‘消息源’撰写虚假和诽谤性报道，并危害我国安全的人和媒体，不应被允许进入世界上最重要的机构。”</p><p>　　特朗普还将这些媒体机构诬为“三流小丑”（Third Rate Clowns）和“歪曲事实的腐败媒体”（Crooked and Corrupt Press），并宣称这些媒体“轻视和贬低”他所取得的成绩。特朗普还补充说，他的团队“几乎毫无疑问”会提出上诉。</p><p>　　作为美国五大电视网的CNN、ABC、CBS、NBC和福克斯新闻，在9月21日宣布暂停对特朗普本人的新闻报道。上述五家媒体还共同发表了一则声明，强调“公众有权获得关于政府的准确、独立的信息。任何政府都不能因为反对新闻机构的报道，而对其运作加以限制。”</p><p>　　这一罕见举动，也标志着特朗普政府和美国主流媒体之间的关系进一步趋于紧张。</p><p>　　长期以来，美国五大电视网共同组成了白宫的电视联合采访组（TV pool）。在白宫场地空间有限、无法让所有媒体都派出摄像团队的情况下，这一联合采访组负责拍摄现场的新闻画面，并将这些素材提供给各大新闻机构。</p><p>　　福克斯新闻华盛顿分社社长、目前担任电视联合采访组主席的布莱恩·博顿（Bryan Boughton）在一封电子邮件中写道，由于白宫阻止CNN履行其在白宫电视联合采访组中的职责，从9月21日起，联合采访组将不再对特朗普进行报道。</p><p>　　CNN原本计划在9月21日至9月22日报道特朗普前往纽约出席新一届联合国大会的行程。</p><p>　　但在9月21日上午，位于白宫媒体区地下室的CNN直播间却处于空无一人的关闭状态，CNN摄制组则被迫转移到白宫安保区域外的公共人行道上进行现场直播。</p><p>　　除此之外，包括美联社、《华盛顿邮报》、《纽约时报》在内的多家媒体也宣布，为了声援同行，他们将推迟发布特朗普相关活动的照片。</p><p>　　在遭遇主流媒体抵制后，白宫启动了名为“特朗普TV”（Trump TV）的在线直播，并表示该频道旨在“一站式呈现本届政府的历史性时刻和声明，以及最及时、最重要的内容”。</p><p>　　白宫通讯联络办公室副主任凯兰·多尔（Kaelan Dorr）在社交媒体X上宣称，“特朗普TV”将会“毫无保留地呈现本届政府的最重要内容”。</p><p>　　多尔称：“在某些情况下，媒体对本届政府为美国人民达成的诸多历史性成就的报道是不准确的，或者甚至没有报道。”</p><p>　　由于CNN被禁止进入，电视媒体均未报道特朗普在9月21日当天为白宫新直升机停机坪举行的剪彩仪式。尽管白宫官方提供了直播，但由于缺少电视网所部署的专业麦克风和收音设备，特朗普的致辞被直升机引擎的轰鸣声完全盖过。</p><p>　　美国副总统万斯在9月21日回应道，对CNN等媒体颁布的禁令，仅撤销了其进入白宫的“特殊许可”（special access）。</p><p>　　万斯宣称：“这关乎基本的公平。他们仍然可以进行报道。他们仍然享有言论自由。他们只是不再能在白宫拥有办公室了。”</p><p>　　2025年2月，特朗普政府从独立的白宫记者协会（WHCA）手中接管了获准直接接触特朗普的记者团名单安排权。</p><p>　　同月，白宫宣布禁止美联社进入白宫的椭圆形办公室及美国总统的专机“空军一号”。</p><p>　　当时，特朗普宣布将“墨西哥湾”更名为“美国湾”，但美联社仍然坚持使用“墨西哥湾”这一名称，因而遭到了特朗普政府的抨击。美联社随后提起诉讼，该案目前仍在审理中。</p><p>　　在美国前总统奥巴马的任期内，美国电视媒体也曾对奥巴马政府实施集体抵制。</p><p>　　2009年，美国财政部曾安排了美国主要电视新闻网与时任“问题资产救助计划”（TARP）负责人肯尼斯·范伯格（Kenneth Feinberg）的采访，却将立场倾向共和党的福克斯新闻排除在外。</p><p>　　对此，其余四家电视网均表示，除非福克斯新闻参与其中，否则他们都不会参加采访。奥巴马政府则迅速让步，允许福克斯新闻参与采访。<a class=\"end_ico\" href=\"https://international.caixin.com/2026-09-22/102487631.html\" rel=\"nofollow\" title=\"美国五大电视网联手抵制拒报特朗普 声援CNN等媒体遭撤白宫证件\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000262.html\" target=\"_blank\">【专题】特朗普2.0时代：影响与变局</a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "美国加州等地推新法管控数据中心建设 放缓AI呼声高涨",
+          "url": "https://www.caixin.com/2026-09-22/102487626.html",
+          "published": "Tue, 22 Sep 2026 20:08:07 +0800",
+          "summary": "<img alt=\"当地时间2026年8月27日，美国艾奥瓦州西得梅因，太阳升起时的微软Project Ginger West项目及附近农舍。图：Liz Rymarev/视觉中国\" id=\"picture_179006157215645\" src=\"https://img.caixin.com/2026-09-22/179006157215645_840_560.jpg\" /><dl><dt>当地时间2026年8月27日，美国艾奥瓦州西得梅因，太阳升起时的微软Project Ginger West项目及附近农舍。图：Liz Rymarev/视觉中国</dt></dl><p>　　<b>【财新网】</b>AI数据中心的修建造成水电及土地成本上升，美国多地推出管控新政。当地时间9月21日，美国加利福尼亚州州长加文·纽森（Gavin Newsom）宣布签署7项法案，强化加州对数据中心的监管措施，要求数据中心披露用水和用电情况。</p><p>　　加利福尼亚州新法要求，数据中心承担电网升级和新增清洁能源成本，防止费用转嫁给居民尤其低收入用户。另外，申报建设的数据中心须向地方政府和供水机构披露用水、供给、节水及抗旱方案，并自付供水升级的费用。数据中心不得享受一揽子环保豁免，须证明符合能源、用水和燃料标准后，方可获得司法审批简化。</p><p>　　“特朗普政府正转向放松监管，社区却不得不面对由此带来的后果，包括电力需求上升、电网承压、用水增加和污染问题。” 纽森在公告中称，这些法律将确保加州民众始终掌握主动权。</p><p>　　就在几天前的9月18日，美国弗吉尼亚州州长阿比盖尔·斯潘伯格（Abigail Spanberger）公布“数据中心问责框架”，称其为美国最全面、最严格的数据中心监管计划。该框架拟提高数据中心审批透明度并给予社区更多参与权，称将防止数据中心推高居民电费，同时执行更严格的环保标准。斯潘伯格还签署了第22号行政令，立即落实部分措施，并成立AI工作组，应对AI就业替代、数据隐私和网络安全等风险。</p><p>　　弗吉尼亚自称为“全球数据中心之都”，有超600座正在运行的数据中心，弗吉尼亚的劳登县拥有全球最密集的数据中心集群之一。斯潘伯格表示，过去弗吉尼亚州缺乏应对数据中心对电费、水资源、土地、空气和居民生活质量影响的统筹方案，如今将改变这一局面。</p><p>　　新框架要求，用电超过25兆瓦的数据中心一律要经过地方批准；终止州选址开发项目对数据中心的补贴，不再给未来大型数据中心提供快速许可批准。公用事业公司还须将更多输电和发电成本合理分摊给数据中心等高负荷用户，以保护普通电力用户。</p><p>　　美国国会中期选举临近，加之“AI末日论”风行，用于AI大模型训练和推理的数据中心成为美国民众关注的对象。</p><p>　　《纽约时报》与锡耶纳学院9月8日至13日对全美1503名可能投票者进行的调查显示，整体而言，对为支持AI技术而建设数据中心，美国民众持反对态度的比例明显更高。受访者中，34%支持建设这类数据中心，61%表示反对，其余受访者未作答或表示不清楚。</p><p>　　按党派看，民主党选民的反对态度最强，75%表示反对、18%表示支持；独立选民中，60%反对、36%支持；共和党选民中，49%支持、47%反对。</p><p>　　2025年1月，特朗普宣布启动“星际之门”（Stargate）AI基础设施计划，目标是投资5000亿美元建设数据中心及相关设施，以使美国在全球科技竞争中占据领先地位。随后，以亚马逊、微软、谷歌、Meta为代表的北美四大云计算巨头，纷纷进入大规模投建数据中心的“军备竞赛”模式。美国能源部预测，2028年美国数据中心耗电量将达325—580太瓦时（TWh），占其电力需求比重由2023年的4.4%升至6.7%—12%。</p><p>　　“美国的电网老化比较厉害，此外在跨地区调拨方面非常困难，互通性比较差。”金融街证券分析师佘闵华对财新表示。美国电网基础设施平均寿命超过30年，部分电力设备服役半个多世纪，大量老旧机组已达退役期限，无力支撑AI产业爆发式增长带来的用电需求。（详见《<a href=\"https://weekly.caixin.com/2026-04-11/102432835.html\" target=\"_blank\">为全世界数据中心供电</a>》）</p><p>　　反对AI扩张的呼声也渐起。2026年9月12日，Anthropic创始人及CEO达里奥·阿莫代伊（Dario Amodei）称，必须放缓人工智能（AI）模型能力的提升速度。</p><p>　　这不是阿莫代伊第一次放出AI威胁论，但这次市场反响远超过往。数小时内，OpenAI创始人、CEO山姆·奥尔特曼（Sam Altman）和SpaceX创始人、特斯拉CEO马斯克（Elon Musk）均通过社交媒体赞同阿莫代伊的观点。（详见《<a href=\"https://weekly.caixin.com/2026-09-19/102486425.html\" target=\"_blank\">Anthropic：AI“吹哨人”背后</a>》）。</p><p>　　而对于这样的呼声，美国总统特朗普9月15日回应称，“关于AI威胁的说法，大部分都是阴谋论。”特朗普称，AI数据中心能让人们富裕起来，但有些人正试图阻挠建设。他举例说，谷歌甚至因美国当地阻力而前往芬兰建设数据中心。特朗普表示，他不会让这些人得逞。</p><p>　　目前，硅谷对于是否减缓AI速度分成了两派。一方是OpenAI和Anthropic。9月18日，埃森哲和Anthropic宣布达成合作，两家公司预计未来五年将各自在AI安全领域投入至少10亿美元。双方将组建一支嵌入式评估团队，与Anthropic的内部团队和安全合作伙伴共同开展模型评估与红队测试、对齐评估及模型安全防护测试。</p><p>　　OpenAI则在9月21日发文呼吁，各国AI安全机构制定标准，评估前沿模型、自主研究和递归自我改进（RSI），规范人类监督及事故报告处置。</p><p>　　而Meta和英伟达等企业则认为AI公司自身已经有足够能力管控AI危险。Meta的CEO马克·扎克伯格（Mark Zuckerberg）在9月16日发文称，AI公司具有天然的动力来保证模型安全。</p><p>　　“如果你开发了一款产品或服务，却不确信它的功能、能力或安全性，那就不要发布。”<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=304010715&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">黄仁勋</a>在9月15日的演讲中“摊牌”，“市场力量已经存在，我们不需要新的法律，也不需要新的监管。”英伟达目前是本轮AI大潮最大的受益者之一，其GPU芯片即所谓算力芯片一直维持约90%的市占率。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-09-22/102487626.html\" rel=\"nofollow\" title=\"美国加州等地推新法管控数据中心建设 放缓AI呼声高涨\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html?cxapp_link=true\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html?cxapp_link=true\" target=\"_blank\">AI全景</a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "从县贪到省 四川高官宋朝华一审获刑死缓",
+          "url": "https://china.caixin.com/2026-09-22/102487621.html",
+          "published": "Tue, 22 Sep 2026 20:04:55 +0800",
+          "summary": "<img alt=\"2026年9月22日，贵州省贵阳市中级人民法院一审公开宣判四川省人大常委会原党组成员、副主任宋朝华受贿案。图：央视新闻\" id=\"picture_179006895747646\" src=\"https://img.caixin.com/2026-09-22/179006895747646_840_560.jpg\" /><dl><dt>2026年9月22日，贵州省贵阳市中级人民法院一审公开宣判四川省人大常委会原党组成员、副主任宋朝华受贿案。图：央视新闻</dt></dl><p><b>　　【财新网】</b>四川本土高官<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=30201143023&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">宋朝华</a>一审被认定32年受贿1.48亿余元，获刑死缓。9月22日，贵州贵阳中院官方微信公众号通报，当日该院宣判四川人大常委会原党组成员、副主任宋朝华受贿案，对宋朝华以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；对宋朝华受贿犯罪所得财物及孳息依法予以追缴，上缴国库。</p><p>　　至此，2026年已有41名落马中管干部领刑，此前40人为：<a href=\"https://china.caixin.com/2026-01-06/102400765.html\" target=\"_blank\">赵金云</a>、<a href=\"https://china.caixin.com/2026-01-07/102401339.html\" target=\"_blank\">王昊</a>、<a href=\"https://china.caixin.com/2026-01-20/102405964.html\" target=\"_blank\">陈笑波</a>、<a href=\"https://finance.caixin.com/2026-01-21/102406466.html\" target=\"_blank\">章更生</a>、<a href=\"https://china.caixin.com/2026-01-28/102408970.html\" target=\"_blank\">张效廉</a>、<a href=\"https://china.caixin.com/2026-02-02/102410632.html\" target=\"_blank\">唐一军</a>、<a href=\"https://china.caixin.com/2026-02-03/102410998.html\" target=\"_blank\">李微微</a>、<a href=\"https://china.caixin.com/2026-02-26/102417227.html\" target=\"_blank\">张天峰</a>、<a href=\"https://china.caixin.com/2026-02-28/102418000.html\" target=\"_blank\">罗增斌</a>、<a href=\"https://china.caixin.com/2026-03-17/102423972.html\" target=\"_blank\">李海涛</a>、<a href=\"https://china.caixin.com/2026-03-18/102424298.html\" target=\"_blank\">马丰胜</a>、<a href=\"https://china.caixin.com/2026-03-20/102425276.html\" target=\"_blank\">吴存荣</a>、<a href=\"https://china.caixin.com/2026-03-25/102427331.html\" target=\"_blank\">谭瑞松</a>、<a href=\"https://www.caixin.com/2026-04-01/102429997.html\" target=\"_blank\">寇伟</a>、<a href=\"https://www.caixin.com/2025-02-12/102287585.html\" target=\"_blank\">刘卫东</a>、<a href=\"https://china.caixin.com/2026-04-27/102438444.html\" target=\"_blank\">王中和</a>、<a href=\"https://china.caixin.com/2026-04-28/102438883.html\" target=\"_blank\">洪礼和</a>、<a href=\"https://china.caixin.com/2026-04-29/102439217.html\" target=\"_blank\">陈时飞</a>、<a href=\"https://china.caixin.com/2026-05-07/102441640.html\" target=\"_blank\">周喜安</a>、<a href=\"https://china.caixin.com/2026-05-08/102442112.html\" target=\"_blank\">陆克华</a>、<a href=\"https://china.caixin.com/2026-06-05/102451480.html\" target=\"_blank\">齐扎拉</a><span style=\"color: #000000;\">、<a href=\"https://www.caixin.com/2025-03-01/102293635.html\" target=\"_blank\">袁光宇</a>、</span><a href=\"https://china.caixin.com/2026-06-23/102456732.html\" target=\"_blank\">朱芝松</a><span style=\"color: #000000;\">、<a href=\"https://china.caixin.com/2026-06-29/102458909.html\" target=\"_blank\">周家斌</a>、<a href=\"https://china.caixin.com/2026-06-30/102459355.html\" target=\"_blank\">刘满仓</a>、</span><a href=\"https://china.caixin.com/2026-07-13/102463826.html\" target=\"_blank\">周德睿</a>、<a href=\"https://china.caixin.com/2026-07-22/102467040.html\" target=\"_blank\">李春良</a>、<a href=\"https://china.caixin.com/2026-07-28/102468841.html\" target=\"_blank\">段成刚</a>、<a href=\"https://www.caixin.com/2026-07-29/102469282.html\" target=\"_blank\">徐宪平</a>、<a href=\"https://china.caixin.com/2026-08-05/102471522.html\" target=\"_blank\">张建华</a>、<a href=\"https://china.caixin.com/2026-08-10/102472945.html\" target=\"_blank\">陆文俊</a>、<a href=\"https://china.caixin.com/2026-08-11/102473219.html\" target=\"_blank\">龙翔</a>、<a href=\"https://china.caixin.com/2026-08-21/102476508.html\" target=\"_blank\">于文明</a>、<a href=\"https://china.caixin.com/2026-08-24/102477455.html\" target=\"_blank\">任羽中</a>、<a href=\"https://china.caixin.com/2026-08-28/102479358.html\" target=\"_blank\">蒋超良</a>、<a href=\"https://china.caixin.com/2026-08-31/102480162.html\" target=\"_blank\">刘宽忍</a>、<a href=\"https://finance.caixin.com/2026-09-07/102482603.html\" target=\"_blank\">王建军</a>、<a href=\"https://china.caixin.com/2026-09-08/102482845.html\" target=\"_blank\">金湘军</a>、<a href=\"https://china.caixin.com/2026-09-15/102485149.html\" target=\"_blank\">毕井泉</a>、<a href=\"https://www.caixin.com/2025-07-04/102338302.html\" target=\"_blank\">冯志斌</a>。此外，两任国防部长<a href=\"https://china.caixin.com/2026-05-07/102441639.html\" target=\"_blank\">魏凤和</a>、<a href=\"https://china.caixin.com/2026-05-07/102441639.html\" target=\"_blank\">李尚福</a>亦一审获刑死缓终身监禁。</p><p>　　贵阳中院经审理查明：1993年至2025年，宋朝华利用担任四川大邑县委常委、组织部长、县委副书记、代县长、县委书记，新津县委书记，成都成华区委书记，眉山市委副书记、市长，南充市委书记，四川人大常委会党组成员、副主任等职务上的便利以及职权、地位形成的便利条件，为相关单位和个人在企业经营、项目承揽等事项上提供帮助，非法收受财物共计折合人民币1.48亿余元。</p><p>　　贵阳中院认为，宋朝华的行为构成受贿罪。宋朝华受贿数额特别巨大，并使国家和人民利益遭受特别重大损失，论罪应当判处死刑。鉴于其受贿犯罪中有未遂情节；到案后如实供述自己罪行，主动交代办案机关尚未掌握的部分受贿事实；认罪悔罪，积极退赃，受贿赃款已全部追缴，具有法定、酌定从宽处罚情节，对其判处死刑，可不立即执行。法庭遂作出上述判决。</p><p>　　对比宋朝华履历，他于1993年7月任大邑县委常委、组织部长，至2025年1月“因年龄原因”在届中辞去四川人大常委会副主任，仅3个月后的4月25日即官宣被查。这意味着贵阳中院认定他受贿直至辞任落马前夕。期间他在眉山市委常委、常务副市长（2008年8月至2010年11月）和南充市委副书记、代市长、市长（2016年2月至7月）职务上未被认定有受贿行为。</p><p>　　据财新不完全统计，宋朝华是中共十八大以来，司法认定受贿时间较早、受贿时长较长的落马中管干部之一。此前<a href=\"https://china.caixin.com/2025-05-19/102321253.html\" target=\"_blank\">韩勇</a>被认定在1993年至2023年的30年间受贿2.61亿余元，<a href=\"https://china.caixin.com/2026-08-28/102479358.html\" target=\"_blank\">蒋超良被认定在1995年至2025年的30年间受贿7.46亿余元</a>，<a href=\"https://china.caixin.com/2026-09-15/102485149.html\" target=\"_blank\">毕井泉</a>被认定在1995年至2025年的30年间受贿5742万余元。</p><p>　　贵阳中院还通报，该院于2026年6月26日公开开庭审理了该案。宋朝华当庭表示认罪悔罪。</p><p>　　宋朝华官宣落马时距离中央巡视组进驻四川仅10天。据中央纪委国家监委网站2025年4月15日消息，近日，中央第十二巡视组巡视四川工作动员会召开。</p><p>　　宋朝华是中共二十大后四川第三名落马高官，此前两人分别是<a href=\"https://china.caixin.com/2025-02-24/102291696.html\" target=\"_blank\">杨克宁</a>和<a href=\"https://china.caixin.com/2025-12-17/102394308.html\" target=\"_blank\">崔保华</a>。宋朝华落马之后，四川相继还有<a href=\"https://china.caixin.com/2026-04-07/102431359.html\" target=\"_blank\">叶寒冰</a>、<a href=\"https://china.caixin.com/2026-06-05/102451426.html\" target=\"_blank\">王凤朝</a>、<a href=\"https://china.caixin.com/2026-01-27/102408631.html\" target=\"_blank\">包惠</a>落马。此外<a href=\"https://china.caixin.com/2026-02-28/102418000.html\" target=\"_blank\">罗增斌</a>、<a href=\"https://key.caixin.com/topic/BQ02.000006510\" target=\"_blank\">李刚</a>也曾长期任职四川。</p><p>　　2025年11月3日，宋朝华被开除党籍、取消待遇并移送司法。2026年3月24日，宋朝华因涉嫌受贿罪由贵阳检察院向贵阳中院提起公诉。</p><p>　　官方此前指他的问题包括：</p><p>　　丧失理想信念，背弃初心使命，对抗组织审查，搞迷信活动；</p><p>　　违反中央八项规定精神，违规接受宴请；</p><p>　　违背组织原则，不按规定报告个人有关事项，在组织谈话函询时不如实说明问题，在干部选拔任用等工作中为他人谋取利益并收受财物；</p><p>　　廉洁底线失守，违规收受礼金，违规拥有非上市公司股份；</p><p>　　利用职务便利为他人在职务提拔、企业经营等方面谋利，并非法收受巨额财物。</p><p>　　官方简历显示，宋朝华现年64岁（1962年5月生），四川成都邛崃人，任四川人大常委会副主任前，仕途辗转成都、眉山、南充三市。</p><p>　　1983年7月，宋朝华从温江师范专科学校（现西华大学前身之一）中文专业毕业后，在蒲江县做过5个月教师，1984年2月由蒲江人大常委会办公室干部走上仕途，此后24年内累迁至成都成华区委书记。期间他先后主政大邑、新津两县。当时媒体报道显示，新津县曾以打造“西部温州”的口号获得关注。</p><p>　　据成都媒体报道，当年被称为“一次东调”的成都东郊工业区结构调整基本完成。宋朝华2006年8月接任成华区委书记后，主持了涉及86万平方米的危旧房全面搬迁改造、六万多居民居住条件改善、概算总投资80亿元的“二次东调”任务。</p><p>　　“二次东调”原计划三到五年完成，但2008年8月宋朝华离开成都转任眉山，后历任眉山市委常委、常务副市长，市委副书记，市长；2016年2月再转任南充，历任南充市委副书记、代市长、市长，南充市委书记。</p><p>　　2021年2月，58岁的宋朝华当选四川人大常委会副主任，跻身副省级，并于同年7月卸任南充市委书记。落马前三个月，2025年1月24日，未满63岁的宋朝华 “因年龄原因”在届中辞去四川人大常委会副主任。4月中旬，坊间即流传其已被调查。</p><p>　　据财新不完全统计，中共二十大以来，宋朝华担任过主官的眉山、南充已有多名“四大班子”成员落马，其中包括他的多名前同僚、下属。</p><p>　　四大班子成员及前同僚中，时任南充政协副主席、阆中市委书记，后任副市长的张斌，2023年3月29日被查；时任南充市委常委、组织部长，后历任常务副市长、市委副书记的王希刚，2023年5月16日被查；时任南充市委副书记，后历任市长、市委书记的古正举，2023年11月22日被查；时任南充副市长，后任南充市委常委、政法委书记的陈有波，2025年9月8日被查。</p><p>　　前下属中，时任眉山东坡区委常委、副区长、仁寿县委副书记、县长、县委书记，后任市委副秘书长、市长的冉登祥，2024年3月21日被查；时任眉山东坡区委常委、副区长，后任市人大常委会副主任的廖小宁，2024年3月28日被查；时任南充蓬安县委副书记、高坪区委副书记的王熊华，2025年4月24日被查。</p><p>　　此外，四川省委原常委崔保华曾于2003年10月至2006年6月任眉山代市长、市长。<a class=\"end_ico\" href=\"https://china.caixin.com/2026-09-22/102487621.html\" rel=\"nofollow\" title=\"从县贪到省 四川高官宋朝华一审获刑死缓\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "韩国前第一夫人金建希“卖官鬻爵”案二审宣判 刑期由七年减至五年",
+          "url": "https://international.caixin.com/2026-09-22/102487606.html",
+          "published": "Tue, 22 Sep 2026 19:19:39 +0800",
+          "summary": "<img alt=\"资料图：当地时间2025年8月12日，韩国首尔，遭弹劾前总统尹锡悦的妻子、前第一夫人金建希抵达首尔中央地方法院。图：IC PHOTO\" id=\"picture_179007631174855\" src=\"https://img.caixin.com/2026-09-22/179007631174855_840_560.jpg\" /><dl><dt>资料图：当地时间2025年8月12日，韩国首尔，遭弹劾前总统尹锡悦的妻子、前第一夫人金建希抵达首尔中央地方法院。图：IC PHOTO</dt></dl><p>　　<b>【财新网】</b>当地时间9月22日下午，韩国首尔高等法院刑事审判第15-3合议庭对韩国前总统尹锡悦的妻子金建希“卖官鬻爵”案作出二审判决，认定其违反《特定犯罪加重处罚法》、构成斡旋受贿罪，但以江诗丹顿手表和《岁寒图》复制品两项指控证据不足为由改判无罪，将刑期由一审的七年减至五年，追缴金额由6480万韩元降至2440万韩元（约合人民币12万元），并维持对李禹焕画作、梵克雅宝项链及胸针等涉案物品的没收。</p><p>　　“卖官鬻爵”是金建希案特检组对案件性质的概括，并非韩国刑法中的正式罪名。金建希被控的斡旋受贿罪，是指以就公务员职务事项进行斡旋为名收受财物或利益。</p><p>　　根据韩国相关法律及大法院判例，认定该罪不以请托事项最终办成为前提，但控方必须证明财物与公务请托之间存在对价关系，收受者对此也有认识。二审审理的重点，是各项财物与人事安排、项目协助或选举公推之间的关联是否得到充分证明。</p><p>　　二审改判无罪的第一项指控涉及一只价值约3990万韩元的江诗丹顿手表。特检组指控，经营机器狗业务的徐星彬于2022年9月将手表交给金建希，希望她利用总统配偶的影响力为相关业务提供帮助。一审认定金建希至少间接知道手表具有请托对价性质。</p><p>　　二审法院则认为，现有证据不能排除徐星彬只是代金建希购买手表的可能，也不足以证明金建希收取手表时认识到其与项目请托存在对价关系。法院据此认定，该项指控没有达到排除合理怀疑的刑事证明标准。</p><p>　　另一项被改判无罪的指控涉及前国家教育委员会委员长李培镕送交的《岁寒图》复制品。李培镕被指为谋求国家教育委员会委员长职位，向金建希赠送金龟摆件和《岁寒图》复制品。二审维持价值约215万韩元的金龟摆件构成请托对价的认定，但认为价值约50万韩元的复制品也可能具有宣传韩纸文化的目的，控方未能充分证明其与职位请托存在对价关系。</p><p>　　除江诗丹顿手表和《岁寒图》复制品外，其余主要指控均被维持有罪。法院认定，2022年3月至5月，建筑公司瑞熙建设会长李凤官为争取其大女婿获得公职任命并寻求经营方面的帮助，向金建希提供梵克雅宝项链、蒂芙尼胸针和格拉夫耳环等总价约1.038亿韩元的珠宝。法院认为，财物价值、交付时间及随后提出的人事请托可以相互印证，已超出一般社交馈赠的范围。</p><p>　　法院还认定，金建希于2022年6月至9月从旅美牧师崔在永处收受迪奥包袋、化妆品和酒等总值约540万韩元的物品，相关财物与公务事项请托有关。李培镕送交的金龟摆件是在其提出任命请托的场合交付，所谓祝贺名义不足以否定其对价性质。</p><p>　　涉案金额最高的一项来自前检察官金相玟。法院认定，金相玟为寻求国民力量党国会议员选举公推资格，于2023年2月前后向金建希提供一幅价值约1.4亿韩元（约合人民币68.6万元）的李禹焕真迹。该画后来在金建希哥哥的岳母住所里被发现。金建希否认收受画作，并质疑作品真伪、估值和交付过程，但二审法院认为，画作发现地点、相关证言及公推活动的时间关系足以相互印证，维持一审有罪认定。</p><p>　　二审法院将本案定性为“权力型斡旋受贿案件”。法院指出，总统配偶虽然不是依法行使人事任免权的公务员，却可能凭借与总统的特殊关系影响公共决策。多名赠礼人在尹锡悦当选总统前后交付高价物品，同时提出人事、项目或选举公推要求，使总统配偶的影响力成为私人交易对象，损害了公职人事和公共决策的公正性。</p><p>　　在量刑方面，法院认为，金建希多次收受远超日常礼尚往来范围的贵重物品，能够理解赠礼者希望其发挥影响力。法院同时考虑到，没有证据证明她主动索要财物，也没有充分证据显示她在每项请托中均实际实施了斡旋。金建希在二审期间表示，自己对作为总统配偶收受礼物等不谨慎行为深感反省。加之两项指控被改判无罪，法院最终将刑期由七年减至五年。</p><p>　　金建希案特检组于2025年12月26日就本案提起公诉，指控金建希收受珠宝、金龟摆件、名牌手表、迪奥包袋和李禹焕画作等总值约2.9亿韩元（约合人民币142.1万元）的财物，为他人谋取公职任命、经营便利和选举公推资格。</p><p>　　金建希在审理中否认收受部分物品；对于承认收到的物品，则主张不存在具体请托和对价关系。辩方认为，不能仅因赠礼者后来获得职位或业务进展，就反向推定此前的财物往来属于请托报酬。</p><p>　　2026年5月15日，特检组在一审结案审理中建议法院判处金建希有期徒刑七年六个月。首尔中央地方法院6月26日认定全部指控成立，判处其有期徒刑七年。金建希方面认为法院过度放大了对其不利的情节，对有罪认定及量刑均不服，随后提起上诉。</p><p>　　二审宣判后，金建希律师团发表声明称，法院将部分指控改判无罪是“有意义的判断”，但辩方不能接受其余有罪认定，将向韩国大法院提起上诉。金建希本人尚未就判决公开表态。</p><p>　　特检组则对手表部分改判无罪表示遗憾，质疑总统配偶从存在业务诉求的企业人士处收取价值数千万韩元的名表却不构成犯罪，这一结论能否得到公众认同，并表示将在审阅判决书后向大法院提起上诉。</p><p>　　由于控辩双方均已表明上诉意向，二审判决尚未生效。案件进入终审后，大法院原则上不再重新全面认定事实，而将重点审查二审判决在法律适用和证据判断方面是否存在错误。</p><p>　　在“卖官鬻爵”案外，金建希还因涉嫌操纵德意志汽车公司股价、收受统一教相关财物及无偿获取明泰均民意调查服务等事项被合并起诉。该案一审于2026年1月28日宣判，金建希获刑一年八个月；二审于4月28日改判有期徒刑四年，并处罚金5000万韩元，同时没收一条格拉夫项链、追缴2094万韩元。</p><p>　　二审宣判八天后，负责审理该案的首尔高等法院法官申宗旿于5月6日凌晨被发现死亡。警方接到其家属报案后，在首尔高等法院办公楼附近的花坛发现其遗体和遗书，并表示不排除其坠楼的可能，初步调查未发现涉及他人犯罪的迹象。由于二审此前已经宣判，其死亡没有影响该案的二审结果。</p><p>　　该案上诉至大法院后，终审宣判原定于7月16日进行。因尹锡悦在涉及明泰均无偿提供民意调查的案件中被一审判处有罪，与金建希在相同事项上获得无罪的下级法院判断存在分歧，大法院应特检组申请将宣判推迟至7月24日。7月23日，大法院再次取消原定宣判日程，并决定将案件提交全体合议庭审理。截至9月22日，新的宣判日期尚未确定。</p><p>　　尹锡悦方面，其所涉八起刑事案件中已有六起作出一审判决。其中，妨害执行拘留等案已于2026年7月9日终审定谳，大法院维持二审判决，判处其有期徒刑七年。这是尹锡悦所涉案件中首个生效的刑事判决。</p><p>　　“12·3”紧急戒严相关内乱案一审认定尹锡悦内乱头目罪成立，判处无期徒刑，目前正在首尔高等法院进行二审。平壤无人机案一审认定尹锡悦为制造宣布紧急戒严的理由，指示向平壤投放无人机，构成一般利敌罪，判处有期徒刑30年，案件也已进入二审。尹锡悦在第20届总统选举期间涉嫌散布虚假信息案一审被判处有期徒刑一年六个月、缓刑三年，目前处于上诉程序。</p><p>　　首尔高等法院定于10月7日对明泰均无偿提供民意调查案作出二审判决。尹锡悦被控与金建希合谋，于2021年6月至2022年3月免费接受明泰均提供的58次民意调查服务。一审法院认定其中14次、价值约2793万韩元的民调构成非法政治资金，判处尹锡悦有期徒刑两年。特检组在二审中请求法院判处其有期徒刑四年。<a class=\"end_ico\" href=\"https://international.caixin.com/2026-09-22/102487606.html\" rel=\"nofollow\" title=\"韩国前第一夫人金建希“卖官鬻爵”案二审宣判 刑期由七年减至五年\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
+          "source": "财新"
+        },
+        {
+          "title": "高阙塞：汉匈争衡的战略要地｜黄河两岸⑦",
+          "url": "https://mini.caixin.com/2026-09-22/102487571.html",
+          "published": "Tue, 22 Sep 2026 17:58:46 +0800",
+          "summary": "<img alt=\"高阙塞全景。图：由西北大学出版社刘栓提供\" id=\"picture_179007150394334\" src=\"https://img.caixin.com/2026-09-22/179007150394334_840_560.jpg\" /><dl><dt>高阙塞全景。图：由西北大学出版社刘栓提供</dt></dl><p>　　<b>《黄河两岸》“财新mini+”连载中，查看<a href=\"https://key.caixin.com/topic/BQ02.000008038\" target=\"_blank\">已更新内容</a></b></p><p>　　高阙塞是在《史记》《汉书》中屡次出现的长城关塞，承载着汉匈战争最激烈时期的战火烽烟。作为汉代北部边防体系中的战略要塞，它见证了农耕文明与游牧文明的激烈碰撞。</p><p>　　2024年，我随西北大学出版社组织的“沿黄历史人文考察团”来到这座军事关隘，有一种特别的亲切。这是我第二次来这里。第一次是在2008年底，当时我担任人大历史学院院长，学院考古专业的学科带头人魏坚教授带领同学们在附近的长城脚下做考古发掘。我从北京赶来，看望考古工地上的师生。在既定程序完成后，魏教授问我想不想实地看看高阙塞，我的回答当然是必须去。魏教授陪同我沿着战国赵长城一路向西，走到了“达巴图古城”这个地方。记得那天气温很低，还飘着小雪花。因为是第一次来到高阙塞，这是在读史研讨时多次“接触”的地方，我的情绪特别高涨，寒冷完全不放在心中，记忆也就特别深刻。2024年我再次攀登上高阙塞的制高点，一时心血来潮，掏出手机与远在北京的魏坚教授通话。到这里来并不容易，旧地重游，难免有点自豪感。我把这个古代的军事关隘走了一遍，还把竖立在其上的一个遗址标记牌拍照留存。我感觉它把这所遗址的位置、布局、考古发现、认证过程、保存现状等问题做了经典的描述，故抄录在此：</p><blockquote><p>　　高阙塞（达巴图古城）2001年第五批国保单位。位于乌拉特后旗呼和温都尔镇达巴图沟（固察线343公里处，路北），古城由南北两个小城组成。北城略呈方形，南北宽36.8米，东西宽35.2米，墙体用较大的河槽石垒砌而成，墙腔内用小石块支垫平稳。城内东北角建有登城的阶梯踏道。南城为长方形，其北墙共用北城的南墙，并向东西各延筑一段。东西长64米，南北宽48米。门址在东墙南侧。南北两个小城建筑风格明显不同，说明其并非同一时代一次修筑。有专家考证认为，北城为战国时期所筑，南城为汉代所扩筑。在地表曾发现过汉代的铁甲片和箭头。有灰陶和夹砂黑陶片分布。2006年经中国人民大学历史考古研究所等国内一大批历史考古学家认证，确定为高阙塞遗址。2014年，国家文物局立项投入245万元进行修复保护，当年项目工程全部完工。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179007171057545.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179007171057545.jpg\" /></a></div><div class=\"article_img_talk\">                遗址标记牌。图：由本文作者提供             </div></div>  </blockquote><p>　　阅读这段文字，可知这座“达巴图古城”被确认为高阙塞，魏教授和他所做的工作发挥了很大影响力。魏教授在调任人大历史学院工作之前，曾经长期在内蒙古考古研究所工作，并且以副所长的身份主持内蒙古西部的工作多年，他的意见在当地得到尊重是很正常的事。但高阙塞的位置究竟在哪里，学术界是有争论的，各种观点迄今未达成一致。这构成了一个专业讨论的“谜案”，我随后另文介绍。本文叙事以“达巴图古城”即是高阙塞而展开。</p><p>　　凭吊高阙塞遗址，除了遥听金戈铁马的千古回声，还可透过历史烟云认知农耕与游牧两大民族间争斗与交融的文化图景。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179007181089965.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179007181089965.jpg\" /></a></div><div class=\"article_img_talk\">                高阙塞。图：由西北大学出版社刘栓提供             </div></div>  <h2 class=\"cx-app-content-subheads\">高阙塞的战略地位</h2><p>　　秦朝统一大业完成不久，就派遣蒙恬率领大军北逐匈奴。北伐战争进行得十分顺利，蒙恬“西北斥逐匈奴”，夺取了河南地。在秦强大兵力的威胁下，匈奴头曼单于只能被迫放弃活动有年的“河南地”而向北迁徙。《秦始皇本纪》载：</p><blockquote><p>　　三十三年……西北斥逐匈奴。自榆中并河以东，属之阴山，以为（三）[四]十四县，城河上为塞。又使蒙恬渡河取高阙，阳山、北假中，筑亭障以逐戎人。徙谪，实之初县。</p><p>　　（《史记》卷六《秦始皇本纪》。并参见：《蒙恬列传》；《匈奴列传》）</p></blockquote><p>　　这里出现的“榆中”“高阙”“阳山”“北假”的地望，学界有很多专业化的探讨，此处从略。</p><p>　　高阙塞的地理特征，北魏郦道元在《水经注·河水三》中为“河水又屈而东流，为北河。东经高阙南”条作注，对“高阙”做了注释：“《史记》：赵武灵王既袭胡服，自代并阴山下，至高阙为塞。山下有长城，长城之际，连山刺天，其山中断，两岸双阙，善能云举，望若阙焉。即状表目，故有高阙之名也。”这段文字不仅描述了高阙与黄河、长城三者的关系，还对高阙的形状及得名原因做了论断，为后世研究提供了重要依据。</p><p>　　虽然赵武灵王时曾经将长城修到高阙塞，并设九原县，但没有真正控制广袤的河南地。而蒙恬收复并经营河南地，渡过黄河，控制了黄河北岸与阴山南麓之间的区域，并将秦廷最北边的防线推至阴山南麓，成为保证河南地安全的屏障。这是统一后的秦中央王朝第一次有效地控制了边塞地区，在农耕与游牧民族之间建立起有效的防御体系。</p><p>　　公元前3世纪末，匈奴冒顿单于统一漠北草原，建立起强大的游牧帝国。匈奴骑兵凭借高度的机动性，频繁南下劫掠汉朝的北部郡县。汉高祖刘邦经历“白登之围”后，汉朝被迫采取“和亲”政策，每年向匈奴输送大量财物以换取边境安宁。然而，这种屈辱的外交策略并未从根本上解决边患问题。</p><p>　　汉武帝即位后，国力日盛，遂改变对匈奴的消极防御策略，转而采取主动进攻。元朔二年（公元前127年），卫青首次出击匈奴，收复河南地（今内蒙古河套地区）。元狩二年（公元前121年），霍去病两次出击河西，重创匈奴浑邪王、休屠王部，打通了通往西域的战略通道。元狩四年（公元前119年），卫青、霍去病分东西两路深入漠北，在漠北草原与匈奴主力决战，取得了漠北大捷。</p><p>　　在这一系列军事行动中，高阙塞作为连接河套地区与阴山以北草原的战略通道，反复成为汉军出击的路线和匈奴南下的要道。《史记·卫将军骠骑列传》记载：“（元朔二年）令车骑将军青出云中以西至高阙。遂略河南地，至于陇西，捕首虏数千，畜数十万，走白羊、楼烦王。遂以河南地为朔方郡。”汉武帝特此下达诏书加以褒奖：“今车骑将军青度西河至高阙，获首虏二千三百级，车辎畜产毕收为卤，已封为列侯，遂西定河南地”，可见卫青统兵出高阙之战的重要。《汉书·卫青传》载：元朔五年春，汉朝派出多位将军分兵出击匈奴，其中最关键的北伐主力军就是卫青“将三万骑出高阙”。仅从这两次大战就可以看出，高阙塞在汉匈战争中具有重要的军事价值。</p><p>　　内蒙古大学王绍东教授最近发表的论文对高阙塞在汉匈战争中的作用，做了很全面的分析。摘引其主要观点如下：</p><blockquote><p>　　高阙塞、鸡鹿塞的设置与布防，在军事上发挥了重要作用。</p><p>　　首先是将整个阴山防线连为一体，使汉朝防御匈奴进攻时在阴山一线再无明显缺环……</p><p>　　其次将汉朝的攻防线整体前移，贯通了阴山山脉的东西防线。河南之战前，中原政权以攻到高阙为目标，将其作为进攻匈奴的最前线。河南之役后，高阙塞、鸡鹿塞则兼具了汉军防御匈奴的前沿与进攻匈奴的后方双重使命。也就是说，汉军既可以凭借两塞所在的长城防御匈奴的进攻，也可以通过两塞越过阴山，对漠北地区的匈奴腹地发起攻击，对匈奴的后方特别是右贤王部形成了直接威胁……</p><p>　　第三，高阙塞、鸡鹿塞的设置，增强了汉军出击草原的能力和战争威慑力。在河南之战中，汉军夺取“河南地”，修朔方城，设朔方郡，加固完善秦始皇时期修筑的阴山长城。在守护长城的同时，汉军还可据长城关口随时对匈奴发起攻击。</p><p>　　（王绍东 王亚红：《论战国秦汉时期高阙塞、鸡鹿塞的军事价值与文化蕴意》，载翟宇主编：《长城文化研究（第一辑）》，广西师范大学出版社2025年12月）</p></blockquote><p>　　从汉匈战争全局来看，对河套地区控制权的争夺是双方的重要战略目标。河套地区水草丰美，既适合农耕，也适合放牧，历来是农耕民族与游牧民族的缓冲地带。高阙塞作为连接河套与漠北的纽带，其归属直接影响整个战略态势。汉军占据高阙塞，就能将防线推进到阴山以北；匈奴夺回高阙塞，则可重新控制南下通道。因此，围绕高阙塞的反复争夺，构成汉匈战争的重要内容。</p><h2 class=\"cx-app-content-subheads\">农耕文明与游牧文明的碰撞</h2><p>　　高阙塞之所以成为汉匈战争的焦点，根本原因在于它位于农耕文明与游牧文明的地理分界线上。这条分界线不仅是政治疆域的界限，更是两种截然不同的生产方式和生活方式的交汇地带。</p><p>　　学界共识认为，中国古代农耕区与游牧区的分界，大致沿着年降水量400毫米等值线分布。这条线以南，降水充沛，适宜农业耕作；以北，降水稀少，只能发展畜牧业。阴山山脉恰好位于这一过渡地带。山脉以南的河套平原，黄河流经，水源充足，土地肥沃，是理想的农耕区；山脉以北则是蒙古高原，草原辽阔，适合游牧。</p><p>　　两种文明的根本差异，决定了它们之间既有互补性，也有冲突性。农耕文明需要游牧民族提供的马匹、皮毛、肉类等畜产品，游牧民族则需要农耕文明提供的粮食、丝绸、铁器等手工业品。正常情况下，双方通过边境贸易实现物资交流，互惠互利。但当游牧民族统一强大，或农耕地区遭遇自然灾害、政治动荡时，游牧民族往往选择通过军事劫掠获取所需物资，从而引发战争。</p><p>　　高阙塞所在的地区，无疑是两大民族之间的边缘地带和过渡地带。这种地理空间在文明交流史上往往具有特殊的重要性，构成为民族融合的前沿地带。在这里，汉人与匈奴人杂居，农耕与游牧并存，中原文化与草原文化交融。考古发现显示，河套地区的汉代遗址中，既有典型的汉式建筑、陶器，也有匈奴风格的青铜器、装饰品，体现了两种文化的混合特征。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179007189804967.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179007189804967.jpg\" /></a></div><div class=\"article_img_talk\">                河套文化博物馆藏品，匈奴王鹰顶金冠。图：由本文作者提供             </div></div>  <p>　　在农耕文明与游牧文明的对抗中，地理屏障具有决定性意义。阴山山脉作为横亘在河套平原与蒙古高原之间的天然屏障，是农耕民族抵御游牧民族南侵的第一道防线。但山脉并非密不透风的城墙，山口、峡谷等地形薄弱点，成为游牧骑兵南下的通道。</p><p>　　高阙塞正处于这样一个峡谷通道的“咽喉”险地。从军事地理学的角度分析，高阙塞具有以下几个特点：</p><p>　　第一，地形险要，易守难攻。高阙塞位于山地峡口，两侧高山耸立，中间峡谷狭窄。守军只需在峡口设置关城、城墙，就能阻挡敌军通过。攻方若要强攻，必须在狭窄地形中展开兵力，无法发挥数量优势，且容易遭到守军居高临下的打击。</p><p>　　第二，控制南北交通，战略价值高。高阙塞是连接河套平原与蒙古高原的主要通道之一。汉军控制此地，就能阻断匈奴南侵路线，保护河套农耕区的安全；同时，汉军也可以此为基地，向北出击，深入草原腹地。因此，高阙塞的得失直接影响整个战略态势。高阙塞是阴山山脉西段的核心隘口，是汉军北征的最佳出兵门户。再观察匈奴的用兵路线，他们往往是从其腹地调集兵力迂回到阴山以北，再伺机突破高阙塞等汉塞而南下。毫无疑问，高阙塞就是汉军防御匈奴南侵的核心关隘。</p><p>　　高阙塞在汉匈战争中的实际作用，前面所讲到的汉武帝时期的几次重要战役，足以说明其重要性。</p><p>　　汉宣帝时期，汉朝在西域设立都护府，加强了对西域的控制，但阴山一线的防御压力依然存在。东汉时期，随着匈奴的分裂和衰落，高阙塞的军事价值逐渐下降，但作为连接内地与草原的通道，它仍在汉代北疆防御体系中占有一席之地。</p><h2 class=\"cx-app-content-subheads\">从高阙塞看长城文化的多元性</h2><p>　　高阙塞所代表的，不仅是一座具体的军事要塞，更是中国长城文化的重要组成部分。高阙塞作为汉代长城防线上的重要节点，见证了长城从纯粹的军事防御工事向文化边界的转变。在汉武帝时期，长城主要发挥军事防御功能，是阻挡匈奴南侵的屏障。但随着时间推移，长城的功能逐渐多元化：它既是军事防线，也是贸易通道，还是文化交流的桥梁。</p><p>　　从历史长时段来看，长城并未真正将农耕民族与游牧民族隔离开来。相反，长城沿线成为两种文明交流融合最活跃的地区。无数商人、使节、移民穿越长城，带来了物资、技术、思想的交流。即使在战争时期，长城也未能完全阻止双方文化的渗透。</p><p>　　如何从“长时段”的历史观评价高阙塞与长城的军事和文化价值，前引王绍东教授论文的结束语，对此做了很好的论断，转引如下：</p><blockquote><p>　　赵武灵王与秦始皇时开始经营高阙塞，因为当时北方各游牧民族尚未形成总体力量，无力与中原政权抗衡，所以当时的高阙塞除了军事价值，更重要的是体现赵国势力最西、最北到达的区域和秦朝北方国门的象征意义。到了汉朝，匈奴建立了统一北方草原的政权，不断南下侵扰汉朝。汉武帝对匈奴进行反击，派卫青夺取“河南地”，修筑朔方城，高阙塞、鸡鹿塞成为汉代防御匈奴的最重要关隘。通过加强高阙塞、鸡鹿塞等阴山关隘的戍防，汉朝将阴山防线东西连通，将防御匈奴的战线前移，加强了对草原地区出击的主动性，掌握了战争主动权。阴山长城防线的巩固，为汉朝将农业生产区向北方开拓，各民族频繁密切的交往交流交融创造了良好条件，高阙塞、鸡鹿塞等也成为汉族与北方各族友好交流往来的重要通道和驿站。</p></blockquote><p>　　今天，当我们重新审视高阙塞的历史价值时，不应仅仅将其视为一处长城关隘遗址，还应该将其视为文明交流的见证。<a class=\"end_ico\" href=\"https://mini.caixin.com/2026-09-22/102487571.html\" rel=\"nofollow\" title=\"高阙塞：汉匈争衡的战略要地｜黄河两岸⑦\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>致谢：</b>本文在修改定稿过程中，承蒙中央民族大学魏坚先生、内蒙古文物考古研究院副院长张文平先生、内蒙古大学历史与旅游文化学院王绍东先生提出修改意见，谨此一并致谢。</p><p>　　<b>作者为中国人民大学历史学院教授、博士生导师，原历史学院院长（已退休）。这是作者参加“沿黄历史人文考察”的考察报告之一，已收入“黄河岸边的中国”系列丛书，将由西北大学出版社出版。</b></p><p>　　<b>《黄河两岸》“财新mini+”连载中，查看<a href=\"https://key.caixin.com/topic/BQ02.000008038\" target=\"_blank\">已更新内容</a></b>　　</p>",
+          "source": "财新"
+        },
+        {
           "title": "人事观察｜西部三省份高层联动 藏、甘、青一把手到位",
           "url": "https://china.caixin.com/2026-09-22/102487563.html",
           "published": "Tue, 22 Sep 2026 17:38:48 +0800",
           "summary": "<p>　　<b>【财新网】</b>中共二十届五中全会前，西藏、甘肃、青海三省份党委书记联动调整。其中，甘肃省委书记胡昌升接替63岁的王君正，出任西藏党委书记；青海省委书记吴晓军转任甘肃省委书记；青海省长罗东川履新青海省委书记。</p><p>　　据新华网消息，9月22日，西藏召开领导干部会议，中组部副部长郝军辉在会上宣布了中央决定。胡昌升任西藏党委委员、常委、书记，王君正不再担任西藏党委书记、常委、委员职务。据悉，王君正因年龄原因不再担任区党委书记职务。</p><p>　　9月22日，甘肃省召开领导干部会议，中组部副部长齐家滨在会上宣布了中央决定。吴晓军任甘肃省委委员、常委、书记，胡昌升不再担任甘肃省委书记、常委、委员职务。</p><p>　　9月22日，青海省召开领导干部会议，中组部副部长吴浩在会上宣布了中央决定。罗东川任青海省委书记，吴晓军不再担任青海省委书记、常委、委员职务。</p><p>　　中组部三名副部长均在会上表示，这次调整是中央从大局出发，根据工作需要和各省份领导班子建设实际，经过通盘考虑、慎重研究决定的。</p><p>　　此次任免涉及四名正省级高官，其中胡昌升、王君正、吴晓军都是二十届中央委员，罗东川是二十届中央候补委员。西藏两任党委书记胡昌升、王君正都出生于1963年，分别主政甘肃、青海的吴晓军、罗东川都是“65后”。此外，胡昌升、吴晓军都是江西籍高官，胡昌升、罗东川曾在福建共事。　　</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006973702417.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006973702417.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div>  <h2 class=\"cx-app-content-subheads\">西藏党委书记胡昌升：历任六省份 曾主政厦门</h2><p>　　由甘肃省委书记转任西藏党委书记的胡昌升，以及卸任西藏党委书记的王君正，不仅是同龄人，且都是十九届中央候补委员、二十届中央委员。</p><p>　　胡昌升曾在东中西部和东北生活、工作，早年任职高校，从政后历任四川、青海、福建、黑龙江、甘肃、西藏六省份。此次履新西藏党委书记，是胡昌升担任的第三个正省级职务。</p><p>　　胡昌升现年62岁（1963年12月生），江西宜春高安独城镇人，1982年毕业于江西省高安中学，1986年毕业于成都地质学院（现成都理工大学）地质矿产调查专业，并留校任职16年，曾任地质矿产勘察系教师、资源与经济系党总支书记等，是经济学副教授。</p><p>　　在校期间，胡昌升于1998至2002年挂职成都市锦江区副区长。结束挂职后，39岁的胡昌升离开成都并正式从政，先后任雅安市荥经县委书记、雅安市委常委、组织部长、汉源县委书记等，2007年任遂宁市长，2012年任甘孜州委书记。</p><p>　　2003年底，时任荥经县委书记胡昌升在山东大学中国古代史专业获历史学博士学位，博士论文为《道教治世思想研究》。他在论文中写道，学习、研读道书三年有余，不知有多少次想放弃求知之路，不知有多少次想把论文的题目换成痛苦体验的研究。每当我苦不堪言时，我就告诫自己，生命存在的形式就是苦涩的状态。如果有人要问我写完论文的感觉如何，我会毫不犹豫地说：我终于远离了痛苦的夜晚。</p><p>　　在四川工作29年后，胡昌升获得重用，于2015年6月接替上调监察部的王令浚升任青海省委常委、组织部长，时年51岁跻身副省级。任职青海期间，胡昌升提出政绩考核“三不唯”，即不唯GDP，注重绿色发展出考题；不唯票，注重多管齐下考政绩；不唯虚，注重综合分析评实绩。</p><p>　　2017年7月，胡昌升再度跨省份交流，接替王宁（现任云南省委书记）出任福建省委常委、组织部长，同年10月当选十九届中央候补委员。2019年2月，胡昌升接替裴金佳（现任退役军人事务部部长）出任厦门市委书记，2020年9月再度接替王宁出任福建省委副书记，并继续主政厦门。</p><p>　　仅五个月后，胡昌升于2021年初第三度跨省份交流，接替王文涛（现任商务部部长）出任黑龙江代省长、省长，时年57岁跻身正省级。</p><p>　　2022年10月当选二十届中央委员后，同年12月，胡昌升第四度跨省份交流，接替尹弘（现任江西省委书记）出任甘肃省委书记。自2019至2022年，胡昌升连续四年四度易职。</p><p>　　胡昌升主政甘肃期间，经历积石山地震、天水幼儿园“血铅”事件等。</p><p>　　2023年12月18日，甘肃临夏州积石山县发生6.2级地震。据《甘肃日报》等报道，胡昌升在当地主持五级书记会议表示，“我们不说客套话、不讲成绩，放开谈问题，说最困难的事，提最迫切的需求”，“帐篷和棉衣棉被问题要抓紧解决，一刻都不能等。”</p><p>　　12月21日晚，胡昌升在积石山县接受采访表示，“今天我是来暗访的，找了16个点，我把所有的重点村全部走完”，“天气，我们要跟它斗，让老百姓住上温暖的帐篷，能够吃上可口，特别是热乎乎的饭菜”。</p><p>　　2025年7月，天水市麦积区褐石培心幼儿园发生幼儿血铅异常案件，甘肃成立省委省政府调查组提级调查显示，血铅异常幼儿247名、教职员工28名，系不可食用颜料掺入面粉制作糕点所致。胡昌升曾主持甘肃省委常委会表示，要充分认识校园安全的极端重要性，坚决筑牢校园食品安全防线。</p><p>　　胡昌升多次发文谈及反腐败。2023年7月，胡昌升在《中国纪检监察报》发文谈国企反腐败。他认为，国企领导人员要拎得清纲纪，把得住分寸，对上级的权力不伸手，对下级的权力不插手，对分外的权力不染指，对集体的权力不专断。</p><p>　　2024年1月，胡昌升在《求是》杂志发文表示，有的领导干部是拍脑袋决定、拍胸脯保证、拍屁股走人的“三拍”干部，决策前不调研、不论证，决策时搞“一言堂”，独断专行。很多案件说明，有的领导干部在决策时胆大妄为、无所顾忌，造成严重损失，背后往往牵涉腐败问题，是为了权力寻租、牟取私利。</p><p>　　卸任西藏党委书记的王君正比胡昌升年长半岁，现年63岁（1963年5月出生），山东临沂人。王君正历任五省份，依次是云南、湖北、吉林、新疆、西藏，曾任湖北省委常委、襄阳市委书记，吉林省委常委、长春市委书记，新疆党委副书记、政法委书记，新疆生产建设兵团党委书记、政委，2021年10月接替吴英杰（2024年落马）出任西藏党委书记至今。</p><p>　　2026年8月26日，因尼泊尔一侧发生泥石流灾害，西藏日喀则市吉隆县吉隆口岸出现重大人员伤亡、失联。据《西藏日报》报道，8月28日，王君正在吉隆镇看望受灾群众表示，“当前的首要任务，就是不惜一切代价、争分夺秒搜寻搜救失联人员，竭尽全力救治伤员，确保人民群众生命财产安全”。王君正在西藏党委常委会（扩大）会议表示，要确保不留死角、不落一处、不漏一人，只要有一线希望都要尽最大努力。</p><h2 class=\"cx-app-content-subheads\">接替胡昌升 吴晓军任甘肃省委书记</h2><p>　　胡昌升转任西藏党委书记后，时任青海省委书记吴晓军接任甘肃省委书记。吴晓军历任江西、青海、甘肃，曾是全国最年轻的省级党委书记。</p><p>　　吴晓军现年60岁（1966年1月生），江西吉安泰和人，1988年7月毕业于江西大学经济系政治经济学专业。</p><p>　　吴晓军曾在江西省政府办公厅工作十余年，2006年从省政府办公厅副主任转任鹰潭市副市长；2010年任江西省发改委副主任；2013年任江西省工信委主任。2014年10月，吴晓军接替被有关部门带走的李安泽，“回炉”出任江西省发改委主任。</p><p>　　2017年3月，吴晓军升任江西副省长，负责民政、农业、粮食、民族宗教等；2019年9月跻身江西省委常委；2020年3月接替殷美根（2023年落马）转任南昌市委书记。</p><p>　　2021年4月，吴晓军首度跨省份交流，接替刘宁（现任河南省委书记）出任空缺两年多的青海省委副书记。</p><p>　　2022年3月，吴晓军接替信长星（现任江苏省委书记），顺位转任青海代省长，同年5月任省长。</p><p>　　2024年5月，吴晓军曾出席国新办新闻发布会介绍，青海正在打造冷湖世界级天文观测基地。他表示，在青海柴达木盆地里，有一个地球上最像火星的地方，就是青海省海西州茫崖市的冷湖镇赛什腾山，是目前为止东半球天文观测的最佳选址。以往天文观测的最佳选址都在西半球，冷湖天文观测基地填补了这一空白，在全球范围内构成了完整的时域、空域天文观测网络。</p><p>　　2024年12月，时任青海省长吴晓军接替陈刚（现任广西党委书记），顺位出任青海省委书记。时年58岁的吴晓军是当时全国最年轻的省级党委书记。</p><p>　　吴晓军曾多次谈及破除“特殊论”。2025年5月，《人民日报》刊发吴晓军在青海省委理论学习中心组学习会的讲话。他表示，青海是艰苦地区、民族地区、高海拔地区。当前，有些干部觉得自己在高原工作“没有功劳也有苦劳”，“条件艰苦就可以降低标准放松要求”。这种“特殊论”和“补偿心理”本质上是党性缺失、精神缺“钙”、私心作祟、任性妄为，危害不小。在青海这片高原上，只有“特殊贡献”，没有“特殊待遇”。</p><p>　　2026年3月全国“两会”期间，吴晓军在青海代表团开放团组活动上表示，从头至尾看了《生命树》这部40集的生态大剧，心灵受到了极大震撼，数次落泪。青海将高质量建设三江源、祁连山、青海湖国家公园，夯实绿水青山就是金山银山实践根基，走好生态优先、绿色发展之路。</p><p>　　此次转任甘肃省委书记，是吴晓军担任的第三个正省级职务。</p><h2 class=\"cx-app-content-subheads\">北大毕业 候补中委罗东川任青海省委书记</h2><p>　　吴晓军转任甘肃省委书记后，青海省长罗东川顺位接任青海省委书记。</p><p>　　罗东川早年任职北京法院系统，后在最高法先后工作17年，中共十八大后跨界纪检系统。2020年，罗东川从最高法“空降”福建，2024年底转岗青海。</p><p>　　罗东川是十九届中央纪委委员、二十届中央候补委员，现年60岁（1965年10月生），重庆人，1986年毕业于北京大学法律系。</p><p>　　本科毕业后，罗东川被分配至北京高院任书记员，1993年参加建立中国法院系统最早的知识产权审判庭——北京中院知识产权审判庭，历任副庭长、庭长。</p><p>　　2000年底，罗东川转任最高法院民事审判第三庭副庭长，此后长期在最高法院任职，历任研究室副主任、中国应用法学研究所所长、政治部副主任等，2013年起任民事审判第四庭庭长。</p><p>　　罗东川在民商法和知识产权法领域有较高造诣，主持审理了一批在国内外有广泛影响的案件。他参与编写了多部著作，包括《知识产权名案评析》《知识产权审判实务》《知识产权审判指导与参考》等，发表知识产权专业论文数十篇。</p><p>　　长期任职法院系统的罗东川，2015年起在纪检系统历练三年。2015年7月，罗东川接替耿文清（当时转任中央纪委驻人社部纪检组长）出任中央纪委案件审理室主任，跻身副部级。案件审理室负责审理中央纪委监察部直接处理的案件，以及省（部）级党组织、政府（部门）报批或备案的案件等。</p><p>　　2017年4月，罗东川“空降”新疆，接替徐海荣（现任山东省人大常委会党组书记、副主任）出任新疆党委常委、纪委书记，同年当选十九届中央纪委委员。随着监察体制改革，2018年1月，罗东川当选新疆监委首任主任。</p><p>　　2018年7月，罗东川返京出任最高法副院长，成为最高法领导层首位“65后”。同年底，最高法成立专门的知识产权法庭，罗东川兼任知识产权法庭庭长。获任后不久，罗东川在国新办发布会上介绍，“我在80年代后期到法院工作，接触了中国最早的一批知识产权案件，1993年北京建立中国第一家知识产权审判庭，我也到这个庭工作。2000年，最高法设立民三庭即知识产权审判庭的时候，自己也加入了这个庭负责知识产权案件的审理工作。”</p><p>　　2020年7月，当时是最高法最年轻副院长的罗东川再次“空降”地方，接替王洪祥（现任中国法学会党组书记、常务副会长）出任福建省委常委、政法委书记。</p><p>　　2021年10月，在福建省委换届前，罗东川接替胡昌升（现任西藏党委书记）出任福建省委副书记，并兼任省委政法委书记至2023年1月，期间于2022年当选二十届中央候补委员。</p><p>　　2023年9月，罗东川出席国新办发布会，介绍《中共中央国务院关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》有关情况。他表示，福建将进一步支持台湾学生来闽求学研学，特别是对台胞子女在闽就读实行“欢迎就读、一视同仁、就近入学”政策；“我们也在研究，怎么样让台胞居住证的应用场景、便利性等方面，达到和身份证一样的程度。”</p><p>　　担任福建省委副书记三年多后，2024年12月，罗东川接替吴晓军（现任甘肃省委书记）出任青海省政府党组书记，2025年1月当选省长。</p><p>　　罗东川曾在不同场合推广青海拉面。据官方报道，2025年5月，在青海文化旅游节开幕式后，罗东川同与会嘉宾参观青海文化旅游成果展示，并现场体验青海拉面手艺。2026年9月，在厦门开幕的第二十六届中国国际投资贸易洽谈会现场，罗东川向国际友人展示青海拉面手艺。</p><p>　　“冰雪经济”近年成为“热产业”，位于海北州门源县的岗什卡雪峰是青海冰雪的头号招牌。据《青海日报》报道，2025年12月，罗东川在岗什卡雪峰调研冰雪运动和冬季旅游，表示要聚焦打造国际生态旅游目的地，更高标准推动“冷资源”变为“热经济”。报道称，罗东川徒步前往海拔4350米的岗什卡雪峰大本营，与沿途来自全国各地的登山爱好者交谈。</p><p>　　主政青海后，罗东川成为第二名担任省级党委书记的二十届中央候补委员，另外一人是湖北省委书记关志鸥。<a class=\"end_ico\" href=\"https://china.caixin.com/2026-09-22/102487563.html\" rel=\"nofollow\" title=\"人事观察｜西部三省份高层联动 藏、甘、青一把手到位\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　<b>　附：胡昌升简历</b></p><p>　　男，汉族，1963年12月生，江西宜春高安人，1986年7月参加工作，1986年1月加入中共，山东大学中国古代史专业在职研究生毕业，历史学博士，副教授。</p><p>　　1982.09—1986.07 成都地质学院资源与经济系地质矿产调查专业学习</p><p>　　1986.07—1991.01 成都地质学院地质矿产勘察系教师，团总支副书记、书记</p><p>　　1991.01—1993.03 成都地质学院地质矿产勘察系学生党支部书记</p><p>　　1993.03—1994.01 成都地质学院地质矿产勘察系党总支副书记</p><p>　　1994.01—1997.02 成都地质学院资源与经济系党总支副书记</p><p>　　1997.02—2002.11 成都地质学院资源与经济系党总支书记（1995.09—1998.07 四川联合大学经济系政治经济学专业研究生课程班学习；1998.12—2002.11 挂职任四川省成都市锦江区副区长）</p><p>　　2002.11—2003.01 四川省荥经县委书记</p><p>　　2003.01—2004.02 四川省荥经县委书记、县人大常委会主任（2000.09—2003.12 山东大学中国古代史专业在职研究生学习，获历史学博士学位）</p><p>　　2004.02—2005.10 四川省雅安市委常委、组织部部长</p><p>　　2005.10—2006.01 四川省雅安市委常委、组织部部长，汉源县委书记</p><p>　　2006.01—2006.10 四川省雅安市委常委、组织部部长，汉源县委书记、县人大常委会主任</p><p>　　2006.10—2006.11 四川省遂宁市委副书记</p><p>　　2006.11—2007.02 四川省遂宁市委副书记、代市长</p><p>　　2007.02—2012.02 四川省遂宁市委副书记、市长</p><p>　　2012.02—2012.04 四川省甘孜州委副书记（正厅级）</p><p>　　2012.04—2015.06 四川省甘孜州委书记</p><p>　　2015.06—2017.07 青海省委常委、组织部部长</p><p>　　2017.07—2019.02 福建省委常委、组织部部长</p><p>　　2019.02—2020.09 福建省委常委、厦门市委书记</p><p>　　2020.09—2021.01 福建省委副书记、厦门市委书记</p><p>　　2021.01—2021.02 黑龙江省委副书记、省政府党组书记</p><p>　　2021.02—2022.12 黑龙江省委副书记、省长，省政府党组书记</p><p>　　2022.12— 2023.01 甘肃省委书记</p><p>　　2023.01—2026.09 甘肃省委书记、省人大常委会主任</p><p>　　2026.09— 西藏党委书记</p><p>　　十九届中央候补委员，二十届中央委员，中共十八大、十九大、二十大代表，十一、十三、十四届全国人大代表（简历来源：黑龙江省政府网等）</p><p>　　<b>吴晓军简历</b></p><p>　　男，汉族，1966年1月出生，江西吉安泰和人，1988年7月参加工作，1986年5月加入中共，经济学博士。</p><p>　　1984.09--1988.07 江西大学经济系政治经济学专业学习</p><p>　　1988.07--1992.10 江西省经济信息中心干部（其间：1990.12--1992.10 借调省计划委员会以工代赈办公室）</p><p>　　1992.10--1994.05 江西省计划委员会以工代赈办公室干部、主任科员</p><p>　　1994.05--1996.01 江西省政府办公厅综合处主任科员</p><p>　　1996.01--1998.03 江西省政府办公厅综合处副处级秘书</p><p>　　1998.03--2003.05 江西省政府办公厅综合处调研员</p><p>　　2003.05--2006.08 江西省政府办公厅副主任（2001.09-2004.07 江西财经大学工商管理学院产业经济学专业在职研究生学习，获经济学博士学位）</p><p>　　2006.08--2010.06 江西省鹰潭市委常委、副市长</p><p>　　2010.06--2013.04 江西省发改委副主任</p><p>　　2013.04--2014.10 江西省工业和信息化委员会主任</p><p>　　2014.10--2017.02 江西省发改委主任</p><p>　　2017.02--2017.03 江西省副省长人选、省改委主任</p><p>　　2017.03--2017.11 江西省副省长、省发改委主任</p><p>　　2017.11--2019.09 江西省副省长</p><p>　　2019.09--2020.03 江西省委常委、副省长</p><p>　　2020.03--2021.04 江西省委常委、南昌市委书记</p><p>　　2021.04—2022.03青海省委副书记</p><p>　　2022.03-2022.05 青海省委副书记、省政府副省长、代理省长、党组书记</p><p>　　2022.05-2024.12 青海省委副书记、省政府省长、党组书记</p><p>　　2024.12-2025.01 青海省委书记、省政府省长</p><p>　　2025.01-2026.09 青海省委书记、省人大常委会主任</p><p>　　2026.09- 甘肃省委书记</p><p>　　二十届中央委员，中共二十大代表，十四届全国人大代表（简历来源：大江网等）</p><p>　　<b>罗东川简历</b></p><p>　　男，汉族，1965年10月生，重庆市人，1986年8月参加工作，1986年6月加入中共，北京大学法学院知识产权专业毕业，研究生学历，法学博士学位。</p><p>　　1982.09-1986.07 北京大学法律系法律专业学习</p><p>　　1986.08-1988.05 北京高院书记员</p><p>　　1988.05-1993.04 北京高院书记员（其间：1988.08-1991.07武汉大学民商法专业在职研究生学习，获法学硕士学位）</p><p>　　1993.04-1993.07 北京高院助审员</p><p>　　1993.07-1995.05 北京中院助审员</p><p>　　1995.05-1995.06 北京一中院助审员</p><p>　　1995.06-2000.06 北京一中院知识产权庭副庭长</p><p>　　2000.06-2000.12 北京一中院审委会委员、知识产权庭庭长</p><p>　　2000.12-2003.12 最高法民三庭副庭长</p><p>　　2003.12-2004.06 最高法研究室副主任、民三庭副庭长</p><p>　　2004.06-2009.08 最高法研究室副主任（其间：1999.09-2004.07北京大学知识产权专业在职研究生学习，获法学博士学位；2004.09-2005.01中央党校半年制中青年干部培训班学习）</p><p>　　2009.08-2012.03 中国应用法学研究所所长、最高法研究室副主任</p><p>　　2012.03-2013.06 最高法政治部副主任</p><p>　　2013.06-2013.07 最高法民四庭庭长、政治部副主任</p><p>　　2013.07-2013.12 最高法民四庭庭长</p><p>　　2013.12-2015.07 最高法审委会委员、民四庭庭长</p><p>　　2015.07-2017.04 中央纪委案件审理室主任</p><p>　　2017.04-2018.01 新疆党委常委、纪委书记</p><p>　　2018.01-2018.07 新疆党委常委、纪委书记、监委主任</p><p>　　2018.07-2018.08 最高法党组成员</p><p>　　2018.08-2018.09 最高法党组成员、副院长</p><p>　　2018.09-2018.12 最高法党组成员、副院长、二级大法官</p><p>　　2018.12-2020.07 最高法党组成员、副院长、审委会委员、知识产权法庭分党组书记、庭长、二级大法官</p><p>　　2020.07—2021.10 福建省委常委、政法委书记</p><p>　　2021.10- 2023.01 福建省委副书记、政法委书记</p><p>　　2023.01-2024.12 福建省委副书记</p><p>　　2024.12- 2025.01青海省委副书记、省政府党组书记</p><p>　　2025.01-2026.09 青海省委副书记、省政府党组书记、副省长、代省长、省长</p><p>　　2026.09- 青海省委书记、省政府党组书记、省长</p><p>　　十九届中央纪委委员，二十届中央候补委员，中共二十大代表，十三、十四届全国人大代表（简历来源：最高法官网等）</p>",
-          "source": "财新"
-        },
-        {
-          "title": "企业融资结构持续变化",
-          "url": "https://opinion.caixin.com/2026-09-22/102487555.html",
-          "published": "Tue, 22 Sep 2026 17:32:22 +0800",
-          "summary": "<h2 class=\"cx-app-content-subheads\">整体资金情况</h2><p>　　前8个月实体部门资金来源合计22.05万亿元，同比少增约3065亿元，由前7个月的“略有多增”转为“略有少增”。</p><p>　　不过，8月真正值得留意的，不仅是资金供给总量边际收缩，而是居民继续去杠杆，企业融资也在8月边际进一步走弱，传统经济增长动能仍面临下行压力。与之相对应，财政支出保持必要力度和合理节奏，既发挥托底作用，又避免简单依靠加杠杆刺激增长。“融资需求偏弱、财政发力有度”的组合反映出政策更加注重稳增长、防风险与提质增效之间的平衡，也说明中国经济高质量发展转型正由阶段性调整迈向更深层次的结构转换和动能重塑。</p><p>　　资金去向端，居民和企业存款均呈现总量增速放缓、结构定期化加剧的特征，反映实体部门风险偏好和消费投资意愿仍偏弱。同时，金融投资占比进一步提升，说明存款搬家仍在延续。把这些变化放在一起看，8月实体部门资金运转呈现“实体需求偏弱、财政托而不举、资金配置求稳”的特征。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006950969187.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006950969187.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div> <h2 class=\"cx-app-content-subheads\">资金从哪里来：融资需求放慢，财政仍在托底</h2><p>　　（1）居民去杠杆仍是主线，企业融资也出现边际转弱</p><p>　　前8个月实体部门贷款新增11.14万亿元，比去年同期少增2.51万亿元。居民部门是最明显的拖累：居民贷款净减少1.03万亿元，而去年同期还是净增加7110亿元；其中，居民中长期贷款累计只新增188亿元。到了8月，居民贷款单月再减少2029亿元，同比多减2332亿元，去杠杆仍是居民部门最清晰的主线。</p><p>　　企业端的变化也很值得关注。前8个月企业贷款和债券融资合计新增约14.05万亿元，同比多增2681亿元；8月单月合计新增5293亿元，同比少增1995亿元，前期的稳健势头在8月出现了放缓。8月企业贷款新增2581亿元，其中中长期贷款新增3200亿元，短期贷款和票据融资合计为负。</p><p>　　8月企业债券新增2712亿元，较去年同期多增1374亿元；前8个月累计新增2.79万亿元，较去年同期多增1.23万亿元。低利率环境下，发债的性价比仍然较高，企业更愿意用债券补充资金、置换存量债务。企业融资更像是在做期限和结构调整，以及存量置换，真正用于新项目、扩产能的资金仍不算多。</p><p>　　（2）财政体现政策定力，人民币升值预期较强</p><p>　　8月财政净支出8963亿元，同比少增2255亿元；前8个月累计5.53万亿元，同比少增1.19万亿元。财政节奏比去年慢了一些，但并没有明显收缩，仍是8月资金来源中最重要的一块。加上8月净结汇的3524亿元，8月财政与结汇合计贡献1.25万亿元，占当月资金来源的75.8%，在信贷偏弱时起到了托底作用。但财政没有用大幅加杠杆去替代市场需求，而是保持必要的支出强度，这种“托底但不冒进”的节奏，本身就是高质量发展导向下的政策定力。</p><h2 class=\"cx-app-content-subheads\">钱去了哪里：定期存款趋势化加剧，金融投资占比上升</h2><p>　　（1）居民存款总量少增，结构更偏定期</p><p>　　前8个月居民存款新增约7.0万亿元，同比少增约2.77万亿元。8月单月新增约366亿元，较去年同期少增约728亿元。总量增长放慢的同时，居民活期存款前8个月减少6750亿元，8月单月减少2681亿元，8月末居民定期及其他存款占比升至74.9%，较年初提高约1.5个百分点。简单说，居民不是把钱全部取走了，而是把更多资金放进了长期限存款里，这也与存款挂牌利率大幅下降后居民被动提升长期限存款配置以获取更好的收益相关。</p><p>　　这类变化与居民的消费和投资选择是一致的：收入预期和资产价格预期偏谨慎时，先把钱留在手里、放在低风险资产中，是更自然的选择。居民存款的少增和定期化放在一起看，反映的不是居民流动性枯竭，而是居民风险偏好仍偏低。</p><p>　　（2）企业存款也在定期化，投资扩产仍不积极</p><p>　　前8个月非金融企业存款新增1.71万亿元，远高于去年同期的4944亿元；8月单月新增2801亿元，较去年同期少增196亿元，企业存款增量已经边际回落。更关键的是，前8个月企业定期及其他存款新增1.69万亿元，活期存款仅增202亿元。结合企业贷款和债券融资8月同步少增，可以相互印证，企业暂时不急着扩大杠杆和扩产，这与居民端需求疲软的负反馈正在加剧，亟需政策来打破这个负循环。</p><p>　　（3）金融投资占比抬升，存款搬家延续</p><p>　　8月金融投资新增约1.32万亿元，占当月资金去向的80.1%，较去年同期提高约2.4个百分点；前8个月累计新增约12.63万亿元，占资金去向的57.3%，较去年同期提高约5.5个百分点。实体融资偏弱、居民和企业存款定期化加深时，新增资金更多进入金融资产，说明低利率环境下，资金配置仍在被动地从传统存款向非存款类资产扩散。对应的，新增非银存款延续高增。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006951026377.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006951026377.jpg\" /></a></div><div class=\"article_img_talk\">                             </div></div> <h2 class=\"cx-app-content-subheads\">结语：融资需求偏弱，资金配置更趋于求稳</h2><p>　　把8月的变化串起来，结论其实很清楚：居民继续去杠杆，企业融资边际放缓，实体融资总量同比下降。在此环境下，财政保持必要支出强度，但高质量发展大方向下政策发力更讲节奏，延续托而不举的定力；同时，居民和企业存款增长放慢且定期化加深，金融投资占比明显提升，表明居民风险偏好处在低位但低利率下资金配置被动从传统存款向非存款类资产扩散。</p><p>　　因此，实体部门运转的核心矛盾不是“缺钱”，而是“需求偏弱”，这既是短期预期偏谨慎的表现，也体现了高质量发展阶段对低效扩张的约束。后续真正需要观察的，是企业定期存款何时转化为经营支出和投资，以及居民存款定期化何时出现松动。<a class=\"end_ico\" href=\"https://opinion.caixin.com/2026-09-22/102487555.html\" rel=\"nofollow\" title=\"企业融资结构持续变化\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "图集｜柬埔寨“诈骗城”内部首度曝光 可容纳2万人内设假警局",
-          "url": "https://photos.caixin.com/2026-09-22/102487532.html",
-          "published": "Tue, 22 Sep 2026 17:14:38 +0800",
-          "summary": "<img alt=\"当地时间2026年9月21日，柬埔寨波罗勉省，在一处已关闭的诈骗中心园区内，一名官员在仿造新加坡警察部门的房间内使用手电筒照明。此处疑似供诈骗人员视频通话时，冒充警务人员及金融犯罪调查人员行骗使用。图：TANG CHHIN SOTHY/视觉中国\" id=\"picture_179006768178952\" src=\"https://img.caixin.com/2026-09-22/179006768178952_840_560.jpg\" /><dl><dt>当地时间2026年9月21日，柬埔寨波罗勉省，在一处已关闭的诈骗中心园区内，一名官员在仿造新加坡警察部门的房间内使用手电筒照明。此处疑似供诈骗人员视频通话时，冒充警务人员及金融犯罪调查人员行骗使用。图：TANG CHHIN SOTHY/视觉中国</dt></dl><p>　　当地时间2026年9月21日，波罗勉省大型电诈据点“8号园区”，柬埔寨当局首次公开这座可容纳约2万人的“诈骗城”内部情况。园区内部分区域设置大量门禁闸机，园区道路和公共区域安装监控设备。部分建筑内部仍留有大量办公桌椅、电脑显示器等设备，并设有大型网络机房。办公室墙上还挂有编号“手机袋”，以及各种标语。</p><p>　　据柬埔寨当局介绍，柬埔寨波罗勉省“8号园区”，又称“万胜商业城”（Meun Chey Commercial City）或“传奇园区”（Legend Park），位于波罗勉省，2023年建设，占地约120公顷，规模庞大。办公、住宿、餐饮、商业、娱乐及网络设施一应俱全，已形成一座相对独立的“城中城”。</p><p>　　该园区曾有约7000名外籍员工，2025年后增加至20000人，其中包括来自中国、巴基斯坦、印度和尼泊尔等国的公民。</p><p>　　“8号园区”由柬埔寨公司Legend Innovation运营。英国政府2026年3月对该公司及董事Eang Soklim实施制裁，指出“8号园区”是柬埔寨最大型的电诈据点，可容纳多达2万名遭人口贩运、被迫从事网络诈骗的工人。</p><p>　　区块链分析机构Elliptic调查发现，该运营公司与太子集团存在关联。Legend Innovation被指通过公司电话、董事活动及相关商业记录，与被美英制裁的太子集团存有联系。其中，Legend Innovation登记使用的电话号码，曾出现在一家被指属于太子集团网络的房地产公司资料中。园区内一度设有汇旺支付实体店，供人员兑换加密货币及现金；汇旺物流则被指提供中国、泰国、越南、柬埔寨与园区之间的货运服务。</p><p>　　2025年10月，柬埔寨有关部门对太子集团创始人陈志展开调查，最终撤销了其公民身份并将其遣返回中国。随后，外籍人员开始撤离“8号园区”所在地。</p><p>　　2026年9月23日至24日，柬埔寨将于金边举办首届打击网络诈骗国际会议（ICCOS），邀请中国、美国及国际刑警组织等20多个国家和国际机构参加。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006768412714.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006768412714.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨波罗勉省“8号园区”，已关闭诈骗中心园区内的建筑全貌。图：TANG CHHIN SOTHY/视觉中国             </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006768663363.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006768663363.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨波罗勉省“8号园区”，电诈园区内监控摄像头。图：杨强/中新社/IC photo            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006768832059.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006768832059.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨波罗勉省“8号园区”，电诈园区工作间中用于放置手机的袋子挂在墙上。 图：杨强/中新社/IC photo            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006768540627.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006768540627.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨波罗勉省“8号园区”，园区房间内摆放着各种设施。图：TANG CHHIN SOTHY/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006769025220.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006769025220.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨波罗勉省“8号园区”，已关闭的诈骗中心园区房间内。 图：TANG CHHIN SOTHY/视觉中国             </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006769151915.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006769151915.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨柴桢省巴韦镇，银河赌场。此处网络诈骗中心园区已关闭。 图：TANG CHHIN SOTHY/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006769289471.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006769289471.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日，柬埔寨柴桢省巴韦市，曾用于诈骗活动的房间内的大麻烟管。 图：Heng Sinith/视觉中国            </div></div>",
-          "source": "财新"
-        },
-        {
-          "title": "吴泳铭：AI模型、芯片和云是阿里长期战略选择",
-          "url": "https://www.caixin.com/2026-09-22/102487512.html",
-          "published": "Tue, 22 Sep 2026 16:46:17 +0800",
-          "summary": "<img alt=\"资料图：吴泳铭。吴泳铭称，机器智能时代的三大基石是AI模型、AI芯片和AI云，这三项基础设施建设也是阿里坚持投入的项目和长期战略选择。图：视觉中国\" id=\"picture_179006716652734\" src=\"https://img.caixin.com/2026-09-22/179006716652734_840_560.jpg\" /><dl><dt>资料图：吴泳铭。吴泳铭称，机器智能时代的三大基石是AI模型、AI芯片和AI云，这三项基础设施建设也是阿里坚持投入的项目和长期战略选择。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>“机器正在成为思考的主力，智能正在成为一种规模化的商品。”9月22日，在“2026杭州云栖大会”上，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200230039&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">阿里巴巴集团</a>（NYSE：BABA/ 09988.HK）CEO<a class=\"database\" href=\"https://entities.caixin.com/persons/index?id=304193263&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">吴泳铭</a>表示，未来机器思考总量将达到人类的1000倍以上。</p><p>　　他表示，上一次这样的变化，是工业革命把“动力”变成了规模化的商品，今天机器动力已经承担了99.9%的物理工作；未来，人类的思考总量还会继续增长，但机器思考规模将以更快的速度扩张，预期将会承担99.9%的思考工作。而目前机器思考的总量，大概还不到人类的3%，“机器思考未来至少还有几万倍的增长空间”。</p><p>　　不过吴泳铭认为，机器智能时代的代表性产品还没有出现。在他看来，今天的AI Coding就像1882年的电灯，替代的是现有工作，还不足以创造一个新的时代。帮人编程、写报告，只是机器智能的初级阶段。“今天，我们很难预测，当机器智能爆发之后，会出现什么样的新产品、新发明”。</p><p>　　另一方面，智能机器思考能够规模化供给的前提，是AI基础设施足够完善、足够发达。他表示，就像当年各类电器得以普及，第一步是建设足够多的发电站和电网。“1900年前后，已有不少电器进入家庭，当时全世界一整年的发电量，放到今天只够用两个小时。”</p><p>　　吴泳铭称，机器智能时代的三大基石是AI模型、AI芯片和AI云，这三项基础设施建设也是阿里坚持投入的项目和长期战略选择。</p><p>　　AI模型方面，吴泳铭表示，过去一年，通往超级人工智能（ASI）的技术路径逐渐清晰，这条路径被称为递归式自我改进（RSI），模型从真实反馈中发现自身短板，自己设计实验、构建数据、评价结果，循环推动自身进化。阿里方面，Qwen团队正在进行RSI方面的探索，推进模型架构和数据优化研究，计划训练5—10T参数规模的全新模型，目标是完成更复杂、更长程的任务，向ASI迈进。</p><p>　　同时，AI还需要掌握感知和交互能力，像人一样理解声音、图像、表情和动作，对齐人类的文化、审美和价值观。因此，理解与生成一体化的多模态模型也是阿里的另一个重要研究方向。</p><p>　　AI芯片方面，阿里旗下全资芯片子公司在云栖大会上发布新一代芯片真武V900，吴泳铭称，该芯片是“目前中国算力性能最强的AI芯片”，性能是真武M890的3倍，真武M890是阿里<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=203705774&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">平头哥</a>在今年五月发布的训推一体AI芯片，性能是上代芯片真武810E的3倍，内置144GB显存，片间互联带宽为800GB/s。（详见财新网报道《<a href=\"https://www.caixin.com/2026-05-21/102446170.html\" target=\"_blank\">阿里发布新一代AI芯片平头哥真武M890和旗舰模型Qwen3.7-Max</a>》）</p><p>　　据介绍，真武V900内置216GB显存，片间互联带宽达到1200GB/s，原生支持FP8、FP4低精度计算，基于它构建的单一集群可扩展至50万卡。该芯片将于2027年第一季度量产售卖。吴泳铭称，预计平头哥AI芯片的年出货量将大幅提升。</p><p>　　“芯片负责生产Token（词元），云负责把Token送到每一个需要它的地方。”吴泳铭表示，模型需要持续训练和推理，Agent需要长时间执行任务，AI开发的软件也会越来越多。它们都会成为云上的“居民”，持续调用算力，阿里将全力投入AI基础设施建设，打造一朵面向机器智能时代的“AI云”。“我们的目标是到2032年，<a class=\"database\" href=\"https://entities.caixin.com/companies/index?id=200175932&amp;display=slideout&amp;originReferrer=waparticle\" target=\"_blank\">阿里云</a>运营的全球数据中心规模超过20GW，以满足快速增长的AI需求。”吴泳铭说。</p><p>　　阿里持续投入AI基础设施。2025年2月，阿里宣布，未来三年将投入超过3800亿元用于建设云和AI硬件基础设施，总额超过过去十年总和。在2026年8月20日的财报电话会上，吴泳铭透露，截至今年二季度末，3800亿元AI投资计划的总投入已达到1900亿元。</p><p>　　2026年8月23日，阿里宣布向境外的非美国人士配售新股，配售总金额为800亿港元（约合102亿美元），这是阿里巴巴2019年港股上市以来首次启动新股配售，也是港交所有史以来最大规模上市公司后续配股融资。阿里称，本次新股配售的目的是“进一步巩固阿里巴巴全球AI领先地位”，拟将配售所得款项净额全部用于投资其全栈AI能力，加强AI基础设施建设。（详见财新网报道《<a href=\"https://www.caixin.com/2026-08-24/102477425.html\" target=\"_blank\">阿里拟启动800亿港元新股配售 股价跌超8%</a>》）</p><p>　　针对资本市场对于大规模资本开支商业价值难以回收的质疑，吴泳铭在2026年8月21日二季度财报会上表示：“2030年之前，AI算力紧缺难以缓解，按照现有AI产品平均毛利水平，阿里资本开支可以实现三年之内回本”。而通过提升AI产品毛利率、提升自研平头哥芯片应用比例，以及与合作伙伴共建AI算力中心、对AI算力合同采用预付等商业手段，回本周期还能进一步压缩。（详见财新网报道《<a href=\"https://www.caixin.com/2026-08-21/102476322.html\" target=\"_blank\">阿里再调业务架构 AI投入继续影响利润和现金流</a>》）</p><p>　　9月22日，阿里港股收报114.8港元/股，涨1.95%；截至发稿，阿里美股盘前涨1.24%，报117.18美元/ADS。<a class=\"end_ico\" href=\"https://www.caixin.com/2026-09-22/102487512.html\" rel=\"nofollow\" title=\"吴泳铭：AI模型、芯片和云是阿里长期战略选择\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html?cxapp_link=true\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html?cxapp_link=true\" target=\"_blank\">AI全景</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "美银：AI驱动资本流入亚洲 万亿美元存储市场将翻倍",
-          "url": "https://finance.caixin.com/2026-09-22/102487503.html",
-          "published": "Tue, 22 Sep 2026 16:41:40 +0800",
-          "summary": "<img alt=\"当地时间2026年9月18日，首尔中区友利银行总行交易室电子屏显示韩元兑美元汇率、KOSPI及KOSDAQ指数收盘价。图：IC PHOTO\" id=\"picture_179006673588282\" src=\"https://img.caixin.com/2026-09-22/179006673588282_840_560.jpg\" /><dl><dt>当地时间2026年9月18日，首尔中区友利银行总行交易室电子屏显示韩元兑美元汇率、KOSPI及KOSDAQ指数收盘价。图：IC PHOTO</dt></dl><p>　　<b>【财新网】</b>“当管理层说‘这次不一样’的时候，通常意味着见顶。但我们认为，这次是真的不一样。”美国银行（简称“美银”）全球研究部韩国股票研究主管、亚洲科技研究统筹主管禹东济称。他指出，全球存储行业年市场规模已站上约1万亿美元，预计将在2030年前后翻倍至2万亿美元。</p><p>　　禹东济在美银证劵2026亚太区大会上发表上述观点。该行亚太区股票销售主管Joseph Lee称，新冠疫情期间美国经济大幅跑赢全球，资金因此回流美国；如今这一趋势正在转向，资本重新流入亚洲，而人工智能（AI）是其中最重要的驱动因素；带动今年亚洲几乎所有市场的成交量都同比大幅增长，专注亚洲的投资者业绩表现强劲，美银预计这一趋势将延续。“全球资本的流动追随GDP增长，亚太GDP平均增速为5%，而全球其他地区约2%。”</p><p>　　Joseph Lee特别指出，市场关注点正从芯片与存储向更广的领域扩散，包括数据中心、电力、基础设施、机器人、自动驾驶系统、工业自动化。“这是一个非常长期的主题。当投资者谈论AI时，应该记住，AI的基础设施大部分是在亚洲制造的，中国台湾主导先进芯片制造，韩国是存储的关键，中国在发展软件（大模型）与物理AI应用，日本则是自动化与机器人技术的领导者。”</p><h2 class=\"cx-app-content-subheads\">继续看好韩国股市</h2><p>　　亚太谈及AI，首推韩国股票。在AI半导体热潮的推动下，韩国KOSPI指数于2026年上半年一度攀升116%，6月19日盘中达到9385.59点的历史新高；但6月下旬至7月陷入43%的剧烈调整。除了深度去杠杆，外资卖出也是造成韩国“过山车”的原因之一。根据摩根士丹利韩国策略团队研报数据，2026年初至7月30日，外资累计净卖出KOSPI股票165.4万亿韩元；其中IT板块净卖出152.3万亿韩元。</p><p>　　被问及6、7月韩股的抛售潮，禹东济指出，通常股价大幅回调，意味着行业景气度下行，但韩国存储行业和出口数据显示，动能没有任何转弱迹象，12月预计好于季节性趋势，明年行业仍有双位数增长。</p><p>　　存储芯片仍然是韩股最核心的叙事。禹东济强调，尽管部分投资者担心AI在一两年内见顶、甚至担心泡沫，但韩国及亚洲的芯片厂商、零部件供应商已经在长期协议框架下与大型科技公司合作推进2030年的项目。</p><p>　　被问及AI的外溢效应，他对财新称，韩国零部件与材料供应商正在全球数据中心的建设中分一杯羹，尽管日本曾经毫无疑问是市场主导者，但日本的产能已经全部供给美国客户，而美国数据中心的扩张规模，已远远超过中国台湾和日本的产能增量，使韩国的闲置产能可以投入使用，同时叠加了存储芯片带来的协同效应，近期韩国零部件厂商拿到了不少新订单、新的长期供货协议。</p><p>　　他进一步称，韩国股市的驱动因素不仅有AI，还有AI外溢至韩国品牌的全球化趋势。“韩国的年出口值已超过1万亿美元，居全球第四，仅次于美国、中国、德国，以韩国较小的人口体量，这主要拜AI和全球化所赐。K-beauty（韩国美容）、K-pop（韩国流行音乐）这些韩流产业正借AI平台走向全球市场。”他称。</p><p>　　此外，从估值和股东回报方面，禹东济强调，韩国公司不只追求出货量，更在乎利润，许多公司交出了双位数的利润率，韩国企业的分红也已创历史新高，部分公司拿出50%甚至更高的自由现金流用于股东回报（分红加回购）。</p><h2 class=\"cx-app-content-subheads\">中国的三类AI公司</h2><p>　　针对中国的AI板块投资，美银全球研究部亚太区股票策略研究主管、中国研究部联席主管吴旖指出，当前有两股并行的力量在塑造中国市场：技术发展与政策。她认为，中国AI的本土化“不再只是政策愿景”，国内厂商正在技术标准上缩小差距、扩大市场份额，并叠加一波备受瞩目的行业公司IPO，使可供全球投资者投资的中国AI标的池已显著扩大。</p><p>　　美银证券按风险收益特征，将中国AI标的分为三类。第一类是本土AI产业链公司，包括半导体设备、晶圆代工、存储、AI加速器等。这类公司契合中国科技自立与国家安全的政策优先级，与美国AI资本开支周期的相关性较低。吴旖称，有投资者问“如果美国AI放缓怎么办”，对这类公司而言，盈利与需求的直接冲击很有限，因为它们主要面向中国本土市场，同时受益于周期性AI增长与结构性进口替代的双重驱动。但与之相对的是，这些公司估值偏高，部分标的市盈率高达50—150倍，仓位拥挤是投资者最大的担忧。</p><p>　　第二类是全球AI基建出口商，包括光模块、CPO、PCB、线缆、连接器等硬件公司。吴旖指出，它们在收入增长、利润率与技术能力上都已被验证，估值约20—40倍市盈率，处于合理区间；风险在于与美国AI资本开支高度相关，且制裁风险正在显性化。当美国联邦通信委员会（FCC）讨论限制中国零部件进入美国关键AI基础设施时，这类股票首当其冲。</p><p>　　第三类是AI应用，包括从AI大模型到人形机器人、端侧AI设备等。吴旖坦言，目前投资者对此相对谨慎，因为市场中并未出现清晰的杀手级应用，用户在不同大模型或AI设备之间切换的成本很低，价格战与利润率压力已经出现。</p><p>　　吴旖提到，美银证券发布了中国AI价值链的“微笑曲线”，认为价值与护城河集中于产业两端。一端是锚定“战略性瓶颈”，也就是设备和晶圆代工工厂，它们的资本开支门槛高、工艺知识产权需经长期积累、技术复杂度和监管壁垒亦高；另一端是大型生态系统，它们掌握海量用户、分发渠道和数据，具备交叉销售机会与赢家通吃的网络效应，终极形态是AI超级应用。“目前在中国，真正能够变现的是大型云平台；而中间环节的独立大模型厂商、独立物理AI制造商，在变现与护城河两方面都还在挣扎。”她称。<a class=\"end_ico\" href=\"https://finance.caixin.com/2026-09-22/102487503.html\" rel=\"nofollow\" title=\"美银：AI驱动资本流入亚洲 万亿美元存储市场将翻倍\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "美国、丹麦和格陵兰岛将签署安全合作协议 媒体称美将新建两处军事基地",
-          "url": "https://international.caixin.com/2026-09-22/102487488.html",
-          "published": "Tue, 22 Sep 2026 16:20:48 +0800",
-          "summary": "<img alt=\"当地时间2026年9月9日，北约“北极之盾”军事演习在格陵兰岛举行。图：IC PHOTO\" id=\"picture_179006580897379\" src=\"https://img.caixin.com/2026-09-22/179006580897379_840_560.jpg\" /><dl><dt>当地时间2026年9月9日，北约“北极之盾”军事演习在格陵兰岛举行。图：IC PHOTO</dt></dl><p>　　<b>【财新网】</b>在美国、丹麦以及丹麦自治领地格陵兰岛即将在9月22日签署安全合作协议之际，有媒体爆料称，美方将据该协议在格陵兰岛建立两处新的军事基地。</p><p>　　路透社援引数位消息人士的话称，这两处基地分别为纳萨尔苏瓦克（Narsarsuaq）和梅斯特斯维格（Mestersvig）。</p><p>　　纳萨尔苏瓦克位于格陵兰岛南部，此前美国在此处曾设立有布鲁伊·韦斯特一号（Bluie West One）军事基地，在1950年代关闭，此后该地区人口已经减少至数十人。</p><p>　　梅斯特斯维格位于格陵兰岛东海岸，是一处军事前哨，目前由丹麦特种部队“天狼星雪橇巡逻队”（Sirius Dog Sled Patrol）使用。</p><p>　　丹麦、格陵兰和美国三方预计将于美东时间10时30分（即北京时间22时30分）在纽约举行的联合国大会期间签署新协议。</p><p>　　该协议的文本尚未公开。路透社援引的消息人士称，协议细节要等到正式签署后才会最终敲定。</p><p>　　美国总统特朗普在9月18日宣布将签署该协议时称，该协议赋予美国对格陵兰岛“安全及所有其他需求方面的永久控制权”。</p><p>　　而丹麦方面则强调，该协议承认丹麦王国的主权和领土完整，以及格陵兰人民的自决权。</p><p>　　丹麦还称，该协议将北极安全置于军事防御联盟北约的监管下，而不是仅仅由丹麦和美国负责。</p><p>　　除了大幅扩张美国在格陵兰岛的军事基础设施之外，特朗普还宣称，将禁止美国的对手在格陵兰岛建立基地、维持军事存在，以及在此地进行“敏感领域的投资”。</p><p>　　特朗普在社交媒体帖子中没有明确点名任何其他国家。</p><p>　　但法新社此前报道援引未具名美国国务院官员的话称，该协议旨在“确保中国和俄罗斯不得在格陵兰岛设立基地、不得向格陵兰岛派遣军队，并建立防止两国在敏感领域进行投资的必要机制”。</p><p>　　观察人士称，这一协议或有望打破美国围绕格陵兰问题与北约盟友丹麦之间的对峙。</p><p>　　自2024年11月美国总统选举以来，特朗普多次宣称其欲“购买”具有关键战略意义的格陵兰岛，甚至表示不排除采取军事或经济胁迫手段的可能性，称美国“需要”格陵兰岛以确保美国国家安全乃至国际安全。</p><p>　　此举导致北约内部出现危机，并迫使丹麦和格陵兰岛政府与美方展开密集谈判。</p><p>　　此前于1951年，美国和丹麦政府便曾签订军事协定，允许美国在格陵兰岛建立军事设施。美国还有权在通知丹麦和格陵兰岛的情况下，自由地调动美军部队。</p><p>　　丹麦外长拉斯穆森2025年3月曾表示，这份协议为美国在格陵兰岛建立更强大的军事存在提供了充分机会，丹麦方面对此持开放态度。</p><p>　　目前尚未可知，9月22日签署的协议是否将修订1951年的防务条约，或建立新的框架。</p><p>　　拉斯穆森2025年3月回溯两国关系时曾介绍，自1945年以来，美国在格陵兰岛的军事存在从拥有17个基地和设施、数千名士兵，减少至仅在格陵兰西北部的皮图菲克太空基地驻有约200名士兵。</p><p>　　皮图菲克太空基地位于格陵兰西北部、靠近北极圈的地区，是美国国防部最北端的军事设施。</p><p>　　根据美国太空军官网介绍，皮图菲克太空基地拥有“世界之巅（Top of the World）”的战略地位，其通过固态相控阵雷达承担导弹预警、导弹防御和太空监视任务，并通过皮图菲克跟踪站执行卫星指挥与控制任务。</p><p>　　位于北美洲东北部的格陵兰岛拥有约5.7万人口、面积达216万平方公里，是世界第一大岛。该岛大部分疆域都位于北极圈内，是丹麦在北极地区利益的核心。</p><p>　　因其独特的地理位置和丰富的自然资源储备，格陵兰岛具有重要战略地位。格陵兰岛蕴藏着丰富的稀土、石油和天然气等自然资源；而在气候变暖引发冰川加速融化的背景下，北极地区或开辟新的海上航道，为国际商贸航运提供捷径，这使得格陵兰岛至关重要。</p><p>　　目前格陵兰岛是丹麦宪法框架内的自治领地，拥有高度自治权，在天然气资源管理、司法及警察等领域拥有自主权，其国防和外交事务则由丹麦政府掌管。</p><p>　　格陵兰岛的经济仍高度依赖丹麦政府补贴，覆盖格陵兰岛约一半的公共预算。据路透社报道，丹麦每年在格陵兰岛的支出略低于10亿美元，为5.7万名格陵兰居民平均提供约1.75万美元。<a class=\"end_ico\" href=\"https://international.caixin.com/2026-09-22/102487488.html\" rel=\"nofollow\" title=\"美国、丹麦和格陵兰岛将签署安全合作协议 媒体称美将新建两处军事基地\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000262.html?cxapp_link=true\" target=\"_blank\">【专题】特朗普2.0时代：影响与变局</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "盖茨吁各方共同权衡AI利弊 防止其成为“坏人最强大的武器之一”",
-          "url": "https://international.caixin.com/2026-09-22/102487482.html",
-          "published": "Tue, 22 Sep 2026 15:58:11 +0800",
-          "summary": "<img alt=\"当地时间2026年9月21日晚，美国纽约，盖茨基金会主席比尔·盖茨在目标守望者大会上发言。图：财新 曾佳\" id=\"picture_179006383462548\" src=\"https://img.caixin.com/2026-09-22/179006383462548_840_560.jpg\" /><dl><dt>当地时间2026年9月21日晚，美国纽约，盖茨基金会主席比尔·盖茨在目标守望者大会上发言。图：财新 曾佳</dt></dl><p>　　<b>【财新网】</b>美东时间9月21日，在美国纽约举行的盖茨基金会年度目标守卫者大会上，基金会主席<a href=\"https://key.caixin.com/topic/BQ02.000000158\" target=\"_blank\">比尔·盖茨</a>针对人工智能带来的挑战表示，科技行业确实已经在讨论AI的风险，但参与讨论的社会群体还不够广泛。</p><p>　　“对我来说，我希望自己无论有机会与哪些领导人见面，都能够讨论这些问题。我当然希望自己只谈外国援助、如何帮助降低儿童死亡率，可是AI已经到来，而我们还没有达到应有的认知和反应程度——我甚至可以说，迄今为止还没有出现真正的方案。”</p><p>　　盖茨回顾，过去几年，世界上许多最富裕的政府都变得越来越吝啬，削减了能够挽救低收入国家民众性命的关键援助。2023年以来，数百亿美元规模的援助已经蒸发。2025年，34个全球主要对外捐赠国中，有26个都削减了援助预算。“这是一个令人难以接受的道德缺失。”</p><p>　　盖茨强调，他想明确指出的是，这并不是“让世界上的某一部分去拯救另一部分”，而是希望通过慷慨之举来促进共同进步，比如共享新药物和疫苗、为农民提供质量更好的种子。</p><p>　　盖茨警示，在全球发展和援助规模收缩，维持基本医疗体系运转的基础资金已经被拉伸到极限的背景下，AI技术可以发挥巨大的平权作用，但人们必须牢记AI的两面性。</p><p>　　“农民、病人、学生，都可以通过这项技术真正地受益，但我们同时必须承认，AI技术有可能成为坏人的最强大武器之一，甚至可能出现AI失控的情况。”</p><p>　　盖茨说，因此应当让大家都参与进来，一起认识到AI发展中“存在各种权衡（tradeoffs）”。</p><p>　　他说：“这种权衡不是简单的某个党派对某个党派，也不会只是这个国家对那个国家。”</p><p>　　在多名硅谷科技CEO于9月中上旬密集公开呼吁放缓AI发展的几周前，70岁的盖茨就在8月底发布了一篇长文。他对科技巨头和世界各国领导人疾呼，必须马上采取行动，确保AI技术能够缩小全球发展不公，而不是拉大贫富差距。</p><p>　　在9月15日发布的一篇路透社采访中，盖茨直言：“我认为，现在没有任何一国政府在这个问题上是足够深入的。”</p><p>　　盖茨在这次采访中表示，他和美国总统特朗普等领导人已经沟通过他对AI风险的关切，盖茨也期盼自己能在今年晚些时候和中国领导人见面。</p><p>　　在9月21日的目标守卫者大会上，盖茨坦言，他理解为什么各国领导人没有对AI作出他预期的反应。“因为AI实在太突然、太令人震惊了，就好像10本科幻小说在同时发生。在一本科幻小说里，通常只会发生一件事情，比如基因工程，或者宇宙飞船出现了。”</p><p>　　盖茨形容：“但是AI创新的速度如此之快，如果你把不同的这些事情全都写进一本书里，整本书可能会显得毫无逻辑。”</p><p>　　盖茨表示，他设想的时间线是，希望在两三年后，整个社会能形成一种对AI的共同应对方案——尽量减少坏的结果，加速好的结果。</p><p>　　他模糊地展望道：“我认为，这些决定最终会由一种民主的方式作出，而且是在一种比较动荡的民主环境中（in a kind of tumultuous democratic environment）作出。”</p><p>　　但盖茨同时强调，一边减少AI的负面影响、一边推动AI的积极发展是有可能实现的。</p><p>　　他主张，未来的第一步就是让更多人参与进来，让他们成为AI技术的使用者，也让他们意识到，我们究竟面临着怎样的风险。</p><p>　　“人类的前路将取决于我们如何利用AI技术。要告诉大家：AI和过去的那些技术并不一样。如果把它看成过去的技术，就会让人产生一种自满感。”</p><p>　　他举例，为不同语言的母语者普及AI，就能够让更多人进一步地了解这项技术的利好和风险。</p><p>　　盖茨宣布，盖茨基金会当天启动了一项AI公私合作承诺：全球AI生态中的60家机构联合签署了一个五年目标，致力于让目前AI普及度较低的大约34亿人，能够用自己的语言安全、有效地使用AI。</p><p>　　签署方包括盖茨基金会、Google、Microsoft、NVIDIA、Amazon等科技企业，联合国儿童基金会、英国外交部等政府机构，以及印度、非洲国家等地的民间组织和研究人员等等。</p><p>　　就在前一天9月20日，中美两国的经贸团队在纽约举行了磋商，并就AI有关问题举行对话。</p><p>　　当晚，美国财政部长贝森特表示，美方提议在两国间建立一项AI安全通报机制，这项机制将在接下来的元首峰会上供两国领导人考虑，机制的名称就是“美中AI对话”。</p><p>　　财新对盖茨基金会CEO苏斯曼（Mark Suzman）提问，他如何看待中美两国建立AI对话机制的前景。苏斯曼对财新回答，他感到“有希望”。</p><p>　　在盖茨基金会宣布的这项五年承诺的60个联署方中，有许多家不久前刚刚公开警告AI风险的硅谷公司。那么这是否会影响盖茨基金会努力提高AI可及性的议程？</p><p>　　苏斯曼对财新表示，现在我们需要针对AI展开对话，所以盖茨基金会也在从基层推动事情的发生。</p><p>　　参与这项共同承诺的微软公司的副董事长兼总裁史密斯（Brad Smith）在9月21日当天的一场亚洲协会活动上，被澳大利亚前总理陆克文问及，他认为中美两国领导人应当就哪些AI事项达成共识？</p><p>　　史密斯表示，持续开展对话，并且分享彼此的最佳实践经验是很重要的。此外，在政府间磋商中，应当让更多专业人士参与进来，为今后的对话提供信息和支持。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006392311082.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006392311082.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月21日晚，美国纽约，亚洲协会全球主席、澳大利亚前总理陆克文（Kevin Rudd）与微软公司副董事长兼总裁史密斯（Brad Smith）举行对谈。图：财新 曾佳            </div></div>  <p>　　他具体指出，如果中美双方能够就一些关键的定义达成一致，比如如何定义相关技术、什么样的前沿模型需要接受测试，会是一件好事。</p><p>　　他认为，最终还是需要建立一个更广泛的多边合作机制，以确保AI的安全性，美国与中国开展合作很重要，美国与自己的盟友合作同样重要。在促进AI多边合作方面，如果美中两国都能在这个方向上采取一些实际措施，也会是一件好事。</p><p>　　陆克文也被财新问及，他对接下来的中美元首峰会抱有怎样的期待。陆克文表示，自己“总是很乐观”。<a class=\"end_ico\" href=\"https://international.caixin.com/2026-09-22/102487482.html\" rel=\"nofollow\" title=\"盖茨吁各方共同权衡AI利弊 防止其成为“坏人最强大的武器之一”\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">【专题】AI全景</a>、<a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">AI狂飙</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "视线｜污染、水耗与政治撕裂：AI数据中心狂热扩张撞上全美反抗浪潮",
-          "url": "https://photos.caixin.com/2026-09-22/102487443.html",
-          "published": "Tue, 22 Sep 2026 15:50:22 +0800",
-          "summary": "<img alt=\"当地时间2025年9月23日，美国弗吉尼亚州阿什本，无人机航拍显示Digital Reality数据中心屋顶的空气处理装置。弗吉尼亚州拥有650多个数据中心，是全球数据中心最集中的地区。图：JIM LO SCALZO/视觉中国\" id=\"picture_179006156846643\" src=\"https://img.caixin.com/2026-09-22/179006156846643_840_560.jpg\" /><dl><dt>当地时间2025年9月23日，美国弗吉尼亚州阿什本，无人机航拍显示Digital Reality数据中心屋顶的空气处理装置。弗吉尼亚州拥有650多个数据中心，是全球数据中心最集中的地区。图：JIM LO SCALZO/视觉中国</dt></dl><p>　　<b>【财新网】</b>当地时间2026年9月11日晚，美国新泽西州锡考克斯（Secaucus）的Equinix NY2数据中心发生故障。因柴油储罐的“计算机系统故障”，约5000至5500加仑（约1.9万至2.08万升）发电机备用柴油发生泄漏，并流入附近的安德森溪。新泽西州环境保护部随后表示，油污已有效遏制，并未扩散至哈肯萨克河主干。运营商Equinix则承诺展开内部调查，防止事故再次发生。</p><p>　　随着人工智能算力需求剧增，大型数据中心为了保障“永不间断”地运行，普遍配备了极其庞大的柴油发电机组和储罐。这让原本代表前沿科技的数据中心，沦为潜在的大型石化燃料污染源。</p><p>　　事件发生时，公众正对科技巨头狂热扩张数据中心的能耗与生态代价高度敏感。事故迅速引发了当地社区和环保组织的新一轮激烈声讨。环保组织“哈肯萨克河守护者”负责人比尔·希汉（Bill Sheehan）及当地市长对此表达严重关切。他们指出，支流是整个湿地生态系统的“毛细血管”，呼吁州政府对涉事公司追究自然资源损害赔偿。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006156975799.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006156975799.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月11日，美国新泽西州锡考克斯，因计算机故障，Equinix数据中心约5500加仑柴油泄漏至哈肯萨克河支流。此时柴油价格处于历史高位，当地居民呼吁暂停数据中心建设，而人工智能开发者和CEO也呼吁加强行业监管。图：James V Mignogna            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157098339.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157098339.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月15日，美国新泽西州西考克斯，数千加仑柴油从当地一家人工智能数据中心泄漏至安德森溪后，沿溪岸布设的软管、泵和屏障。该溪是哈肯萨克河的支流。9月11日，附近Equinix数据中心的储油罐发生柴油泄漏，承包商自事发后一直在现场清理水中油污。据新泽西州环境保护部称，泄漏已得到控制。图：Spencer Platt/视觉中国            </div></div>  <p>　　数据中心建设近年来引发多国本地社区的抗议与怀疑。反对者主要不满其对水与能源的巨量消耗、推高生活成本以及水污染隐患，同时质疑其未能创造足够的本土就业。这一反抗趋势在2026年显著加剧。行业监测机构Data Center Watch的数据显示，仅在2026年前几个月，全美就有多达75个数据中心项目因地方社区反对而被推迟或直接叫停，涉及计划投资金额高达1,300亿美元。草根反对运动实现了有效的全国规模，活跃反对团体数量自2025年第四季度末以来翻了一倍多，目前已遍及49个州。</p><p>　　在美国，数据中心争议已逐步演变成跨越党派、波及广泛的政治议题。科技媒体The Information援引民调指出，美国公众对数据中心的反对率在一年内急剧攀升：最新民调显示，高达75%的美国人反对建设数据中心，远高于一年前的42%。民众普遍担忧这些设施会吞噬能源、破坏环境、推高电价与水价，并带来持久污染。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157215645.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157215645.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月27日，美国艾奥瓦州西得梅因，太阳升起时的微软Project Ginger West项目及附近农舍。图：Liz Rymarev/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157334146.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157334146.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月27日，美国艾奥瓦州西得梅因，一群马在距离微软Osmium项目数据中心几英里外的农场草地上吃草。图：Liz Rymarev/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157448981.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157448981.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月27日，美国艾奥瓦州西得梅因，西得梅因居民加里·格尔克在自家后院修剪草坪。他和女友与微软“锇计划”数据中心共用一道围栏。该中心建成前，这片区域全是玉米地，微软曾提出收购他们的房屋及80英亩土地，但最终放弃了交易。图：by Liz Rymarev/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157567635.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157567635.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月25日，美国艾奥瓦州西得梅因，西得梅因居民金·耶勒玛在自家谷仓内表示：“我们想住在一个能正常生活的地方”。耶勒玛的住所靠近微软大型数据中心“锇计划”，仅隔着一片玉米地和一条gravel路。数据中心施工产生的大量车流将gravel粉尘吹进她的院子。她还担心粉尘会影响家中的两匹马，以及前来玩耍的孙辈。耶勒玛计划搬离居住了17年的房子，以远离该数据中心。图：Liz Rymarev, Post-Dispatch/视觉中国            </div></div>  <p>　　据《大西洋月刊》报道，目前全美已有15个州提出了针对数据中心的暂停法案。纽约州率先成为首个对大型数据中心实施建设暂停令的州；全球数据中心最密集的弗吉尼亚州也宣布全面收紧审批、商业与环保监管，强制要求使用清洁能源并禁止签署保密协议。更早之前，在当地居民强烈的抗议声浪下，威斯康星州德福雷斯特（DeForest）已于2026年1月取消了一个价值120亿美元的超大规模数据中心园区项目。</p><p>　　污水排放正成为美国环保人士关注的重中之重。据《卫报》，佐治亚州环保组织Flint Riverkeeper对位于费耶特维尔（Fayetteville）的QTS数据中心提起诉讼，指控其在过去两年向弗林特河排放了“大量泥沙和高浓度重金属”。在2026年5月下旬的一场国会听证会上，民主党众议员亚历山大·奥卡西奥-科尔特斯（AOC）手举瓶装的棕色浊水，直言Meta在佐治亚州的数据中心严重恶化了当地水质，甚至导致居民无水可饮。</p><p>　　据《卫报》2026年9月报道，Meta位于怀俄明州谢安市（Cheyenne）、耗资8亿美元的数据中心在进行“管道冲洗”作业时，向市政下水道排放了80.1万加仑废水。地方官员在废水中检测出吉氏铜绿假单胞菌（Cupriavidus gilardii）。尽管废水不直接作为饮用水，但官方担心居民可能因吸入灌溉水滴的蒸发物而感染细菌，因此于2026年7月暂停接收该设施的废水。</p><p>　　报道还提到，多名活动人士怀疑废水中可能含有更多危险物质，包括管道或闭环冷却系统中滋生的耐药菌与罕见细菌，以及用于维护管道的“永久化学品”和防腐重金属。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157681874.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157681874.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月14日，美国纽约，纽约州州长凯西·霍楚尔14日签署行政令，暂停审批大型数据中心建设项目，以应对相关设施扩张带来的能源、环境和社区影响。图：Matt Roberts/ic photo            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157817292.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157817292.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月18日，美国弗吉尼亚州里士满，弗吉尼亚州州长阿比盖尔·斯潘伯格（D-VA）在帕特里克·亨利大楼举行关于数据中心问责制和人工智能的新闻发布会。发布会结束时，斯潘伯格签署了一项行政命令，旨在解决透明度、问责制、环境问题以及保持该州居民能源价格可负担性等问题。图：Win McNamee/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006157933546.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006157933546.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月25日，美国得克萨斯州奥斯汀，奥斯汀市议会成员凡妮莎·富恩特斯（中）和何塞·贝拉斯克斯（右）在一场新闻发布会上聆听7区议员迈克·西格尔发言。会上，奥斯汀市议会宣布计划在城市范围内禁止大型数据中心。图：Sara Diggins/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158055458.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158055458.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月19日，美国俄亥俄州阿什维尔，居民们在蒂兹谷高中参加由俄亥俄州电力选址委员会举办的公开会议时鼓掌，他们反对拟议中的天然气发电厂，该发电厂将为一座已在建设中的数据中心供电。俄亥俄州与弗吉尼亚州、得克萨斯州一样，是数据中心建设的中心，开发商被充足的平坦农田、丰富的水资源、与大型区域电网的连接以及慷慨的州税收优惠所吸引。图：Jessica Phelps/视觉中国            </div></div>  <p>　　“反数据中心”浪潮引发了跨党派的政治警惕。共和党人曾对建设AI基础设施充满热情，但如今地方共和党官员也不得不面对民间的抵制风暴。在水资源极度匮乏的怀俄明州，共和党众议员哈里特·哈格曼（Harriet Hageman）迫于民意与水危机，直接致信扎克伯格要求解释细菌污染事件：“水在我们州是宝贵的资源，得知旨在节水的系统竟造成了这种污染，令人极度担忧。”</p><p>　　《卫报》援引环保组织网络水资源保护组织联盟（Waterkeeper Alliance）数据，指出其全美55个分支机构正在推进与数据中心相关的议题，其中80%的行动集中于对污染物可能通过排放水渗入环境的担忧。全美反加密挖矿联盟主席伊冯娜·泰勒（Yvonne Taylor）进一步指出，数据中心排入河流的水温常高达42摄氏度，这极易诱发有害藻类爆发，进而污染整个水网系统。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158180420.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158180420.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年5月15日，美国犹他州斯诺维尔，大盐湖干涸的盐质湖床上可见轮胎痕迹。该区域位于博克斯埃尔德县拟议建设的斯特拉托斯项目数据中心以南数英里处。该数据中心提案得到名人投资者凯文·奥利里支持，但遭到科学家、环保组织和公民的强烈反对，他们担心项目可能对野生动物和大盐湖水位造成潜在破坏性影响。图：Natalie Behring/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158300940.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158300940.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年9月16日，美国密苏里州杰斐逊城，密苏里州议会大厦二楼栏杆上悬挂着一块反对数据中心的标牌。图：David A. Lieb/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158408858.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158408858.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月19日，美国俄亥俄州阿什维尔，一名儿童手持笔记准备在俄亥俄州电力选址委员会于蒂斯谷高中举办的公开会议上发言，反对拟议中的天然气发电厂项目，该电厂将为已在建的数据中心供电。俄亥俄州与弗吉尼亚州、得克萨斯州同为数据中心建设枢纽，开发商受充足的平坦农田、丰富的水资源、大型区域电网连接及丰厚州税收优惠吸引。图：Jessica Phelps/视觉中国            </div></div>  <p>　　除了水污染，惊人的耗水量和耗电量也是焦点所在。数据中心的大举涌入，给当地的能源和水资源带来了巨大压力。《卫报》援引研究指出，像GPT-3这样的模型，每生成10到50个中等长度的回复，就需消耗一瓶500毫升的水。大型数据中心每天需要多达500万加仑的水用于冷却，相当于5万人的日常用水量。预计到2028年，全美数据中心的年用水量将从2023年的约170亿加仑激增至730亿加仑。然而，绝大多数数据中心都选址在长期干旱地区。</p><p>　　此外，数据中心密集地区已有证据显示，其扩张和当地居民的电价负担呈现同步增长的趋势。PolitiFact数据显示，2021至2026年间，华盛顿特区、马里兰、缅因及纽约等数据中心密集区的住宅电价上涨了58%至94%。学界及监管方尚未形成就电价上涨与数据中心之间的直接因果关联达成明确共识。</p><p>　　与不断增加的居民生活成本形成鲜明对比的是，数据中心项目往往同时享有丰厚的地方或州级税收优惠，导致地方的财政收入损失激增。以2025财年为例，数据中心密集的弗吉尼亚州因相关税收豁免损失财政收入约16亿美元，较上一年激增118%。据《华尔街日报》报道，全美超过35个州都提供销售税豁免或类似优惠，通常以满足一定的投资额或就业岗位数量为交换条件。</p><p>　　随着居民反抗加剧且中期选举临近，各州的两党政治家纷纷暂停审批或加大监管力度，并减少了数据中心获得的税收优惠。例如，伊利诺伊州州长普利兹克已指示暂停处理新的数据中心激励协议，理由是“数据中心索取的太多、回报的太少”。新泽西州则于2026年8月通过《终止数据中心税收抵免法案》，取消了原计划中剩余的2.5亿美元额度。</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006316449745.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006316449745.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年6月15日，美国内华达州拉斯维加斯，亚历克斯·辛普森在由内华达州公共事业委员会举办的新闻发布会上举着标语，标语牌写着“让亿万富翁交税”。民众与倡导者就不断上涨的水电费及数据中心驱动的成本问题向政策制定者施压。图：Bryan Steffy/视觉中国            </div></div>  <p>　　然而，据《华尔街日报》报道，部分蓝领工会却展开了反击，甚至威胁不再支持反对数据中心项目的候选人。</p><p>　　数据中心项目建设需要大量的建筑、电气、暖通与管道工人，负责混凝土浇筑、电路布线以及冷水机组和发电机安装。随着建设提速，工人短缺成为限制美国AI竞赛的核心瓶颈。Meta、OpenAI、谷歌及微软等科技巨头主动加大技能培训投资，并与建筑及电气工会建立深入合作。蓝领工人工会认为，这为他们创造了可观的收入和就业机会。</p><p>　　尽管设施建成后的直接运维岗位较少，但支持者仍然认为，它能为地方政府提供长期的财产税与营业税，用于资助当地学校与公共设施建设。</p><p>　　在堪萨斯州，因民主党候选人反对数据中心建设，一个代表暖通空调（HVAC）和铁路工人的工会打破数十年惯例，转而支持共和党州参议员泰·马斯特森（Ty Masterson）竞选州长。管道工工会Steamfitters UA Local 602也明确表示，将严格审核政治家在数据中心议题上的立场，绝不支持反对者，并直言，“我们全靠这些工作生活。”</p><p>　　华盛顿、马里兰和弗吉尼亚州电气工人工会IBEW Local 26的政治协调员唐·斯拉伊曼（Don Slaiman）强调，数据中心能提供大量高薪岗位，该工会电工正积极出席听证会为项目发声，“如果你剥夺了出色的职业发展机会，你就不是我们的朋友……这是一个能让人跨入中产阶级上层、数十年一遇的机遇。”</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158531311.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158531311.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年6月15日，美国内华达州拉斯维加斯，亚历克斯·辛普森在由内华达州公共事业委员会举办的新闻发布会上举着标语，标语牌写着“让亿万富翁交税”。民众与倡导者就不断上涨的水电费及数据中心驱动的成本问题向政策制定者施压。图：Bryan Steffy/视觉中国            </div></div> <img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158694563.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158694563.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年8月2日，美国密西西比州索瑟芬，SpaceX AI正在建设的数据中心工程持续推进。为满足全球人工智能竞赛所需的计算能力激增需求而仓促建造的这些数据中心，在美国各地遭遇强烈反对。图：Brandon Dill/视觉中国            </div></div>  <p>　　相比蓝领工会，白领工会仍对AI和数据中心持保留与警惕态度。罗格斯大学劳工教育行动研究网络负责人托德·瓦洪（Todd Vachon）表示，对美国最大的工会联合会（AFL-CIO）而言，弥合阵营分歧极具挑战。而在中期选举前试图争取选民的两党政治家们，也同样陷入了两难。</p><p>　　《大西洋月刊》报道的缅因州杰伊镇（Town of Jay）成为了观察传统蓝领社区复杂态度的绝佳窗口。杰伊镇原本可能成为全美第一个通过数据中心暂停令的州，但该法案最终被州长珍妮特·米尔斯（Janet Mills）否决。米尔斯认为实行暂停令固然有理，但该法案未能给杰伊镇的数据中心项目留有余地，并不妥当。</p><p>　　2020年4月，一场突如其来的爆炸让杰伊镇失去了原有的造纸厂，也摧毁了这座小镇长期依附的经济支柱与身份认同。随后，开发商托尼·麦克唐纳看中了厂区遗留的基础设施，计划在此新建一座数据中心，并承诺创造125至150个高薪全职岗位。尽管同等规模的数据中心通常仅需30至50名员工，且会随着自动化程度增高而继续减少，当地居民也对这一明显虚高的数据保持着清醒的怀疑，但对于这个失去了传统工业、老龄化极其严重的小镇来说，选择并不多。面对长期经济困境，居民们普遍抱着“有总比没有强”的心态，渴望迎来哪怕一丝改变。</p><p>　　该项目不仅没有要求税收优惠，预计还能为小镇带来每年约600万美元的房产税。对比全镇仅720万美元的年度预算，他们期望这笔资金注入能改变当地的经济格局。</p><p>　　尽管州长米尔斯的否决专门为杰伊镇“保驾护航”，2026年6月，开发商麦克唐纳仍宣布暂停杰伊镇数据中心计划。大部分居民对此感到失望。</p><p>　　在这篇文章的评论区，两种观点产生了交锋。一种声音再次强调数据中心对本地社区具有掠夺性：“我们这个地区以前是煤矿，后来变成了工厂…… 如果有数据中心找上门，你必须确保清楚随之而来的是什么、要付出什么样的代价。务必确保预先拿到实打实的好处，因为事后他们绝不会给。不信去问问那些煤矿工人和工厂工人。”</p><p>　　但更多评论则带有同情色彩，指出数据中心是衰败工业区唯一的“救生索”。它们虽有缺陷，但反对者并未给出替代方案：“数据中心向此类地区抛出了救生索，税收能资助学校和市政服务。它们是长期解决方案吗？能像老工厂那样提供大量岗位吗？并不。但当你快要淹死时，从救生艇上抛过来一条绳子，总比淹死强。”</p><p>　　另一条评论写道：“杰伊镇很像我那正在走向死亡的家乡。我们曾经差点得到的救生索是水力压裂和赌博，直到纽约州禁止了前者，并将后者的牌照给了其他地区。你可以找出成千上万个反对它们的理由，我也同意大部分。但残酷的事实是，没有备选的C计划，地区只能继续衰败。在政治上，这里从微红变成了深红，因为人们对深蓝州的政策药方毫无信心。阻碍经济发展的人有责任提出替代方案，否则匮乏和绝望就会持续。归根结底，即使AI泡沫破裂，它也会在一段时间内向小镇注入资金，这总比什么都拿不到要强。给他们准备的B计划到底又是什么呢？”</p><img /> <div class=\"article_img_container\"><div class=\"article_img_box article_img_click \"><a href=\"https://img.caixin.com/2026-09-22/179006158817412.jpg\" target=\"_blank\"><img src=\"https://img.caixin.com/2026-09-22/179006158817412.jpg\" /></a></div><div class=\"article_img_talk\">                当地时间2026年7月18日，美国加利福尼亚州伯克利，民众在人行天桥上举着标语，参加反对人工智能数据中心扩张的全国性抗议活动。图：Josh Edelson/视觉中国            </div></div>",
-          "source": "财新"
-        },
-        {
-          "title": "进口高增：不止AI",
-          "url": "https://opinion.caixin.com/2026-09-22/102487423.html",
-          "published": "Tue, 22 Sep 2026 15:07:03 +0800",
-          "summary": "<img alt=\"2026年7月17日，江苏连云港，港口火车正在转运从货轮卸运的进口铁矿石。图：视觉中国\" id=\"picture_179006144941416\" src=\"https://img.caixin.com/2026-09-22/179006144941416_840_560.jpg\" /><dl><dt>2026年7月17日，江苏连云港，港口火车正在转运从货轮卸运的进口铁矿石。图：视觉中国</dt></dl><p>　　年初以来，中国进口增速大幅回升；中国进口主要为哪些商品？AI相关商品在本轮进口高增中贡献几何？除AI外，谁还在支撑进口增长？</p><p>　　一问：抽丝剥茧，中国在进口哪些商品？自发达地区进口资本品、新兴经济体进口中间品。</p><p>　　主线一：商品结构，中国进口以生产资料为主，占比大小顺序依次为：非AI生产资料、AI类生产资料、其他消费品、珠宝与贵金属。1-8月，中国AI类与非AI类生产资料进口占比分别为29.0%、52.1%；商品方面，AI生产资料中半导体器件、数据处理设备零部件占比较高；非AI生产资料中金属、能源占比较高；消费品中珠宝贵金属、食品占比较高。</p><p>　　主线二：区域结构，自新兴经济体进口占7成、主要为中间品，自发达经济体进口占3成、还包括资本品。自发达与新兴经济体进口差异主要为生产资料。自新兴经济体进口中间品占比较高（78.8%），主要为AI商品、原油与矿物进口等，资本品占比仅6.2%；自发达经济体进口资本品占比（31.8%）更高，主要为AI设备、机械、化学品等高端制造。</p><p>　　主线三：用途结构，进口用于出口和内需的比例接近，但内需进口并非由总消费和总投资驱动。最终用途来看，进口品用于投资、消费、出口的比重分别为23.4%、21.4%、55.2%；但内需类进口并非与总投资和总消费相关，消费类进口主要为黄金和食品，仅与相关领域需求有关。投资类进口主要为用于电子设备生产的有色金属，与设备购置投资有关。</p><p>　　二问：今年进口飙升，AI贡献几何？1-8月，AI进口贡献约50%的总进口增速。</p><p>　　今年以来，中国进口增速大幅回升，AI进口贡献约50%的总进口增速，传导链条为“全球AI革命-拉动中国AI出口-相应拉动AI进口”。1-8月，AI生产资料进口对总进口的同比贡献高达13.8个百分点，主因全球AI革命拉动中国AI出口，中国AI产业链主要为加工环节出口，加工需求增加带动半导体设备、数据处理设备零部件进口明显走强。</p><p>　　但在AI进口高增长过程中，量价关系也在发生变化；一季度数量指数表现更强，二季度以来AI进口主要由价格支撑。一季度，AI生产资料进口高增长主要源于数量走强，后者贡献了97%的进口增速；4月以来，AI进口量价关系发生转换，价格涨幅显著扩大，价格同比回升40.7个百分点至41.7%，而同期进口数量同比回落16.5个百分点至19.1%。</p><p>　　区域层面，今年自韩国、东盟及印度等地区进口高增也恰恰源于AI进口的影响。1-8月，自韩国、东盟及印度等区域进口表现较好，是推动总进口高增长的区域来源；从驱动逻辑看，自上述地区进口走强也源于AI革命的影响。譬如，自韩国进口中，AI生产资料贡献超90%的进口增速，自东盟进口也呈现类似特征。</p><p>　　三问：除了AI，谁还在支撑进口增长？非AI生产资料、贵金属也是进口增长的主要支撑。</p><p>　　除AI外，能源、金属矿与金属制品、医药与化学品等非AI生产资料及珠宝贵金属等消费品也在支撑进口增长。1-8月，非AI生产资料、珠宝贵金属等商品也在支撑中国进口增长，对总进口的同比贡献分别为5.2、6.7个百分点；细分商品来看，非AI生产资料中能源、金属矿及金属制品、医药化学品表现较好，同比贡献分别为0.5、3.6、0.7个百分点。</p><p>　　非AI生产资料进口主要由能源、金属矿物等商品影响，前者与油价上涨有关，后者与AI革命拉动国内设备投资有关。能源商品进口回升主因油价飙升影响，价格增速回升25.2个百分点至12.0%，而进口数量增速回落19.5个百分点至-15.5%；金属进口增长中，超70%由铜及AI相关金属支撑，后者与国内电子设备生产增速与设备投资高增相匹配。</p><p>　　消费品进口走强主要由珠宝与贵金属贡献，并非反映国内消费走强，而是与金价飙升带来的“炒黄金热”有关。中国消费品进口增长中超80%的增速由珠宝贵金属支撑，后者进口高增则由黄金进口支撑。拉长时间维度，贵金属进口与对应社零增速匹配；但今年来贵金属进口增速远超社零增速，或受国内“炒黄金热”影响，企业直接进口黄金，未计入社零。</p><p>　　总结：今年进口走强，60%源于AI革命影响，40%源于油价与金价波动影响。全球AI革命的直接影响为拉动AI产品进口，贡献总进口增速13.8个百分点，间接影响为拉动国内设备投资与有色金属进口，贡献总进口增速2.6个百分点，合计贡献总进口增速16.4个百分点；能源、黄金珠宝、化学品等进口走强，与中东局势变化、黄金价格波动有关。<a class=\"end_ico\" href=\"https://opinion.caixin.com/2026-09-22/102487423.html\" rel=\"nofollow\" title=\"进口高增：不止AI\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p><p>　　<b>更多报道详见：</b><a href=\"https://deepview.caixin.com/topic/BQ02.000006990.html\" target=\"_blank\">【专题】AI狂飙</a>、<a href=\"https://deepview.caixin.com/topic/BQ01.00000428.html\" target=\"_blank\">AI全景</a></p>",
-          "source": "财新"
-        },
-        {
-          "title": "人事观察｜卸任司法部副部长后 58岁胡卫列履新中央政法委副秘书长",
-          "url": "https://china.caixin.com/2026-09-22/102487413.html",
-          "published": "Tue, 22 Sep 2026 14:17:28 +0800",
-          "summary": "<img alt=\"资料图：胡卫列。图：视觉中国\" id=\"picture_179005791863150\" src=\"https://img.caixin.com/2026-09-22/179005791863150_840_560.jpg\" /><dl><dt>资料图：胡卫列。图：视觉中国</dt></dl><p>　　<b>【财新网】</b>近日，中国长安网“领导·机构”栏目更新显示，司法部原副部长胡卫列已任中央政法委副秘书长，在现任四名副秘书长中排名第三。此前排名第一的中央政法委副秘书长、年逾60岁的杨春雷卸任。</p><p>　　中央政法委高层近期多次调整。2026年5月，时任海南副省长、公安厅长<a href=\"https://search.caixin.com/search/%E8%94%A1%E6%9C%9D%E6%99%96.html\" target=\"_blank\">蔡朝晖</a>转任中央政法委专职主任（副部长级）；3月，时任最高检政治部主任<a href=\"https://key.caixin.com/topic/BQ02.000007076\" target=\"_blank\">滕继国</a>转任中央政法委副秘书长。</p><p>　　胡卫列现年58岁（1968年2月生），浙江绍兴诸暨人，复旦大学哲学系1986级本科生，2003年自中国政法大学诉讼法学专业行政诉讼法方向博士毕业，师从中国知名行政诉讼法学家应松年教授，后曾在吉林大学从事博士后研究，教授。</p><p>　　胡卫列历任国家检察官学院院办主任、副院长；最高检政治部干部教育培训部部长；国家检察官学院党委副书记、副院长，党委副书记、院长，2012年任国家检察官学院党委书记。国家检察官学院隶属于最高检，是中国检察系统的最高学府。2012至2017年，胡卫列还担任中国犯罪学学会第五届理事会会长。</p><p>　　至迟在2017年，胡卫列已出任最高检民事行政检察厅厅长。2018年，最高检内设机构改革启动，胡卫列在此次改革中出任最高检第八检察厅厅长。</p><p>　　2018年7月，中共中央总书记习近平主持召开中央全面深化改革委员会第三次会议，同意设立最高检公益诉讼检察厅。同年8月，最高检成立公益诉讼检察厅筹备组，并在内设机构改革过程中正式组建第八检察厅，作为承担公益诉讼检察职能的专门机构。</p><p>　　2019年1月，最高检内设机构改革后全面亮相，原有的民事行政检察厅一分为三，即民事检察厅、行政检察厅和公益诉讼检察厅。公益诉讼检察厅，也称第八检察厅，负责办理破坏生态环境和资源保护、食品药品安全领域侵害众多消费者合法权益等损害社会公共利益的民事公益诉讼案件，生态环境和资源保护、食品药品安全、国有财产保护、国有土地使用权出让等领域的行政公益诉讼案件，侵害英雄烈士姓名、肖像、名誉、荣誉的公益诉讼案件。</p><p>　　2019年1月，胡卫列经全国人大常委会会议获任命为最高检检委会委员。最高检官网更新显示，胡卫列出任最高检第八检察厅厅长。</p><p>　　2023年3月，胡卫列曾表示，过去五年，各级检察机关共立案办理民事、行政公益诉讼案件75.6万件，年均上升14.6%。“公益诉讼检察工作面临的最大挑战是，公益诉讼检察制度系统规范、体系完整协调的要求更加突显，与公益诉讼检察实践不断扩展、人民群众对公益保护的更高需求不相适应。因此，推进公益诉讼专门立法是下一步的重点。”</p><p>　　2023年8月，时任最高检第八检察厅厅长胡卫列升任司法部副部长。2026年9月20日，人社部发布国务院任免国家工作人员名单，免去胡卫列的司法部副部长职务。</p><p>　　任职司法部期间，胡卫列曾参与中央环保督察。2023年11月，第三轮第一批中央生态环境保护督察启动，胡卫列担任第五督察组副组长，负责督察青海省。</p><p>　　胡卫列多次出席新闻发布会。2024年10月，他在国新办发布会回应涉企执法乱象时表示，关于涉企检查的意见比较集中，检查频次过高、随意检查、重复检查等，影响企业的正常经营活动。我们将抓紧制定出台有关制度文件，指导各级执法机关开展分级分类检查，将对企业不规范检查、过多过滥检查的刚性约束从制度上落实下来。同时，推进全国行政执法综合管理监督信息系统建设，充分发挥信息化手段管控行政执法流程的作用。</p><p>　　2025年5月，胡卫列在国新办发布会介绍规范涉企行政执法专项行动情况。他表示，专项行动聚焦纠治四类突出问题。一是乱收费、乱罚款、乱检查、乱查封；二是违规异地执法和趋利性执法行为；三是执法标准不一致，要求不统一，加重企业负担的行为；四是滥用职权、徇私枉法、该罚不罚、“吃拿卡要”、粗暴执法等违反执法规范要求的行为。<a class=\"end_ico\" href=\"https://china.caixin.com/2026-09-22/102487413.html\" rel=\"nofollow\" title=\"人事观察｜卸任司法部副部长后 58岁胡卫列履新中央政法委副秘书长\"><img src=\"https://www.caixin.com/favicon.ico\" /></a></p>",
           "source": "财新"
         }
       ]
@@ -346,73 +346,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "1放量大涨！腾讯被视为“中国版Muse”，阿里最强国产AI芯片真武V900发布【导读】被视为“中国版Muse”+股份回购，腾讯控股放量大涨！坚定加码AI+最强国产AI芯片真武V900发布，阿里巴巴一度大涨超5%！　　9月22日，恒生指数、恒生科技指数早盘冲高后逐渐回落。截至收盘，恒生指数微涨0.18%，报2508港股AI爆发！中国基金报47分钟前",
-          "url": "https://news.10jqka.com.cn/20260922/c680174691.shtml",
+          "title": "2生意社：地缘风险降温 油价大幅回落至阶段低位生意社09月22日讯　　9月21日(周一)国际原油市场迎来显著回调，前期中东地缘冲突带来的风险溢价快速消退，两大基准原油价格同步大幅下跌，双双刷新9月9日以来最低点位，能源板块整体走弱。本轮下跌核心驱动为市场对中东局势冲突缓和、原油供应生意社昨天 08:48",
+          "url": "https://news.10jqka.com.cn/20260922/c680148739.shtml",
           "published": "2026-09-22",
-          "summary": "1放量大涨！腾讯被视为“中国版Muse”，阿里最强国产AI芯片真武V900发布【导读】被视为“中国版Muse”+股份回购，腾讯控股放量大涨！坚定加码AI+最强国产AI芯片真武V900发布，阿里巴巴一度大涨超5%！　　9月22日，恒生指数、恒生科技指数早盘冲高后逐渐回落。截至收盘，恒生指数微涨0.18%，报2508港股AI爆发！中国基金报47分钟前",
+          "summary": "2生意社：地缘风险降温 油价大幅回落至阶段低位生意社09月22日讯　　9月21日(周一)国际原油市场迎来显著回调，前期中东地缘冲突带来的风险溢价快速消退，两大基准原油价格同步大幅下跌，双双刷新9月9日以来最低点位，能源板块整体走弱。本轮下跌核心驱动为市场对中东局势冲突缓和、原油供应生意社昨天 08:48",
           "source": "同花顺"
         },
         {
-          "title": "高开低走，熟悉的剧本！股民：预判了你的预判中国基金报1小时前",
-          "url": "https://news.10jqka.com.cn/20260922/c680169366.shtml",
+          "title": "3纳指再创历史新高！美股大型科技股、中概股集体走强北京时间9月22日晚，美股三大股指集体高开，纳指盘初再创历史新高，美股大型科技股、在美上市热门中概股集体走强。大宗商品市场方面，国际金价、油价携手走软。　　业内机构认为，只要后续加息节奏保持温和、AI收入继续兑现，仍看好美股大盘科技股及持续上涨！中国证券报昨天 22:41",
+          "url": "https://news.10jqka.com.cn/20260922/c680185735.shtml",
           "published": "2026-09-22",
-          "summary": "高开低走，熟悉的剧本！股民：预判了你的预判中国基金报1小时前",
+          "summary": "3纳指再创历史新高！美股大型科技股、中概股集体走强北京时间9月22日晚，美股三大股指集体高开，纳指盘初再创历史新高，美股大型科技股、在美上市热门中概股集体走强。大宗商品市场方面，国际金价、油价携手走软。　　业内机构认为，只要后续加息节奏保持温和、AI收入继续兑现，仍看好美股大盘科技股及持续上涨！中国证券报昨天 22:41",
           "source": "同花顺"
         },
         {
-          "title": "午后突发！暴涨949%，中一签最高可盈利26万元！A股上演罕见一幕证券时报网2小时前",
-          "url": "https://news.10jqka.com.cn/20260922/c680166542.shtml",
+          "title": "谷歌被罚！爱尔兰数据保护委员会对谷歌开出4.03亿欧元罚单中国基金报昨天 23:06",
+          "url": "https://news.10jqka.com.cn/20260922/c680185918.shtml",
           "published": "2026-09-22",
-          "summary": "午后突发！暴涨949%，中一签最高可盈利26万元！A股上演罕见一幕证券时报网2小时前",
+          "summary": "谷歌被罚！爱尔兰数据保护委员会对谷歌开出4.03亿欧元罚单中国基金报昨天 23:06",
           "source": "同花顺"
         },
         {
-          "title": "最强国产AI芯片、10万亿参数模型、20GW数据中心—阿里云栖大会“火力全开”性能提升三倍！华尔街见闻7小时前",
-          "url": "https://t.10jqka.com.cn/pid_696762677.shtml",
+          "title": "AMD市值首破万亿美元，Meta智能体引爆CPU行情21世纪经济报道昨天 20:24",
+          "url": "https://news.10jqka.com.cn/20260922/c680181795.shtml",
           "published": "2026-09-22",
-          "summary": "最强国产AI芯片、10万亿参数模型、20GW数据中心—阿里云栖大会“火力全开”性能提升三倍！华尔街见闻7小时前",
+          "summary": "AMD市值首破万亿美元，Meta智能体引爆CPU行情21世纪经济报道昨天 20:24",
           "source": "同花顺"
         },
         {
-          "title": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？AI助手竞争升温！华尔街见闻9小时前",
-          "url": "https://t.10jqka.com.cn/pid_696572771.shtml",
+          "title": "单瓶2199元 ，“i茅台”上线四季酒，瞬间售罄！每日经济新闻昨天 21:46",
+          "url": "https://news.10jqka.com.cn/20260922/c680185165.shtml",
           "published": "2026-09-22",
-          "summary": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？AI助手竞争升温！华尔街见闻9小时前",
+          "summary": "单瓶2199元 ，“i茅台”上线四季酒，瞬间售罄！每日经济新闻昨天 21:46",
           "source": "同花顺"
         },
         {
-          "title": "华瓷股份6连板！家居股活跃，资金和机构看好这些股数据宝5小时前",
-          "url": "https://t.10jqka.com.cn/pid_696843080.shtml",
+          "title": "数贸会明日启幕：AI浓度超高，特斯拉Cybercab也来了！证券时报昨天 21:57",
+          "url": "https://news.10jqka.com.cn/20260922/c680185305.shtml",
           "published": "2026-09-22",
-          "summary": "华瓷股份6连板！家居股活跃，资金和机构看好这些股数据宝5小时前",
+          "summary": "数贸会明日启幕：AI浓度超高，特斯拉Cybercab也来了！证券时报昨天 21:57",
           "source": "同花顺"
         },
         {
-          "title": "雷军澄清“打新宇树科技赚了100多亿元”传言中国证券报6小时前",
-          "url": "https://news.10jqka.com.cn/20260922/c680160143.shtml",
+          "title": "智谱平台模型调用量第一，榜单登顶！马斯克“点赞”国产大模型突破！上海证券报·中国证券网昨天 18:36",
+          "url": "https://news.10jqka.com.cn/20260922/c680178625.shtml",
           "published": "2026-09-22",
-          "summary": "雷军澄清“打新宇树科技赚了100多亿元”传言中国证券报6小时前",
+          "summary": "智谱平台模型调用量第一，榜单登顶！马斯克“点赞”国产大模型突破！上海证券报·中国证券网昨天 18:36",
           "source": "同花顺"
         },
         {
-          "title": "飙涨402%、277%！两大新股，开盘大涨N中塑N世纪中国基金报8小时前",
-          "url": "https://news.10jqka.com.cn/20260922/c680155349.shtml",
+          "title": "中金公司，明起复牌！换股吸收合并东兴证券、信达证券上海证券报·中国证券网昨天 18:37",
+          "url": "https://news.10jqka.com.cn/20260922/c680178628.shtml",
           "published": "2026-09-22",
-          "summary": "飙涨402%、277%！两大新股，开盘大涨N中塑N世纪中国基金报8小时前",
+          "summary": "中金公司，明起复牌！换股吸收合并东兴证券、信达证券上海证券报·中国证券网昨天 18:37",
           "source": "同花顺"
         },
         {
-          "title": "韩国股市高开！两大芯片巨头，大涨！证券时报9小时前",
-          "url": "https://news.10jqka.com.cn/20260922/c680149385.shtml",
+          "title": "A股存储龙头，拟投资45亿元加码先进封测！证券时报e公司昨天 20:37",
+          "url": "https://news.10jqka.com.cn/20260922/c680183217.shtml",
           "published": "2026-09-22",
-          "summary": "韩国股市高开！两大芯片巨头，大涨！证券时报9小时前",
+          "summary": "A股存储龙头，拟投资45亿元加码先进封测！证券时报e公司昨天 20:37",
           "source": "同花顺"
         },
         {
-          "title": "沙特管道遭袭后扩大海湾出口，盘中布油破百、美油跌超6%华尔街见闻12小时前",
-          "url": "https://t.10jqka.com.cn/pid_696552492.shtml",
+          "title": "千问加速布局Personal Agent 开放平台覆盖领域已超20个上海证券报·中国证券网昨天 20:34",
+          "url": "https://news.10jqka.com.cn/20260922/c680183012.shtml",
           "published": "2026-09-22",
-          "summary": "沙特管道遭袭后扩大海湾出口，盘中布油破百、美油跌超6%华尔街见闻12小时前",
+          "summary": "千问加速布局Personal Agent 开放平台覆盖领域已超20个上海证券报·中国证券网昨天 20:34",
           "source": "同花顺"
         }
       ]
@@ -444,38 +444,38 @@
           "source": "新浪"
         },
         {
-          "title": "尾盘地产板块再度拉升，科技股全天高开低走｜华宝基金3A日报（2026.9.22）",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissyrf2019916.shtml",
+          "title": "算力配比有变化！Muse点燃CPU超级周期？龙头量价齐升，科创芯片设计ETF华宝（589430）标的指数再涨超2%",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inistewv6763518.shtml",
           "published": "2026-09-22",
-          "summary": "尾盘地产板块再度拉升，科技股全天高开低走｜华宝基金3A日报（2026.9.22）",
+          "summary": "算力配比有变化！Muse点燃CPU超级周期？龙头量价齐升，科创芯片设计ETF华宝（589430）标的指数再涨超2%",
           "source": "新浪"
         },
         {
-          "title": "别人亏钱的那几年，800红利低波是如何突围的？",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissyrc5632938.shtml",
+          "title": "科技行情进入右侧？Meta点燃AI芯片，科创人工智能ETF、科创芯片设计ETF携手走强！港股互联网反复活跃",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inistewv6762778.shtml",
           "published": "2026-09-22",
-          "summary": "别人亏钱的那几年，800红利低波是如何突围的？",
+          "summary": "科技行情进入右侧？Meta点燃AI芯片，科创人工智能ETF、科创芯片设计ETF携手走强！港股互联网反复活跃",
           "source": "新浪"
         },
         {
-          "title": "重要突破！长鑫G5量产，这波利好怎么跟？",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissuii2089752.shtml",
+          "title": "Meta引爆！端侧AI或规模化落地？SOC芯片强势领涨！科创人工智能ETF标的指数最高上探5.11%，589520斩获6连阳",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inistewv6761297.shtml",
           "published": "2026-09-22",
-          "summary": "重要突破！长鑫G5量产，这波利好怎么跟？",
+          "summary": "Meta引爆！端侧AI或规模化落地？SOC芯片强势领涨！科创人工智能ETF标的指数最高上探5.11%，589520斩获6连阳",
           "source": "新浪"
         },
         {
-          "title": "Meta Muse验证C端Agent，腾讯控股盘中涨超7%",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inissuii2089067.shtml",
+          "title": "算力短缺的风吹到了CPU？一文读懂Meta Muse如何重写算力逻辑！这些ETF值得重点关注",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inistexc1923859.shtml",
           "published": "2026-09-22",
-          "summary": "Meta Muse验证C端Agent，腾讯控股盘中涨超7%",
+          "summary": "算力短缺的风吹到了CPU？一文读懂Meta Muse如何重写算力逻辑！这些ETF值得重点关注",
           "source": "新浪"
         },
         {
-          "title": "科技投资风向变了？科创债ETF持续吸金",
-          "url": "https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuhz6883654.shtml",
+          "title": "C端Agent爆了，港股互联网迎新叙事！对标“中国版Muse”，腾讯控股盘中涨超7%",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-22/doc-inistewv6759997.shtml",
           "published": "2026-09-22",
-          "summary": "科技投资风向变了？科创债ETF持续吸金",
+          "summary": "C端Agent爆了，港股互联网迎新叙事！对标“中国版Muse”，腾讯控股盘中涨超7%",
           "source": "新浪"
         },
         {
@@ -598,52 +598,52 @@
           "source": "联合早报"
         },
         {
-          "title": "�й�����Ʒ�����������ī�����ƶ���ѧƷ����Ŀ¼\n�й��ڱ���ϰ�ػ�ǰ����������Ʒ�������ض����ҳ������ƶ���ѧƷ����Ŀ¼��һ������������������ī���硢���ô�����������Щ��ѧƷӦ�������ɡ� �й����񲿵��岿�����ڶ���9��22�գ����������������ض����ң��������������ƶ���ѧƷ����Ŀ¼��������1-����...\n2026-09-22 16:35:57",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281664.html",
+          "title": "ϰ�ض��᣺�������ء���ɽ��ܽ���� ��ȡ�������ɹ�\n�й�Ԫ����������ͳ������ʱ���ĸ��º󣬱��ܽ�������ʱ��9��24���ڻ�ʢ���ٴξ��л�̸����ϰ�ض��ᡱ�ǳ�ǰ�����й����������������������������ɭ�طֱ������������ó�Ŷ�����ŦԼչ�����׶δ��̣���˰��ó�ס�ϡ�����ɹ����˹����ܵ�����ݳƾ�����̸...\n2026-09-22 23:41:50",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281697.html",
           "published": "2026-09-22",
-          "summary": "�й�����Ʒ�����������ī�����ƶ���ѧƷ����Ŀ¼\n�й��ڱ���ϰ�ػ�ǰ����������Ʒ�������ض����ҳ������ƶ���ѧƷ����Ŀ¼��һ������������������ī���硢���ô�����������Щ��ѧƷӦ�������ɡ� �й����񲿵��岿�����ڶ���9��22�գ����������������ض����ң��������������ƶ���ѧƷ����Ŀ¼��������1-����...\n2026-09-22 16:35:57",
+          "summary": "ϰ�ض��᣺�������ء���ɽ��ܽ���� ��ȡ�������ɹ�\n�й�Ԫ����������ͳ������ʱ���ĸ��º󣬱��ܽ�������ʱ��9��24���ڻ�ʢ���ٴξ��л�̸����ϰ�ض��ᡱ�ǳ�ǰ�����й����������������������������ɭ�طֱ������������ó�Ŷ�����ŦԼչ�����׶δ��̣���˰��ó�ס�ϡ�����ɹ����˹����ܵ�����ݳƾ�����̸...\n2026-09-22 23:41:50",
           "source": "联合早报"
         },
         {
-          "title": "����CEO��δ��������е�99.9%��˼������\n����Ͱͼ���CEO��Ӿ��˵��δ������˼���������ﵽ����ǧ�����ϣ�������е�99.9%��˼�������� ���������ű�������Ӿ�����ڶ���9��22�գ���2026�������ܴ�ῪĻʽ�Ϸ�����ּ�ݽ��������ԡ���������ʱ������˼���� ��Ӿ��˵���������ܲ����������ܵ����Ʒ��...\n2026-09-22 16:35:54",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281663.html",
+          "title": "ϰ�ض��᣺�������ء���ɽ��ܽ���� ��ȡ�������ɹ�\n�й�Ԫ����������ͳ������ʱ���ĸ��º󣬱��ܽ�������ʱ��9��24���ڻ�ʢ���ٴξ��л�̸����ϰ�ض��ᡱ�ǳ�ǰ�����й����������������������������ɭ�طֱ������������ó�Ŷ�����ŦԼչ�����׶δ��̣���˰��ó�ס�ϡ�����ɹ����˹����ܵ�����ݳƾ�����̸...\n2026-09-22 22:51:42",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281691.html",
           "published": "2026-09-22",
-          "summary": "����CEO��δ��������е�99.9%��˼������\n����Ͱͼ���CEO��Ӿ��˵��δ������˼���������ﵽ����ǧ�����ϣ�������е�99.9%��˼�������� ���������ű�������Ӿ�����ڶ���9��22�գ���2026�������ܴ�ῪĻʽ�Ϸ�����ּ�ݽ��������ԡ���������ʱ������˼���� ��Ӿ��˵���������ܲ����������ܵ����Ʒ��...\n2026-09-22 16:35:54",
+          "summary": "ϰ�ض��᣺�������ء���ɽ��ܽ���� ��ȡ�������ɹ�\n�й�Ԫ����������ͳ������ʱ���ĸ��º󣬱��ܽ�������ʱ��9��24���ڻ�ʢ���ٴξ��л�̸����ϰ�ض��ᡱ�ǳ�ǰ�����й����������������������������ɭ�طֱ������������ó�Ŷ�����ŦԼչ�����׶δ��̣���˰��ó�ס�ϡ�����ɹ����˹����ܵ�����ݳƾ�����̸...\n2026-09-22 22:51:42",
           "source": "联合早报"
         },
         {
-          "title": "��������ŦԼ��ϯ���Ϲ����һ���Ա���\n�й����Ҹ���ϯ�������ڱ��ܸ�����ŦԼ��ϯ��81�����Ϲ����һ���Ա��ۡ� �й��⽻�����������ڶ���9��22�գ��������������������ģ�9��24�գ�����������9��26�գ���ŦԼ��ϯ��81�����Ϲ����һ���Ա��ۡ� �����˳ƣ�����ڼ䣬����������ϯ�з��ٰ��ȫ��...\n2026-09-22 16:35:51",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281662.html",
+          "title": "��ǿ�Ϻ����� ǿ�������ƽ����˹�����+���족\n�������Ϻ����й�������ǿ���ڶ���9��22�գ����Ϻ����У�ǿ��Ҫ���й�����ҵ�����Ǽ������������ƽ�������������ƽ����˹�����+���족���ƶ��˹����ܸ��ø����Ƚ�����ҵ��չ�� ���»��籨������ǿ���ڶ����Ϻ����У����Ⱥ��Ϻ����������˹�����Ӧ�����Ի�...\n2026-09-22 22:05:12",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281688.html",
           "published": "2026-09-22",
-          "summary": "��������ŦԼ��ϯ���Ϲ����һ���Ա���\n�й����Ҹ���ϯ�������ڱ��ܸ�����ŦԼ��ϯ��81�����Ϲ����һ���Ա��ۡ� �й��⽻�����������ڶ���9��22�գ��������������������ģ�9��24�գ�����������9��26�գ���ŦԼ��ϯ��81�����Ϲ����һ���Ա��ۡ� �����˳ƣ�����ڼ䣬����������ϯ�з��ٰ��ȫ��...\n2026-09-22 16:35:51",
+          "summary": "��ǿ�Ϻ����� ǿ�������ƽ����˹�����+���족\n�������Ϻ����й�������ǿ���ڶ���9��22�գ����Ϻ����У�ǿ��Ҫ���й�����ҵ�����Ǽ������������ƽ�������������ƽ����˹�����+���족���ƶ��˹����ܸ��ø����Ƚ�����ҵ��չ�� ���»��籨������ǿ���ڶ����Ϻ����У����Ⱥ��Ϻ����������˹�����Ӧ�����Ի�...\n2026-09-22 22:05:12",
           "source": "联合早报"
         },
         {
-          "title": "�й�����500ǿ   �����������λ��ǰ��\n2026�й���Ӫ��ҵ500ǿ�������������š�����Ͱͣ��й������޹�˾�������������޹�˾λ��ǰ���� ���»��籨�����й�ȫ�����������ڶ���9��22�գ�����򷢲�2026�й���Ӫ��ҵ500ǿ������ ���ݵ��н������Ӫ��ҵ500ǿӪҵ�����ܶ�44.93����Ԫ������898.51��Ԫ...\n2026-09-22 16:35:47",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281661.html",
+          "title": "�ݱ�DeepSeek���ܽ������Ϲ����������AI����\n·͸����������֪���߳ƣ��ڸ����쵼�����ŦԼ��ϯ���Ϲ����֮�ʣ��й��˹����ܣ�AI��������ҵ���������DeepSeek�����Ǳ��������Ϲ����������AI���յ���ҵ֮һ�� ��·͸�籨������15����Ա����ɵ����Ϲ������ᶨ����������9��23�գ����ᣬ����AI�����...\n2026-09-22 20:20:27",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281678.html",
           "published": "2026-09-22",
-          "summary": "�й�����500ǿ   �����������λ��ǰ��\n2026�й���Ӫ��ҵ500ǿ�������������š�����Ͱͣ��й������޹�˾�������������޹�˾λ��ǰ���� ���»��籨�����й�ȫ�����������ڶ���9��22�գ�����򷢲�2026�й���Ӫ��ҵ500ǿ������ ���ݵ��н������Ӫ��ҵ500ǿӪҵ�����ܶ�44.93����Ԫ������898.51��Ԫ...\n2026-09-22 16:35:47",
+          "summary": "�ݱ�DeepSeek���ܽ������Ϲ����������AI����\n·͸����������֪���߳ƣ��ڸ����쵼�����ŦԼ��ϯ���Ϲ����֮�ʣ��й��˹����ܣ�AI��������ҵ���������DeepSeek�����Ǳ��������Ϲ����������AI���յ���ҵ֮һ�� ��·͸�籨������15����Ա����ɵ����Ϲ������ᶨ����������9��23�գ����ᣬ����AI�����...\n2026-09-22 20:20:27",
           "source": "联合早报"
         },
         {
-          "title": "��ǰ�����й�Ԫ�ٸ�������ִ��������й�ϵ\n�ձ�ǰ���������й�Ԫ�ش����������������ִ����Ʋ�����ת�����й�ϵ�� ���ձ���ͬ�籨�����й�Ԫ�����죨9��20�գ��ڸ�֪�л����ϣ��شٸ�������Ϊ�������й�ϵ����Ŭ���� �й�Ԫ˵������ǰ�����й�ϵ�����ڷǳ��Ͼ���״̬�������У�����������ִ��ִ��...\n2026-09-22 16:35:41",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281659.html",
+          "title": "����죺������������Ʒ粨\n�򿪶��ֽ���ƽ̨������ͨ���ῴ���·���Ь�����ֻ���ƽ����Ե�������Ʒ��Ȼ�������й����ֽ����г���ͷ��ƽ̨�����ϣ�һЩ������ͨ����Ӿ��ѧ�����Ž����ȷ���ȴ��������Ů����Ƭ���������޻������û��������»�˽���ף����Ƴ�Ϊɫ�齻�׵�������ڡ�...\n2026-09-22 20:20:23",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281677.html",
           "published": "2026-09-22",
-          "summary": "��ǰ�����й�Ԫ�ٸ�������ִ��������й�ϵ\n�ձ�ǰ���������й�Ԫ�ش����������������ִ����Ʋ�����ת�����й�ϵ�� ���ձ���ͬ�籨�����й�Ԫ�����죨9��20�գ��ڸ�֪�л����ϣ��شٸ�������Ϊ�������й�ϵ����Ŭ���� �й�Ԫ˵������ǰ�����й�ϵ�����ڷǳ��Ͼ���״̬�������У�����������ִ��ִ��...\n2026-09-22 16:35:41",
+          "summary": "����죺������������Ʒ粨\n�򿪶��ֽ���ƽ̨������ͨ���ῴ���·���Ь�����ֻ���ƽ����Ե�������Ʒ��Ȼ�������й����ֽ����г���ͷ��ƽ̨�����ϣ�һЩ������ͨ����Ӿ��ѧ�����Ž����ȷ���ȴ��������Ů����Ƭ���������޻������û��������»�˽���ף����Ƴ�Ϊɫ�齻�׵�������ڡ�...\n2026-09-22 20:20:23",
           "source": "联合早报"
         },
         {
-          "title": "��ϰ�ػᡱǰ�����ⳤ�û����������ô򡱻�ʢ��\n��������������⽻�ٷ��ʱ�����������ͳ���������й��쵼�˼��������ǰ���죬����չʾ����º��������й�ϵ�� �����й��ٷ��Ļ����Ҫ���й�����⽻���������������⽻��������˹����������Ļ����������˱������ڽ�������ս�������¿��Ż���ľ�Ⱥ�Ͽ�ĺ�...\n2026-09-22 16:06:36",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281652.html",
+          "title": "�����Σ��й�����ŷ�����پ�ó�����Դ\n�й����񲿲���������ǿ�����й�����ŷ�����پ�ó����ĸ�Դ�����ǹ�ͬ�������Ļ�飬�й�����֧���й�����ŷͶ�ʡ� ����������һ��9��21�գ�����¹�������ҵЭ����ϯ���ա��й����񲿹������ڶ���22�գ��������˻������ʱ˵��˫�����е�����������ҵ...\n2026-09-22 20:20:19",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281676.html",
           "published": "2026-09-22",
-          "summary": "��ϰ�ػᡱǰ�����ⳤ�û����������ô򡱻�ʢ��\n��������������⽻�ٷ��ʱ�����������ͳ���������й��쵼�˼��������ǰ���죬����չʾ����º��������й�ϵ�� �����й��ٷ��Ļ����Ҫ���й�����⽻���������������⽻��������˹����������Ļ����������˱������ڽ�������ս�������¿��Ż���ľ�Ⱥ�Ͽ�ĺ�...\n2026-09-22 16:06:36",
+          "summary": "�����Σ��й�����ŷ�����پ�ó�����Դ\n�й����񲿲���������ǿ�����й�����ŷ�����پ�ó����ĸ�Դ�����ǹ�ͬ�������Ļ�飬�й�����֧���й�����ŷͶ�ʡ� ����������һ��9��21�գ�����¹�������ҵЭ����ϯ���ա��й����񲿹������ڶ���22�գ��������˻������ʱ˵��˫�����е�����������ҵ...\n2026-09-22 20:20:19",
           "source": "联合早报"
         },
         {
-          "title": "��ý��DeepSeekѺע��Ϊ��Ƭѵ����ģ��\n����ý�屨�����й��˹����ܣ�AI����ҵ���������DeepSeek������ʹ�û�Ϊ�ȹ�����Ƭѵ����ģ����Ϊ��Ҫս�Է����Խ��Ͷ�Ӣΰ���������Ӧ�������Ƚ���Ƭ���ڹ��ƴ��������ơ� ·͸��ת�������Ƽ�ý��The Information����һ��9��21�գ�������֪����ʿ͸¶��...\n2026-09-22 15:30:37",
-          "url": "https://www.kuzaobao.com/news/china/202609/2281645.html",
+          "title": "����̸���ۡ�ϰ�ض�����G2����\n�й��������������ڸչ�ȥ����ĩ������ŦԼ����������������ɭ�ػ�̸�� ��ɭ�ػ��Լ���˵����̸�ǳ��ɹ��������ص�����ó�����˹����ܡ���������������֮�佨����ͨ�����ơ���ϣ��˫���ܡ��Թ�ͬĿ��͹�ͬ��в�γɹ�ͬԸ������ ����죬�й�������ϯϰ...\n2026-09-22 18:32:32",
+          "url": "https://www.kuzaobao.com/news/china/202609/2281675.html",
           "published": "2026-09-22",
-          "summary": "��ý��DeepSeekѺע��Ϊ��Ƭѵ����ģ��\n����ý�屨�����й��˹����ܣ�AI����ҵ���������DeepSeek������ʹ�û�Ϊ�ȹ�����Ƭѵ����ģ����Ϊ��Ҫս�Է����Խ��Ͷ�Ӣΰ���������Ӧ�������Ƚ���Ƭ���ڹ��ƴ��������ơ� ·͸��ת�������Ƽ�ý��The Information����һ��9��21�գ�������֪����ʿ͸¶��...\n2026-09-22 15:30:37",
+          "summary": "����̸���ۡ�ϰ�ض�����G2����\n�й��������������ڸչ�ȥ����ĩ������ŦԼ����������������ɭ�ػ�̸�� ��ɭ�ػ��Լ���˵����̸�ǳ��ɹ��������ص�����ó�����˹����ܡ���������������֮�佨����ͨ�����ơ���ϣ��˫���ܡ��Թ�ͬĿ��͹�ͬ��в�γɹ�ͬԸ������ ����죬�й�������ϯϰ...\n2026-09-22 18:32:32",
           "source": "联合早报"
         }
       ]
@@ -653,6 +653,55 @@
       "name_cn": "华尔街见闻头条",
       "count": 10,
       "articles": [
+        {
+          "title": "工信部旗下媒体：“去宁德化”论调要不得",
+          "url": "https://wallstreetcn.com/articles/3782280",
+          "published": "",
+          "summary": "工信部旗下媒体中国工信新闻发文表示，最近一段时间，“去宁德化”在新能源汽车行业被反复炒作，俨然成了一场舆论闹剧。车企调整供应链、增加供应商、布局自研，本是正常的市场行为，却被不断包装成“去宁德化”，甚至渲染成整车企业与动力电池企业之间的对立。热闹背后，真正值得讨论的不是“谁替代谁？”，而是中国新能源汽车进入高质量发展阶段，究竟需要怎样的产业竞争。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "华尔街点评阿里云栖大会：20GW算力目标落地，云收入天花板再上移",
+          "url": "https://wallstreetcn.com/articles/3782305",
+          "published": "",
+          "summary": "云栖大会后，高盛、花旗、瑞银围绕阿里20GW数据中心扩张目标密集发布报告，重新测算阿里云长期收入空间。三家机构预计20GW目标对应约1600亿至1700亿美元外部云收入，并看好自研芯片、千问商业化及AI云需求增长，但对资本开支规模和AI变现节奏仍存在分歧。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
+          "url": "https://wallstreetcn.com/articles/3782306",
+          "published": "",
+          "summary": "美国对伊朗战争持续近七个月，柴油价格飙升、关税推高农资成本、出口受阻，三重压力正挤压美国农民生存空间。全美柴油均价已升至每加仑6.49美元，部分农场燃油支出大幅超预算。成本危机也开始转化为政治不满，部分传统共和党农民票仓出现动摇。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "最强国产AI芯片、20GW数据中心、千问手机、个人agent—阿里云栖大会“火力全开”",
+          "url": "https://wallstreetcn.com/articles/3782272",
+          "published": "",
+          "summary": "阿里巴巴CEO吴泳铭在云栖大会表示，客户AI需求非常强劲，将全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW。全新国产AI芯片真武V900，算力提升至真武M890的3倍。此外9月28日荣耀Magic9系列将成为首批搭载Qwen Intelligence的正式机型，荣耀Robot Phone亦同步支持。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2",
+          "url": "https://wallstreetcn.com/articles/3782295",
+          "published": "",
+          "summary": "阿里千问办公在云栖大会发布企业级AI Agent产品，其中推出的“企业上下文”通过整合、压缩和实时更新企业数据，让Agent以更低Token成本获取与任务相关的信息，进一步打造“懂业务”的数字员工。同时推出数字员工、协作空间、安全中心等功能。硬件方面，发布AI Agent随身助理QwenNote A2。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事",
+          "url": "https://wallstreetcn.com/articles/3782309",
+          "published": "",
+          "summary": "OpenAI正面临个人智能体赛道的竞争加速。据报道，公司内部正讨论开发对标Grok Bot、Meta Muse的个人助手功能，ChatGPT代码中还出现疑似“Aeon”的智能体相关字段。尽管OpenAI已有ChatGPT Work等执行能力，但竞争焦点正从“AI会不会聊天”转向“能否替用户持续完成任务”，信任与权限管理也成为关键门槛。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "OpenAI内部曝光：AI开始自己造AI！奥特曼急发全球暂停令",
+          "url": "https://wallstreetcn.com/articles/3782298",
+          "published": "",
+          "summary": "OpenAI内部AI模型已开始承担实验性模型训练及GPU内核优化等研发工作，多智能体可自主协作、迭代代码，推动AI研究自动化加速。与此同时，OpenAI发布全球AI安全协调提案，首次单列RSI，警告自动化研发可能加速AI自我改进，并呼吁建立全球技术标准和人类监督机制。",
+          "source": "华尔街见闻头条"
+        },
         {
           "title": "当模型开始“够用”，AI的下一场战争打什么？",
           "url": "https://wallstreetcn.com/articles/3782278",
@@ -668,59 +717,10 @@
           "source": "华尔街见闻头条"
         },
         {
-          "title": "Semianalysis硬核拆解：AI回答你一句话，背后发生了什么",
-          "url": "https://wallstreetcn.com/articles/3782261",
-          "published": "",
-          "summary": "MoE架构将推理拆解为预填充、中间填充、解码注意力与解码专家四个阶段，各阶段硬件需求截然不同。Semianalysis认为内存带宽比内存容量更值钱，堆容量不如提速度。聚合式与分离式架构之争本质是\"全能芯片\"能否实现的赌注。调度层成为隐形价值洼地，KV缓存分级存储管理将催生新兴存储赛道机会。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "美国电力严重短缺，“快速通电”成为核心价值",
-          "url": "https://wallstreetcn.com/articles/3782275",
-          "published": "",
-          "summary": "摩根士丹利预计，美国数据中心电力缺口已从38GW骤扩至57GW。即便引入燃气轮机、燃料电池等“快速通电”方案，2027年净缺口中值仍达33GW，相当于六个纽约市的基础用电量。电力荒之下，“快速通电”能力已成稀缺硬资产：提前一年通电，每瓦价值高达4.5美元，是年度电力成本的近6倍。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "高盛详解“AI时代的文娱产业”：无限的供给 vs 有限的注意力",
-          "url": "https://wallstreetcn.com/articles/3782273",
-          "published": "",
-          "summary": "高盛最新报告揭示AI正在颠覆中国文娱价值链：内容生产成本骤降80%-95%，短剧产量较去年全年暴增13倍，但供给无限并不等于利润共享。制作层价值被系统性压缩，头部IP与分发平台坐收渔利；游戏赛道最具韧性，腾讯、网易领跑AI化；长视频平台短期受益、长期承压。变现困局与监管收紧，是悬在行业头顶的两把达摩克利斯之剑。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "能源价格上涨叠加债市波动，大摩Wilson：美股近期或面临7%回调风险",
-          "url": "https://wallstreetcn.com/articles/3782230",
-          "published": "",
-          "summary": "大摩Wilson认为，若金融条件进一步收紧或能源价格大幅走高，标普500指数可能跌至7100点。这一水平较该指数上周五收盘价低约7%。尽管如此，Wilson仍维持年底看涨立场，预计强劲的企业盈利将推动年末反弹，目标点位为8000点，较当前水平上涨近5%。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "高盛专家电话会：现房销售转型下，明年3月起新房供应或出现短缺、持续12至18个月",
-          "url": "https://wallstreetcn.com/articles/3782216",
-          "published": "",
-          "summary": "在高盛组织的中国地产专家电话会上，上海易居房地产研究院院长丁祖昱预计，销售模式改革或导致2027年3月至2028年9月出现12至18个月的供应收缩；中端国企及强区域性房企或在行业格局重塑中获得更多市场空间。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "内存价格在燃烧，芯片战争又打起来了",
-          "url": "https://wallstreetcn.com/articles/3782219",
-          "published": "",
-          "summary": "手机厂商扎堆发布高端旗舰，背后既有存量竞争，也有2nm芯片与自研芯片的较量。苹果、高通、联发科相继推出2nm芯片，华为、小米则通过W2W等先进封装探索芯片性能提升。与此同时，芯片厂商集体“All in AI”，SoC正从单一NPU向全子系统异构AI算力网络演进。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "油价短线跳水！报道：伊朗称若美方解除封锁，将在7天内重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3782296",
-          "published": "2026-09-22 18:00:10",
-          "summary": "报道称，伊朗官员表示，若美国采取初步措施缓解军事压力，包括终止对伊朗港口的军事封锁、停止与霍尔木兹海峡相关的军事行动，伊朗愿在7天内重新开放霍尔木兹海峡。该提议已通过中介传达美方，并获伊朗最高领袖及最高国家安全委员会批准，但两国领导人会面被排除。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2",
-          "url": "https://wallstreetcn.com/articles/3782295",
-          "published": "2026-09-22 16:39:12",
-          "summary": "阿里千问办公在云栖大会发布企业级AI Agent产品，其中推出的“企业上下文”通过整合、压缩和实时更新企业数据，让Agent以更低Token成本获取与任务相关的信息，进一步打造“懂业务”的数字员工。同时推出数字员工、协作空间、安全中心等功能。硬件方面，发布AI Agent随身助理QwenNote A2。",
+          "title": "AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V",
+          "url": "https://wallstreetcn.com/articles/3782289",
+          "published": "2026-09-23 05:55:37",
+          "summary": "纳斯达克100指数收涨0.8%，道琼斯工业平均指数下跌0.4%，标普500指数基本收平。芯片股连续第六个交易日上涨，美光科技和英伟达领涨，而金融板块则成为当日市场最大拖累。黄金收涨0.4%至每盎司4361美元，比特币小幅下跌0.9%至约86196美元，美元指数收于近期高位。",
           "source": "华尔街见闻头条"
         }
       ]
@@ -731,73 +731,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "油价短线跳水！报道：伊朗称若美方解除封锁，将在7天内重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3782296",
-          "published": "2026-09-22 18:00:10",
-          "summary": "报道称，伊朗官员表示，若美国采取初步措施缓解军事压力，包括终止对伊朗港口的军事封锁、停止与霍尔木兹海峡相关的军事行动，伊朗愿在7天内重新开放霍尔木兹海峡。该提议已通过中介传达美方，并获伊朗最高领袖及最高国家安全委员会批准，但两国领导人会面被排除。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "业内首个企业级Agent产品！千问办公发布“企业上下文”，同步推出AI硬件QwenNote A2",
-          "url": "https://wallstreetcn.com/articles/3782295",
-          "published": "2026-09-22 16:39:12",
-          "summary": "阿里千问办公在云栖大会发布企业级AI Agent产品，其中推出的“企业上下文”通过整合、压缩和实时更新企业数据，让Agent以更低Token成本获取与任务相关的信息，进一步打造“懂业务”的数字员工。同时推出数字员工、协作空间、安全中心等功能。硬件方面，发布AI Agent随身助理QwenNote A2。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "Meta Muse爆红，杰富瑞：服务器CPU重回焦点，PCB、ABF基板或迎重估",
-          "url": "https://wallstreetcn.com/articles/3782294",
-          "published": "2026-09-22 16:25:07",
-          "summary": "杰富瑞认为，智能体应用对推理算力、多任务编排及底层基础设施的消耗，均显著高于传统聊天机器人场景。随着AI从聊天机器人向智能体应用加速演进，推理、编排及基础设施层的算力需求将持续扩张，PCB及ABF基板供应商有望迎来重估机会。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "AI交易卷土重来，亚太市场冲高回落，韩股收涨0.15%，布油反弹1.5%，黄金跌破4300",
+          "title": "AI热情叠加中东局势缓和预期，纳指四连涨新高，美金融股下挫，原油五连跌，黄金走V",
           "url": "https://wallstreetcn.com/articles/3782289",
-          "published": "2026-09-22 16:05:35",
-          "summary": "Meta旗下新一代AI智能体Muse的强劲市场反响成为本轮行情的核心驱动力。欧洲斯托克50指数开盘涨0.17%，纳斯达克100指数期货小幅上涨0.1%。亚太市场冲高回落，韩股收涨0.15%，现货黄金失守4300美元/盎司，日内跌近1%。布伦特原油价格反弹1.5%，逼近每桶102美元。",
+          "published": "2026-09-23 05:55:37",
+          "summary": "纳斯达克100指数收涨0.8%，道琼斯工业平均指数下跌0.4%，标普500指数基本收平。芯片股连续第六个交易日上涨，美光科技和英伟达领涨，而金融板块则成为当日市场最大拖累。黄金收涨0.4%至每盎司4361美元，比特币小幅下跌0.9%至约86196美元，美元指数收于近期高位。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "腾讯港股收涨5%！Meta Muse走红，腾讯C端Agent生态被重估",
-          "url": "https://wallstreetcn.com/articles/3782282",
-          "published": "2026-09-22 16:04:10",
-          "summary": "腾讯港股大涨近8%，主因Meta AI Agent应用Muse走红引发市场映射逻辑：坐拥庞大社交与小程序生态的微信，被视为“中国版Muse”最具优势的落地载体。市场看好其利用小程序与闭环支付体系降低AI交付摩擦，借分发与生态优势抢占2C Agent赛道先机。",
+          "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，单笔最高2500万美元",
+          "url": "https://wallstreetcn.com/articles/3782324",
+          "published": "2026-09-23 05:17:44",
+          "summary": "特朗普名下账户7月买卖总额介于7900万至2.70亿美元之间。7月20日，账户分别出售微软与亚马逊，每笔交易金额介于500万至2500万美元之间，为当月规模最大的两笔交易，还卖出了甲骨文，买入Intuit、Salesforce、Marvell与英伟达。同日账户还卖出了军工巨头诺斯罗普·格鲁曼，当天特朗普签署了收紧国防承包商供应链要求的行政令。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "Grok 4.7上线，全球第三，马斯克：4.8也训完了",
-          "url": "https://wallstreetcn.com/articles/3782290",
-          "published": "2026-09-22 15:56:51",
-          "summary": "SpaceXAI发布Grok 4.7，主打同价同速、超强性能，专为编程和知识工作而生，编程成绩直追第一梯队，但高度依赖GrokBuild框架，脱离后表现打折。单价便宜，因输出token多，总账优势被腰斩。官方同时透露，下一代Grok 4.8也已训完。",
+          "title": "特朗普表态支持禁止柴油出口，炼油股承压",
+          "url": "https://wallstreetcn.com/articles/3782325",
+          "published": "2026-09-23 05:02:48",
+          "summary": "特朗普表示已内部呼吁禁止柴油出口，美国财长贝森特证实政府正评估禁令可行性。此举被视为中期选举前应对通胀压力的政策转向，与特朗普一贯的能源出口立场相悖。能源部长和内政部长均警告禁令可能适得其反，炼油板块随即承压，Valero和Marathon股价分别下跌逾4%和3%。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "沙特阿美非正式告知亚洲炼厂：延布港原油装载即将恢复",
-          "url": "https://wallstreetcn.com/articles/3782291",
-          "published": "2026-09-22 15:56:45",
-          "summary": "媒体报道称，至少三家亚洲燃料加工企业已从沙特阿美高管处获得非正式保证，称装载将很快重启，但未给出具体时间表。知情人士透露，沙特方面正寻求在数日内将管道恢复至约一半产能，并争取在约六周内达到满负荷运营。",
+          "title": "9月23日会员早报：特朗普“承认”对伊战争最少会持续到中选之后 沙特“霍尔木兹替代管道”重启",
+          "url": "https://wallstreetcn.com/member/articles/3782326",
+          "published": "2026-09-23 05:01:36",
+          "summary": "Anthropic发布Opus5.5",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "突破100bp！法德利差14年新高：法国财政与政治风险何时引爆？",
-          "url": "https://wallstreetcn.com/member/articles/3782212",
-          "published": "2026-09-22 15:33:40",
-          "summary": "法德利差突破100个基点，法国财政政治风险加剧，预算与穆迪评级或成引爆点，利差恐升至120bp。",
+          "title": "报道：苹果开发新型健身追踪器原型机，目标直指Whoop",
+          "url": "https://wallstreetcn.com/articles/3782323",
+          "published": "2026-09-23 04:10:40",
+          "summary": "苹果正秘密开发一款无屏幕健康追踪腕带，外形与Whoop高度相似，配备织物表带和传感器模块。该项目获库克等高层支持，但仍处\"技术调查\"初期阶段，苹果尚未决定是否发布该产品。即便项目继续推进，最早2028年发布。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "GPU、ASIC之后，CPU又来抢产能：ABF为何成为AI的新瓶颈？",
-          "url": "https://wallstreetcn.com/member/articles/3782277",
-          "published": "2026-09-22 14:59:57",
-          "summary": "GPU和ASIC过去两年持续吞噬高端ABF载板产能，如今CPU成为新的需求变量。Agentic AI带动服务器CPU需求快速上修，而AI芯片尺寸扩大、层数增加、良率下降，又在持续压低“有效产能”。\n更值得关注的是，高端压合设备订单交期已延至2031年，载板扩产受到设备、材料、认证和良率多重约束。\n当三类高性能芯片开始争夺同一批高端产能，ABF产业链会出现怎样的新机会？",
+          "title": "伊朗拟重罚未授权过境霍尔木兹船只：货值20%罚款，拒付就暂扣",
+          "url": "https://wallstreetcn.com/articles/3782322",
+          "published": "2026-09-23 04:10:25",
+          "summary": "据伊媒周二报道，伊朗议会国家安全委员会已批准有关霍尔木兹海峡的新法律条款，根据这些条款，违反海峡通行规定的船只，除需缴纳相当于货物价值20%的罚款外，还将被暂时扣押，直至罚款缴清；伊朗将设立专门的司法部门分支确保规定执行，伊朗武装部队将每三个月报告执行情况。特朗普同日称，美伊当天仍在沟通，预计最终会达成协议。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "雷军回应“打新宇树科技赚了100多亿元”：不是我投资的，是顺为投资的，也不是打新，而是早期天使投资",
-          "url": "https://wallstreetcn.com/articles/3782287",
-          "published": "2026-09-22 14:56:59",
-          "summary": "雷军透露十几年前便认识创始人王兴兴，投资初衷源于自身创业时融资之难，希望帮有想法的年轻人圆梦。近日，雷军更实地探访，亲自上阵与人形机器人硬核“过招”。",
+          "title": "美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”",
+          "url": "https://wallstreetcn.com/articles/3782318",
+          "published": "2026-09-23 04:10:01",
+          "summary": "美联储里士满联储主席Barkin表示：通胀降温不会一蹴而就，供给侧冲击已由\"暂时性\"演变为持续性压力，高企的通胀水平存在向未来预期固化传导的风险。Barkin对经济整体形势持相对乐观的态度，关于后续政策路径，其表示需要\"视情况而定\"。Barkin今年没有投票权。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉",
+          "url": "https://wallstreetcn.com/articles/3782320",
+          "published": "2026-09-23 02:59:29",
+          "summary": "Astra发布不到三周，GPT-6模型扩容。GPT-6 Sol主攻复杂工作，GPT-6 Luna瞄准高频低成本任务。OpenAI称，两款新模型API价格较GPT-5.6的促销价低50%，均“建立在GPT-6 Astra背后的技术进展之上”，将Astra的优势带入更快、更实惠的模型，以支持规模化工作，还针对缓存和推理效率进行优化。新模型尚未开放至ChatGPT普通聊天界面。和Anthropic一样，OpenAI在呼吁放慢前沿AI开发的同时推出更具成本竞争力的模型。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "花旗：通胀超越关税成家族办公室头号隐忧，富豪们涌向黄金与美股",
+          "url": "https://wallstreetcn.com/articles/3782317",
+          "published": "2026-09-23 02:01:33",
+          "summary": "花旗集团调查显示，逾40个国家的350家家族办公室中，通胀已取代贸易战与关税成为最大担忧，利率与全球金融体系稳定性紧随通胀之后。逾90%的受访家办表示今年录得正收益，近半数表示上半年增持了上市股票。同时，花旗财富业务负责人表示，黄金几乎出现在他如今每一场客户对话中。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "美联储“三把手”：美债集中清算进展领先预期，充裕储备金框架行之有效",
+          "url": "https://wallstreetcn.com/articles/3782315",
+          "published": "2026-09-23 02:01:24",
+          "summary": "纽约联储行长Williams表示，行业已开始提前扩建已清算回购和现金交易基础设施，交易活动正在从非清算市场向清算市场转移，整体进度领先于监管截止时限。其本次讲话未就货币政策立场作出评论。",
           "source": "华尔街见闻最新"
         }
       ]
@@ -805,44 +805,8 @@
     "gelonghui": {
       "name": "gelonghui",
       "name_cn": "格隆汇快讯",
-      "count": 5,
-      "articles": [
-        {
-          "title": "沙特重启东西向输油管道",
-          "url": "https://www.gelonghui.com/live/2682864",
-          "published": "2026-09-22 18:00:00",
-          "summary": "贸易消息人士称，沙特阿拉伯重启东西向输油管道，准备于周二晚些时候恢复从延布港的原油出口。",
-          "source": "格隆汇快讯"
-        },
-        {
-          "title": "布油跌2%失守95美元",
-          "url": "https://www.gelonghui.com/live/2682862",
-          "published": "2026-09-22 17:59:45",
-          "summary": "布伦特原油期货跌幅扩大至2%，报94.318美元/桶。消息面上，伊朗高级官员表示，若美国采取切实行动，德黑兰欢迎恢复外交接触。",
-          "source": "格隆汇快讯"
-        },
-        {
-          "title": "多只纳指ETF明日开市起停牌一小时",
-          "url": "https://www.gelonghui.com/live/2682858",
-          "published": "2026-09-22 17:58:43",
-          "summary": "纳指ETF嘉实(159501)将于2026年9月23日开市起停牌，自2026年9月23日10:30起复牌，停牌期间赎回业务照常办理。\n纳指ETF广发(159941)将于2026年9月23日开市起停牌，自2026年9月23日10:30起复牌，停牌期间赎回业务照常办理。\n纳指ETF易方达(159696)将于2026年9月23日开市起停牌，自2026年9月23日10:30 起复牌，停牌期间赎回业务照常办理。\n纳指科技ETF景顺(159509)将于2026年9月23日开市起停牌，自2026年9月23日10:30起复牌，停牌期间赎回业务照常办理。\n[关联股票] 纳指ETF嘉实 纳指ETF广发 纳指ETF易方达 纳指科技ETF景顺",
-          "source": "格隆汇快讯"
-        },
-        {
-          "title": "美油跌逾2%下破90美元",
-          "url": "https://www.gelonghui.com/live/2682857",
-          "published": "2026-09-22 17:57:34",
-          "summary": "WTI原油期货跌破90美元/桶，最新报89.86美元/桶，日内下跌2.72%。消息面上，伊朗高级官员表示，若美国采取切实行动，德黑兰欢迎恢复外交接触。",
-          "source": "格隆汇快讯"
-        },
-        {
-          "title": "美股异动丨阿里巴巴盘前涨超3% 云栖大会“火力全开” 花旗料其AI业务发展潜力或进一步释放",
-          "url": "https://www.gelonghui.com/live/2682854",
-          "published": "2026-09-22 17:55:58",
-          "summary": "阿里巴巴(BABA.US)盘前涨3.29%，报119.56美元。消息面上，阿里巴巴首席执行官吴泳铭今日在2026年杭州“云栖大会”上表示，当前客户AI需求非常强劲，将全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW。此外，阿里旗下平头哥发布新一代AI芯片真武V900，算力提升至真武M890的3倍。阿里表示预计平头哥AI芯片年出货量将大幅提升。另外，阿里巴巴还计划训练5万亿至10万亿参数AI模型。\n花旗最新研报指，阿里巴巴有望从人工智能业务发展中进一步受益。首席执行官吴泳铭提出的到2033财年实现20吉瓦人工智能基础设施规模的目标，可能意味着阿里巴巴届时外部云业务收入将达到1600亿美元。这一数字高于花旗目前对阿里巴巴2031财年外部云收入1000亿美元的预测。花旗还预计，阿里巴巴未来几年将继续保持较高资本支出。(格隆汇)\n[关联股票] 阿里巴巴",
-          "source": "格隆汇快讯"
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
