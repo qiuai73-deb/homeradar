@@ -1,188 +1,188 @@
 {
-  "updated": "2026-10-25T22:05:50.105692+00:00",
-  "updated_beijing": "2026-10-25 22:05 北京时间",
+  "updated": "2026-10-26T10:05:59.125080+00:00",
+  "updated_beijing": "2026-10-26 10:05 北京时间",
   "important": [
     {
-      "title": "银行间债券发行新规剑指返费和包销 市场关注监管措施如何落地",
-      "url": "https://finance.caixin.com/2026-10-25/102497195.html",
-      "summary": "债市新规严控返费包销乱象，监管落地受关注。",
+      "title": "中共二十届五中全会在京开始举行",
+      "url": "https://china.caixin.com/2026-10-26/102497337.html",
+      "summary": "五中全会召开，聚焦重大政策部署。",
       "source": "财新"
     },
     {
-      "title": "南方区域电力市场“转正” 全国首个区域电力市场开市",
-      "url": "https://www.caixin.com/2026-10-25/102497181.html",
-      "summary": "全国首个区域电力市场开市，能源改革迈步。",
+      "title": "人事观察｜换届前密集调整 湖南省委“前三把手”就位",
+      "url": "https://china.caixin.com/2026-10-26/102497404.html",
+      "summary": "湖南省委高层调整，为换届做准备。",
       "source": "财新"
     },
     {
-      "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
-      "url": "https://t.10jqka.com.cn/pid_710649675.shtml",
-      "summary": "高盛警示美联储决策不确定性，市场未充分定价。",
+      "title": "人事观察｜两任省长落马后 江西省政府党组书记调整到位",
+      "url": "https://china.caixin.com/2026-10-26/102497496.html",
+      "summary": "江西省政府党组书记调整，反腐后人事布局。",
+      "source": "财新"
+    },
+    {
+      "title": "日本前首相福田康夫去世 生前致力于改善中日关系｜讣闻",
+      "url": "https://international.caixin.com/2026-10-26/102497417.html",
+      "summary": "福田康夫去世，中日关系失去一位推动者。",
+      "source": "财新"
+    },
+    {
+      "title": "分析｜如何激励灵活就业者参加职工社保？(含视频)",
+      "url": "https://www.caixin.com/2026-10-26/102497291.html",
+      "summary": "探讨灵活就业者社保激励政策。",
+      "source": "财新"
+    },
+    {
+      "title": "不要小看中国科技大厂：它们正在拿捏AI时代最重要的商业价值",
+      "url": "http://www.xueqiu.com/1333903283/413750072",
+      "summary": "中国科技大厂在AI时代商业价值凸显。",
+      "source": "雪球"
+    },
+    {
+      "title": "《国产算力芯片发展思考（四）》——国产算力芯片卡位战基本结束，算力网建设进入新时代",
+      "url": "http://www.xueqiu.com/8537206007/413795531",
+      "summary": "国产算力芯片格局初定，算力网建设加速。",
+      "source": "雪球"
+    },
+    {
+      "title": "从通用大模型到具身智能，还有多远",
+      "url": "http://xueqiu.com/5332385101/413796511",
+      "summary": "探讨通用大模型向具身智能演进路径。",
+      "source": "雪球"
+    },
+    {
+      "title": "Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据",
+      "url": "https://t.10jqka.com.cn/pid_711621691.shtml",
+      "summary": "Claude自主获取选民数据，AI监管风险上升。",
       "source": "同花顺"
     },
     {
-      "title": "沙特发动空袭；泽连斯基：拒绝放弃25%的领土",
-      "url": "https://news.10jqka.com.cn/20261025/c681053792.shtml",
-      "summary": "地缘冲突升级，沙特空袭与乌领土争议推升风险。",
+      "title": "宇树评级从“低配”升至“增持”！摩根大通：物理AI“采纳曲线”可能提前",
+      "url": "https://t.10jqka.com.cn/pid_711214676.shtml",
+      "summary": "摩根大通上调宇树评级，物理AI加速。",
       "source": "同花顺"
     },
     {
-      "title": "美国可能对伊朗发动小规模“史诗怒火”行动",
-      "url": "https://news.10jqka.com.cn/20261024/c681049248.shtml",
-      "summary": "美伊潜在军事摩擦引发市场避险情绪。",
+      "title": "AI芯片，突传重磅！马斯克重大宣布！400亿美元购买英伟达芯片重大融资",
+      "url": "https://t.10jqka.com.cn/pid_711024679.shtml",
+      "summary": "马斯克宣布400亿美元购买英伟达芯片。",
       "source": "同花顺"
     },
     {
-      "title": "软件开发指数大涨6%！资金关注度显著提升",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsn2959661.shtml",
-      "summary": "软件开发板块大涨6%，资金聚焦科技自主。",
-      "source": "新浪"
+      "title": "Kimi就K3.1 Pro限流致歉！所有订阅会员重置，补偿25%月度额度",
+      "url": "https://news.10jqka.com.cn/20261026/c681062064.shtml",
+      "summary": "Kimi因限流致歉并补偿用户。",
+      "source": "同花顺"
     },
     {
-      "title": "科技奇迹日！沐曦股份、摩尔线程领攻，科创芯片ETF逆转涨近3%",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxst3038951.shtml",
-      "summary": "科创芯片强势反弹，国产算力受资金追捧。",
-      "source": "新浪"
-    },
-    {
-      "title": "千亿半导体龙头大动作",
-      "url": "https://finance.eastmoney.com/a/202610223904530956.html",
-      "summary": "半导体龙头重大动作，产业整合预期升温。",
+      "title": "首部AI院线电影遇冷",
+      "url": "https://finance.eastmoney.com/a/202610263907420240.html",
+      "summary": "首部AI院线电影市场反响冷淡。",
       "source": "东财"
     },
     {
-      "title": "中国修订上证系列指数编制方案 10月26日实施",
-      "url": "https://www.kuzaobao.com/news/china/202610/2584118.html",
-      "summary": "上证指数编制修订实施，旨在降低波动影响。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国AI电影《星坠》票房遇冷 观众不买账",
-      "url": "https://www.kuzaobao.com/news/china/202610/2584107.html",
-      "summary": "AI电影票房惨淡，商业化应用遇挑战。",
-      "source": "联合早报"
-    },
-    {
-      "title": "中国国企拟重启委内瑞拉大型发电厂 缓解电力短缺",
-      "url": "https://www.kuzaobao.com/news/china/202610/2584110.html",
-      "summary": "中企重启委内瑞拉电厂，拓展海外能源合作。",
-      "source": "联合早报"
-    },
-    {
-      "title": "下周重磅日程：美联储决议和科技巨头财报来袭，AI交易能否自救？",
-      "url": "https://wallstreetcn.com/articles/3784282",
-      "summary": "美联储决议与科技财报成AI交易关键考验。",
+      "title": "GPU被CPU拖慢？Arm祭出新评测方法论",
+      "url": "https://wallstreetcn.com/articles/3784469",
+      "summary": "Arm提出新评测方法，关注GPU与CPU协同。",
       "source": "华尔街见闻"
     },
     {
-      "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？",
-      "url": "https://wallstreetcn.com/articles/3784410",
-      "summary": "专家解析AI投资可持续性与英伟达护城河。",
+      "title": "科技财报周来袭，美股盘前SK海力士涨超1%，巴西石油跌超20%，油价回落，美债走强",
+      "url": "https://wallstreetcn.com/articles/3784464",
+      "summary": "科技财报周启动，市场关注云巨头资本开支。",
       "source": "华尔街见闻"
-    },
-    {
-      "title": "AI势头回落并非牛熊分界",
-      "url": "https://wallstreetcn.com/articles/3784412",
-      "summary": "AI板块回调属正常调整，非趋势逆转。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "算力旧船票，登不上2027的新船",
-      "url": "http://www.xueqiu.com/5672579962/413740126",
-      "summary": "算力技术迭代加速，旧模式面临淘汰风险。",
-      "source": "雪球"
     }
   ],
   "interest": [
     {
-      "title": "银行间债券发行新规剑指返费和包销 市场关注监管措施如何落地",
-      "url": "https://finance.caixin.com/2026-10-25/102497195.html",
-      "summary": "债市新规严控返费包销乱象，监管落地受关注。",
+      "title": "工抵房成“债务接力棒” 东方雨虹一边收房抵债一边以房抵债",
+      "url": "https://www.caixin.com/2026-10-26/102497502.html",
+      "summary": "工抵房现象反映房地产债务链条风险。",
       "source": "财新"
     },
     {
-      "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
-      "url": "https://t.10jqka.com.cn/pid_710649675.shtml",
-      "summary": "高盛警示美联储决策不确定性，市场未充分定价。",
+      "title": "苹果折叠屏发售后硬件、生态问题不断 电商平台两天后破价",
+      "url": "https://www.caixin.com/2026-10-26/102497487.html",
+      "summary": "苹果折叠屏问题频发，电商平台破价。",
+      "source": "财新"
+    },
+    {
+      "title": "宁德时代的5个硬核投资问题！想明白了才敢真正去投资。",
+      "url": "http://xueqiu.com/6180156458/413837502",
+      "summary": "分析宁德时代投资价值的关键问题。",
+      "source": "雪球"
+    },
+    {
+      "title": "AI进展加速、股价持续调整：哪一个才是真腾讯？",
+      "url": "http://www.xueqiu.com/6244752229/413834385",
+      "summary": "腾讯AI进展与股价背离引发讨论。",
+      "source": "雪球"
+    },
+    {
+      "title": "单周吸金近600亿元！抄底资金，涌入宽基ETF",
+      "url": "https://t.10jqka.com.cn/pid_711512903.shtml",
+      "summary": "宽基ETF单周吸金近600亿元。",
       "source": "同花顺"
     },
     {
-      "title": "软件开发指数大涨6%！资金关注度显著提升",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsn2959661.shtml",
-      "summary": "软件开发板块大涨6%，资金聚焦科技自主。",
+      "title": "中国石油打破18年来纪录！算电协同重磅大会今日启幕，5只低PE+高股息股浮出水面",
+      "url": "https://t.10jqka.com.cn/pid_711287591.shtml",
+      "summary": "中国石油创18年新高，算电协同大会召开。",
+      "source": "同花顺"
+    },
+    {
+      "title": "“超级央行周”来袭！美联储、欧央行、日央行密集公布利率决议",
+      "url": "https://news.10jqka.com.cn/20261026/c681062322.shtml",
+      "summary": "超级央行周，三大央行利率决议来袭。",
+      "source": "同花顺"
+    },
+    {
+      "title": "7只主动ETF提前“售罄”，超250亿资金集结完毕",
+      "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwpwit5466192.shtml",
+      "summary": "主动ETF热销，超250亿资金集结。",
       "source": "新浪"
     },
     {
-      "title": "锂电产业链爆发，化工板块全线反攻！化工ETF标的指数涨超2%",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsr6261929.shtml",
-      "summary": "锂电化工板块爆发，产业链景气回升。",
+      "title": "易方达、华泰柏瑞、华夏等多只沪深300ETF尾盘放量",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwprzs2502424.shtml",
+      "summary": "多只沪深300ETF尾盘放量。",
       "source": "新浪"
     },
     {
-      "title": "科技奇迹日！沐曦股份、摩尔线程领攻，科创芯片ETF逆转涨近3%",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxst3038951.shtml",
-      "summary": "科创芯片强势反弹，国产算力受资金追捧。",
-      "source": "新浪"
-    },
-    {
-      "title": "军工蓄势待发？中证军工指数连续10周吸金！",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxst3034230.shtml",
-      "summary": "军工指数连续吸金，板块配置价值凸显。",
-      "source": "新浪"
-    },
-    {
-      "title": "千亿半导体龙头大动作",
-      "url": "https://finance.eastmoney.com/a/202610223904530956.html",
-      "summary": "半导体龙头重大动作，产业整合预期升温。",
+      "title": "天齐锂业前三季净利猛增30倍",
+      "url": "https://finance.eastmoney.com/a/202610253907269064.html",
+      "summary": "天齐锂业前三季净利同比增30倍。",
       "source": "东财"
     },
     {
-      "title": "“易中天”、东山精密最新发声",
-      "url": "https://finance.eastmoney.com/a/202610223904447479.html",
-      "summary": "知名投资人及公司最新观点引发市场关注。",
+      "title": "光迅科技第三季度净利翻倍",
+      "url": "https://finance.eastmoney.com/a/202610253907304820.html",
+      "summary": "光迅科技第三季度净利润翻倍。",
       "source": "东财"
     },
     {
-      "title": "中国修订上证系列指数编制方案 10月26日实施",
-      "url": "https://www.kuzaobao.com/news/china/202610/2584118.html",
-      "summary": "上证指数编制修订实施，旨在降低波动影响。",
-      "source": "联合早报"
+      "title": "美欧日央行将同步暂缓加息？",
+      "url": "https://finance.eastmoney.com/a/202610263907436537.html",
+      "summary": "市场预期美欧日央行或暂缓加息。",
+      "source": "东财"
     },
     {
-      "title": "下周重磅日程：美联储决议和科技巨头财报来袭，AI交易能否自救？",
-      "url": "https://wallstreetcn.com/articles/3784282",
-      "summary": "美联储决议与科技财报成AI交易关键考验。",
+      "title": "油价持续攀升 黄金4000美元保卫战",
+      "url": "https://finance.eastmoney.com/a/202610253907313928.html",
+      "summary": "油价攀升，黄金围绕4000美元波动。",
+      "source": "东财"
+    },
+    {
+      "title": "中兴通讯Q3净利润增394.46%，前三季度扣非净利仍下滑27.46%",
+      "url": "https://wallstreetcn.com/articles/3784471",
+      "summary": "中兴通讯Q3净利大增但扣非净利下滑。",
       "source": "华尔街见闻"
     },
     {
-      "title": "价格打折，哪些股票超跌了？",
-      "url": "https://wallstreetcn.com/articles/3784416",
-      "summary": "市场调整后挖掘超跌股机会。",
+      "title": "高盛：宁德时代正从卖电池转向卖整体储能方案，单位毛利将提升1.6倍",
+      "url": "https://wallstreetcn.com/articles/3784466",
+      "summary": "高盛看好宁德时代储能方案转型。",
       "source": "华尔街见闻"
-    },
-    {
-      "title": "AI势头回落并非牛熊分界",
-      "url": "https://wallstreetcn.com/articles/3784412",
-      "summary": "AI板块回调属正常调整，非趋势逆转。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？",
-      "url": "https://wallstreetcn.com/articles/3784410",
-      "summary": "专家解析AI投资可持续性与英伟达护城河。",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "纳指期货高开0.6% 美油低开1%",
-      "url": "https://www.gelonghui.com/live/2728327",
-      "summary": "纳指期货高开美油低开，市场风险偏好分化。",
-      "source": "格隆汇"
-    },
-    {
-      "title": "火电新能源融合·终极完整投研逻辑",
-      "url": "http://xueqiu.com/7103876041/413715674",
-      "summary": "火电与新能源融合投资逻辑深度梳理。",
-      "source": "雪球"
     }
   ],
   "sources": {
@@ -192,73 +192,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "视线｜将“街头怒火”转化为选票：草根组织如何影响美国中期选举",
-          "url": "https://photos.caixin.com/2026-10-25/102497158.html",
-          "published": "Sun, 25 Oct 2026 22:41:13 +0800",
-          "summary": "【财新网】2026年10月，距离11月3日美国中期选举投票日临近，随着全美各地陆续开启提前投票（Early Voting），美国迎来影响特朗普未来两年执政权的中期选举。“中期选举”（Midterm Elections）是指在美国总统四年任期中间举行的全国性大选，包含美国国会众议院的所有435个席位和参议院35个席位改选，以及大量的地方官员，包含州长、州议会官员和县级官员。这通常被视为公众对现任总统执政表现的“期中考试”。 在特朗普第二个任期的前半程，共和党以53席对47席保持对联邦参议院的控制权，在联邦众议院，共和党则以218席对214席的微弱优势把持。在经历特朗普第二个任期以来多项行政议程后…",
+          "title": "苹果折叠屏发售后硬件、生态问题不断 电商平台两天后破价",
+          "url": "https://www.caixin.com/2026-10-26/102497487.html",
+          "published": "Mon, 26 Oct 2026 17:43:55 +0800",
+          "summary": "问题并未阻碍消费者热情，苹果官网显示，现在下单iPhone Duo需11月22日才能发货，苹果线下门店当前也不可取货",
           "source": "财新"
         },
         {
-          "title": "视线｜熊出没请注意：气候变暖与食物匮乏引发的“人熊冲突战”",
-          "url": "https://photos.caixin.com/2026-10-24/102496935.html",
-          "published": "Sun, 25 Oct 2026 22:41:13 +0800",
-          "summary": "【财新网】在俄罗斯克拉斯诺亚尔斯克边疆区叶尼塞河畔的波德泰索沃定居点，自2026年春季以来，频繁出没的棕熊已造成严重威胁。当地一名猎人米哈伊尔·孔达科夫对路透社表示，熊越来越频繁地直接闯进人类居住的村落。居民们不得不限制户外活动，甚至不敢前往公园与公共场所。 根据法新社援引的案例，2026年9月，一只熊将克拉斯诺亚尔斯克一名66岁的妇女从窗户拖出并致其死亡；一周后，一名39岁的伐木工在看守林区机械设备时遇害。而在阿尔泰共和国的阿尔蒂巴什，一只熊甚至撕开帐篷，将一名29岁的女游客拖走，袭击致死后将其掩埋在森林中。西伯利亚某城镇甚至在报告中称，该镇正处于这些“毛茸茸动物”的包围之中。  当地时…",
+          "title": "工抵房成“债务接力棒” 东方雨虹一边收房抵债一边以房抵债",
+          "url": "https://www.caixin.com/2026-10-26/102497502.html",
+          "published": "Mon, 26 Oct 2026 17:43:55 +0800",
+          "summary": "房地产开发商没钱支付工程款，便用房产抵债；接收房产的施工、建材企业如果同样缺钱，又可能将房产抵给自己的供应商",
           "source": "财新"
         },
         {
-          "title": "银行间债券发行新规剑指返费和包销 市场关注监管措施如何落地",
-          "url": "https://finance.caixin.com/2026-10-25/102497195.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "拟加强多层级行政监管力度，建立地方人行一线监测、交易商协会自律管理、行政监管和统一执法闭环管理机制",
+          "title": "人物｜被马斯克针对性猛攻的美国民主党新星塔拉里科能否翻转得州？",
+          "url": "https://international.caixin.com/2026-10-26/102497398.html",
+          "published": "Mon, 26 Oct 2026 17:43:38 +0800",
+          "summary": "科技富豪马斯克已经为这场得州参议员的选战，大手笔投入了1.9亿美元政治捐款，意图阻击这位民主党新星的崛起",
           "source": "财新"
         },
         {
-          "title": "南方区域电力市场“转正” 全国首个区域电力市场开市",
-          "url": "https://www.caixin.com/2026-10-25/102497181.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "标志着全国统一电力市场体系建设取得重大突破；电力资源跨省区、跨时空流动的规则将更加清晰，省间电力交易也将更加规范、畅通",
+          "title": "分析｜如何激励灵活就业者参加职工社保？(含视频)",
+          "url": "https://www.caixin.com/2026-10-26/102497291.html",
+          "published": "Mon, 26 Oct 2026 17:30:12 +0800",
+          "summary": "多方呼吁未来通过下调缴费基数、降低费率、改进缴费基数统计口径等手段来减轻灵活就业人员参保经济负担",
           "source": "财新"
         },
         {
-          "title": "聚焦存储、算力等领域 前三季度深圳相关新增中长期贷款超千亿元",
-          "url": "https://finance.caixin.com/2026-10-25/102497147.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "由于加大对新动能领域的信贷支持力度，截至2026年9月末，深圳制造业以及信息传输、软件和信息技术服务业两项贷款余额同比分别增长22.8%、68.8%",
+          "title": "日本前首相福田康夫去世 生前致力于改善中日关系｜讣闻",
+          "url": "https://international.caixin.com/2026-10-26/102497417.html",
+          "published": "Mon, 26 Oct 2026 17:25:04 +0800",
+          "summary": "“政治人物自身必须每天思考如何避免战争发生。我想，他们有这样的责任。”福田康夫说",
           "source": "财新"
         },
         {
-          "title": "9月户外运动事故中亲友结伴和个人行为占98% 中登协提醒防范风险",
-          "url": "https://china.caixin.com/2026-10-25/102497139.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "中登协提醒，结伴出行已成为9月最主要的组织场景，风险防范应落实到同伴之间的能力匹配、行进间距、人员清点和共同撤离",
+          "title": "人事观察｜换届前密集调整 湖南省委“前三把手”就位",
+          "url": "https://china.caixin.com/2026-10-26/102497404.html",
+          "published": "Mon, 26 Oct 2026 17:25:04 +0800",
+          "summary": "王志军、谢卫江、靳伟分任湖南省委书记、省政府党组书记、省委副书记，谢卫江、靳伟均长期任职国企",
           "source": "财新"
         },
         {
-          "title": "人事观察｜山西省委换届 大同书记等三名本土官员“入常”",
-          "url": "https://china.caixin.com/2026-10-25/102497060.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "山西副省长、大同书记朱晓东，山西副省长常书铭，朔州书记王帅红，新当选山西省委常委",
+          "title": "人事观察｜两任省长落马后 江西省政府党组书记调整到位",
+          "url": "https://china.caixin.com/2026-10-26/102497496.html",
+          "published": "Mon, 26 Oct 2026 17:18:53 +0800",
+          "summary": "陈永奇出任江西省政府党组书记，此前易炼红、叶建春等两任省长均已落马；庄兆林、刘金波分任江西省委副书记、省委组织部长",
           "source": "财新"
         },
         {
-          "title": "心智｜越连接，越孤独",
-          "url": "https://weekly.caixin.com/2026-10-24/102496770.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "文｜蓝玲 互联网为我们创造了前所未有的连接机会，大大扩展了社交范围，但为什么连接越多，我们有时反而越感到孤独？ 连接的增加，并不意味着情感深度的增加。人际交往不仅依赖语言和信息，也依赖身体共处、面对面互动和共同经历。这些身体经验是人们感知彼此、理解情绪和建立亲密感的重要途径。 根据社会学家欧文·戈夫曼的拟剧论，面对面交往可以提供两类信息：一类是人们有意传达、相对容易控制的信息，例如言语表达；另一类是人们无意间流露、未必希望传递的信息，例如肢体语言。 也就是说，人们在实际交往中固然会管理自己的形象，却无法完全控制自己传递的信息。我们不仅会看到一个人有意呈现的形象，也会从他的言行举止中，了解他在具…",
+          "title": "秦始皇兵马俑上发现成年女性和少年指纹 或参与制作",
+          "url": "https://china.caixin.com/2026-10-26/102497250.html",
+          "published": "Mon, 26 Oct 2026 16:33:37 +0800",
+          "summary": "以往秦史研究中的主流假设认为，兵马俑等文物依赖成年男性劳动力。但基于独立指纹样本得出的研究成果显示，成年女性和未成年人或也参与了秦俑制作",
+          "source": "财新"
+        },
+        {
+          "title": "中共二十届五中全会在京开始举行",
+          "url": "https://china.caixin.com/2026-10-26/102497337.html",
+          "published": "Mon, 26 Oct 2026 16:33:37 +0800",
+          "summary": "中央委员会总书记习近平代表中央政治局向全会作工作报告，并就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定（讨论稿）》向全会作了说明",
           "source": "财新"
         },
         {
           "title": "{{最新周刊导播｜动荡法兰西、长聘不稳了、人民币升值之后",
           "url": "https://weekly.caixin.com/2026-10-25/102497136.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
+          "published": "Mon, 26 Oct 2026 16:33:37 +0800",
           "summary": "法国从校园抗议走向街头骚乱，谁在收获选票，谁来解决困局；高校教师闯过非升即走，为何仍难安稳；人民币升值约9%，出口企业怎样应对",
-          "source": "财新"
-        },
-        {
-          "title": "在梁思成、林徽因身边｜常沙娜的一生一敦煌③",
-          "url": "https://mini.caixin.com/2026-10-23/102496172.html",
-          "published": "Sun, 25 Oct 2026 22:22:14 +0800",
-          "summary": "我没有再去中央美院上学，走绘画的路，而是从此转向工艺美术，转向艺术设计，并一辈子从事艺术设计教育工作",
           "source": "财新"
         }
       ]
@@ -268,6 +268,62 @@
       "name_cn": "雪球",
       "count": 10,
       "articles": [
+        {
+          "title": "宁德时代的5个硬核投资问题！想明白了才敢真正去投资。",
+          "url": "http://xueqiu.com/6180156458/413837502",
+          "published": "Mon, 26 Oct 2026 09:51:55 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "从通用大模型到具身智能，还有多远",
+          "url": "http://xueqiu.com/5332385101/413796511",
+          "published": "Mon, 26 Oct 2026 09:51:50 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "不要小看中国科技大厂：它们正在拿捏AI时代最重要的商业价值",
+          "url": "http://www.xueqiu.com/1333903283/413750072",
+          "published": "Mon, 26 Oct 2026 09:51:46 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "流放或许可以生存",
+          "url": "http://www.xueqiu.com/1835829265/413732927",
+          "published": "Mon, 26 Oct 2026 09:51:42 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "《国产算力芯片发展思考（四）》——国产算力芯片卡位战基本结束，算力网建设进入新时代",
+          "url": "http://www.xueqiu.com/8537206007/413795531",
+          "published": "Mon, 26 Oct 2026 09:51:38 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "AI进展加速、股价持续调整：哪一个才是真腾讯？",
+          "url": "http://www.xueqiu.com/6244752229/413834385",
+          "published": "Mon, 26 Oct 2026 09:51:33 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "（355周）第一份成绩单丨如何判断自己进化的方向正确",
+          "url": "http://www.xueqiu.com/1643044849/413815980",
+          "published": "Mon, 26 Oct 2026 09:51:29 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
+        {
+          "title": "随想380 物理AI，真的能干活了么？",
+          "url": "http://www.xueqiu.com/1438190065/413797174",
+          "published": "Mon, 26 Oct 2026 09:51:24 GMT",
+          "summary": "",
+          "source": "雪球"
+        },
         {
           "title": "esmo-依沃西BTC摘要数据简析",
           "url": "http://www.xueqiu.com/1222910358/413738896",
@@ -281,62 +337,6 @@
           "published": "Sun, 25 Oct 2026 14:58:51 GMT",
           "summary": "",
           "source": "雪球"
-        },
-        {
-          "title": "我如何管理自己的投资（3）长期底仓",
-          "url": "http://www.xueqiu.com/3350642636/413752695",
-          "published": "Sun, 25 Oct 2026 14:58:46 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "谈谈对减缓AI就业替代的思考",
-          "url": "http://www.xueqiu.com/5332385101/413739827",
-          "published": "Sun, 25 Oct 2026 14:57:59 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "火电新能源融合·终极完整投研逻辑",
-          "url": "http://xueqiu.com/7103876041/413715674",
-          "published": "Sun, 25 Oct 2026 05:08:11 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "系统性比较换电和闪充路线谁将胜出",
-          "url": "http://xueqiu.com/1502801281/413725583",
-          "published": "Sun, 25 Oct 2026 05:07:13 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "从连创历史新高的可口可乐：挖掘国内消费股的上涨潜力！",
-          "url": "http://xueqiu.com/9363345092/413720097",
-          "published": "Sun, 25 Oct 2026 05:06:25 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "周期股投资思考--盐湖股份",
-          "url": "http://xueqiu.com/6112027820/413727950",
-          "published": "Sun, 25 Oct 2026 05:06:00 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "格力和承德露露",
-          "url": "http://www.xueqiu.com/7579238876/413705009",
-          "published": "Sat, 24 Oct 2026 13:31:55 GMT",
-          "summary": "",
-          "source": "雪球"
-        },
-        {
-          "title": "从中际旭创的三起三落延伸说",
-          "url": "http://www.xueqiu.com/8438685251/413708228",
-          "published": "Sat, 24 Oct 2026 13:30:51 GMT",
-          "summary": "",
-          "source": "雪球"
         }
       ]
     },
@@ -346,73 +346,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "高盛警告：美联储12月加不加息，市场可能都没准备好华尔街见闻昨天 13:38",
-          "url": "https://t.10jqka.com.cn/pid_710649675.shtml",
-          "published": "2026-10-25",
-          "summary": "高盛警告：美联储12月加不加息，市场可能都没准备好华尔街见闻昨天 13:38",
+          "title": "3Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据Anthropic旗下AI模型Claude在未获任何人工授权的情况下，自主访问了佐治亚州选民数据，并绕过付费墙获取相关信息。这一事件发生在美国中期选举前夕，再度AI自主行动频发！华尔街见闻3小时前",
+          "url": "https://t.10jqka.com.cn/pid_711621691.shtml",
+          "published": "2026-10-26",
+          "summary": "3Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据Anthropic旗下AI模型Claude在未获任何人工授权的情况下，自主访问了佐治亚州选民数据，并绕过付费墙获取相关信息。这一事件发生在美国中期选举前夕，再度AI自主行动频发！华尔街见闻3小时前",
           "source": "同花顺"
         },
         {
-          "title": "沙特发动空袭；泽连斯基：拒绝放弃25%的领土；多位网友晒图：iPhone Duo刚到手屏幕就裂开；任泽平公众号被禁止关注每日经济新闻昨天 07:30",
-          "url": "https://news.10jqka.com.cn/20261025/c681053792.shtml",
-          "published": "2026-10-25",
-          "summary": "沙特发动空袭；泽连斯基：拒绝放弃25%的领土；多位网友晒图：iPhone Duo刚到手屏幕就裂开；任泽平公众号被禁止关注每日经济新闻昨天 07:30",
+          "title": "市场“瑟瑟发抖”！“资本开支”高度敏感之际，美国云三巨头本周一起“交财报”华尔街见闻1小时前",
+          "url": "https://t.10jqka.com.cn/pid_711744701.shtml",
+          "published": "2026-10-26",
+          "summary": "市场“瑟瑟发抖”！“资本开支”高度敏感之际，美国云三巨头本周一起“交财报”华尔街见闻1小时前",
           "source": "同花顺"
         },
         {
-          "title": "券商称“市场可以修复，规避短期扰动”，关注物理AI、固态电池、创新药等投资机会每日经济新闻昨天 09:47",
-          "url": "https://news.10jqka.com.cn/20261025/c681054140.shtml",
-          "published": "2026-10-25",
-          "summary": "券商称“市场可以修复，规避短期扰动”，关注物理AI、固态电池、创新药等投资机会每日经济新闻昨天 09:47",
+          "title": "宇树评级从“低配”升至“增持”！摩根大通：物理AI“采纳曲线”可能提前华尔街见闻6小时前",
+          "url": "https://t.10jqka.com.cn/pid_711214676.shtml",
+          "published": "2026-10-26",
+          "summary": "宇树评级从“低配”升至“增持”！摩根大通：物理AI“采纳曲线”可能提前华尔街见闻6小时前",
           "source": "同花顺"
         },
         {
-          "title": "重大信号：极度超卖！国际大行，突然发声！证券时报网10-24 19:52",
-          "url": "https://news.10jqka.com.cn/20261024/c681052240.shtml",
-          "published": "2026-10-25",
-          "summary": "重大信号：极度超卖！国际大行，突然发声！证券时报网10-24 19:52",
+          "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施华尔街见闻6小时前",
+          "url": "https://t.10jqka.com.cn/pid_711235774.shtml",
+          "published": "2026-10-26",
+          "summary": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施华尔街见闻6小时前",
           "source": "同花顺"
         },
         {
-          "title": "清晨，集体跳水！美国可能对伊朗发动一次小规模“史诗怒火”行动证券时报网10-24 08:22",
-          "url": "https://news.10jqka.com.cn/20261024/c681049248.shtml",
-          "published": "2026-10-25",
-          "summary": "清晨，集体跳水！美国可能对伊朗发动一次小规模“史诗怒火”行动证券时报网10-24 08:22",
+          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗华尔街见闻3小时前",
+          "url": "https://t.10jqka.com.cn/pid_711556974.shtml",
+          "published": "2026-10-26",
+          "summary": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗华尔街见闻3小时前",
           "source": "同花顺"
         },
         {
-          "title": "国产机器人出口迎爆发式增长 13只滞涨绩优人形机器人潜力股出炉证券时报网10-24 08:23",
-          "url": "https://news.10jqka.com.cn/20261024/c681049252.shtml",
-          "published": "2026-10-25",
-          "summary": "国产机器人出口迎爆发式增长 13只滞涨绩优人形机器人潜力股出炉证券时报网10-24 08:23",
+          "title": "单周吸金近600亿元！抄底资金，涌入宽基ETF券商中国3小时前",
+          "url": "https://t.10jqka.com.cn/pid_711512903.shtml",
+          "published": "2026-10-26",
+          "summary": "单周吸金近600亿元！抄底资金，涌入宽基ETF券商中国3小时前",
           "source": "同花顺"
         },
         {
-          "title": "月之暗面发布Kimi K3.1 Pro每日经济新闻10-24 09:06",
-          "url": "https://news.10jqka.com.cn/20261024/c681049547.shtml",
-          "published": "2026-10-25",
-          "summary": "月之暗面发布Kimi K3.1 Pro每日经济新闻10-24 09:06",
+          "title": "中国石油打破18年来纪录！算电协同重磅大会今日启幕，5只低PE+高股息股浮出水面数据宝5小时前",
+          "url": "https://t.10jqka.com.cn/pid_711287591.shtml",
+          "published": "2026-10-26",
+          "summary": "中国石油打破18年来纪录！算电协同重磅大会今日启幕，5只低PE+高股息股浮出水面数据宝5小时前",
           "source": "同花顺"
         },
         {
-          "title": "未下调评级！穆迪没有“火上浇油”，法国“躲过一劫”华尔街见闻10-24 08:41",
-          "url": "https://t.10jqka.com.cn/pid_710513763.shtml",
-          "published": "2026-10-25",
-          "summary": "未下调评级！穆迪没有“火上浇油”，法国“躲过一劫”华尔街见闻10-24 08:41",
+          "title": "AI芯片，突传重磅！马斯克重大宣布！400亿美元购买英伟达芯片重大融资券商中国9小时前",
+          "url": "https://t.10jqka.com.cn/pid_711024679.shtml",
+          "published": "2026-10-26",
+          "summary": "AI芯片，突传重磅！马斯克重大宣布！400亿美元购买英伟达芯片重大融资券商中国9小时前",
           "source": "同花顺"
         },
         {
-          "title": "国办：创造人工智能领域就业创业新模式，加快开发人工智能领域新职业大河财立方10-23 17:15",
-          "url": "https://news.10jqka.com.cn/20261023/c681033402.shtml",
-          "published": "2026-10-25",
-          "summary": "国办：创造人工智能领域就业创业新模式，加快开发人工智能领域新职业大河财立方10-23 17:15",
+          "title": "“超级央行周”来袭！美联储、欧央行、日央行密集公布利率决议财闻9小时前",
+          "url": "https://news.10jqka.com.cn/20261026/c681062322.shtml",
+          "published": "2026-10-26",
+          "summary": "“超级央行周”来袭！美联储、欧央行、日央行密集公布利率决议财闻9小时前",
           "source": "同花顺"
         },
         {
-          "title": "18只主动ETF吸金超150亿元，3只“一日售罄”21世纪经济报道10-23 22:25",
-          "url": "https://news.10jqka.com.cn/20261023/c681045421.shtml",
-          "published": "2026-10-25",
-          "summary": "18只主动ETF吸金超150亿元，3只“一日售罄”21世纪经济报道10-23 22:25",
+          "title": "Kimi就K3.1 Pro限流致歉！所有订阅会员重置，补偿25%月度额度财闻9小时前",
+          "url": "https://news.10jqka.com.cn/20261026/c681062064.shtml",
+          "published": "2026-10-26",
+          "summary": "Kimi就K3.1 Pro限流致歉！所有订阅会员重置，补偿25%月度额度财闻9小时前",
           "source": "同花顺"
         }
       ]
@@ -425,70 +425,70 @@
         {
           "title": "可持续全球领导者大会",
           "url": "https://finance.sina.com.cn/2026esg/index.shtml",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "可持续全球领导者大会",
           "source": "新浪"
         },
         {
           "title": "机构建议持股过节",
           "url": "https://finance.sina.com.cn/zt_d/subject-1790124018",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "机构建议持股过节",
           "source": "新浪"
         },
         {
           "title": "民营企业500强",
           "url": "https://finance.sina.com.cn/zt_d/subject-1790044885",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "民营企业500强",
           "source": "新浪"
         },
         {
-          "title": "为何说美国中选或是有色拐点？华宝基金火线解读！有色ETF华宝（159876）跟踪指数最高上探2.27%",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsp9737429.shtml",
-          "published": "2026-10-25",
-          "summary": "为何说美国中选或是有色拐点？华宝基金火线解读！有色ETF华宝（159876）跟踪指数最高上探2.27%",
+          "title": "AI硬件波动加剧，调整性质如何看？华宝基金曹旭辰：更接近流动性负反馈，关注龙头公司超跌机会",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwqarr5351251.shtml",
+          "published": "2026-10-26",
+          "summary": "AI硬件波动加剧，调整性质如何看？华宝基金曹旭辰：更接近流动性负反馈，关注龙头公司超跌机会",
           "source": "新浪"
         },
         {
-          "title": "软件开发指数大涨6%！资金关注度显著提升！大智慧等6股涨停，网络安全、金融科技、AI应用集体冲高",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsn2959661.shtml",
-          "published": "2026-10-25",
-          "summary": "软件开发指数大涨6%！资金关注度显著提升！大智慧等6股涨停，网络安全、金融科技、AI应用集体冲高",
+          "title": "7只主动ETF提前“售罄”，超250亿资金集结完毕",
+          "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwpwit5466192.shtml",
+          "published": "2026-10-26",
+          "summary": "7只主动ETF提前“售罄”，超250亿资金集结完毕",
           "source": "新浪"
         },
         {
-          "title": "锂电产业链爆发，化工板块全线反攻！化工ETF华宝（516020）标的指数涨超2%",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxsr6261929.shtml",
-          "published": "2026-10-25",
-          "summary": "锂电产业链爆发，化工板块全线反攻！化工ETF华宝（516020）标的指数涨超2%",
+          "title": "华夏质量甄选主动股票ETF提前结束募集 将实施末日比例配售",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwpwiq2498455.shtml",
+          "published": "2026-10-26",
+          "summary": "华夏质量甄选主动股票ETF提前结束募集 将实施末日比例配售",
           "source": "新浪"
         },
         {
-          "title": "科技奇迹日！沐曦股份、摩尔线程领攻，科创芯片ETF华宝（589190）标的指数逆转涨近3%",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxst3038951.shtml",
-          "published": "2026-10-25",
-          "summary": "科技奇迹日！沐曦股份、摩尔线程领攻，科创芯片ETF华宝（589190）标的指数逆转涨近3%",
+          "title": "南方基金旗下均衡主动ETF南方(158900)提前结束募集，进行比例配售",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwprzx2327517.shtml",
+          "published": "2026-10-26",
+          "summary": "南方基金旗下均衡主动ETF南方(158900)提前结束募集，进行比例配售",
           "source": "新浪"
         },
         {
-          "title": "军工蓄势待发？中证军工指数连续10周吸金！军工ETF华宝（512810）获关注",
-          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-25/doc-iniwmxst3034230.shtml",
-          "published": "2026-10-25",
-          "summary": "军工蓄势待发？中证军工指数连续10周吸金！军工ETF华宝（512810）获关注",
+          "title": "易方达、华泰柏瑞、华夏等多只沪深300ETF尾盘放量",
+          "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwprzs2502424.shtml",
+          "published": "2026-10-26",
+          "summary": "易方达、华泰柏瑞、华夏等多只沪深300ETF尾盘放量",
           "source": "新浪"
         },
         {
           "title": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
           "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-08-12/doc-infktfvz8814540.shtml",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "华南城将被清盘！第三大股东腾讯23亿投资打水漂",
           "source": "新浪"
         },
         {
           "title": "民营房企重返土拍市场 谁在加大力度拿地？",
           "url": "http://finance.sina.com.cn/research/dichan007/yw/2025-06-10/doc-inezqwaa3375791.shtml",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "民营房企重返土拍市场 谁在加大力度拿地？",
           "source": "新浪"
         }
@@ -502,71 +502,71 @@
         {
           "title": "纳斯达克综合指数",
           "url": "http://quote.eastmoney.com/unify/r/100.NDX",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "纳斯达克综合指数",
           "source": "东财"
         },
         {
-          "title": "Grok加速商业化",
-          "url": "https://finance.eastmoney.com/a/202610233904667283.html",
-          "published": "2026-10-25",
-          "summary": "Grok加速商业化",
+          "title": "首部AI院线电影遇冷",
+          "url": "https://finance.eastmoney.com/a/202610263907420240.html",
+          "published": "2026-10-26",
+          "summary": "首部AI院线电影遇冷",
           "source": "东财"
         },
         {
-          "title": "多家上市公司出手增持回购",
-          "url": "https://finance.eastmoney.com/a/202610223904590921.html",
-          "published": "2026-10-25",
-          "summary": "多家上市公司出手增持回购",
+          "title": "天齐锂业前三季净利猛增30倍",
+          "url": "https://finance.eastmoney.com/a/202610253907269064.html",
+          "published": "2026-10-26",
+          "summary": "天齐锂业前三季净利猛增30倍",
           "source": "东财"
         },
         {
-          "title": "千亿半导体龙头大动作",
-          "url": "https://finance.eastmoney.com/a/202610223904530956.html",
-          "published": "2026-10-25",
-          "summary": "千亿半导体龙头大动作",
+          "title": "光迅科技第三季度净利翻倍",
+          "url": "https://finance.eastmoney.com/a/202610253907304820.html",
+          "published": "2026-10-26",
+          "summary": "光迅科技第三季度净利翻倍",
           "source": "东财"
         },
         {
-          "title": "暴跌、腰斩！国际巨头跌穿信仰！",
-          "url": "https://finance.eastmoney.com/a/202610243907060684.html",
-          "published": "2026-10-25",
-          "summary": "暴跌、腰斩！国际巨头跌穿信仰！",
+          "title": "美欧日央行将同步暂缓加息？",
+          "url": "https://finance.eastmoney.com/a/202610263907436537.html",
+          "published": "2026-10-26",
+          "summary": "美欧日央行将同步暂缓加息？",
           "source": "东财"
         },
         {
-          "title": "AI龙头未出现网传连锁强平现象",
-          "url": "https://finance.eastmoney.com/a/202610223904477662.html",
-          "published": "2026-10-25",
-          "summary": "AI龙头未出现网传连锁强平现象",
+          "title": "美联储本周究竟会不会加息？",
+          "url": "https://finance.eastmoney.com/a/202610263907437179.html",
+          "published": "2026-10-26",
+          "summary": "美联储本周究竟会不会加息？",
           "source": "东财"
         },
         {
-          "title": "“易中天”、东山精密最新发声",
-          "url": "https://finance.eastmoney.com/a/202610223904447479.html",
-          "published": "2026-10-25",
-          "summary": "“易中天”、东山精密最新发声",
+          "title": "油价持续攀升 黄金4000美元保卫战",
+          "url": "https://finance.eastmoney.com/a/202610253907313928.html",
+          "published": "2026-10-26",
+          "summary": "油价持续攀升 黄金4000美元保卫战",
           "source": "东财"
         },
         {
-          "title": "ETF宽基放量、新品将至、自购跟进",
-          "url": "https://finance.eastmoney.com/a/202610223904421760.html",
-          "published": "2026-10-25",
-          "summary": "ETF宽基放量、新品将至、自购跟进",
+          "title": "美国、俄罗斯、乌克兰传来大消息！",
+          "url": "https://finance.eastmoney.com/a/202610263907418841.html",
+          "published": "2026-10-26",
+          "summary": "美国、俄罗斯、乌克兰传来大消息！",
           "source": "东财"
         },
         {
-          "title": "超2300亿净流入 资金持续扫货它们",
-          "url": "https://finance.eastmoney.com/a/202610233904809857.html",
-          "published": "2026-10-25",
-          "summary": "超2300亿净流入 资金持续扫货它们",
+          "title": "美俄乌三方会谈“很快”就会举行",
+          "url": "https://finance.eastmoney.com/a/202610263907372220.html",
+          "published": "2026-10-26",
+          "summary": "美俄乌三方会谈“很快”就会举行",
           "source": "东财"
         },
         {
-          "title": "多家A股评级获上调 券商点评",
-          "url": "https://finance.eastmoney.com/a/202610223904529722.html",
-          "published": "2026-10-25",
-          "summary": "多家A股评级获上调 券商点评",
+          "title": "美驻沙特大使馆发布安全警报",
+          "url": "https://finance.eastmoney.com/a/202610263907375365.html",
+          "published": "2026-10-26",
+          "summary": "美驻沙特大使馆发布安全警报",
           "source": "东财"
         }
       ]
@@ -579,71 +579,71 @@
         {
           "title": "�����籨APP",
           "url": "https://www.kuzaobao.com/download",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "�����籨APP",
           "source": "联合早报"
         },
         {
           "title": "ÿ�����ż�",
           "url": "https://www.kuzaobao.com/realtime",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "ÿ�����ż�",
           "source": "联合早报"
         },
         {
           "title": "��������",
           "url": "https://www.kuzaobao.com/plus/search.php?kwtype=0&mid=0&q=%C5%ED%B2%A9",
-          "published": "2026-10-25",
+          "published": "2026-10-26",
           "summary": "��������",
           "source": "联合早报"
         },
         {
-          "title": "�������վ硶Vivant��Ĩ���й� ָ���ֻ��վ����̼޽��й���\n�ձ��Ȳ���ս�硶Vivant��������ࡷ���ڶ��������й��鱨��Ա���ձ��ع�ʩ�ӿ��̵���ڣ������й���ý����������ָ��缯���ֻ��վ���ʹ�õĿ��̼޽ӵ��ִ��й������ϣ��������������ɿ�����⣬�ǶԹ��ڽ��С���֪Ͷ������ ��������΢�Ź��ں������죨10��...\n2026-10-25 21:55:30",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584119.html",
-          "published": "2026-10-25",
-          "summary": "�������վ硶Vivant��Ĩ���й� ָ���ֻ��վ����̼޽��й���\n�ձ��Ȳ���ս�硶Vivant��������ࡷ���ڶ��������й��鱨��Ա���ձ��ع�ʩ�ӿ��̵���ڣ������й���ý����������ָ��缯���ֻ��վ���ʹ�õĿ��̼޽ӵ��ִ��й������ϣ��������������ɿ�����⣬�ǶԹ��ڽ��С���֪Ͷ������ ��������΢�Ź��ں������죨10��...\n2026-10-25 21:55:30",
+          "title": "�й����ӽ���ϵ�н�Ŀ���ϰ��ƽ����˼��\n�й����ӡ������̸����Ŀ������ϵ�н�Ŀ��˼������������������й������ϰ��ƽ����˼�롣 ���������ű������������̸��������һ��10��26�գ����Ƴ�����ϵ�н�Ŀ��˼���������������ϵͳ�ؽ��ϰ��ƽ����˼��Ŀ�ѧ�ں�������Ʒ��ʵ������������Ԩ...\n2026-10-26 16:35:55",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684164.html",
+          "published": "2026-10-26",
+          "summary": "�й����ӽ���ϵ�н�Ŀ���ϰ��ƽ����˼��\n�й����ӡ������̸����Ŀ������ϵ�н�Ŀ��˼������������������й������ϰ��ƽ����˼�롣 ���������ű������������̸��������һ��10��26�գ����Ƴ�����ϵ�н�Ŀ��˼���������������ϵͳ�ؽ��ϰ��ƽ����˼��Ŀ�ѧ�ں�������Ʒ��ʵ������������Ԩ...\n2026-10-26 16:35:55",
           "source": "联合早报"
         },
         {
-          "title": "�й��޶���֤ϵ�й�ָ���Ʒ��� ����һʵʩ\n���Ϻ��ۺ�Ѷ���й����г�����ѹ֮�ʣ�һ�����A�ɲ��ֻ�׼ָ�����޶�������������һ��10��26�գ�ʵʩ��������Ϊ������޶�ּ�ڽ��͸��ɲ����Դ��̵�Ӱ�죬��һ����ȥ���ջ����� �Ϻ�֤ȯ��������վ9��24�շ�������ƣ��Ͻ�������ָ֤�����޹�˾�����޶�����...\n2026-10-25 21:55:26",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584118.html",
-          "published": "2026-10-25",
-          "summary": "�й��޶���֤ϵ�й�ָ���Ʒ��� ����һʵʩ\n���Ϻ��ۺ�Ѷ���й����г�����ѹ֮�ʣ�һ�����A�ɲ��ֻ�׼ָ�����޶�������������һ��10��26�գ�ʵʩ��������Ϊ������޶�ּ�ڽ��͸��ɲ����Դ��̵�Ӱ�죬��һ����ȥ���ջ����� �Ϻ�֤ȯ��������վ9��24�շ�������ƣ��Ͻ�������ָ֤�����޹�˾�����޶�����...\n2026-10-25 21:55:26",
+          "title": "�й�����￵�� ���ձ���������˼��ʡ\n�й����ձ�ǰ���ร�￵��������ʾ��ʹ����������������ȷ��ʷ�ۣ����й�����������ѡ��з�ͬʱ�������￵����������ĸ������ļ������߻�ͷ·�ı�̬�����ձ�������Ӧ��˼��...\n2026-10-26 16:35:49",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684162.html",
+          "published": "2026-10-26",
+          "summary": "�й�����￵�� ���ձ���������˼��ʡ\n�й����ձ�ǰ���ร�￵��������ʾ��ʹ����������������ȷ��ʷ�ۣ����й�����������ѡ��з�ͬʱ�������￵����������ĸ������ļ������߻�ͷ·�ı�̬�����ձ�������Ӧ��˼��...\n2026-10-26 16:35:49",
           "source": "联合早报"
         },
         {
-          "title": "�ظ壺ѧ����ֵ����ҵ���� ������������ѧУ��Ѱ���ܼ�ֵ\n�������֪����ѧ¼ȡ֪ͨ�飬27���С���ڿ�һ��ţ����������������֮����岻���� С��������һ��Сѧ�����Ľ�ʦ����һ���������磬�����ų�ʦ���ڸ�����¤����ţ������ְҵ��ѵѧУѧϰ�������档 �����ߡ������籨��������ְҵ����ȶ�����ʱ���仯̫...\n2026-10-25 20:20:09",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584111.html",
-          "published": "2026-10-25",
-          "summary": "�ظ壺ѧ����ֵ����ҵ���� ������������ѧУ��Ѱ���ܼ�ֵ\n�������֪����ѧ¼ȡ֪ͨ�飬27���С���ڿ�һ��ţ����������������֮����岻���� С��������һ��Сѧ�����Ľ�ʦ����һ���������磬�����ų�ʦ���ڸ�����¤����ţ������ְҵ��ѵѧУѧϰ�������档 �����ߡ������籨��������ְҵ����ȶ�����ʱ���仯̫...\n2026-10-25 20:20:09",
+          "title": "�����ձ��������֮�Ժ��ƽ�ȫ������ε�\n�й��ڶ�ʮ������ίԱ��ĵ����ȫ������һ��һ�������ڱ����ٿ����й�������ر��������ձ����������ۣ�ǿ���������ϳ�֮�Ժ��ƽ�ȫ������ε��� �������ձ�������һ��10��26�գ�ͷ�濯������������ƽ�����������¡������ԡ����������ϳ�֮�Ժ��ƽ�ȫ���...\n2026-10-26 16:35:43",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684160.html",
+          "published": "2026-10-26",
+          "summary": "�����ձ��������֮�Ժ��ƽ�ȫ������ε�\n�й��ڶ�ʮ������ίԱ��ĵ����ȫ������һ��һ�������ڱ����ٿ����й�������ر��������ձ����������ۣ�ǿ���������ϳ�֮�Ժ��ƽ�ȫ������ε��� �������ձ�������һ��10��26�գ�ͷ�濯������������ƽ�����������¡������ԡ����������ϳ�֮�Ժ��ƽ�ȫ���...\n2026-10-26 16:35:43",
           "source": "联合早报"
         },
         {
-          "title": "�й���ҵ����ί�������������͵糧 ���������ȱ\n�й����й�����ҵ�ƻ��¸���Э��ί����������һ������ͣ�˵Ĵ��ͷ��糧���ָ����ַ����������Ի��⵱�س�������ĵ�����ȱ���⡣ ��������������10��24�գ�����֪����ʿ�������й���е�豸���̹ɷ����޹�˾�ƻ���11������ί�������в��糧��Planta Centro��...\n2026-10-25 19:10:26",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584110.html",
-          "published": "2026-10-25",
-          "summary": "�й���ҵ����ί�������������͵糧 ���������ȱ\n�й����й�����ҵ�ƻ��¸���Э��ί����������һ������ͣ�˵Ĵ��ͷ��糧���ָ����ַ����������Ի��⵱�س�������ĵ�����ȱ���⡣ ��������������10��24�գ�����֪����ʿ�������й���е�豸���̹ɷ����޹�˾�ƻ���11������ί�������в��糧��Planta Centro��...\n2026-10-25 19:10:26",
+          "title": "�̿����������򰲾��ܳ������ ���ź���װ�׳������΢Ц\n������̨���г��������ѡ������ѡ�ܲ�����������������̨�����˲̿�������һ������̨���г����򰲵ľ�ѡ�ܲ�������ᡣ �ۺ��ϱ���ETtoday�����Ʊ�����̨���г���������һ��10��26�գ�����2����̨���ػ����оٰ쾺ѡ�ܲ�������ᣬ�̿���������3...\n2026-10-26 16:35:39",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684159.html",
+          "published": "2026-10-26",
+          "summary": "�̿����������򰲾��ܳ������ ���ź���װ�׳������΢Ц\n������̨���г��������ѡ������ѡ�ܲ�����������������̨�����˲̿�������һ������̨���г����򰲵ľ�ѡ�ܲ�������ᡣ �ۺ��ϱ���ETtoday�����Ʊ�����̨���г���������һ��10��26�գ�����2����̨���ػ����оٰ쾺ѡ�ܲ�������ᣬ�̿���������3...\n2026-10-26 16:35:39",
           "source": "联合早报"
         },
         {
-          "title": "�й��ײ���ӳ����AI��Ƭ�����Ƕѡ�Ʊ������\n�й��ײ����˹����ܣ�AI�����������Ӱ�ֹ�ӳ����֤�ĵ�Ӱ�����Ƕѣ�δ�����¡������壨10��23�գ���ӳ����Ʊ�������䵭�����������죨25�գ���Ʊ����90��Ԫ��Զ����ǧ��Ԫ�������ɱ��� �ۺ��»��硢���¾������ͷ����籨�����ⲿԼ100���ӵĿƻö�����Ӱ��...\n2026-10-25 18:30:17",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584107.html",
-          "published": "2026-10-25",
-          "summary": "�й��ײ���ӳ����AI��Ƭ�����Ƕѡ�Ʊ������\n�й��ײ����˹����ܣ�AI�����������Ӱ�ֹ�ӳ����֤�ĵ�Ӱ�����Ƕѣ�δ�����¡������壨10��23�գ���ӳ����Ʊ�������䵭�����������죨25�գ���Ʊ����90��Ԫ��Զ����ǧ��Ԫ�������ɱ��� �ۺ��»��硢���¾������ͷ����籨�����ⲿԼ100���ӵĿƻö�����Ӱ��...\n2026-10-25 18:30:17",
+          "title": "�й�ӡ���������ӱ�����Ѯ���ڹ㶫���з���ѵ��\n�й��ٷ��������й���ӡ���������������ӽ��ڹ㶫����½����������ѵ���� �й�����������һ��10��26�գ���΢�Ź��ں��������������ӽ���10����Ѯ��11����Ѯ���ڹ㶫���С�����-2026��½����������ѵ������˵�˴���ѵ��ɽ�����Ϸ���Ӫ���ж�Ϊ���⣬��Ҫ����...\n2026-10-26 16:35:33",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684157.html",
+          "published": "2026-10-26",
+          "summary": "�й�ӡ���������ӱ�����Ѯ���ڹ㶫���з���ѵ��\n�й��ٷ��������й���ӡ���������������ӽ��ڹ㶫����½����������ѵ���� �й�����������һ��10��26�գ���΢�Ź��ں��������������ӽ���10����Ѯ��11����Ѯ���ڹ㶫���С�����-2026��½����������ѵ������˵�˴���ѵ��ɽ�����Ϸ���Ӫ���ж�Ϊ���⣬��Ҫ����...\n2026-10-26 16:35:33",
           "source": "联合早报"
         },
         {
-          "title": "���������⸴����Ť�� ��ƽ�����ػ�\n̨����Ұ�Ĺ���ǰ��ϯ��������̨��⸴������ǿ������ս�����������⸴����Ť������ƽ�����ػ�����ָ���񻯵��Ŷ�δ��������̨������������ʧ���򣬰����յ�ֳ�������ߵ��������ڡ� �����������죨10��25�գ������鷢��д��������⸴�ڣ����ڸ����вμӼ�...\n2026-10-25 16:35:16",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584102.html",
-          "published": "2026-10-25",
-          "summary": "���������⸴����Ť�� ��ƽ�����ػ�\n̨����Ұ�Ĺ���ǰ��ϯ��������̨��⸴������ǿ������ս�����������⸴����Ť������ƽ�����ػ�����ָ���񻯵��Ŷ�δ��������̨������������ʧ���򣬰����յ�ֳ�������ߵ��������ڡ� �����������죨10��25�գ������鷢��д��������⸴�ڣ����ڸ����вμӼ�...\n2026-10-25 16:35:16",
+          "title": "�й������᣺2027����ڳ�������Ԥ����2%\n�й������ֻ����鳤�޶������ĳƣ�2026���й����ڳ����ڶ��ض������ص��ӳ���³�Ԥ�ڵ��ԣ�ȫ�������»���2027����ڳ�������Ԥ����2%�� �޶�������һ��10��26�գ���΢��ƽ̨���ģ�2026����ڳ����ڶ��ض������ص��ӳ���³�Ԥ�ڵ��ԣ�Ԥ��ȫ������Ԥ�ƽ�18...\n2026-10-26 14:15:26",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684150.html",
+          "published": "2026-10-26",
+          "summary": "�й������᣺2027����ڳ�������Ԥ����2%\n�й������ֻ����鳤�޶������ĳƣ�2026���й����ڳ����ڶ��ض������ص��ӳ���³�Ԥ�ڵ��ԣ�ȫ�������»���2027����ڳ�������Ԥ����2%�� �޶�������һ��10��26�գ���΢��ƽ̨���ģ�2026����ڳ����ڶ��ض������ص��ӳ���³�Ԥ�ڵ��ԣ�Ԥ��ȫ������Ԥ�ƽ�18...\n2026-10-26 14:15:26",
           "source": "联合早报"
         },
         {
-          "title": "����µ� ����ˮ���г�������Ⱥ\n���Ž���µ����й����ƽ��鱦��ɢ�г�����ˮ����������10��24�գ�ӭ��������������Ƭ��ʾ���е��ߵ������˶ൽ������������ �ۺ����Ӳƾ��͡��Ϸ����б����������ֻ��ƽ�۸��������壨23�գ�����ÿ��ʿ4000��Ԫ�ؿڣ�����ʱ�յ�0.72%����ÿ��ʿ3995.63��...\n2026-10-25 14:15:32",
-          "url": "https://www.kuzaobao.com/news/china/202610/2584095.html",
-          "published": "2026-10-25",
-          "summary": "����µ� ����ˮ���г�������Ⱥ\n���Ž���µ����й����ƽ��鱦��ɢ�г�����ˮ����������10��24�գ�ӭ��������������Ƭ��ʾ���е��ߵ������˶ൽ������������ �ۺ����Ӳƾ��͡��Ϸ����б����������ֻ��ƽ�۸��������壨23�գ�����ÿ��ʿ4000��Ԫ�ؿڣ�����ʱ�յ�0.72%����ÿ��ʿ3995.63��...\n2026-10-25 14:15:32",
+          "title": "�й���ͥ��ģ������С ƽ��ÿ����ͥ����Ϊ2.52��\n�й���ͥ��ģ������С��ȥ��ƽ��ÿ����ͥ�˿�Ϊ2.52�ˣ���10��ǰ����0.58�ˡ� �ݵ�һ�ƾ�����������5�¹����ġ�2025��ȫ��1%�˿ڳ���������Ҫ���ݹ�������ʾ���й����м�ͥ��51465�򻧣���ͥ���˿�Ϊ129685���ˡ�ƽ��ÿ����ͥ���˿�Ϊ2.52�ˡ� ��ƽ��ÿ����...\n2026-10-26 14:15:22",
+          "url": "https://www.kuzaobao.com/news/china/202610/2684149.html",
+          "published": "2026-10-26",
+          "summary": "�й���ͥ��ģ������С ƽ��ÿ����ͥ����Ϊ2.52��\n�й���ͥ��ģ������С��ȥ��ƽ��ÿ����ͥ�˿�Ϊ2.52�ˣ���10��ǰ����0.58�ˡ� �ݵ�һ�ƾ�����������5�¹����ġ�2025��ȫ��1%�˿ڳ���������Ҫ���ݹ�������ʾ���й����м�ͥ��51465�򻧣���ͥ���˿�Ϊ129685���ˡ�ƽ��ÿ����ͥ���˿�Ϊ2.52�ˡ� ��ƽ��ÿ����...\n2026-10-26 14:15:22",
           "source": "联合早报"
         }
       ]
@@ -654,73 +654,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
-          "url": "https://wallstreetcn.com/articles/3784402",
+          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
+          "url": "https://wallstreetcn.com/articles/3784454",
           "published": "",
-          "summary": "现在苹果需要回答的是，一部售价2000美元、主打折叠体验的手机，究竟能不能经得起用户每天反复打开和合上？",
+          "summary": "沙特、巴基斯坦和土耳其高官26日前往德黑兰，与伊朗商讨建立“本土区域安全”框架，开展罕见的地区紧急斡旋。当前特朗普已增派部队并暗示可能在11月中期选举后恢复打击；伊朗亦着手规划对以色列及阿联酋的反制举措。高油价与选民不满给美方带来政治压力，海湾地区局势恶化使得谈判窗口极为有限。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
-          "url": "https://wallstreetcn.com/articles/3784406",
+          "title": "周期股总在“最便宜”时见顶——最早看多AI硬件的“芯片网红”Citrini，为何正在悄然离场",
+          "url": "https://wallstreetcn.com/articles/3784436",
           "published": "",
-          "summary": "野村认为，AI军备竞赛陷入难以退出的困局，科技巨头即使自由现金流承压，仍可能继续加码投资。报告预计，竞赛延续的概率约为75%，2027年存储器供应量和价格已通过长期协议基本锁定。融资市场关闭是打破竞赛的主要风险，电力短缺则可能推迟芯片部署，但未必改变长期需求。",
+          "summary": "曾是AI硬件最响亮多头的Citrini，如今已大幅减仓半导体并持有部分空头。其认为，AI基础设施融资结构已从科技巨头自有现金流切换为股权与债务市场，情绪本身足以切断资金链、击穿基本面。策略上，他做多Meta、做空谷歌。Citrini同时判断，AI制药瓶颈绝非算力而是“缺猴子”。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "石油产量创纪录，油罐几乎都空了--阿联酋“奇迹复苏”了吗？",
-          "url": "https://wallstreetcn.com/articles/3784400",
-          "published": "",
-          "summary": "阿联酋9月石油供应量升至创纪录的530万桶/日，但能源系统尚未走出战争冲击。天然气产出和石化原料供应仍受制约，富查伊拉成品油库存较战前缩水65%，绕过霍尔木兹海峡的管道运力也有限。原油出口快速反弹，并不意味着能源产业链全面复原，阿联酋抵御下一轮供应冲击的能力仍面临考验。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "美国中期选举“观战”指南",
-          "url": "https://wallstreetcn.com/articles/3784086",
-          "published": "",
-          "summary": "华泰证券认为，民主党净增3~5席即可重掌众议院，Polymarket定价胜率高达90%；参议院则取决于8个摇摆州，民主党夺回控制权的市场定价约为61%~65%。选情核心驱动力在于：油价突破百美元压制共和党基本盘，特朗普支持率跌至38.9%历史低位；特朗普\"人均5000美元分红\"承诺因资金来源不明，仅21%选民相信会兑现，反成民主党攻击素材。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
-          "url": "https://wallstreetcn.com/articles/3784388",
-          "published": "",
-          "summary": "\"做多AI、做空一切\"的极度拥挤交易正在痛苦解构——市场不再满足于\"烧钱叙事\"，超大规模云厂商必须在1.1万亿美元资本支出的同时，拿出真实可见的收入转化。40-50吉瓦的电力缺口、资金成本攀升与\"支出过剩\"时代的宏观范式切换，正将AI交易从信仰题变成一道严酷的变现大考。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-          "url": "https://wallstreetcn.com/articles/3784391",
-          "published": "",
-          "summary": "亚马逊CEO Andy Jassy透露，即便今年砸下2200亿美元巨资，仍有大量需求未被满足，AI算力到2028年都已基本售罄；AI业务年化收入超250亿美元，是AWS初期增速的数百倍。他直言，解锁企业级AI大市场必须将推理成本再降十倍，这正是死磕自研芯片的核心逻辑。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-          "url": "https://wallstreetcn.com/articles/3784381",
-          "published": "",
-          "summary": "野村证券认为，AI投资叙事正深陷内在矛盾：超大规模云厂商若加速资本开支，自由现金流将持续消耗，融资可持续性遭质疑；若减速，则意味着AI需求与盈利前景预期失守。两条路均指向抛售。9月\"智能体热\"行情积累的拥挤多头仓位，在负面催化剂触发下引发大规模止损，并蔓延至美债、汇率及大宗商品市场，形成系统性去杠杆。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
-          "url": "https://wallstreetcn.com/articles/3784398",
-          "published": "",
-          "summary": "法国陷入新一轮暴力抗议风暴，7万安保人员紧急上阵、多城宵禁，马克龙坦承应对失误。金融市场已率先发出警报——法德国债利差飙至欧债危机以来峰值，PMI跌破荣枯线，奢侈品门店封窗、卢浮宫闭馆，巴黎市政预计损失数千万欧元。动荡烈火更有蔓延欧洲之势。",
-          "source": "华尔街见闻头条"
-        },
-        {
-          "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
           "url": "https://wallstreetcn.com/articles/3784282",
-          "published": "2026-10-25 19:48:06",
+          "published": "",
           "summary": "美联储、日本央行、欧央行同周议息，普遍预期按兵不动、焦点在12月路径指引；财报季迎最高潮，谷歌、微软、亚马逊、英特尔领衔美股，韩国三星、SK海力士与日本铠侠验证AI存储景气，A股宇树、茅台及“易中天”集中登场。Anthropic招股书或发布。以色列大选牵动中东局势与油价，巴西大选同步上演；美国核心PCE、三季度GDP与中国制造业PMI亦将出炉。",
           "source": "华尔街见闻头条"
         },
         {
-          "title": "价格打折，哪些股票超跌了？",
-          "url": "https://wallstreetcn.com/articles/3784416",
-          "published": "2026-10-25 18:49:33",
-          "summary": "东吴证券表示，从跨周期估值角度看，判断股价是否超跌，不能仅依据股价回撤幅度或短期交易性反弹，更需要考察企业在稳态盈利水平下的估值位置。宁德时代在盈利还原至历史中枢后，估值仍处于历史较低分位；隆基绿能的估值吸引力取决于盈利修复；中际旭创则需要关注当前高ROE的持续性。",
+          "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
+          "url": "https://wallstreetcn.com/articles/3784408",
+          "published": "",
+          "summary": "高盛仍将12月加息视为基准情景，但市场对加息的定价约为90%，重新计入完整25个基点的难度正在上升。与此同时，2027年AI资本开支预计达1.6万亿美元，债务融资需求与能源通胀风险仍未消退，AI相关信用利差也已扩大至年内最宽水平，美债收益率后续走向仍面临多空力量的反复拉扯。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "published": "",
+          "summary": "SemiAnalysis创始人Dylan Patel指出，AI基建扩张面临融资成本和芯片供应瓶颈，相关限制可能延续至2028年。英伟达的性能优势仍在，但自研芯片竞争可能逐步影响其市场份额和定价能力；内存行业的高利润能否维持，则取决于2028年后新增产能投放及供需变化。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
+          "url": "https://wallstreetcn.com/articles/3784405",
+          "published": "",
+          "summary": "巴克莱认为，AI巨头争相提前融资形成“囚徒困境”，集体发债将推高融资成本，限制信用利差收窄。随着低评级债券风险上升、AI发行人信用分化加剧，融资供给能否被市场消化，将成为判断AI交易能否企稳的关键。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "35 岁不会写代码？这波 AI 红利，可能就轮到你了",
+          "url": "https://wallstreetcn.com/articles/3784474",
+          "published": "2026-10-26 17:34:12",
+          "summary": "数据显示，全球科技公司年内已宣布裁员近 20 万人。与此同时，有一个 AI 岗位的招聘量却在一年里暴涨了 7 倍多，薪资中位数折合人民币约 130 万元。\nOpenAI、Anthropic、微软、亚马逊、谷歌，几家巨头前后砸下近百亿美元——开新公司、建新部门，抢的都是这类人才。\n最反常识的是：这个岗位最稀缺的本事，恰恰不是写代码。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "中兴通讯Q3净利润增394.46%，前三季度扣非净利仍下滑27.46% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784471",
+          "published": "2026-10-26 17:32:22",
+          "summary": "中兴通讯Q3收达388.13亿元、净利润暴增394.46%，但在非经常性损益拉动下，前三季度扣非净利润仍同比下滑27.46%。受大举备货及采购增加影响，公司存货增56.61%，经营现金流同比大降近六成，短期偿债及流动性压力有所上升。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "报道：SK海力士拟推出50万亿-60万亿韩元股东回报，规模创历史纪录",
+          "url": "https://wallstreetcn.com/articles/3784470",
+          "published": "2026-10-26 17:28:07",
+          "summary": "据首尔经济日报报道，SK海力士计划于10月28日三季报发布时，宣布50万亿至60万亿韩元的额外股东回报计划，主要以特别股息为主。加上此前已完成的回购注销，其今年股东回报总额将达创纪录的90万亿至100万亿韩元。",
+          "source": "华尔街见闻头条"
+        },
+        {
+          "title": "GPU被CPU拖慢？Arm祭出新评测方法论",
+          "url": "https://wallstreetcn.com/articles/3784469",
+          "published": "2026-10-26 17:03:58",
+          "summary": "Agent的应用场景正在变得越来越细分。\n从Claude Code等AI编程工具，到能够处理文档、操...",
           "source": "华尔街见闻头条"
         }
       ]
@@ -731,73 +731,73 @@
       "count": 10,
       "articles": [
         {
-          "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "published": "2026-10-25 19:48:06",
-          "summary": "美联储、日本央行、欧央行同周议息，普遍预期按兵不动、焦点在12月路径指引；财报季迎最高潮，谷歌、微软、亚马逊、英特尔领衔美股，韩国三星、SK海力士与日本铠侠验证AI存储景气，A股宇树、茅台及“易中天”集中登场。Anthropic招股书或发布。以色列大选牵动中东局势与油价，巴西大选同步上演；美国核心PCE、三季度GDP与中国制造业PMI亦将出炉。",
+          "title": "35 岁不会写代码？这波 AI 红利，可能就轮到你了",
+          "url": "https://wallstreetcn.com/articles/3784474",
+          "published": "2026-10-26 17:34:12",
+          "summary": "数据显示，全球科技公司年内已宣布裁员近 20 万人。与此同时，有一个 AI 岗位的招聘量却在一年里暴涨了 7 倍多，薪资中位数折合人民币约 130 万元。\nOpenAI、Anthropic、微软、亚马逊、谷歌，几家巨头前后砸下近百亿美元——开新公司、建新部门，抢的都是这类人才。\n最反常识的是：这个岗位最稀缺的本事，恰恰不是写代码。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "价格打折，哪些股票超跌了？",
-          "url": "https://wallstreetcn.com/articles/3784416",
-          "published": "2026-10-25 18:49:33",
-          "summary": "东吴证券表示，从跨周期估值角度看，判断股价是否超跌，不能仅依据股价回撤幅度或短期交易性反弹，更需要考察企业在稳态盈利水平下的估值位置。宁德时代在盈利还原至历史中枢后，估值仍处于历史较低分位；隆基绿能的估值吸引力取决于盈利修复；中际旭创则需要关注当前高ROE的持续性。",
+          "title": "中兴通讯Q3净利润增394.46%，前三季度扣非净利仍下滑27.46% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784471",
+          "published": "2026-10-26 17:32:22",
+          "summary": "中兴通讯Q3收达388.13亿元、净利润暴增394.46%，但在非经常性损益拉动下，前三季度扣非净利润仍同比下滑27.46%。受大举备货及采购增加影响，公司存货增56.61%，经营现金流同比大降近六成，短期偿债及流动性压力有所上升。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "AI信贷危机意味着什么？",
-          "url": "https://wallstreetcn.com/charts/41960094",
-          "published": "2026-10-25 17:48:54",
-          "summary": "AI信贷危机意味着什么？",
+          "title": "报道：SK海力士拟推出50万亿-60万亿韩元股东回报，规模创历史纪录",
+          "url": "https://wallstreetcn.com/articles/3784470",
+          "published": "2026-10-26 17:28:07",
+          "summary": "据首尔经济日报报道，SK海力士计划于10月28日三季报发布时，宣布50万亿至60万亿韩元的额外股东回报计划，主要以特别股息为主。加上此前已完成的回购注销，其今年股东回报总额将达创纪录的90万亿至100万亿韩元。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
+          "title": "GPU被CPU拖慢？Arm祭出新评测方法论",
+          "url": "https://wallstreetcn.com/articles/3784469",
+          "published": "2026-10-26 17:03:58",
+          "summary": "Agent的应用场景正在变得越来越细分。\n从Claude Code等AI编程工具，到能够处理文档、操...",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "药明康德前三季度收入同比增长38.6%，再度上调全年收入指引至610-619亿元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784468",
+          "published": "2026-10-26 17:03:28",
+          "summary": "2026年前三季度，药明康德营收455.4亿元，同比增长38.6%，其中持续经营业务收入同比增长46.3%。受益于多个客户产品的强劲表现及CRDMO模式红利释放，公司将全年整体收入指引由此前的585-605亿元上调至610-619亿元，持续经营业务收入同比增速预期由35%-39%上调至40%-42%。",
+          "source": "华尔街见闻最新"
+        },
+        {
+          "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
           "url": "https://wallstreetcn.com/articles/3782813",
-          "published": "2026-10-25 17:02:29",
+          "published": "2026-10-26 16:57:33",
           "summary": "投资很贵，这份日历并不贵。让2027每一个重要日子，都有备而来。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "每个人都相信存储会暴跌，如果没有呢？",
-          "url": "https://wallstreetcn.com/charts/41960093",
-          "published": "2026-10-25 16:52:05",
-          "summary": "每个人都相信存储会暴跌，如果没有呢？",
+          "title": "高盛：宁德时代正从卖电池转向卖整体储能方案，单位毛利将提升1.6倍",
+          "url": "https://wallstreetcn.com/articles/3784466",
+          "published": "2026-10-26 16:42:21",
+          "summary": "高盛认为，市场低估了宁德时代在储能业务上从电芯向 AC 侧整体方案转型的结构性价值。此转型将推动其储能业务单位毛利在2026至2030年间提升约1.6倍，并助其中国储能市占率在2030年回升至40%。市场对动力电池“去宁德化”的担忧被夸大，高盛对宁德时代 A/H 股维持“买入”评级。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "SemiAnalysis CEO：基板是“最大瓶颈”",
-          "url": "https://wallstreetcn.com/charts/41960092",
-          "published": "2026-10-25 16:09:30",
-          "summary": "SemiAnalysis CEO：基板是“最大瓶颈”",
+          "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
+          "url": "https://wallstreetcn.com/articles/3784435",
+          "published": "2026-10-26 16:32:04",
+          "summary": "盘面上，个股跌多涨少，沪深京三市超3100股飘绿，今日成交1.62万亿。沪深两市成交额1.61万亿，较上一个交易日缩量近3500亿。板块方面，石油石化、交运、房地产、白酒板块走强，金融板块午后发力护盘。覆铜板、光通信、玻纤、存储板块再度大幅回撤。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "AI势头回落并非牛熊分界",
-          "url": "https://wallstreetcn.com/articles/3784412",
-          "published": "2026-10-25 16:03:35",
-          "summary": "中信证券表示，AI趋势回落并非熊市开端，非AI可能反而会面临更为有利的环境，核心是AI产业在短期内并不像过往的产业趋势对经济体的其他部门产生广泛的拉动作用，反而对其他经济部门产生了不少负外部性（物料和资源价格暴涨、利率飙升、就业挤出）。这也意味着，过往“产业趋势行情结束=牛转熊”的经验可能不再适用，非AI的不少板块早已步入下行趋势。",
+          "title": "科技财报周来袭，美股盘前SK海力士涨超1%，巴西石油跌超20%，油价回落，美债走强",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "published": "2026-10-26 16:30:07",
+          "summary": "美股盘前，SK海力士涨超1%，公司拟派发121亿美元特别股息，用出售铠侠的股权收益来回馈股东。美股Neocloud公司盘前普跌，Nebius下跌4.5％，CoreWeave下跌4.4％，Iren下跌4.1％。巴西石油美股盘前跌超20%，伊塔乌联合银行跌超27%。布伦特原油从六个月高位回落，跌幅1.5%，报约114.95美元/桶。",
           "source": "华尔街见闻最新"
         },
         {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "published": "2026-10-25 15:11:35",
-          "summary": "SemiAnalysis创始人Dylan Patel指出，AI基建扩张面临融资成本和芯片供应瓶颈，相关限制可能延续至2028年。英伟达的性能优势仍在，但自研芯片竞争可能逐步影响其市场份额和定价能力；内存行业的高利润能否维持，则取决于2028年后新增产能投放及供需变化。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "两周前“精准喊顶”的德银：科技股距离“长期趋势底部”还要“跌5%”",
-          "url": "https://wallstreetcn.com/articles/3784409",
-          "published": "2026-10-25 14:25:19",
-          "summary": "德意志银行两周前下调美股科技及大盘成长股评级后，科技股相对标普500其余成分股跑输12个百分点。但德银指出，科技股距离长期趋势通道底部仍有约5个百分点的下行空间。机构仓位快速降温，300亿美元抄底资金开始出现流出迹象。接下来，财报表现、资金流向及外部风险，将决定调整能否止步于结构性轮动。",
-          "source": "华尔街见闻最新"
-        },
-        {
-          "title": "售电公司持续亏损：批零倒挂的售电困局，20亿的净亏损，27年长协电价还要上涨？",
-          "url": "https://wallstreetcn.com/member/articles/3783764",
-          "published": "2026-10-25 14:24:01",
-          "summary": "广西9家央企售电公司联名上书：1—8月累计亏损超 20 亿元，全年或破50亿元，头部单家亏损达其注册资本的5倍。",
+          "title": "法国用7万警力换来一个平静周末，却难掩财政困局与政治双重危机",
+          "url": "https://wallstreetcn.com/articles/3784461",
+          "published": "2026-10-26 16:12:29",
+          "summary": "马克龙政府虽部署大批警力遏制了暴力抗议，但为平息怒火拟采取的财政妥协引发市场对该国债务高企与借贷成本飙升的担忧。面对法德国债利差走阔及工会持续发起的罢工游行，面临大选的政府正陷入进退两难的困境。",
           "source": "华尔街见闻最新"
         }
       ]
@@ -808,10 +808,10 @@
       "count": 1,
       "articles": [
         {
-          "title": "纳指期货高开0.6% 美油低开1%",
-          "url": "https://www.gelonghui.com/live/2728327",
-          "published": "2026-10-26 06:04:01",
-          "summary": "周一亚太盘初，美股期指走强，道琼斯指数期货涨0.34%，标普500指数期货涨0.48%，纳斯达克100指数期货涨0.66%。国际油价走弱，WTI原油期货价格跌0.99%，报102.246美元/桶。",
+          "title": "图解丨南下资金连续19日净卖出中芯国际，共计逾102亿港元",
+          "url": "https://www.gelonghui.com/live/2729530",
+          "published": "2026-10-26 17:49:44",
+          "summary": "南下资金今日净卖出20.75亿港元。其中：\n净买入智谱4.31亿、百度集团2.65亿、优必选1.41亿；\n净卖出阿里巴巴6.02亿、中国海洋石油5.04亿、中芯国际3.14亿、长飞光纤光缆1.92亿、腾讯1.74亿、小米集团1.37亿、美团1.31亿。\n据统计，南下资金已连续19日净卖出中芯国际，共计102.8539亿港元；连续9日净卖出小米，共计30.9431亿港元；连续7日净卖出阿里，共计52.4165亿港元；连续3日净卖出中海油，共计15.3244亿港元。\n[关联股票] 中芯国际",
           "source": "格隆汇快讯"
         }
       ]
